@@ -4,9 +4,9 @@ author: Camilo Castelo Branco
 date: 1882
 type: romance
 ---
-                                                 INTRODUÇÃO
+#                                                 INTRODUÇÃO
 
-         Entre as diversas moléstias significativas da minha velhice, o amor aos livros antigos – a mais dispendiosa
+         Entre as diversas moléstias significativas daminha velhice, o amor aos livros antigos – a mais dispendiosa
 – leva-me o dinheiro que me sobra da botica, onde os outros achaques me obrigam a fazer grandes orgias de pílulas
 e tisanas. E, quando cuido que me curo com as drogas e me ilustro com os arcaísmos, arruíno o estômago, e
 enferrujo o cérebro numa caturrice académica.
