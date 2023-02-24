@@ -1,8 +1,8 @@
 ---
-title: "A Brasileira de Prazins"
-author: "Camilo Castelo Branco"
-date: "1882"
-type: "romance"
+title: A Brasileira de Prazins
+author: Camilo Castelo Branco
+date: 1882
+type: romance
 ---
                                                  INTRODUÇÃO
 
