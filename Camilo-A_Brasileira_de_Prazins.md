@@ -3179,8 +3179,8 @@ mártires do amor.
 Depois, levantou-se, limpou as faces à manga da camisa, pegou da esquadria e continuou a trabalhar,
 assobiando a música triste de uma cantiga desse tempo?
 
-                                 >Ó mar, se queres,
-                                 >Tem dó de mim.
+>                                 Ó mar, se queres,
+>                                 Tem dó de mim.
 
 Estes assobios eram o silvo da serpente da vingança; mas o seu rancor não punha a pontaria em Marta. Se
 deixava de cinzelar a pedra, e fitava os olhos extáticos num imenso vácuo, via passar lucilante a imagem da
@@ -3259,8 +3259,8 @@ empresas mais difíceis.
 Marta recobrava alegres esperanças, e o Zeferino das Lamelas digeria a sua dor, assobiando a música da
 melancólica balada?
 
-                                 >Ó mar, se queres,
-                                 >Tem dó de mim.
+>                                 Ó mar, se queres,
+>                                 Tem dó de mim.
 
 Para seu desafogo, ia a miúdo a Quadros saber quando chegaria o Sr. D. Miguel. O Cerveira estava
 relacionado com os setembristas. Formara-se a junção dos dois partidos hostis aos Cabrais, aproximados pelas
@@ -3982,15 +3982,15 @@ palma da mão.
 assobiando o hino da Maria da Fonte, despejava a pólvora da escorva, desaparafusava a culatra e tirava as duas
 braçadeiras. A mulher soluçava, e ele cantando numa surdina rouca?
 
-                           >Leva avante, portugueses,
-                           >Leva avante, e não temer...
+>                           Leva avante, portugueses,
+>                           Leva avante, e não temer...
 
 – Pelas chagas de Nosso Senhor, lembra-te dos nossos pequenos.
 
 E o Melro numa distracção lírica?
 
-                              >Pela santa liberdade,
-                              >Triunfar ou padecer...
+>                              Pela santa liberdade,
+>                              Triunfar ou padecer...
 
 Depois, bufava para dentro do cano e punha o dedo indicador no ouvido da culatra para sentir a pressão do
 sopro, que fazia um frémito áspero impedido pelas escórias nitrosas. Pediu à mulher umas febras de algodão em
@@ -4006,8 +4006,8 @@ secas as últimas farripas da zaracoteia. Soprou novamente e o ar saia sem estor
 
 Parecia satisfeito, e cantarolava, mezza voce?
 
-                              >Agora, agora, agora,
-                                >Luisinha, agora.
+>                              Agora, agora, agora,
+>                                Luisinha, agora.
 
 Armou a clavina, aparafusou as braçadeiras, a culatra e a fecharia, introduzindo a agulha. Aperrou e
 desfechou o cão repetidas vezes, acompanhando o movimento com o dedo polegar, paira certificar-se de que o
@@ -4018,9 +4018,9 @@ pederneira que faiscava.
 – Valha-me a Virgem! valha-me a Virgem! – soluçava a mulher. E ele, zangado com as lástimas da mulher,
 com expansão raivosa, num sfogato?
 
-                             >E viva a nossa rainha,
-                                    >Luisinha
-                            >Que é uma linda capitoa...
+>                             E viva a nossa rainha,
+>                                    Luisinha
+>                            Que é uma linda capitoa...
 
  – Vai à loja atrás da seira dos figos e traz o maço dos cartuchos e uma cabacinha de pólvora de escorvar
 que está ao canto.
@@ -4034,8 +4034,8 @@ benditas. Ele encarou-a de esconso, e regougou?
 palmadas na recâmara para fazer descer a pólvora ao ouvido. Fez duas buchas do papel do cartucho, bateu-as com a
 vareta ligeiramente, uma sobre a pólvora e a outra sobre a bala.
 
-                               >Agora, a gora, agora,
-                                 >Luisinha, agora.
+>                               Agora, a gora, agora,
+>                                 Luisinha, agora.
 
  Depois, pegou da clavina pela guarda-mata, e pôs-se a fazer pontarias vagamente, passeando um olho, com
 o outro fechado, desde a mira ao ponto.
