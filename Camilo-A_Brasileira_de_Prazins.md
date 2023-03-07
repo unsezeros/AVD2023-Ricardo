@@ -11,7 +11,7 @@ type: romance
 e tisanas. E, quando cuido que me curo com as drogas e me ilustro com os arcaísmos, arruíno o estômago, e
 enferrujo o cérebro numa caturrice académica.
 
->Constou-me aqui há dias que a Srª Joaquina de Vilalva tinha um gigo de livros velhos entre duas pipas na
+Constou-me aqui há dias que a Srª Joaquina de Vilalva tinha um gigo de livros velhos entre duas pipas na
 adega, e que as pipas, em vez de malhais de pão, assentavam sobre missais, O meu informador denomina missais
 todos os livros grandes; aos pequenos chama cartilhas. Mandei perguntar à Srª Joaquina se dava licença que eu visse
 os livros. Não só mos deixou ver, mas até mos deu todos – que escolhesse, que levasse.
