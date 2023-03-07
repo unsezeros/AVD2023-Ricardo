@@ -15,9 +15,9 @@ Em uma das férias pequenas do ano, indo eu despedir-me de um cavalheiro, meu pa
 
 É este um lavor melancólico de que fogem os velhos, cuja mocidade foi desaproveitada ou desastrosa. O tempo mal-baratado chora-se na vizinhança da sepultura; e as afeições perigosas, que lá se nos engolfaram na voragem das alegrias, parece que renascem com a formosura sinistra que tiveram nos últimos anos, quando mais desvanecidas deviam de estar na memória. Assim mesmo, há saudade ainda no recordar tristezas, que eram o escuro do quadro de mil cores da infância. Forsan et haec olim meminisse juvabit. Vá, pois - concluiu António da Silveira, disfarçando as lágrimas -, e volte a contar-me que romances lhe sugeriu a visão dessa mulher andrajosa, para a qual a própria caridade olharia sem interesse, enquanto eu lha estou apresentando entre umas névoas misteriosas, que parecem esconder alguma princesa incógnita, assim à semelhança das ilustres penitentes da Idade Média. Escreva-me do Porto a dizer-me se a pobre do Mirante ainda vive.
 
-- E, se eu a não encontrar - atalhei -, quem me há-de dizer que ela morreu?
+\- E, se eu a não encontrar - atalhei -, quem me há-de dizer que ela morreu?
 
-- É sensata a pergunta... Deixe-me ficar pensando na resposta alguns dias, que não sei responder-lhe agora. Entretanto, escreva-me.
+\- É sensata a pergunta... Deixe-me ficar pensando na resposta alguns dias, que não sei responder-lhe agora. Entretanto, escreva-me.
 
 No mesmo dia em que cheguei ao Porto, fui ao local indicado por António da Silveira.
 
@@ -27,31 +27,31 @@ A pobre representava cinquenta e tantos anos. Como o vento de Janeiro era cortan
 
 Aproximando-me, disse-lhe:
 
-- Vossemecê conheceu António da Silveira?
+\- Vossemecê conheceu António da Silveira?
 
 A mendiga levantou o rosto de golpe, encarou-me, e disse:
 
-- Já está com Deus?
+\- Já está com Deus?
 
-- Vive, e está bom - respondi.
+\- Vive, e está bom - respondi.
 
-- Bendito seja o Senhor! - tornou ela Há quatro anos que não tive novas dele...
+\- Bendito seja o Senhor! - tornou ela Há quatro anos que não tive novas dele...
 
-- Creio que é vossemecê a pessoa a quem ele manda entregar este dinheiro...
+\- Creio que é vossemecê a pessoa a quem ele manda entregar este dinheiro...
 
-- Devo ser eu, que já recebi outras esmolas da sua caridosa mão.
+\- Devo ser eu, que já recebi outras esmolas da sua caridosa mão.
 
-- São quatro peças que lhe entrego por ordem do sr. António da Silveira.
+\- São quatro peças que lhe entrego por ordem do sr. António da Silveira.
 
 A pobre beijou o embrulho e conservou-o entre as mãos erguidas, enquanto orou.
 
 Depois, levantou-se, tomou nos braços o cãozinho, que tiritava, e disse-me:
 
-- Faça-me a esmola de dizer ao, sr. Silveira que a desgraçada Albertina fica pedindo, a Deus saúde e contentamento para o seu benfeitor.
+\- Faça-me a esmola de dizer ao, sr. Silveira que a desgraçada Albertina fica pedindo, a Deus saúde e contentamento para o seu benfeitor.
 
 Perguntei-lhe onde morava.
 
-- Tenho a minha enxerga num baixo aí da Rua da Sovela - respondeu Albertina -; mas, se Nosso Senhor me ajudar, amanhã, com este benefício do sr. Silveira, irei meter-me na Ordem de S. Francisco, e de lá irei dar contas a Deus.
+\- Tenho a minha enxerga num baixo aí da Rua da Sovela - respondeu Albertina -; mas, se Nosso Senhor me ajudar, amanhã, com este benefício do sr. Silveira, irei meter-me na Ordem de S. Francisco, e de lá irei dar contas a Deus.
 
 Avisei do sucedido o meu amigo, e ele reiterou a promessa de me entreter uma tarde com a história da mendiga do Mirante.
 
@@ -68,7 +68,7 @@ Que hedionda história eu engendrara! Para isto não valia a pena cerrar eu os o
 
 Aguilhoado pela impaciente curiosidade, que me não deixava esperar quietamente a época das férias grandes, fui à enfermaria da Ordem de S. Francisco procurar Albertina, com o disfarce de lhe oferecer o meu préstimo.
 
-- Não preciso de nada, bendito seja o Senhor! - me disse ela - Foi o sr. Silveira que mandou saber de mim? Santo homem! Coração de Deus na mocidade e na velhice!...
+\- Não preciso de nada, bendito seja o Senhor! - me disse ela - Foi o sr. Silveira que mandou saber de mim? Santo homem! Coração de Deus na mocidade e na velhice!...
 
 Esta linguagem predispôs-me a julgar do espírito da mulher com vantagem.
 
@@ -76,21 +76,21 @@ Condensavam-se as nuvens do mistério em volta de Albertina; mais insofrida port
 
 Aventurei esta sonda em forma de observação cristã.
 
-- A srª Albertina sofre com admirável paciência os dissabores de sua vida!
+\- A srª Albertina sofre com admirável paciência os dissabores de sua vida!
 
-- Que remédio, senão sofrê-los! - disse ela.
+\- Que remédio, senão sofrê-los! - disse ela.
 
-- Mas há poucos infelizes que saibam assim consolar-se.
+\- Mas há poucos infelizes que saibam assim consolar-se.
 
-- É porque são poucos os infelizes que sabem o caminho do Calvário, o porto da Cruz - redarguiu a mendiga do Mirante.
+\- É porque são poucos os infelizes que sabem o caminho do Calvário, o porto da Cruz - redarguiu a mendiga do Mirante.
 
-- Há muitos anos que é desgraçada? - perguntei com a audácia de um espírito esfalfado, que anda a cavar ideias para romances no recôncavo da consciência de toda a gente.
+\- Há muitos anos que é desgraçada? - perguntei com a audácia de um espírito esfalfado, que anda a cavar ideias para romances no recôncavo da consciência de toda a gente.
 
-- Eu não sou desgraçada - respondeu ela serenamente -. Sou o que o meu Criador quer que eu seja. Se não tenho sobre que Deus chova, também não tenho cousa sobre que se cravem os olhos da inveja.
+\- Eu não sou desgraçada - respondeu ela serenamente -. Sou o que o meu Criador quer que eu seja. Se não tenho sobre que Deus chova, também não tenho cousa sobre que se cravem os olhos da inveja.
 
-- Mas... - retorqui, balbuciando - parece-me que a srª Albertina, antes de chegar a esta posição...
+\- Mas... - retorqui, balbuciando - parece-me que a srª Albertina, antes de chegar a esta posição...
 
-- Se me dá licença - atalhou a irmã da Ordem de S. Francisco, -, vou à minha enfermaria, que são horas de médico.
+\- Se me dá licença - atalhou a irmã da Ordem de S. Francisco, -, vou à minha enfermaria, que são horas de médico.
 
 Despedi-me, descontente do tom admoestador com que a pobre castigou a minha renitente investigação, e fiz parte disto ao meu amigo Silveira, o qual me respondeu nestes termos: «A vida dessa mulher não é o que o senhor cuida. Há umas histórias que se ouvem, sem se pedirem: são as dos crimes, que se desafogam das presas do remorso; e também as há negríssimas, contadas pela fatuidade cínica. Dessas busque-as o senhor que as há-de achar de molde para escrever um Flos diabolorum de ambos os sexos. No tocante, porém, à história de Albertina, dir-lhe-ei que os revezes são de uma espécie que não anda usada em romances, por ser iguaria insossa a paladares enfareados de condimentos ardentes da especiaria francesa, os quais cifram em sangue, lágrimas e lama. O pior da humanidade, o sedimento, as fezes do coração, servidas em taças de ouro - o ouro da linguagem florente à Jorge Sand, e satanicamente vigorosa à Frederico Soulié, que é isso senão lama? Oferecessem a biografia dessa mulher que o senhor visitou na enfermaria de S. Francisco a algum daqueles capitalistas da imaginação corrupta, aposto eu que eles a não aceitariam para romance sem a cláusula de alterarem a história de modo que lhe jarretassem as virtudes principais como inverosímeis, e as acidentais como empecilhos à travação do, enredo. Essa mulher decerto lhe não contará sua vida, porque faz de conta que lá está Deus que a sabe, e espera ser chamada a receber a féria dos que trabalharam por ordem e estipêndio d'Aquele que pertransiit benefaciendo. Já o senhor vê que tem de ouvir uma história de mediano interesse para os seus anos verdes. Há-de achá-la destituída de peripécias para um conto de livro que se vende consoante o travo de malícia, ou o destemperado do horror; porém, se o senhor a retiver em sua memória, passados vinte anos, bem pode ser que o seu espírito se compraza em escrevê-la, e o seu público se deleite em alternar com ela o fastio de alguma leitura dos seus romances escritos dez anos antes, sob a inspiração das paixões más.»
 Quando voltei à província, apresentei-me a António da Silveira, que pontualmente desempenhou a sua palavra. A história de Albertina, no trajecto de vinte anos, muitas vezes me acudiu à lembrança, nas horas em que eu combinava na palheta as cores com que bosquejei os quadros tristes e alegres da humanidade, que mos aceitou benignamente, não porque fossem bons, mas porque eram fiéis: das deformidades da natureza seria injustiça irrogar-me censura a mim. Desaproveitei o romance de Albertina, em todas as vezes que me lembrou, porque me alistara na laureada e gananciosa milícia dos romancistas do terror grosso, como deles dizia Júlio Janin, o celebrado folhetinista, que escreveu O Burro Morto, romance que começa a aterrar a gente desde o título, e, lá pelo meio adiante, mete a humanidade num banho de sangue, de multa gente e do burro citado.
@@ -170,7 +170,7 @@ Pois sendo tantas as belezas impressivas do Porto (se bem que, em 1810, muitas d
 
 Francisco Simões acalorava a inclinação do moço, encarecendo as qualidades da filha.
 
-- A primeira virtude de Albertina - dizia ele com a suprema boa fé, se não malícia de pai é que está a fazer vinte anos minha filha e não amou ainda. Que tesouros de amor não encerra aquele coração! Que ventura será a do homem que tiver o segredo de abrir o selo que até agora somente se descerrou às enchentes do amor filial!
+\- A primeira virtude de Albertina - dizia ele com a suprema boa fé, se não malícia de pai é que está a fazer vinte anos minha filha e não amou ainda. Que tesouros de amor não encerra aquele coração! Que ventura será a do homem que tiver o segredo de abrir o selo que até agora somente se descerrou às enchentes do amor filial!
 
 António cuidava estar ouvindo a sincera apologia que os pais fazem das filhas aos forasteiros, segundo a invariável forma das descrições da hospitalidade homérica.
 
@@ -180,13 +180,13 @@ Não teve mão de si o jubiloso bacharel Alpedrinha; assim que o ensejo lhe saiu
 
 António, alegremente surpreendido, achou-se eloquente, e discorreu com a leal e expansiva cordialidade dum rapaz que, apesar de cadete de cavalaria de Bragança, se considera em casa de Labão, naqueles santos primórdios da humanidade.
 
-- Eu casarei com sua filha - disse ele em remate de um exórdio adorável de simplicidade - se me ela quiser. Pedirei licença a meus pais, e eles, que me amam e desejam minha felicidade, consentirão; se não consentirem...
+\- Eu casarei com sua filha - disse ele em remate de um exórdio adorável de simplicidade - se me ela quiser. Pedirei licença a meus pais, e eles, que me amam e desejam minha felicidade, consentirão; se não consentirem...
 
-- Isso é fácil suprir-se... - atalhou o Jurisperito. - Eu casei judicialmente...
+\- Isso é fácil suprir-se... - atalhou o Jurisperito. - Eu casei judicialmente...
 
-- Mas a desobediência... - interrompeu António.
+\- Mas a desobediência... - interrompeu António.
 
-- A desobediência - volveu o doutor imposta pelo coração é uma culpa que em si contém sentença absolutória divina e humanamente falando. Um pai não sabe nem pode calcular sobre operações, da alma inflexíveis à pauta !do raciocínio. Como hei-de eu contradizer o que minha filha assentar que é a felicidade do seu coração? Quando é que um pai afoutamente pode prometer que seus filhos serão ditosos pelos casamentos que ele lhes elege, em frieza de ânimo, e a combinar planos: e traçados como se mandar arquitectar uma casa com tantas janelas, e tantas salas, e tantas alcovas! O nosso direito à submissão dos filhos caduca desde o momento em que eles nos respondem com o coração, quando nós lhes interrogamos o juízo, Se os violentamos, fazemos da autoridade um flagelo; se eles nos obedecem, a submissão não é já virtude, senão suicídio.
+\- A desobediência - volveu o doutor imposta pelo coração é uma culpa que em si contém sentença absolutória divina e humanamente falando. Um pai não sabe nem pode calcular sobre operações, da alma inflexíveis à pauta !do raciocínio. Como hei-de eu contradizer o que minha filha assentar que é a felicidade do seu coração? Quando é que um pai afoutamente pode prometer que seus filhos serão ditosos pelos casamentos que ele lhes elege, em frieza de ânimo, e a combinar planos: e traçados como se mandar arquitectar uma casa com tantas janelas, e tantas salas, e tantas alcovas! O nosso direito à submissão dos filhos caduca desde o momento em que eles nos respondem com o coração, quando nós lhes interrogamos o juízo, Se os violentamos, fazemos da autoridade um flagelo; se eles nos obedecem, a submissão não é já virtude, senão suicídio.
 
 Deste arrazoado induz-se que o bacharel tinha ainda frescas as lembranças dos provarás com que articulara contra os pais da sua noiva depositada. Estas doutrinas, num romance - graças ao descrédito da cousa - não fazem mal nem bem; mas, na prosa, e estrada ramerraneira da vida chã que a gente arranjou, é preciso cautela contra semelhantes doutrinas. O coração, com que todos os imberbes, rebeldes às cãs paternas, enchem a boca, não é cousa nenhuma por que se faça obra. O coração é uma capa de brocado, que se deita às costas da tolice, para lhe esconder os aleijões. Quando o amor se torna em raquitismo de alma, podemos contar com carcunda para toda a vida. Fazer de uma veleidade uma transfiguração de índole quero dizer, cuidar que o amor avassala a razão, e que este predomínio aos olhos propriamente de um pai é cousa respeitável, eis um desvario que nivela a alucinação do filho com a necedade do progenitor. A experiência não cessa de pregoar que os casamentos voluntários, contra o alvitre dos pais, levam em si peçonha de culpa, maldição sancionada em cima, onde está o Grande Espírito que ditou a quarta lei do decálogo.
 
@@ -212,17 +212,17 @@ Albertina não estava no caso da menina com quem António da Silveira se compara
 
 O amor não era novidade para ela. Se o fora, devia de tingir-se-lhe o rosto, quando o hóspede lhe disse:
 
-- Não posso por mais tempo ocultar a paixão que...
+\- Não posso por mais tempo ocultar a paixão que...
 
 Aqui, entalou-se o moço.
 
 E ela, nem pálida nem escarlate, escutava-o, e vinte segundos poderia ele contar nos quarenta acelerados latejos, que lhe deu o coração, até poder balbuciar o fecho da frase:
 
-- ...A paixão que sinto por a srª D. Albertina.
+\- ...A paixão que sinto por a srª D. Albertina.
 
 As pálpebras magníficas dos olhos da filha do doutor Negro caíram de golpe, e assim permaneceram instantes como a elaborar duas lágrimas. E as lágrimas apontaram e derivaram nas faces, antes que ela pudesse responder o seguinte:
 
-- Eu não posso amá-lo...
+\- Eu não posso amá-lo...
 
 António da Silveira, a poder lembrar-se de alguma cousa naquele momento, devia de ser do verso do seu Virgílio:
 
@@ -235,7 +235,7 @@ Justificadamente o fez; a arte pode estranhar o caso; mas a natureza admite-o: �
 
 A filha do doutor aproximou-se dele, estendeu-lhe a mão, e murmurou:
 
-- Seja meu irmão. Estime-me, e compadeça-se, que eu sou muito desgraçada por não poder amá-lo!...
+\- Seja meu irmão. Estime-me, e compadeça-se, que eu sou muito desgraçada por não poder amá-lo!...
 
 E desatou em lágrimas e soluços.
 
@@ -247,56 +247,56 @@ Albertina retirou-se a enxugar as lágrimas entre as cortinas de uma janela. O h
 
 O doutor saiu da sua perplexidade nestes termos:
 
-- Que vem a ser isto? Albertina vem de chorar!... o cavalheiro está surpreendido!... Isto é una cena de amor; não pode ser outra cousa! Mas... amor começado por lágrimas!... Ora vamos, menina. Teu pai é teu amigo, e amigo do sr. Silveira. Eu creio que nem ele nem tu sois almas capazes de sentimento do qual eu não possa ser confidente. Albertina, fala.
+\- Que vem a ser isto? Albertina vem de chorar!... o cavalheiro está surpreendido!... Isto é una cena de amor; não pode ser outra cousa! Mas... amor começado por lágrimas!... Ora vamos, menina. Teu pai é teu amigo, e amigo do sr. Silveira. Eu creio que nem ele nem tu sois almas capazes de sentimento do qual eu não possa ser confidente. Albertina, fala.
 
 António da Silveira, sem auxílio de Horácio ou Virgílio, teve uma ideia heróica, respondendo assim com a mais pronta e ingénua naturalidade:
 
-- Eu despedi-me da srª D. Albertina; e ela, correspondendo à viva saudade que eu levo desta generosa família, comoveu-se...
+\- Eu despedi-me da srª D. Albertina; e ela, correspondendo à viva saudade que eu levo desta generosa família, comoveu-se...
 
-- Nobre comoção! - acudiu o doutor. - Essas lágrimas louvo-as eu; escondê-las de mim é desconfiar da minha sensibilidade, menina. Eu prezo como a filho o sr. Silveira, e oxalá pudesse arrancar-lhe do corpo esta farda, que se me afigura a libré do despotismo! Pobre moço, com que ânimo se vai expor a morrer, passado de uma bala do campo adverso, onde estão os instrumentos cegos da civilização do mundo!
+\- Nobre comoção! - acudiu o doutor. - Essas lágrimas louvo-as eu; escondê-las de mim é desconfiar da minha sensibilidade, menina. Eu prezo como a filho o sr. Silveira, e oxalá pudesse arrancar-lhe do corpo esta farda, que se me afigura a libré do despotismo! Pobre moço, com que ânimo se vai expor a morrer, passado de uma bala do campo adverso, onde estão os instrumentos cegos da civilização do mundo!
 
-- Em todo o caso é um dever defender a Pátria - interrompeu o cadete.
+\- Em todo o caso é um dever defender a Pátria - interrompeu o cadete.
 
-- Pátria! - voltou o doutor Alpedrinha - o que é pátria!... Ubi bene, ibi patria.
+\- Pátria! - voltou o doutor Alpedrinha - o que é pátria!... Ubi bene, ibi patria.
 
 Quem está bem nestas espessas trevas de Portugal!?... O Brasil é o melhor céu do globo; e eu desconheci-o como pátria, porque é uma colónia desta metrópole obscura. Quem quiser ter em Portugal uma pátria amável, tem de refazer o país, franqueando as fronteiras aos iniciadores da civilização, e não trancando-lhas com o ferro e com o peito.
 
 Sr. Silveira, não lhe aconselho que deserte às suas bandeiras; mas admoesto-o a que poupe a vida, sem desaire da honra e da disciplina. Que sandice eu disse agora! Honra e disciplina!... Honra, sinónimo de servidão a bonzos e fidalgos que lá se estão refastelando na corte do Rio em redor do inerte rei, que se contenta com a coroa desautorada, e com alguns arráteis de simonte para cada mês. Disciplina! Eu vi o que era a disciplina do exército português no dia extremo do general Freire, e do Porto Carreiro e dos outros. Meu amigo, não se exponha, peço-lhe em nome de minha filha, e ela pede-lho em nome do coração, que o ama! Não é isto verdade, Albertina?
 
-- Conheço que o é sinceramente - acudiu pressuroso António da Silveira, apertando a mão do doutor.
+\- Conheço que o é sinceramente - acudiu pressuroso António da Silveira, apertando a mão do doutor.
 
-- Mas ela não fala! - tornou Francisco Simões, encarando em Albertina. – Estás sufocada, filha?! Reanima-te!... O nosso Silveira voltará para nos dar a todos a felicidade. Não é verdade, meu amigo?...
+\- Mas ela não fala! - tornou Francisco Simões, encarando em Albertina. – Estás sufocada, filha?! Reanima-te!... O nosso Silveira voltará para nos dar a todos a felicidade. Não é verdade, meu amigo?...
 
-- Voltarei, sr. doutor - balbuciou o moço.
+\- Voltarei, sr. doutor - balbuciou o moço.
 
-- Com juramento de cavalheiro?
+\- Com juramento de cavalheiro?
 
-- Com juramento - ratificou o moço.
+\- Com juramento - ratificou o moço.
 
-- E minha filha vai jurar-lhe fidelidade como nos tempos poéticos das cruzadas. Remocemos as velhas épocas, meus filhos! Jurem nas minhas mãos
+\- E minha filha vai jurar-lhe fidelidade como nos tempos poéticos das cruzadas. Remocemos as velhas épocas, meus filhos! Jurem nas minhas mãos
 O entusiasmo com que o doutor Negro proferiu estas expressões preliminares do juramento ia a entrar nos domínios do riso, quando Albertina com firme voz e sereno semblante, disse:
 
-- Meu pai, eu só posso jurar que seria eternamente amiga do sr. António da Silveira. Ele é bastante generoso para prescindir doutro juramento, que seria falso; e meu pai é bastante meu amigo para me não compelir a prometer o que é impossível cumprir.
+\- Meu pai, eu só posso jurar que seria eternamente amiga do sr. António da Silveira. Ele é bastante generoso para prescindir doutro juramento, que seria falso; e meu pai é bastante meu amigo para me não compelir a prometer o que é impossível cumprir.
 
 Reluziu a cútis do doutor, e arroxaram-se-lhe os beiços. O relance dos olhos afuzilou uns temíveis raios de cólera, os primeiros que a menina viu no olhar caricioso de seu pai. É que de assalto lhe veio à lembrança que sua filha, aos catorze anos, fora surpreendida numa janela, trocando frases de timbre amoroso com um moço de baixa extracção, um amanuense do cartório de seu pai; facto horrendo, que ele tinha esquecido, quando disse ao hóspede que a primeira virtude de Albertina era estar a fazer vinte anos sem ter amado ainda.
 
 António, admirado do aprumo da formosa mulher, amando-a mais por isso mesmo, invejando até o galardão do homem que lhe dava auso a tamanho e tão insólito desengano, continuou a obedecer ao impulso de sua generosidade, dizendo:
 
-- A srª D. Albertina só pode e deve amar um coração desprendido doutros afectos. Eu estou comprometido noutros amores, meu amigo, tive a virtude de o confessar a sua filha.
+\- A srª D. Albertina só pode e deve amar um coração desprendido doutros afectos. Eu estou comprometido noutros amores, meu amigo, tive a virtude de o confessar a sua filha.
 
-- Então... - atalhou o doutor iracundo - dissessem isso logo, e já V. Sª mo podia ter dito!... ou... permita-me dizer-lhe que andou como não andam cavalheiros, quando me pediu minha filha!
+\- Então... - atalhou o doutor iracundo - dissessem isso logo, e já V. Sª mo podia ter dito!... ou... permita-me dizer-lhe que andou como não andam cavalheiros, quando me pediu minha filha!
 
 António caiu em si, e viu que a generosidade era inconciliável com a mentira, e que a virtude é cousa mais custosa de praticar do que muita gente cuida.
 
 Albertina vem em socorro do corrido moço, e exclama:
 
-- O sr. Silveira é um cavalheiro, meu pai! Eu é que sou a culpada; fui eu quem lhe disse que não podia amá-lo.
+\- O sr. Silveira é um cavalheiro, meu pai! Eu é que sou a culpada; fui eu quem lhe disse que não podia amá-lo.
 
-- Entendamo-nos! - exclamou o doutor. - Mui há uma complicação de cousas que me embrulham a razão. És tu que rejeitas o sr. António da Silveira, Albertina?
+\- Entendamo-nos! - exclamou o doutor. - Mui há uma complicação de cousas que me embrulham a razão. És tu que rejeitas o sr. António da Silveira, Albertina?
 
-- Sou eu que o prezo como irmã, e não posso ser voluntariamente sua esposa.
+\- Sou eu que o prezo como irmã, e não posso ser voluntariamente sua esposa.
 
-- Bem! Tomarei as minhas medidas! - redarguiu Francisco Simões de Alpedrinha. - Muito bem! eu não sabia quem tu eras, criatura! Criei-te e afaguei-te como um anjo; do muito amor com que te satisfiz os caprichos resultou a liberdade arrogante com que falas a teu pai. Esta filha já diz que rejeita o esposo que seu pai lhe oferece. Muito bem: eu serei de hoje avante o que devia ter sido até aqui... Veremos!... Sr. Silveira, V. Sª não perdeu nada. Eu dava-lhe Albertina, cuidando que ela era um tesouro. Enganei-me. Está desfeito o engano. Volte quando quiser a esta casa: o amigo cá está com os braços abertos. Vá, cavalheiro, vá, que esta mulher era indigna de si.
+\- Bem! Tomarei as minhas medidas! - redarguiu Francisco Simões de Alpedrinha. - Muito bem! eu não sabia quem tu eras, criatura! Criei-te e afaguei-te como um anjo; do muito amor com que te satisfiz os caprichos resultou a liberdade arrogante com que falas a teu pai. Esta filha já diz que rejeita o esposo que seu pai lhe oferece. Muito bem: eu serei de hoje avante o que devia ter sido até aqui... Veremos!... Sr. Silveira, V. Sª não perdeu nada. Eu dava-lhe Albertina, cuidando que ela era um tesouro. Enganei-me. Está desfeito o engano. Volte quando quiser a esta casa: o amigo cá está com os braços abertos. Vá, cavalheiro, vá, que esta mulher era indigna de si.
 
 Albertina chorava ofegante de soluços.
 
@@ -355,14 +355,14 @@ Animou-se Silveira a procurar o doutor Negro. Encontrou-o mudado. Recebeu-o o ve
 
 António atalhava-o, se ele vociferava trementes vozes contra Albertina.
 
-- Não seria felicidade lá mais ao diante deixar V. Sª casar sua filha com esse rapaz tão mal julgado pelas leis? - dizia o Silveira com a independência de uma boa e sincera razão.
+\- Não seria felicidade lá mais ao diante deixar V. Sª casar sua filha com esse rapaz tão mal julgado pelas leis? - dizia o Silveira com a independência de uma boa e sincera razão.
 
 Mal julgado pelas leis! - exclamava o doutor. - Pois o raptor de minha filha, o meu assassino podia ser julgado de outro modo!
 
-- Eu não sei bem o que a lei chama raptor
-- volveu Silveira. - Cuidava eu que uma filha que foge a seus pais, e declara que quer casar com o homem para quem foge, não é raptada...
+\- Eu não sei bem o que a lei chama raptor
+\- volveu Silveira. - Cuidava eu que uma filha que foge a seus pais, e declara que quer casar com o homem para quem foge, não é raptada...
 
-- É raptada porque é seduzida! - bradou Francisco Simões - A sedução que é, senão um rapto, um cruelíssimo roubo do coração de uma filha ao amor de seu pai! Quem ousa aí provar-me o contrário disto?
+\- É raptada porque é seduzida! - bradou Francisco Simões - A sedução que é, senão um rapto, um cruelíssimo roubo do coração de uma filha ao amor de seu pai! Quem ousa aí provar-me o contrário disto?
 
 António calou-se, porque as lágrimas do velho eram mais irrespondíveis argumentos; porém, ao encará-lo em silêncio, dizia entre si:
 
@@ -372,19 +372,19 @@ António calou-se, porque as lágrimas do velho eram mais irrespondíveis argume
 
 António da Silveira aventurou-se a pedir ao doutor que, embora denegasse consentimento à filha para casar com o condenado por amor dela, perdoasse ao desgraçado, e o deixasse ir ganhar sua vida. A isto respondeu o doutor:
 
-- Se eu caía em tal, o mesmo era ajuntá-los. Assim que Albertina pudesse fugir do convento ou de minha casa, estaria com ele. Deixá-lo estar o meu assassino onde está. Eu morro primeiro que ele; morro, e esta ideia é que me vai matando a pedaços. A minha inteligência está a apagar-se. Despedi uns clientes, e os outros fugiram-me. Não sou já o homem que era. Estou esquecido: perdi o amor ao trabalho. Só por dura necessidade me sento a esta banca. Caem-me as lágrimas no papel. Lanço de mim com desesperada agonia os livros. Enche-se-me a cabeça de sangue, e atiro-me sem acordo aos braços de minha pobre mulher, que já sabe que vai ficar viúva e desamparada.
+\- Se eu caía em tal, o mesmo era ajuntá-los. Assim que Albertina pudesse fugir do convento ou de minha casa, estaria com ele. Deixá-lo estar o meu assassino onde está. Eu morro primeiro que ele; morro, e esta ideia é que me vai matando a pedaços. A minha inteligência está a apagar-se. Despedi uns clientes, e os outros fugiram-me. Não sou já o homem que era. Estou esquecido: perdi o amor ao trabalho. Só por dura necessidade me sento a esta banca. Caem-me as lágrimas no papel. Lanço de mim com desesperada agonia os livros. Enche-se-me a cabeça de sangue, e atiro-me sem acordo aos braços de minha pobre mulher, que já sabe que vai ficar viúva e desamparada.
 
-- Remedeie essa angustiosa situação - voltou Silveira.
+\- Remedeie essa angustiosa situação - voltou Silveira.
 
-- Como?! - acudiu o doutor. - Como, senhor? Casando-os?
+\- Como?! - acudiu o doutor. - Como, senhor? Casando-os?
 
-- Não direi tanto, visto que é inflexível a sua repugnância, sr. Alpedrinha; mas dê o perdão condicional ao preso; ele que vá do Porto para longe, e sua filha que volte à companhia do pai.
+\- Não direi tanto, visto que é inflexível a sua repugnância, sr. Alpedrinha; mas dê o perdão condicional ao preso; ele que vá do Porto para longe, e sua filha que volte à companhia do pai.
 
-- Isso não remedeia... Albertina tem-me ódio. A minha filha morreu; e deseja que eu morra, quando eu a estou amando, assim mesmo, assim perdida e desprezível.
+\- Isso não remedeia... Albertina tem-me ódio. A minha filha morreu; e deseja que eu morra, quando eu a estou amando, assim mesmo, assim perdida e desprezível.
 
-- Desprezível... porquê? - interrompeu Silveira.
+\- Desprezível... porquê? - interrompeu Silveira.
 
-- A baixeza daquela alma!... Cegar-se de paixão por um sevandija, que ela viu entrar nesta casa de tamancos e jaqueta de saragoça! Ela, que eu criara como se um dos mais distintos mancebos da sociedade a estivesse esperando! Dotada de tantos talentos, formosa, altiva, descer até ao homem de salário na casa de seu pai!... Porque é preciso que saiba, sr. António da Silveira, que meu bisavô era um general em 1654, dos mais distintos na independência do Brasil contra os holandeses; meu avô foi magistrado superior, meu pai também, e os Alpedrinhas competem em antiguidade de nascimento, e honra e saber, com as mais ilustres casas de Portugal!
+\- A baixeza daquela alma!... Cegar-se de paixão por um sevandija, que ela viu entrar nesta casa de tamancos e jaqueta de saragoça! Ela, que eu criara como se um dos mais distintos mancebos da sociedade a estivesse esperando! Dotada de tantos talentos, formosa, altiva, descer até ao homem de salário na casa de seu pai!... Porque é preciso que saiba, sr. António da Silveira, que meu bisavô era um general em 1654, dos mais distintos na independência do Brasil contra os holandeses; meu avô foi magistrado superior, meu pai também, e os Alpedrinhas competem em antiguidade de nascimento, e honra e saber, com as mais ilustres casas de Portugal!
 
 O doutor Negro repisou neste artigo da sua prosápia, e desgarrou-se tanto da trilha da modéstia e do siso, que o interlocutor teve dó daquela febril cabeça, que se perdia!
 
@@ -394,41 +394,41 @@ Estavam cerradas para sempre as portas daquela razão degenerada pela dor. O vel
 
 Dizia-me António da Silveira: «As agonias daquele infeliz, das quais eu fui testemunha por espaço de três horas, puderam tanto comigo, que me ficaram servindo de memento, homo, através de uma longa vida. Acudia-me sempre o espectáculo do doutor Negro, quando eu meditava praticar um acto ocasional de dano ou dissabor para alguém. A mão da Providência pesara sobre ele tão dura quanto ele pesara sobre o seio de outro homem, que também era pai; mais dura direi, porque o outro vira sua filha honrada, senão invejada; e este era quem com sua própria e espontânea mão a pusera debaixo dos olhos do mundo como uma nódoa, e a todo transe embaraçava a reabilitação da mulher difamada, injustamente difamada.
 
-- Injustamente? Pois ela não tinha fugido para a companhia do João Crisóstomo? - interrompi eu.
+\- Injustamente? Pois ela não tinha fugido para a companhia do João Crisóstomo? - interrompi eu.
 
-- Não, senhor: de casa do pai saíra para casa de um procurador de causas, homem de bem, amigo do moço; desta casa, condenado o raptor, voltou para casa do pai; daqui fugiu, e breves passos deu até à cadeia que lhe era perto; e da cadeia, ainda antes de ver o preso, foi, como já lhe disse, levada ao convento de Braga. Já vê que o mundo a infamava injustamente.
+\- Não, senhor: de casa do pai saíra para casa de um procurador de causas, homem de bem, amigo do moço; desta casa, condenado o raptor, voltou para casa do pai; daqui fugiu, e breves passos deu até à cadeia que lhe era perto; e da cadeia, ainda antes de ver o preso, foi, como já lhe disse, levada ao convento de Braga. Já vê que o mundo a infamava injustamente.
 
 Silveira despediu-se do doutor, com promessa de voltar. Dali foi à Relação procurar o preso João Crisóstomo. Conduziram-no a um quarto de malta, e mostraram-lho sentado a uma mesa de pinho, escrevendo. Diz António da Silveira que o sujeito representava quarenta anos, bem que ainda não tivesse trinta. Era macilento, magro, e menos vulgar de aspeito do que devia esperar-se do filho de um lavrador do Minho, onde, pelo ordinário, as caras dos agricultores nos querem parecer pouco mais de rudimentares, como se a natureza as deixasse configuradas na primeira sessão para voltar depois a conformar-lhes os relevos. A boa sombra de João Crisóstomo captou logo a benevolência do seu desconhecido visitante a quem ele, de pé, cortejou, e disse:
 
-- Talvez que V. Sª se enganasse no quarto...
+\- Talvez que V. Sª se enganasse no quarto...
 
-- É o sr. João Crisóstomo que eu procuro - tornou Silveira, tomando para assentar-se uma das três cadeiras de pinho, que decoravam o recinto, aliás, alegre e bem arejado. Depois continuou: - Pode ser que conheça de nome um tal António da Silveira, que há um ano foi hóspede do doutor Francisco Simões de Alpedrinha.
+\- É o sr. João Crisóstomo que eu procuro - tornou Silveira, tomando para assentar-se uma das três cadeiras de pinho, que decoravam o recinto, aliás, alegre e bem arejado. Depois continuou: - Pode ser que conheça de nome um tal António da Silveira, que há um ano foi hóspede do doutor Francisco Simões de Alpedrinha.
 
 O preso empalideceu, e murmurou:
 
-- Ouvi falar de V. Sª.
+\- Ouvi falar de V. Sª.
 
-- Como de um mau sujeito?
+\- Como de um mau sujeito?
 
-- Não, senhor. A filha do sr. doutor disse-me que V. Sª era o único homem do mundo que ela poderia amar, se Deus a não tivesse...
+\- Não, senhor. A filha do sr. doutor disse-me que V. Sª era o único homem do mundo que ela poderia amar, se Deus a não tivesse...
 
-- Destinado para sua esposa - atalhou Silveira.
+\- Destinado para sua esposa - atalhou Silveira.
 
-- Se Deus a tivesse destinado para minha esposa, estaria eu aqui entre fenos, e ela noutros mais cerrados à luz do dia? - observou João Crisóstomo.
+\- Se Deus a tivesse destinado para minha esposa, estaria eu aqui entre fenos, e ela noutros mais cerrados à luz do dia? - observou João Crisóstomo.
 
-- Deixe estar, que o tempo, nos cômputos da Providência, tem outra contagem diversa da nossa. Quem sabe o que vem?
+\- Deixe estar, que o tempo, nos cômputos da Providência, tem outra contagem diversa da nossa. Quem sabe o que vem?
 
 O preso ergueu-se alvorotado, e exclamou:
 
-- É possível que V. Sª seja o mensageiro de alguma boa nova?!
+\- É possível que V. Sª seja o mensageiro de alguma boa nova?!
 
-- Não, senhor: desgraçadamente não. O que venho é perguntar-lhe se, no caso de perdoar-lhe o doutor, o senhor sairia de Portugal, renunciando à mão da srª D. Albertina, pelo menos enquanto o pai for vivo. Com a constância dela, deve e pode o sr. João Crisóstomo contar: pela sua daria eu abono, se mo pedissem; portanto, achava eu de suma conveniência, interesse até da vida de ambos, que pactuassem entre si um corte completo de correspondência, e esperassem. O doutor oferece pouca vida, se me não engano; e o senhor sacrificando-se, sem vexame de coração, dará ao pobre velho a filha, cuja ausência o mata, e mais tarde voltará a procurá-la, sem o remorso de ter cavado a sepultura de dois velhos.
+\- Não, senhor: desgraçadamente não. O que venho é perguntar-lhe se, no caso de perdoar-lhe o doutor, o senhor sairia de Portugal, renunciando à mão da srª D. Albertina, pelo menos enquanto o pai for vivo. Com a constância dela, deve e pode o sr. João Crisóstomo contar: pela sua daria eu abono, se mo pedissem; portanto, achava eu de suma conveniência, interesse até da vida de ambos, que pactuassem entre si um corte completo de correspondência, e esperassem. O doutor oferece pouca vida, se me não engano; e o senhor sacrificando-se, sem vexame de coração, dará ao pobre velho a filha, cuja ausência o mata, e mais tarde voltará a procurá-la, sem o remorso de ter cavado a sepultura de dois velhos.
 
-- O sr. doutor - disse João Crisóstomo - perdoa-me com a condição de eu sair da Pátria?
+\- O sr. doutor - disse João Crisóstomo - perdoa-me com a condição de eu sair da Pátria?
 
-- Não está isso ainda tratado: eu é que imagino realizável o acordo; mas, sem o seu compromisso, e o da srª D. Albertina, não sondarei segunda vez o ânimo do velho.
+\- Não está isso ainda tratado: eu é que imagino realizável o acordo; mas, sem o seu compromisso, e o da srª D. Albertina, não sondarei segunda vez o ânimo do velho.
 
-- Eu não decido de mim porque cumpro pontualmente a vontade da srª D.
+\- Eu não decido de mim porque cumpro pontualmente a vontade da srª D.
 
 Albertina. - respondeu o preso. - Farei o que ela quiser, contanto que ela seja feliz. Uma compadecida pessoa de Braga me diz que a pobre menina vive atormentada: desde que sei isto, a minha desgraça não me oprime; sinto somente a dela. Não me escreve, ou, se me escreve, as cartas não as recebo; algumas lhe escrevi, que lhe pioraram a reclusão, porque vieram à mão do sr. doutor. Se V. Sª pode consultá-la, eu conformar-me-ei com a sua vontade.
 
@@ -444,17 +444,17 @@ Isso não admira: qualquer cerdo revolve um lamaçal, e de nuvens acima nem o vo
 
 Perguntei-lhe:
 
-- Que sentimento lhe havia inspirado Albertina um ano antes?
+\- Que sentimento lhe havia inspirado Albertina um ano antes?
 
-- A paixão, aquém dos limites da honra.
+\- A paixão, aquém dos limites da honra.
 
-- E um ano depois, quando visitou na cadeia o homem que ela preferira?
+\- E um ano depois, quando visitou na cadeia o homem que ela preferira?
 
-- A paixão, aquém dos limites da honra.
+\- A paixão, aquém dos limites da honra.
 
-- E, se as suas diligências conseguissem lançá-los nos braços um do outro, e a ambos nos braços da mais dadivosa fortuna, que sentiria o sr. António da Silveira?
+\- E, se as suas diligências conseguissem lançá-los nos braços um do outro, e a ambos nos braços da mais dadivosa fortuna, que sentiria o sr. António da Silveira?
 
-- A paixão, aquém dos limites da honra.
+\- A paixão, aquém dos limites da honra.
 
 À terceira resposta, desisti de compreendê-lo.
 
@@ -468,39 +468,39 @@ Esperou, portanto, o magnânimo alferes que viesse pela posta o segundo aviso, c
 
 Albertina, confirmada a autenticidade da carta do pai, foi conduzida ao locutório pela sub-prioresa, cujos escrúpulos, superiores ao máximo elogio, a muito custo consentiram que a reclusa ficasse a só com o militar, mediante as duas cancelas de grades de bom ferro da Suécia, o qual bem sabiam elas que os mais ardentes suspiros não tinham podido derreter.
 
-- Estranha visita é esta, srª D. Albertina - disse com a voz tremente o alferes.
+\- Estranha visita é esta, srª D. Albertina - disse com a voz tremente o alferes.
 
-- Estranha, sim - respondeu com afável serenidade a filha do doutor Negro -; mas visita muito agradável. Deus sabe quantas vezes eu tinha dito comigo: «Se o sr. Silveira fosse muito meu amigo, teria procurado notícias de sua irmã...»
-- E quem lhe diz que eu não procurei? Decerto, não é o acaso que me traz aqui...
+\- Estranha, sim - respondeu com afável serenidade a filha do doutor Negro -; mas visita muito agradável. Deus sabe quantas vezes eu tinha dito comigo: «Se o sr. Silveira fosse muito meu amigo, teria procurado notícias de sua irmã...»
+\- E quem lhe diz que eu não procurei? Decerto, não é o acaso que me traz aqui...
 
-- Vem do Porto? - interrompeu ela.
+\- Vem do Porto? - interrompeu ela.
 
-- Sim, minha senhora, venho de casa de seu pai, e do cárcere do seu malfadado amigo.
+\- Sim, minha senhora, venho de casa de seu pai, e do cárcere do seu malfadado amigo.
 
-- Vem?! - exclamou Albertina. - Como está ele?
+\- Vem?! - exclamou Albertina. - Como está ele?
 
-- Ele quem? É por seu pai que me pergunta?
+\- Ele quem? É por seu pai que me pergunta?
 
-- Não, senhor; meu pai sei eu que está bom - tornou ela com hombridade e ironia.
+\- Não, senhor; meu pai sei eu que está bom - tornou ela com hombridade e ironia.
 
-- Está vingado; e a vingança, nas almas paternais como a dele, dá saúde e alegria. É por João Crisóstomo que eu tomo a liberdade de perguntar-lhe, já que V. Sª me falou dele.
+\- Está vingado; e a vingança, nas almas paternais como a dele, dá saúde e alegria. É por João Crisóstomo que eu tomo a liberdade de perguntar-lhe, já que V. Sª me falou dele.
 
-- Falei-lhe dele - volveu Silveira desconsolado do tom de altivez, e menosprezo do pai, com que ela o desanimou em seus planos - porque o vi, e lhe avaliei a boa alma, e me condoí de tamanho e tão imerecido infortúnio. É preciso que a srª D. Albertina dê ao mundo e à sua consciência o testemunho de que estima João Crisóstomo.
+\- Falei-lhe dele - volveu Silveira desconsolado do tom de altivez, e menosprezo do pai, com que ela o desanimou em seus planos - porque o vi, e lhe avaliei a boa alma, e me condoí de tamanho e tão imerecido infortúnio. É preciso que a srª D. Albertina dê ao mundo e à sua consciência o testemunho de que estima João Crisóstomo.
 
-- Pois não dei eu já o maior testemunho? Que outro querem de mim? Fugi de casa para ser esposa dele; tornei a fugir para o procurar na cadeia; vim arrastada a este cárcere, onde nem o chorar me é permitido, sem que a moral destas santas me não esprema no coração a esponja amarga da sua caridade!... Pois qual testemunho me falta dar?!
+\- Pois não dei eu já o maior testemunho? Que outro querem de mim? Fugi de casa para ser esposa dele; tornei a fugir para o procurar na cadeia; vim arrastada a este cárcere, onde nem o chorar me é permitido, sem que a moral destas santas me não esprema no coração a esponja amarga da sua caridade!... Pois qual testemunho me falta dar?!
 
-- O essencial. Desista de uni futuro, que não pode chegar por este caminho. João Crisóstomo está a cumprir a sentença de três anos de prisão, da qual lhe faltam trinta e quatro meses, mil e tantos dias, vinte e quatro mil e tantas horas de ferros, de vilipêndio, de pobreza, e de angústia, superiores à minha compreensão. Enquanto esta agonia se contorce lentamente na cadeia do Porto, outra não menos dolorosa aqui vai cortando os dias da srª D. Albertina. No fim de três anos, quem sabe se a sepultura de um ou de ambos se terá cerrado? Se o homem, que a menina ama, até lhe dar e aceitar por ele tamanhos suplícios, tiver morrido, peço-lhe me diga se algumas alegrias pelo futuro além a podem compensar dos desgostos que sofre e do pesar, senão remorso, de lhe ter feito a ele tão pesada a cruz?
+\- O essencial. Desista de uni futuro, que não pode chegar por este caminho. João Crisóstomo está a cumprir a sentença de três anos de prisão, da qual lhe faltam trinta e quatro meses, mil e tantos dias, vinte e quatro mil e tantas horas de ferros, de vilipêndio, de pobreza, e de angústia, superiores à minha compreensão. Enquanto esta agonia se contorce lentamente na cadeia do Porto, outra não menos dolorosa aqui vai cortando os dias da srª D. Albertina. No fim de três anos, quem sabe se a sepultura de um ou de ambos se terá cerrado? Se o homem, que a menina ama, até lhe dar e aceitar por ele tamanhos suplícios, tiver morrido, peço-lhe me diga se algumas alegrias pelo futuro além a podem compensar dos desgostos que sofre e do pesar, senão remorso, de lhe ter feito a ele tão pesada a cruz?
 
-- E a minha? - atalhou Albertina. - Pois ele imagina que eu sofro menos?.19
-- Ele imagina que a senhora sofre muito, e não se queixa do que está sofrendo: apresso-me a dizê-lo; que não seja eu a involuntária cansa de ser injusta e ingratamente arguido o corajoso moço. Eu disse-lhe que era honroso e necessário salvarem-se ambos, sem prejuízo do seu amor. Amem-se livres, assim como se amam encarcerados.
+\- E a minha? - atalhou Albertina. - Pois ele imagina que eu sofro menos?.19
+\- Ele imagina que a senhora sofre muito, e não se queixa do que está sofrendo: apresso-me a dizê-lo; que não seja eu a involuntária cansa de ser injusta e ingratamente arguido o corajoso moço. Eu disse-lhe que era honroso e necessário salvarem-se ambos, sem prejuízo do seu amor. Amem-se livres, assim como se amam encarcerados.
 
 Emprazem a sua felicidade para melhores dias, e não se estejam matando ou envelhecendo antes da hora oportuna do resgate. A liberdade alcançam-na com menor sacrifício do que este que fazem. Actualmente é impossível verem-se; até creio que é impossível cartearem-se. Pois, se me aceitarem o meu parecer, a privação dos olhos será indemnizada com a liberdade do espírito; poderão corresponder-se; algum amigo lhe facilitará o ensejo; eu mesmo...
 
-- Pois sim! - exclamou Albertina com transporte de esperança e ardente desejo de liberdade. - Como há-de ser isso?
+\- Pois sim! - exclamou Albertina com transporte de esperança e ardente desejo de liberdade. - Como há-de ser isso?
 
-- A menina escreve a seu pai; renuncia a casar-se com João Oris6stomo; e pede-lhe perdão. Seu pai, se me não enganam as bem fundadas esperanças, perdoa ao condenado, com a condição de que ele sairá da cadeia para se embarcar para o Brasil...
+\- A menina escreve a seu pai; renuncia a casar-se com João Oris6stomo; e pede-lhe perdão. Seu pai, se me não enganam as bem fundadas esperanças, perdoa ao condenado, com a condição de que ele sairá da cadeia para se embarcar para o Brasil...
 
-- Para o Brasil?! - interrompeu Albertina alvoroçada - para o Brasil! Um eterno adeus! a pior das mortes!... é isso o que de mim querem? Não! O mais atroz da agonia está passado. Morrer!... isso que tem?... Não quero!
+\- Para o Brasil?! - interrompeu Albertina alvoroçada - para o Brasil! Um eterno adeus! a pior das mortes!... é isso o que de mim querem? Não! O mais atroz da agonia está passado. Morrer!... isso que tem?... Não quero!
 
 António da Silveira de si para si perdeu a confiança nos seus recursos, quando se viu tão veemente e dramaticamente interrompido. Era isto um desanimar muito antes de tempo. Quem sabe alguma cousa do coração da mulher, está de sobreaviso nestes assomos da paixão. As pobrezinhas das criaturas, misto maravilhoso de valor e tibieza, não são nada do que parecem em semelhantes impulsos e desconcertos de juízo. O mais cordato, nestes lances, é deixá-las esvaziar o pequeno coração, que, a meu ver, desde Shakespeare, está definido no titulo de uma comédia dele: «Muito rumor para cousa nenhuma.»
 Assim é; mas as pessoas inexperientes, como António da Silveira, ponderam a gravidade aparente de tais arrebatamentos, e ficam como tolhidas e inermes para rebater a frágil fortaleza da mulher assomada à imitação de Albertina.
@@ -508,51 +508,51 @@ Assim é; mas as pessoas inexperientes, como António da Silveira, ponderam a gr
 Emudeceu o moço por algum tempo, o bastante para ela ajuizar do diplomata o mais acerbamente que podia ser. Entrou-lhe no ânimo a suspeita, convertida logo em evidência, de que ele, ferido da isenção com que vira encontradas as suas tentativas amorosas, guardara o despeito no escuro da alma vingativa. Aberta a ocasião para o desforço, tramaria ele, segundo a ruim esperteza de Albertina, matar a possibilidade de tornarem a ver-se os dois amantes. Sem tal estimulo, porque andada António da Silveira da casa do doutor para a cadeia, e da cadeia para o convento? «De mais a mais, pensava ela consigo, a coragem e afouteza com que eu lhe respondi, perturbou-o de tal modo, que não teve mais que me dissesse! Tem vergonha de ser tão de pronto entendido nos seus ignóbeis cálculos.»
 Acabava ela de formar esta série de induções, até certo ponto naturais de um espírito desvairado, quando o alferes, tirando pelo ânimo da dor que o aturvava, redarguiu:
 
-- A morte pouco é, minha senhora, quando a vida é cortada de desgraças e desdouros...
+\- A morte pouco é, minha senhora, quando a vida é cortada de desgraças e desdouros...
 
 Desdouros! má palavra em tão má ocasião! Era confirmar a suspeita, se Albertina carecesse disso,
-- Desdouros! - bradou ela. - Desdouros porquê?! Por amar um homem plebeu e honrado? Um homem que me tem tão pura no coração como na consciência?...
+\- Desdouros! - bradou ela. - Desdouros porquê?! Por amar um homem plebeu e honrado? Um homem que me tem tão pura no coração como na consciência?...
 
-- Eu não disse tal, srª D. Albertina - atalhou Silveira com um sorriso de delicada bondade, que a alucinada menina pés logo à conta de expressão sardónica. – Desdouros digo eu que o são as falsas apreciações da sociedade; o modo como é visto uni condenado sem amigos que o salvem, e sem o ouro que resgata a sentença dos maiores delitos. Desdouro de amar um homem plebeu! Não me faltaria valor para lhe dizer que o era, se plebeísmo fosse a explicação de algum procedimento vil! Srª D. Albertina, se há desgraça, sem desonra, desgraça que todo o homem de bem aceitaria das mãos da falsa justiça, é a de João Crisóstomo. Por isso mesmo é que eu, se pudesse, convenceria a senhora, que ainda pode orgulhar-se da pureza de sua consciência, a parar aquém dos limites da dignidade para si, e da dignidade para o preso. A posição de ambos, até aqui, foi uma luta nobre: a paixão justifica-os, porque saíram vencidos; mas sem mancha da luta. Porém, de hoje avante, o seu padecimento é um heroísmo que a sociedade reprova.
+\- Eu não disse tal, srª D. Albertina - atalhou Silveira com um sorriso de delicada bondade, que a alucinada menina pés logo à conta de expressão sardónica. – Desdouros digo eu que o são as falsas apreciações da sociedade; o modo como é visto uni condenado sem amigos que o salvem, e sem o ouro que resgata a sentença dos maiores delitos. Desdouro de amar um homem plebeu! Não me faltaria valor para lhe dizer que o era, se plebeísmo fosse a explicação de algum procedimento vil! Srª D. Albertina, se há desgraça, sem desonra, desgraça que todo o homem de bem aceitaria das mãos da falsa justiça, é a de João Crisóstomo. Por isso mesmo é que eu, se pudesse, convenceria a senhora, que ainda pode orgulhar-se da pureza de sua consciência, a parar aquém dos limites da dignidade para si, e da dignidade para o preso. A posição de ambos, até aqui, foi uma luta nobre: a paixão justifica-os, porque saíram vencidos; mas sem mancha da luta. Porém, de hoje avante, o seu padecimento é um heroísmo que a sociedade reprova.
 
 As lágrimas de ambos comovem menos que as tribulações por que está passando seu pai, minha senhora. O velho chora, e o mundo respeita muito a dor do homem que diz:
 
 «Uma filha que eu amava até ao extremo, arrancou-se-me dos braços, e foi pedir às leis que esmagassem os direitos que eu tinha ao seu amor e obediência. Eu pensei vinte anos na sua felicidade, e ela...»
-- Bem sei bem sei! - interrompeu Albertina com um sorriso de colérico motejo. - Compreendo... sei...
+\- Bem sei bem sei! - interrompeu Albertina com um sorriso de colérico motejo. - Compreendo... sei...
 
-- Que sabe, minha senhora?! - perguntou António da Silveira, magoado da desconfiança que subitamente lhe feriu a nobre alma.
+\- Que sabe, minha senhora?! - perguntou António da Silveira, magoado da desconfiança que subitamente lhe feriu a nobre alma.
 
-- Meu pai pensava em me dar urna felicidade, que não podia ser senão desventura para mim e para V. Sª - respondeu ela.
+\- Meu pai pensava em me dar urna felicidade, que não podia ser senão desventura para mim e para V. Sª - respondeu ela.
 
-- A que vem o meu nome neste conflito? - replicou o moço. - Srª D. Albertina, por quem é, não me faça tão cedo arrepender de entrar num negócio de família, tão de vontade quanto um seu irmão poderia fazê-lo, minha senhora. Pois é crivei que a menina me julgue tão vil que eu venha aqui hipocritamente desatar uns vínculos que eu tenho na conta de indissolúveis? Então, é impraticável nenhum acordo entre nós: a má fé com que me está ouvindo infama todos os meus argumentos, ou pelos menos inutiliza-os.
+\- A que vem o meu nome neste conflito? - replicou o moço. - Srª D. Albertina, por quem é, não me faça tão cedo arrepender de entrar num negócio de família, tão de vontade quanto um seu irmão poderia fazê-lo, minha senhora. Pois é crivei que a menina me julgue tão vil que eu venha aqui hipocritamente desatar uns vínculos que eu tenho na conta de indissolúveis? Então, é impraticável nenhum acordo entre nós: a má fé com que me está ouvindo infama todos os meus argumentos, ou pelos menos inutiliza-os.
 
-- Pois que hei-de eu supor? - tornou Albertina. - Hei-de eu consentir que um infeliz, preso por amor de mim, seja posto em liberdade, com a condição de ir morrer ao Brasil donde veio, porque não podia lá viver?... Cuida V. Sª que ele aceitaria a liberdade com tal condição?
+\- Pois que hei-de eu supor? - tornou Albertina. - Hei-de eu consentir que um infeliz, preso por amor de mim, seja posto em liberdade, com a condição de ir morrer ao Brasil donde veio, porque não podia lá viver?... Cuida V. Sª que ele aceitaria a liberdade com tal condição?
 
-- Aceitaria.
+\- Aceitaria.
 
-- Como? Já o sabe! ? - volveu Albertina precipitadamente. - É ele que a pede?
+\- Como? Já o sabe! ? - volveu Albertina precipitadamente. - É ele que a pede?
 
-- Não, minha senhora, fui eu que lhe lembrei a conveniência de tal passo. João Crisóstomo respondeu que faria o que a srª D. Albertina quisesse.
+\- Não, minha senhora, fui eu que lhe lembrei a conveniência de tal passo. João Crisóstomo respondeu que faria o que a srª D. Albertina quisesse.
 
-- Estará ele cansado de sofrer!? - redarguiu ela com azedume.
+\- Estará ele cansado de sofrer!? - redarguiu ela com azedume.
 
-- Não mo disse, nem levemente mo deu a perceber; mas é possível que esteja descontente da sua sorte - respondeu Silveira.
+\- Não mo disse, nem levemente mo deu a perceber; mas é possível que esteja descontente da sua sorte - respondeu Silveira.
 
-- E a minha é afortunada?
+\- E a minha é afortunada?
 
-- Voltamos ao principio do nosso diálogo, minha senhora. A sorte de ambos é desgraçadíssima: cumpria remediá-la com a esperança; pôr termo a um sofrimento que não oferece nenhuma.
+\- Voltamos ao principio do nosso diálogo, minha senhora. A sorte de ambos é desgraçadíssima: cumpria remediá-la com a esperança; pôr termo a um sofrimento que não oferece nenhuma.
 
-- E a morte é uma esperança?
+\- E a morte é uma esperança?
 
-- É sim, minha senhora, quando se morre com uma consciência tranquila.
+\- É sim, minha senhora, quando se morre com uma consciência tranquila.
 
-- É o que me cá dizem as freiras... - tornou Albertina sorrindo.
+\- É o que me cá dizem as freiras... - tornou Albertina sorrindo.
 
-- Se as freiras lho dizem assim, não são isto palavras que devam ser motejadas, minha senhora; porém, faia V. Exª na morte, como se o morrer fosse cousa muito fácil, quando as doenças são do espírito...
+\- Se as freiras lho dizem assim, não são isto palavras que devam ser motejadas, minha senhora; porém, faia V. Exª na morte, como se o morrer fosse cousa muito fácil, quando as doenças são do espírito...
 
 Albertina fez um gesto de enfado e cansaço. António da Silveira, com tamanha alma e paciência, sentiu neste momento o fastio que nos causam os despropósitos, ainda mesmo quando a compaixão nos pede a favor do ânimo conturbado. Já em pé, em acção de despedir-se, falou assim:
 
-- Minha senhora, o homem próprio para este lugar, e com esta missão, devia de ter cabelos brancos, nome autorizado, e palavras mais tocantes. Eu vim aqui, forte de uma rectidão de intenções, que se não preocuparam a considerar o que a ,srª D. Albertina julgaria de mim. Aqui me confesso, minha senhora. Está Deus entre nós: se eu minto, permita Ele que V. Exª veja em cada expressão de minha boca um refalsamento do coração. Amei-a com todo o peito, e benquerença que se pode. Foi V. Exª a primeira mulher que os olhos de minha alma viram. Levei-a em espírito às suaves solidões da aldeia onde nasci, e imaginei quadros de unia felicidade tão ingénua, e abençoável em Deus, que cheguei a crer na impossibilidade de renascer para mim um amor semelhante.
+\- Minha senhora, o homem próprio para este lugar, e com esta missão, devia de ter cabelos brancos, nome autorizado, e palavras mais tocantes. Eu vim aqui, forte de uma rectidão de intenções, que se não preocuparam a considerar o que a ,srª D. Albertina julgaria de mim. Aqui me confesso, minha senhora. Está Deus entre nós: se eu minto, permita Ele que V. Exª veja em cada expressão de minha boca um refalsamento do coração. Amei-a com todo o peito, e benquerença que se pode. Foi V. Exª a primeira mulher que os olhos de minha alma viram. Levei-a em espírito às suaves solidões da aldeia onde nasci, e imaginei quadros de unia felicidade tão ingénua, e abençoável em Deus, que cheguei a crer na impossibilidade de renascer para mim um amor semelhante.
 
 Este, que era o meu único sentido de viver, quando me cumpria guardar a vida das balas, está hoje morto, às mãos da honra. Se ele sobrevivesse à esperança, decerto não estava eu aqui. É natural que eu lhe fugisse para esquecê-la... sem odiá-la, porque o meu ódio seria um vilíssimo sentimento. Do que eu de todo em todo, minha senhora, me julgo incapaz é de vir solicitar, por cavilosas artes, o seu coração. Se o absurdo da alma humana fizesse a maravilha de propender hoje o espírito de V. Exª para mim, aqui lhe dou minha fé e palavra que o rejeitaria, não por soberba, mas por decoro de minha consciência, debaixo da qual farei que expirem abafadas as paixões que quiserem triunfar dela. Continuo a confessar-me, srª D. Albertina, que o seu sorriso de incredulidade não me enleia, nem me despersuade do convencimento de uma virtude.
 
@@ -566,18 +566,18 @@ Albertina, que já também se havia erguido, fez uma silenciosa mesura de cabeç
 
 António da Silveira, violentando-se, tornou:
 
-- Não tem que me diga, minha senhora?
+\- Não tem que me diga, minha senhora?
 
-- Quase nada - respondeu Albertina. -V. Sª falou-me muito em mundo, e sociedade e opinião pública. Eu não devo nada ao mundo. Estou desgraçada bastante para que a sociedade se lembre de mim. Eu não desisto de ser esposa de João Crisóstomo. Jurei-o a Deus...
+\- Quase nada - respondeu Albertina. -V. Sª falou-me muito em mundo, e sociedade e opinião pública. Eu não devo nada ao mundo. Estou desgraçada bastante para que a sociedade se lembre de mim. Eu não desisto de ser esposa de João Crisóstomo. Jurei-o a Deus...
 
-- Jurou-o a Deus! - atalhou Silveira. -Deus não aceita juramentos tais, nem impõe responsabilidade a quem os jura.
+\- Jurou-o a Deus! - atalhou Silveira. -Deus não aceita juramentos tais, nem impõe responsabilidade a quem os jura.
 
-- Assim será: jurei-o a mim própria. Sairei daqui morta, se não posso ser esposa do desgraçado que o mundo há-de desprezar. Ele não tem mais ninguém no mundo: sou eu quem o ampara; e a nós ambos, tão desamparados, quem nos sustenta é a esperança, o tempo.
+\- Assim será: jurei-o a mim própria. Sairei daqui morta, se não posso ser esposa do desgraçado que o mundo há-de desprezar. Ele não tem mais ninguém no mundo: sou eu quem o ampara; e a nós ambos, tão desamparados, quem nos sustenta é a esperança, o tempo.
 
-- No entanto - voltou António da Silveira -, se a srª D. Albertina mudar alguma vez de sentimentos, lembra-se de mim, que eu irei onde as suas ordens me mandarem. Daqui volto à minha aldeia com alguns meses de licença; e, provavelmente, lá ficarei, se conseguir a minha desligação do exército.
+\- No entanto - voltou António da Silveira -, se a srª D. Albertina mudar alguma vez de sentimentos, lembra-se de mim, que eu irei onde as suas ordens me mandarem. Daqui volto à minha aldeia com alguns meses de licença; e, provavelmente, lá ficarei, se conseguir a minha desligação do exército.
 
 Albertina embebeu as lágrimas no lenço, e murmurou soluçando: 
-- Parece-me que nos não veremos mais...
+\- Parece-me que nos não veremos mais...
 
 Silveira deteve-se a responder, abalado pelas lágrimas inesperadas. Quando ia a balbuciar resposta, Albertina saiu da grade.
 
@@ -585,7 +585,7 @@ Parece que o mal compreendido moço ainda tinha recanto de coração em que as l
 
 Esta observação fiz eu ao velho António da Silveira, e ele respondeu-me:
 
-- Se tinha recanto de coração!... Não tinha... O coração inteiro estava cheio das minhas lágrimas.
+\- Se tinha recanto de coração!... Não tinha... O coração inteiro estava cheio das minhas lágrimas.
 
 Queria dizer o mesmo, ao que me parece e penso da linguagem figurativa dos que amam.
 
@@ -595,25 +595,25 @@ Queria dizer o mesmo, ao que me parece e penso da linguagem figurativa dos que a
     
 António da Silveira procurou o doutor Negro, e disse-lhe:
 
-- A srª D. Albertina é um coração extraordinário: espera triunfar pela morte, e contra estas vitórias não há forças humanas.
+\- A srª D. Albertina é um coração extraordinário: espera triunfar pela morte, e contra estas vitórias não há forças humanas.
 
-- Pois morrerá! - disse o doutor, batendo com ambos os punhos sobre a sonora capa de um Digesto.
+\- Pois morrerá! - disse o doutor, batendo com ambos os punhos sobre a sonora capa de um Digesto.
 
-- E não seria melhor que ela vivesse, meu bom amigo? - tornou Silveira. – Eu acho duro de mais o seu rancor!;
-- E eu acho incivil de mais a sua reprimenda, sr. Silveira! - bradou Francisco Simões assanhado.
+\- E não seria melhor que ela vivesse, meu bom amigo? - tornou Silveira. – Eu acho duro de mais o seu rancor!;
+\- E eu acho incivil de mais a sua reprimenda, sr. Silveira! - bradou Francisco Simões assanhado.
 
-- Peço perdão: excedi-me; desculpe-mo à tristeza com que saí da grade do convento.
+\- Peço perdão: excedi-me; desculpe-mo à tristeza com que saí da grade do convento.
 
-- E não o entristece a minha desgraça, a minha vergonha, o perdimento da minha inteligência, a pobreza iminente, a morte próxima? Não vê que eu deixo aí uma viúva desprezada dos seus parentes, porque é minha mulher, e uma... uma filha amaldiçoada, sem protecção de ninguém, repelida talvez desse mesmo vilão que aí está preso? Isto não o compadece, ar. Silveira?
+\- E não o entristece a minha desgraça, a minha vergonha, o perdimento da minha inteligência, a pobreza iminente, a morte próxima? Não vê que eu deixo aí uma viúva desprezada dos seus parentes, porque é minha mulher, e uma... uma filha amaldiçoada, sem protecção de ninguém, repelida talvez desse mesmo vilão que aí está preso? Isto não o compadece, ar. Silveira?
 
-- Compunge-me deveras - respondeu o moço, com os olhos afogados em lágrimas. - E, na intenção de salvar-se a vida preciosa de V. Sª, é que eu...
+\- Compunge-me deveras - respondeu o moço, com os olhos afogados em lágrimas. - E, na intenção de salvar-se a vida preciosa de V. Sª, é que eu...
 
-- Me aconselhava a dar minha filha ao miserável... - atalhou concentrado
+\- Me aconselhava a dar minha filha ao miserável... - atalhou concentrado
 iradamente o doutor.
 
-- Aconselhar, não ouso tanto... Pedia-o em nome da sua filha querida e única, é ela que de joelhos lho está rogando...
+\- Aconselhar, não ouso tanto... Pedia-o em nome da sua filha querida e única, é ela que de joelhos lho está rogando...
 
-- É falso! - bradou ele - é falso! Essa mulher não ajoelha, nem suplica. É a mais soberba malvadez que eu tenho visto! Depois que voltou para casa, encerrou-se no seu quarto, e cinco dias aqueles dentes cerrados não receberam alimento, nem deixaram sair uma única palavra em resposta aos meus queixumes, que terminavam em rogos. Desistiu da ideia de morrer à fome, quando se resolveu a despenhar-se em mais negra voragem de opróbrio! Quando a fiz capturar nas escadas da Relação, sabe o senhor o que ela disse aos meirinhos? Ouça isto:
+\- É falso! - bradou ele - é falso! Essa mulher não ajoelha, nem suplica. É a mais soberba malvadez que eu tenho visto! Depois que voltou para casa, encerrou-se no seu quarto, e cinco dias aqueles dentes cerrados não receberam alimento, nem deixaram sair uma única palavra em resposta aos meus queixumes, que terminavam em rogos. Desistiu da ideia de morrer à fome, quando se resolveu a despenhar-se em mais negra voragem de opróbrio! Quando a fiz capturar nas escadas da Relação, sabe o senhor o que ela disse aos meirinhos? Ouça isto:
 
 «Se me levam a casa, hão-de entrar com um cadáver à presença de meu pai! » Fui avisado e tive de pô-la a caminho imediatamente para Braga, e mandar adiante preparar-lhe uma cela no convento. Nunca me escreveu; apenas responde às cartas da mãe nuns termos tão secos e altaneiros que parece escrever dentre as regalias de uma opulência sobranceira à baixeza de sua família! Como vem V. Sª dizer-me que minha filha me pede de joelhos?... O sr. Silveira tem o sestro de ser inexacto, porque é extremamente piedoso!... Uma hora, condena-se para a salvar; outra hora... É um bom moço, sr. Silveira!... é o senhor um coração admirável! - disse afectuosamente o doutor, apertando-lhe a mão. - Meu amigo, está inocente de mais para lidar com este mundo. Fuja destas úlceras. Vá para a sua aldeia, e esqueça-se de que saiu de lá. Guarde esse óptimo tesouro para uma mulher que lhe há-de lá ir ter guiada pela mão do seu anjo bom. Se tiver filhas, não passe com elas os limites da sua pequena área. Não lhes diga mesmo que conheceu uma desgraçada desobediente a seu pai. Não as eduque. Ignorância, que é a virtude; estupidez, que é a felicidade. Trevas, trevas, meu amigo; que toda a luz de entendimento é uma faísca do inferno. A perversidade nasceu com a ciência da primeira mulher. Acreditemos a Bíblia, que esta verdade é uma grande verdade, porque é atroz, porque é a história, porque é o exemplo de todos os dias, a serpente hedionda, que envolve todos os séculos com as suas roscas, e revessa golfos de peçonha no seio de cada família onde aparece urna mulher mais alumiada que o vulgo.
 
@@ -621,13 +621,13 @@ Quis António da Silveira induzir deste arrazoado uns longes de turvamento intel
 
 Deixou-o declamar longo tempo frases desatadas e assim mesmo eloquentes. O final da expansiva declamação fechou nestas palavras:
 
-- Minha filha há-de ser muito desgraçada, ainda mesmo que o homem que ma roubou venha a ser seu marido, e a felicidade mentirosa lhes dê a efémera embriaguez do crime satisfeito. Eu morrerei, sem a ter visto no último degrau da miséria; mas V. Sª viverá para lembrar-se das derradeiras palavras proferidas pelo velho que chora em suas mãos.
+\- Minha filha há-de ser muito desgraçada, ainda mesmo que o homem que ma roubou venha a ser seu marido, e a felicidade mentirosa lhes dê a efémera embriaguez do crime satisfeito. Eu morrerei, sem a ter visto no último degrau da miséria; mas V. Sª viverá para lembrar-se das derradeiras palavras proferidas pelo velho que chora em suas mãos.
 
 António da Silveira, antes de sair do Porto para Trás-os-Montes, foi à cadeia: era a última tentativa.
 
 Contou a João Crisóstomo o que devia contar, tendo em vista movê-lo a ser ele quem propriamente desvanecesse Albertina de esperanças irrealizáveis. O preso escutou-o, sem interrompê-lo, e disse sossegadamente:
 
-- Se eu me visse a braços com a tentação de dizer à srª D. Albertina que me deixasse ser feliz, lastimar-me-ia de ter bastantes crenças religiosas para não tentar contra a sua vida; mas, com todo o fervor da oração de um desgraçado, em risco de ser infame, pediria a Deus que me matasse. É o que posso responder a V. Sª, agradecendo-lhe infinitamente o zelo e caridade com que tem procurado melhorar a minha situação, e asseverando-lhe que ela é menos dolorosa do que se afigura às pessoas a quem aflige o meu padecimento.
+\- Se eu me visse a braços com a tentação de dizer à srª D. Albertina que me deixasse ser feliz, lastimar-me-ia de ter bastantes crenças religiosas para não tentar contra a sua vida; mas, com todo o fervor da oração de um desgraçado, em risco de ser infame, pediria a Deus que me matasse. É o que posso responder a V. Sª, agradecendo-lhe infinitamente o zelo e caridade com que tem procurado melhorar a minha situação, e asseverando-lhe que ela é menos dolorosa do que se afigura às pessoas a quem aflige o meu padecimento.
 
 António da Silveira, ao despedir-se, inclinou a cabeça diante do condenado, e disse entre si: «Ele é digno dela».
 
@@ -637,7 +637,7 @@ Poucos dias depois, algumas pessoas, obrigadas ao doutor Negro, planearam, a ocu
 
 O encarregado de propor o negócio ao preso era um pai de meninas galantes, e bem casadas, o qual no prefácio que fez ao oferecer-se para semelhante missão, disse isto, entre outras coisas comprovativas da sua esperteza:
 
-- Duas de minhas filhas tiveram tendência para petimetres que tafulavam miraculosamente, e vestiam de bom lemiste. Um tinha o avô a bater sola, e o pai era  frade borra, O da outra era mestre de dança e tocava flautim numa música de capela. Vejam V. Sª a que está sujeito um homem de bem que tem duas filhas sem juízo! Cuidam, porém, V. Sª que eu tranquei as janelas, ou preveni as justiças contra a anunciada tentativa de rapto? Não, senhores. A grande habilidade, neste covil de ladrões, chamado mundo, conforme o dizer de Tomé Pinheiro da Veiga, na dedicatória da sua Arte de furtar, a grande habilidade, repito, não é ganhar: é saber perder a tempo.
+\- Duas de minhas filhas tiveram tendência para petimetres que tafulavam miraculosamente, e vestiam de bom lemiste. Um tinha o avô a bater sola, e o pai era  frade borra, O da outra era mestre de dança e tocava flautim numa música de capela. Vejam V. Sª a que está sujeito um homem de bem que tem duas filhas sem juízo! Cuidam, porém, V. Sª que eu tranquei as janelas, ou preveni as justiças contra a anunciada tentativa de rapto? Não, senhores. A grande habilidade, neste covil de ladrões, chamado mundo, conforme o dizer de Tomé Pinheiro da Veiga, na dedicatória da sua Arte de furtar, a grande habilidade, repito, não é ganhar: é saber perder a tempo.
 
 Que fiz eu, pois? V. S.as , vão ficar espantados! Perdi o amor a quatro mil cruzados, que reparti pelos dois mariolas. Um foi receber os seus dois a Madrid; e o outro a quota parte a Barcelona, onde eu tinha correspondente. Assim que eles partiram, chamei as raparigas, e disse-lhes, textuais palavras, o seguinte: «Meninas antes de ontem cada urna de vossas mercês tinha doze mil cruzados de dote para se casarem com pessoas da minha eleição. Ora, ontem, como eu soubesse que vossas mercês se decidiram a amar dois sevandijas, um que vivia do convento onde o pai frade lhe arrebanhava o bocado, e outro que vivia de ensinar o minuete e de flautear nas igrejas, tomei a meu encargo paternal livrar a vossas mercês destes canalhas, mediante a quantia de quatro mil cruzados, com que eles se acomodaram e desistiram das suas pessoas de vossas mercês, indo-se em boa paz e muito contentes da veniaga por esse mundo além. Saibam agora as minhas filhas que o dote de cada uma fica sendo de dez mil cruzados, porque é justo que paguem da sua algibeira o muito que lucraram com verem-se livres de tais patifes.
 
@@ -647,7 +647,7 @@ Foi muito festejado dos auditores o conto, que até àquela hora fora um segredo
 
 Havia muito a esperar deste ladino engenho. Os amigos do doutor (clientes dele, temerosos da perda de tão bom patrono...) fintaram-se em quantias que somavam bons seis mil cruzados.
 
-- Com esta quantia - exclamava o sujeito astuto em compras de corações amantes -, dou desde já como feito o negócio. Cada real efígie de cada peça de 6$400 tem uma boca eloquente a advogar a causa da justiça.
+\- Com esta quantia - exclamava o sujeito astuto em compras de corações amantes -, dou desde já como feito o negócio. Cada real efígie de cada peça de 6$400 tem uma boca eloquente a advogar a causa da justiça.
 
 Isto dito, com muito júbilo exterior dos ouvintes, e com secreto pesar de se sacrificarem tão liberalmente ao doutor, o comissionado partiu para a cadeia.
 
@@ -655,69 +655,69 @@ Foi João Crisóstomo chamado à sala do carcereiro, onde era esperado de pessoa
 
 Achou-se o preso em presença do seu já conhecido amigo do doutor, o sr. Costa Silva, o qual começou assim:
 
-- Venha cá, sente-se ao pé de mim, sr. João... Rapaziadas, rapaziadas! - continuou, acentuando silabicamente as palavras com ridente aspecto, e batendo-lhe palmadas na perna - O coração é o demónio, sr. João!... Se a gente, quando chega aos dezoito anos, pudesse tirar isto do peito como quem tira um lobinho do espinhaço, outro galo nos cantara!... Eu, na sua idade, sr. João, o que me valeu foi ter um pai que me trazia com cabeções; senão as asneiras haviam de ser tantas como os gafanhotos da praga. As mulheres, as mulheres, sr. João! Esta cruel metade do homem dispensava-se bem, se o Criador tivesse feito de uma assentada o homem inteiro. Por causa delas diz a história que se têm perdido nações. Que admira que se perca um homem por maior que seja o seu tino e por mais cristãos que sejam os seus costumes! Até os santos têm estado a pique de se perderem, e eu, creio até que alguns se perderam por amor delas. O próprio S. João Crisóstomo (que exemplo este! de mais a mais é o santo do seu nome!) viu-se em apertos no deserto com saudades delas, e confessa que foi o que mais lhe custou a deixar! O sr. João perdeu-se por causa de uma; está ainda em tempo de se recobrar, de voltar ao bom caminho, e fazer-se homem útil a si e à sociedade. Vamos, pois, sr. João a pensar no modo sairmos destes apuros, destes sujos becos à estrada real, limpa, e honrada. Está vossemecê por isto, sr. João?
+\- Venha cá, sente-se ao pé de mim, sr. João... Rapaziadas, rapaziadas! - continuou, acentuando silabicamente as palavras com ridente aspecto, e batendo-lhe palmadas na perna - O coração é o demónio, sr. João!... Se a gente, quando chega aos dezoito anos, pudesse tirar isto do peito como quem tira um lobinho do espinhaço, outro galo nos cantara!... Eu, na sua idade, sr. João, o que me valeu foi ter um pai que me trazia com cabeções; senão as asneiras haviam de ser tantas como os gafanhotos da praga. As mulheres, as mulheres, sr. João! Esta cruel metade do homem dispensava-se bem, se o Criador tivesse feito de uma assentada o homem inteiro. Por causa delas diz a história que se têm perdido nações. Que admira que se perca um homem por maior que seja o seu tino e por mais cristãos que sejam os seus costumes! Até os santos têm estado a pique de se perderem, e eu, creio até que alguns se perderam por amor delas. O próprio S. João Crisóstomo (que exemplo este! de mais a mais é o santo do seu nome!) viu-se em apertos no deserto com saudades delas, e confessa que foi o que mais lhe custou a deixar! O sr. João perdeu-se por causa de uma; está ainda em tempo de se recobrar, de voltar ao bom caminho, e fazer-se homem útil a si e à sociedade. Vamos, pois, sr. João a pensar no modo sairmos destes apuros, destes sujos becos à estrada real, limpa, e honrada. Está vossemecê por isto, sr. João?
 
 O preso respondeu:
 
-- Ouvi-lo-ei, sr. Costa Silva, com respeitosa atenção, pedindo, primeiro, licença para lhe emendar a frase dos becos sujos. Eu não me considero tão enlameado quanto V. Sª tem a caridade de me julgar.
+\- Ouvi-lo-ei, sr. Costa Silva, com respeitosa atenção, pedindo, primeiro, licença para lhe emendar a frase dos becos sujos. Eu não me considero tão enlameado quanto V. Sª tem a caridade de me julgar.
 
-- Isto é um modo de falar por figura - replicou o sr. Costa. - Sabe que há uns modos de falar...
+\- Isto é um modo de falar por figura - replicou o sr. Costa. - Sabe que há uns modos de falar...
 
-- Sim senhor: agora entendi a intenção de V. Sª, queira perdoar a interrupção.
+\- Sim senhor: agora entendi a intenção de V. Sª, queira perdoar a interrupção.
 
 O negociador sentiu-se algum tanto embotado de engenho, por causa destas pacíficas e serenas reflexões do preso. Parece que o sr. Costa não tinha cabal conhecimento da pessoa sobre quem ia exercer a pressão do seu talento, coadjuvado pela compressão dos seis mil cruzados. Não obstante, refez-se de confiança em si e no dinheiro, e prosseguiu, mareando noutro rumo.
 
-- Sr. João Crisóstomo, eu sempre ouvi dizer que vossemecê tinha habilidade e estudos; e agora vejo que a opinião pública lhe não fazia favor nenhum.
+\- Sr. João Crisóstomo, eu sempre ouvi dizer que vossemecê tinha habilidade e estudos; e agora vejo que a opinião pública lhe não fazia favor nenhum.
 
-- Muito obrigado; é à bondade de V. Sª que devo essa graça - disse o preso, rebuçando habilmente a ironia.
+\- Muito obrigado; é à bondade de V. Sª que devo essa graça - disse o preso, rebuçando habilmente a ironia.
 
-- Eu costumo dizer o que sinto: se vossemecê fosse um pateta, dizia-lho também. Amicus Plato, sed... O sr. João sabe latim?
+\- Eu costumo dizer o que sinto: se vossemecê fosse um pateta, dizia-lho também. Amicus Plato, sed... O sr. João sabe latim?
 
-- Não, senhor, não sei latim. Fui lavrador, depois moço de carregar numa loja de molhados no Rio de Janeiro, depois voltei à lavoura; melhorei na vida de amanuense, onde aprendi um pouquinho de francês, e pouco mais.
+\- Não, senhor, não sei latim. Fui lavrador, depois moço de carregar numa loja de molhados no Rio de Janeiro, depois voltei à lavoura; melhorei na vida de amanuense, onde aprendi um pouquinho de francês, e pouco mais.
 
-- Pois aproveitou muito, e está em tempo de aproveitar o que lhe falta. O latim é a língua de Cícero, e Cícero é o meu homem. Eu queria ser Cícero, palavra de honra, com a condição mesmamente de perder a cabeça. O sr. João, sabe o seu bocado de História... Há-de estar certo da passagem em que o preclaro orador foi degolado...
+\- Pois aproveitou muito, e está em tempo de aproveitar o que lhe falta. O latim é a língua de Cícero, e Cícero é o meu homem. Eu queria ser Cícero, palavra de honra, com a condição mesmamente de perder a cabeça. O sr. João, sabe o seu bocado de História... Há-de estar certo da passagem em que o preclaro orador foi degolado...
 
-- Sim, senhor, recordo-me...
+\- Sim, senhor, recordo-me...
 
-- Pois Cícero dizia em latim: Negligere quid de se quis que sentiat, non solum arrogantis est, sed etiam omnino dissoluti; o que em português quer dizer: Somente o homem despejada e dissoluto despreza o conceito que a saciedade faz dele. O discurso, que eu venho fazer ao sr. João, bem agourado vai começando pelas citadas palavras do divino Cícero. Já vossemecê sabe onde eu quero chegar.
+\- Pois Cícero dizia em latim: Negligere quid de se quis que sentiat, non solum arrogantis est, sed etiam omnino dissoluti; o que em português quer dizer: Somente o homem despejada e dissoluto despreza o conceito que a saciedade faz dele. O discurso, que eu venho fazer ao sr. João, bem agourado vai começando pelas citadas palavras do divino Cícero. Já vossemecê sabe onde eu quero chegar.
 
-- Ainda não - disse o preso.
+\- Ainda não - disse o preso.
 
-- Pois então aí vou direito à matéria. Um pai é, abaixo de Deus, o que há mais venerando e sacritíssimo para um filho. A um pai devemos a vida, os bens, e a liberdade: vita, patrimonium, libertas, como diz Cícero. Este mesmo insigne filósofo diz mais: que toda a paciência em sofrermos o alvedrio dos pais, ainda mesmo as injúrias, parentum injurias, lhes é devida: aequo animo ferre oportet; e, se me dá atenção, dir-lhe-ei mais, como Cícero, que é máximo crime faltar com a obediência aos pais: Peccatum est parentes violare.
+\- Pois então aí vou direito à matéria. Um pai é, abaixo de Deus, o que há mais venerando e sacritíssimo para um filho. A um pai devemos a vida, os bens, e a liberdade: vita, patrimonium, libertas, como diz Cícero. Este mesmo insigne filósofo diz mais: que toda a paciência em sofrermos o alvedrio dos pais, ainda mesmo as injúrias, parentum injurias, lhes é devida: aequo animo ferre oportet; e, se me dá atenção, dir-lhe-ei mais, como Cícero, que é máximo crime faltar com a obediência aos pais: Peccatum est parentes violare.
 
 João Crisóstomo sorriu do tom enfático e pedagógico do sr. Januário Costa Silva, que, antes de casar com urna herdeira rica, havia exercitado as dignas funções de professor de retórica em Braga, donde era natural.
 
 Enlevado da própria música do seu dizer, quase esquecido da retórica dos seis mil cruzados, o ex-professor fez praça de outras citações. e concluiu deste teor:
 
-- É preciso sair daqui, sr. João. O corpo humano não tolera uma tal estagnação, deixe-me assim dizer. O movimento é a vida. Exercendum est corpus, como diz Cícero no 1. de Officiis. Venho aqui dizer-lhe com a consolação de uma alma que se condói dos infortúnios alheios, que estes ferrolhos se lhe abrem, e que o mundo está pronto a recebê-lo, contanto que o sr. João queira ir residir por algum tempo no novo mundo.
+\- É preciso sair daqui, sr. João. O corpo humano não tolera uma tal estagnação, deixe-me assim dizer. O movimento é a vida. Exercendum est corpus, como diz Cícero no 1. de Officiis. Venho aqui dizer-lhe com a consolação de uma alma que se condói dos infortúnios alheios, que estes ferrolhos se lhe abrem, e que o mundo está pronto a recebê-lo, contanto que o sr. João queira ir residir por algum tempo no novo mundo.
 
-- No novo, ou no outro? - atalhou João Crisóstomo sofreando mal o tom da galhofa.
+\- No novo, ou no outro? - atalhou João Crisóstomo sofreando mal o tom da galhofa.
 
-- Pergunta-me isso a rir?! - interrogou o amante de Cícero, avincando a fronte.
+\- Pergunta-me isso a rir?! - interrogou o amante de Cícero, avincando a fronte.
 
-- Respondo com seriedade para desistirmos, V. Sª da sua latinidade, e eu dos meus sorrisos - acudiu prestamente João Crisóstomo. - Vem V. Sª tratar uma questão estafada. É o quarto amigo do sr. doutor Alpedrinha a quem respondo que a minha sentença é de prisão e não de degredo. Se o sr. doutor Alpedrinha me queria na África, na Índia, ou no Brasil, empregasse um pouco mais da sua influência: quem me deu três anos de prisão poderia com igual consciência dar-me degredo perpétuo. Eu não emendo agora os descuidos do sr. doutor. Estou aqui: daqui sairei cumprida a sentença.
+\- Respondo com seriedade para desistirmos, V. Sª da sua latinidade, e eu dos meus sorrisos - acudiu prestamente João Crisóstomo. - Vem V. Sª tratar uma questão estafada. É o quarto amigo do sr. doutor Alpedrinha a quem respondo que a minha sentença é de prisão e não de degredo. Se o sr. doutor Alpedrinha me queria na África, na Índia, ou no Brasil, empregasse um pouco mais da sua influência: quem me deu três anos de prisão poderia com igual consciência dar-me degredo perpétuo. Eu não emendo agora os descuidos do sr. doutor. Estou aqui: daqui sairei cumprida a sentença.
 
-- Mas se morrer antes?! - atalhou o retórico.
+\- Mas se morrer antes?! - atalhou o retórico.
 
-- Se morrer antes... - volveu o preso, sorrindo - parece-lhe a V. Sª que ficarei na cadeia, cumprida a sentença? Que diz Cícero a este respeito?
+\- Se morrer antes... - volveu o preso, sorrindo - parece-lhe a V. Sª que ficarei na cadeia, cumprida a sentença? Que diz Cícero a este respeito?
 
-- Vossemecê zomba de mim? -perguntou, rubro de lacre até às orelhas, o sr. Costa Silva.
+\- Vossemecê zomba de mim? -perguntou, rubro de lacre até às orelhas, o sr. Costa Silva.
 
-- Não, senhor: é de mim que zombo; e recebo as suas ordens, para me retirar, que as minhas horas estão todas hipotecadas à minha subsistência..
+\- Não, senhor: é de mim que zombo; e recebo as suas ordens, para me retirar, que as minhas horas estão todas hipotecadas à minha subsistência..
 
-- Espere, e atenda! - tornou o desarvorado negociador.
+\- Espere, e atenda! - tornou o desarvorado negociador.
 
-- Queira dizer V. Sª.
+\- Queira dizer V. Sª.
 
-- Olhe que tem a liberdade, e... ouça bem... e... chegue-se mais perto que as paredes têm ouvidos.
+\- Olhe que tem a liberdade, e... ouça bem... e... chegue-se mais perto que as paredes têm ouvidos.
 
 João aproximou-se, e o sr. Costa continuou com voz cavernosa e um tanto assustada:
 
-- Tem a liberdade e seis mil cruzados em moedas de ouro!
+\- Tem a liberdade e seis mil cruzados em moedas de ouro!
 
 João mediu dos pés à cabeça o sujeito, fez-se lívido, mordeu o beiço inferior e disse:
 
-- A sua cabeça está branca, sr. Costa. É forçoso respeitar um homem que é pai, porque eu há dias que choro com pesar de não ter obedecido ao meu. Se eu vivesse no trabalho dos campos onde nasci, ninguém me faria tão aviltante proposta. Sou menos infame, senhor.
+\- A sua cabeça está branca, sr. Costa. É forçoso respeitar um homem que é pai, porque eu há dias que choro com pesar de não ter obedecido ao meu. Se eu vivesse no trabalho dos campos onde nasci, ninguém me faria tão aviltante proposta. Sou menos infame, senhor.
 
 E saiu logo da sala para entrar no seu quarto.
 
@@ -771,11 +771,11 @@ Seguiram-se meses de inefável desesperação para os dois presos. A amiga de Al
 
 Este pesar, que a martelava de contínuo, sugeria-lhe ideias de remediar o mal com um mal semelhante: nenhuma era de aproveitar; todos os alvitres lhe saem desarrazoados. Queixava-se ela, um dia, de ser parte no infortúnio da desgraçada Albertina, em presença de cavalheiros e senhoras que frequentavam sua casa. Um dos cavalheiros, sujeito de anos e cabelos grisalhos, ouvindo-a comovido, aceitou como justa a censura ao cru despotismo das madres anciãs do convento, e disse:
 
-- Eu farei alguma coisa no sentido de desoprimir V. Era do seu remorso.
+\- Eu farei alguma coisa no sentido de desoprimir V. Era do seu remorso.
 
 No dia seguinte, quem tal diria! voltou o cavalheiro, e disse:
 
-- Pode V. Exª ir à grade4 quando quiser: mas leve tinteiro e papel: porque a sua amiga está proibida de ter estes instrumentos do pecado na cela.
+\- Pode V. Exª ir à grade4 quando quiser: mas leve tinteiro e papel: porque a sua amiga está proibida de ter estes instrumentos do pecado na cela.
 
 E, de feito, a senhora foi ao convento, deu-se-lhe grade, esteve com Albertina, esperou que ela escrevesse a João Crisóstomo, e ficou de voltar na semana seguinte, que assim lho prescrevera o cavalheiro agente deste sucesso estranho, que merece explicação.
 
@@ -794,18 +794,18 @@ Chorou. A ocasião era aquela. O cavalheiro, cujo nome, a meu pesar, não sei, n
 
 Pintou a tortura infligida por um pai tirano à mísera Albertina; fez duas visagens sinistras ao descrever os horrores da cadeia, em que se contorcia o moço traspassado das mil lanças dum amor imenso em noite infinita, sem alva de esperança. A religiosa deu um testemunho de sua muita sensibilidade, desmaiando quase, ouvidas estas palavras do cavalheiro:
 
-- São duas mortes que faz a lei, mediante dois algozes. Na Relação do Porto há um carcereiro que diz à vitima: «Aí morrerás!.» No convento dos Remédios de Braga, é a virtuosa prelada, que diz à reclusa: «Morre aí abafada, mulher, que amas, como eu amei; mulher, que fizeste o que eu faria, se não tivesse deposto a minha liberdade aos pés da cruz!»
+\- São duas mortes que faz a lei, mediante dois algozes. Na Relação do Porto há um carcereiro que diz à vitima: «Aí morrerás!.» No convento dos Remédios de Braga, é a virtuosa prelada, que diz à reclusa: «Morre aí abafada, mulher, que amas, como eu amei; mulher, que fizeste o que eu faria, se não tivesse deposto a minha liberdade aos pés da cruz!»
 Palavras que a fulminaram!
 
 Ao assomar-se do seu letargo, a prelada murmurou:
 
-- Que hei-de eu fazer-lhe, que me não desavenha com Deus?
+\- Que hei-de eu fazer-lhe, que me não desavenha com Deus?
 
-- Faça o que V. Exª quereria que lhe fizessem: o preceito divino é este. Consinta-lhe que ela seja visitada pela sua amiga expulsa brutalmente - peço perdão do termo - expulsa destas grades com uma incivilidade desacostumada nesta casa.
+\- Faça o que V. Exª quereria que lhe fizessem: o preceito divino é este. Consinta-lhe que ela seja visitada pela sua amiga expulsa brutalmente - peço perdão do termo - expulsa destas grades com uma incivilidade desacostumada nesta casa.
 
-- Pois que venha - atalhou a religiosa - e Deus se digne perdoar-me, se me desvio dos meus deveres.
+\- Pois que venha - atalhou a religiosa - e Deus se digne perdoar-me, se me desvio dos meus deveres.
 
-- Albertina - redarguiu o triunfador do coração empedernido - nunca sairá dos deveres nem se fará digna de que V. Exª lhe imponha os seus como prelada.
+\- Albertina - redarguiu o triunfador do coração empedernido - nunca sairá dos deveres nem se fará digna de que V. Exª lhe imponha os seus como prelada.
 
 E o mais que disseram neste acto não tem que ver com o romance. O certo e sabido é que recomeçaram os dois desterrados do mundo a sua correspondência, com mais sisudas precauções. João Crisóstomo recebia da mão de pessoa amiga do cavalheiro bracarense as cartas de Albertina, e as dele, entregues ao mesmo medianeiro, entravam insuspeitas no correio.
 
@@ -849,9 +849,9 @@ Simão de Valadares teria cinquenta e cinco anos, era solteiro e senhor da casa.
 
 Albertina e sua mãe foram recebidas pelas meninas, e mãe destas, com muito carinho e hospedagem de parentas. Havia um piano. Albertina, quando o viu, sentiu uns rebates de saudade do tempo em que João Crisóstomo a ouvia tocar. Marejaram-lhe os olhos. A mãe entendeu a dor da filha, e disse-lhe:
 
-- Há mais de três anos que não tocaste, Albertina...
+\- Há mais de três anos que não tocaste, Albertina...
 
-- É verdade, minha mãe - respondeu -, creio que já não sei.
+\- É verdade, minha mãe - respondeu -, creio que já não sei.
 
 Pediram-lhe as meninas que experimentasse. Foi ela ao piano, e deu admiráveis escalas com uma velocidade que parecia febre de inspirada artista. Nunca os de Barbeita cuidaram que o seu piano pudesse dar aquele estrondo e harmonia. De súbito, o teclado soluçou uma pianíssima toada, que fez tristeza no ânimo de todos. As faces de Albertina estavam aljofradas de lágrimas.
 
@@ -861,7 +861,7 @@ Deram-lhe um quarto de dormir com janelas sobre um pomar de amendoeiras e limoei
 
 Numa dessas noites, vira ela um vulto de homem entre as laranjeiras, contemplando-a, e retirou-se, imaginando que bem poderia ser ele um amante, e ela uma importuna, que involuntariamente embaraçava a entrevista de alguma das meninas Valadares. Numa das noites seguintes, voltou a desoras à janela, e lá viu o vulto, e ouviu uma voz, que murmurava:
 
-- Os céus dêem repouso ao seu infeliz coração, Albertina.
+\- Os céus dêem repouso ao seu infeliz coração, Albertina.
 
 Retraiu-se pressurosa, e baixou a vidraça.
 
@@ -873,13 +873,13 @@ Esperou tremente que lhe falasse. Fitou-o, meneando a cabeça, como a provocá-l
 
 Vacilava entre medrosa e resoluta. Era a mulher em antagonismo com a amante. O silêncio do vulto era-lhe já uma contrariedade, e um despeito. Ia retirar-se, quando a mesma voz lhe disse:
 
-- Quantos serão os desgraçados debaixo deste céu impassível, srª D. Albertina?
+\- Quantos serão os desgraçados debaixo deste céu impassível, srª D. Albertina?
 
 E ela, com a voz convulsa, respondeu:
 
-- Desgraçada sei eu que o sou muito... Quem se condói da minha desventura?
+\- Desgraçada sei eu que o sou muito... Quem se condói da minha desventura?
 
-- O seu maior amigo neste mundo. Não sei mesmo se seu pai o será tanto... Não me conhece ainda?...
+\- O seu maior amigo neste mundo. Não sei mesmo se seu pai o será tanto... Não me conhece ainda?...
 
 Albertina reconhecera-o desde a primeira palavra da resposta.
 
@@ -891,13 +891,13 @@ Quando viu Albertina, a ordem física do mundo desmanchou-se, e recompôs-se em 
 
 Albertina ouviu-o: e com a santa naturalidade da inocência insuspeitosa, respondeu a Simão que lhe perguntara se o conhecia:
 
-- Agora conheci o sr. morgado. Já o vi noutras noites, e tive susto. Não podia lembrar-me que fosse V. Sª.
+\- Agora conheci o sr. morgado. Já o vi noutras noites, e tive susto. Não podia lembrar-me que fosse V. Sª.
 
-- Com que pesar a tenho eu visto passar as suas noites em vigília tão dolorosa! - tornou ele.
+\- Com que pesar a tenho eu visto passar as suas noites em vigília tão dolorosa! - tornou ele.
 
-- Bem sabe que eu sou tão infeliz!... - volveu Albertina. - Meu pai quer a minha morte. Deus nos fará a vontade a ambos.
+\- Bem sabe que eu sou tão infeliz!... - volveu Albertina. - Meu pai quer a minha morte. Deus nos fará a vontade a ambos.
 
-- Não morra, não, formoso anjo, que tão digna é de uma vida recamada de todas as alegrias deste mundo!
+\- Não morra, não, formoso anjo, que tão digna é de uma vida recamada de todas as alegrias deste mundo!
 
 A veemência cariciosa deste dizer pareceu estranha a Albertina, que, de mais a mais, vira o morgado ajuntar as mãos sobre o seio, quando falava.
 
@@ -922,19 +922,19 @@ Recolhamo-nos ao assunto, que vai muito derramado por divagações, em que de or
 
 No dia seguinte, quando, a horas de almoço, se avistaram Albertina e Simão de Valadares, coraram simultaneamente. O homem dos cinquenta e tantos anos, se pudesse tirar a ferro do peito o sangue que lhe ressumava na face, fá-lo-ia. Sem experiência do coração, conheceu que o rubor de Albertina, era uma lembrança amarga. Esperou que ela erguesse os olhos de sobre a chávena: baldou-se a esperança. Findo o almoço, desceram ao jardim. Albertina apoderou-se do braço de sua mãe, e reteve-a, quando ela queria separar-se.
 
-- Porque é isto?! - perguntou a esposa do doutor Negro.
+\- Porque é isto?! - perguntou a esposa do doutor Negro.
 
-- Não me deixe - murmurou a filha.
+\- Não me deixe - murmurou a filha.
 
-- És mais criança do que eu supunha - replicou a mãe.
+\- És mais criança do que eu supunha - replicou a mãe.
 
-- Porque me diz isso? - redarguiu Albertina.
+\- Porque me diz isso? - redarguiu Albertina.
 
-- Foges de que o morgado te fale... bem sei que foges... e não devias fugir. Sabes que riqueza ele tem?
+\- Foges de que o morgado te fale... bem sei que foges... e não devias fugir. Sabes que riqueza ele tem?
 
 Albertina desprendeu-se impetuosamente do braço da mãe, e disse:
 
-- Que me importa a riqueza do morgado?! Agora compreendo!... Compreendo a horrível maquinação!... Meu Deus! meu Deus! Tanta gente conspirada contra uma desgraçada mulher!
+\- Que me importa a riqueza do morgado?! Agora compreendo!... Compreendo a horrível maquinação!... Meu Deus! meu Deus! Tanta gente conspirada contra uma desgraçada mulher!
 
 E sumiu-se por entre as ramarias de uns arbustos, sufocando os soluços que lhe rompiam do seio arquejante.
 
@@ -948,7 +948,7 @@ Ao romper da manhã, seguida a uma noite de lágrimas, Albertina, como ouvisse t
 
 Ao entrar no adro, viu caminhar para ela um homem coberto dos andrajos de mendigo:
 
-- Não te denuncies que nos perdemos.
+\- Não te denuncies que nos perdemos.
 
 Expediu um grito, e susteve-se pálida e convulsa.
 
@@ -976,40 +976,40 @@ Passados minutos, quebrou-lhe a meditação a estrídula guizalhada de liteiras.
 
 Conservou-se no mesmo sítio até as avistar. A distância de cinquenta passos os liteireiros, como entrevissem um vulto naquela serra chamada Terra-Negra, por aqueles tempos, suja de salteadores, pararam, exclamando:
 
-- Quem está aí?
+\- Quem está aí?
 
 O doutor lançou a sua cabeça escura fora da portinhola, e bradou:.37
-- Que temos?! Somos roubados?
+\- Que temos?! Somos roubados?
 
-- Ladrões pela frente, patrão! - responderam os pávidos liteireiros.
+\- Ladrões pela frente, patrão! - responderam os pávidos liteireiros.
 
-- Gritem, gritem à-del-rei! - clamou o doutor, figurando um ladrão em cada tronco de árvore.
+\- Gritem, gritem à-del-rei! - clamou o doutor, figurando um ladrão em cada tronco de árvore.
 
 João Crisóstomo havia já conhecido a voz do pai de Albertina: imaginou que ela vinha em uma das liteiras; tremia, sem dar tento da sua situação, já quando os moços bradavam, em grita desentoada, por socorro.
 
 João permanecia sentado e imóvel sobre o combro, quando os liteireiros cobraram ânimo, por verem a quietação do vulto, e a imobilidade das árvores suspeitas.
 
-- Olha que não seja algum calhau! - disse um deles.
+\- Olha que não seja algum calhau! - disse um deles.
 
-- Qual calhau nem qual diabo! é homem!...
+\- Qual calhau nem qual diabo! é homem!...
 
-- Se for só um... - tornou o mais animoso. - Vamo-nos a ele, sr. doutor?
+\- Se for só um... - tornou o mais animoso. - Vamo-nos a ele, sr. doutor?
 
-- Vejam lá no que se metem, que isto é sério e perigoso! - observou Francisco Simões. - Eu tenho aqui meia dúzia de moedas; se esses senhores se acomodarem com isto, dou-lhas, e que me deixem passar a salvo.
+\- Vejam lá no que se metem, que isto é sério e perigoso! - observou Francisco Simões. - Eu tenho aqui meia dúzia de moedas; se esses senhores se acomodarem com isto, dou-lhas, e que me deixem passar a salvo.
 
 Isto disse ele em alta voz para que a malta dos salteadores o ouvisse.
 
 João Crisóstomo, sem mudar de postura, respondeu à proposta:
 
-- Passem, que não há ladrões aqui.
+\- Passem, que não há ladrões aqui.
 
-- Diz que podemos passar - ajuntou um liteireiro -, não são ladrões, meu amo.
+\- Diz que podemos passar - ajuntou um liteireiro -, não são ladrões, meu amo.
 
 O doutor Negro cuidou ouvir a voz de João Crisóstomo, e tremeu pela vida. Era natural o terror a quem premeditara tirá-la ao inimigo por mão do sicário.
 
-- Cuidado! - tornou ele abaixando a voz. - Vamos lá; mas vocês ponham-se do lado das portinholas, que a minha vida está em risco.
+\- Cuidado! - tornou ele abaixando a voz. - Vamos lá; mas vocês ponham-se do lado das portinholas, que a minha vida está em risco.
 
-- A sua vida está segura, sr. doutor Alpedrinha - tornou João Crisóstomo que apurava o ouvido. - A sua vida é tão sagrada para mim como a de meu pai.
+\- A sua vida está segura, sr. doutor Alpedrinha - tornou João Crisóstomo que apurava o ouvido. - A sua vida é tão sagrada para mim como a de meu pai.
 
 As liteiras passaram. João Crisóstomo com o rosto entre as mãos, e os cotovelos apoiados nas pernas, observou a passagem das liteiras, e conheceu que o doutor ia sozinho.
 
@@ -1030,15 +1030,15 @@ No dia seguinte, a dama, devotada ao remédio destes desamparados, apresentou a 
 
 Poucas palavras haviam trocado, e logo Albertina descobriu Simão de Valadares, que a seguia, encobrindo-se com as carvalheiras marginais do caminho.
 
-- O morgado segue-me... - disse ela alvoroçada. - Eu deixo-te, e tu não te afastes para longe.
+\- O morgado segue-me... - disse ela alvoroçada. - Eu deixo-te, e tu não te afastes para longe.
 
 Entrou Albertina na igreja. Simão de Valadares passou pelo mendigo, e disse-lhe:
 
-- Aquela senhora deu-te esmola?
+\- Aquela senhora deu-te esmola?
 
-- Saberá V. Sª que sim.
+\- Saberá V. Sª que sim.
 
-- Deixa ver o que te deu.
+\- Deixa ver o que te deu.
 
 João tirou da algibeira interior da jaqueta oculta uma moeda de dez reis. O morgado pegou dela sofregamente, e deu ao mendigo em troca doze vinténs em prata.
 
@@ -1048,97 +1048,97 @@ Dita a missa, o morgado saiu, e esperou a hóspeda. O mendigo postou-se a distâ
 
 Simão de Valadares prosseguiu:
 
-- Invejei, pouco há, a sorte daquele pobre.
+\- Invejei, pouco há, a sorte daquele pobre.
 
 Albertina empalideceu, e tartamudeou:
 
-- Porquê?... não sei que...
+\- Porquê?... não sei que...
 
-- Porque ele - acudiu o morgado ao embaraço da senhora - recebeu da mão de D. Albertina uma esmola.
+\- Porque ele - acudiu o morgado ao embaraço da senhora - recebeu da mão de D. Albertina uma esmola.
 
-- Está enganado V. Sª... Eu... - balbuciou ela.
+\- Está enganado V. Sª... Eu... - balbuciou ela.
 
-- Pois repugna-lhe saber-se que deu uma esmola a um mendigo?!...
+\- Pois repugna-lhe saber-se que deu uma esmola a um mendigo?!...
 
-- Não... mas...
+\- Não... mas...
 
-- O Evangelho manda esconder da esquerda a caridade da mão direita; mas, se alguém acerta de nos ver esmolando, não sei para que havemos de negar uma acção boa, minha senhora!...
+\- O Evangelho manda esconder da esquerda a caridade da mão direita; mas, se alguém acerta de nos ver esmolando, não sei para que havemos de negar uma acção boa, minha senhora!...
 
-- Pois V. Sª viu-me dar esmola?!...
+\- Pois V. Sª viu-me dar esmola?!...
 
-- Quer que eu lhe prove evidentemente que vi?... Aqui tem!
+\- Quer que eu lhe prove evidentemente que vi?... Aqui tem!
 
 E, dizendo, mostrou a moeda de dez réis na palma da mão.
 
 Albertina ficou suspensa e atalhada, mormente quando viu Simão levar aos lábios a moeda de cobre.
 
-- Consente D. Albertina que eu possua este tesouro? - continuou ele.
+\- Consente D. Albertina que eu possua este tesouro? - continuou ele.
 
-- Se consinto...
+\- Se consinto...
 
-- Sim, minha senhora: se consente, certo é que me perdoa a audácia de o possuir. É um talismã, que traz consigo o pensamento virtuoso que inspirava à formosa Albertina a beneficência ao desgraçado, cuja mão se estendeu à sua caridade. Ficarei eu com a esmola; que dos dois homens o mais desgraçado não é aquele; sou eu, minha senhora.
+\- Sim, minha senhora: se consente, certo é que me perdoa a audácia de o possuir. É um talismã, que traz consigo o pensamento virtuoso que inspirava à formosa Albertina a beneficência ao desgraçado, cuja mão se estendeu à sua caridade. Ficarei eu com a esmola; que dos dois homens o mais desgraçado não é aquele; sou eu, minha senhora.
 
-- Mas quem... eu não sei como.. custa-me a compreender... Pois se...
+\- Mas quem... eu não sei como.. custa-me a compreender... Pois se...
 
 Albertina mal sabia que dizer. Todavia, sendo tamanha a sua confusão e a enchente de sua amargura, custou-lhe a sofrear o riso, quando Simão de Valadares levou segunda vez aos beiços o pedacinho de cobre, e dos beiços ao coração.
 
 Rematou o diálogo à porta de casa. Ao abrir-se o portão, o morgado olhou em direitura da igreja e viu o mendigo. Acenou-lhe, e disse a Albertina:
 
-- Este mendigo está debaixo da sua égide, minha senhora. Ficará sendo conhecido pelo pobre da srª D. Albertina. Há-de ele abençoar a hora em que a viu.
+\- Este mendigo está debaixo da sua égide, minha senhora. Ficará sendo conhecido pelo pobre da srª D. Albertina. Há-de ele abençoar a hora em que a viu.
 
 João Crisóstomo aproximou-se, cambaleando o passo o mais doentiamente que pôde.
 
-- Vem cá, homem - disse o morgado de Barbeita - espera no pátio que te dêem de almoçar; e, se não tiveres de ir hoje à tua vida, janta, e agasalha-te aí. Quando por aqui voltares, manda-me sempre dizer que és o pobre da srª O. Albertina. Entendes?
+\- Vem cá, homem - disse o morgado de Barbeita - espera no pátio que te dêem de almoçar; e, se não tiveres de ir hoje à tua vida, janta, e agasalha-te aí. Quando por aqui voltares, manda-me sempre dizer que és o pobre da srª O. Albertina. Entendes?
 
-- Sim, senhor - respondeu João, lançando os olhos a Albertina, que mordia o lenço para abafar o riso.
+\- Sim, senhor - respondeu João, lançando os olhos a Albertina, que mordia o lenço para abafar o riso.
 
-- Donde és? - tornou Valadares.
+\- Donde és? - tornou Valadares.
 
-- De longe, meu senhor.
+\- De longe, meu senhor.
 
-- Nunca andaste por estas terras?
+\- Nunca andaste por estas terras?
 
-- É a primeira vez.
+\- É a primeira vez.
 
-- Pois em hora ditosa cá vieste.
+\- Pois em hora ditosa cá vieste.
 
 Seguiram a álea de cilindras, que conduzia ao palacete. João Crisóstomo parou no pátio; e, enquanto Simão de Valadares subia, Albertina, com o disfarce de encanar uns alporques de cravos, avizinhou-se dele, e disse-lhe:
 
-- Cuidado que minha mãe te não conheça... Se eu não puder falar-te, escrevo-te.
+\- Cuidado que minha mãe te não conheça... Se eu não puder falar-te, escrevo-te.
 
 Daí a pouco, recebeu João Crisóstomo uma tigela de leite e um pedaço de pão duro.. Almoçou debaixo de um coberto, sentado na rodeira de um carro. Depois aconchegou-se de um recanto que parecia ser o ninho dos rafeiros, e fez que dormia.
 
 Era dia santificado. Ao toque da missa principal, saíram as senhoras Valadares, e mãe de Albertina, acompanhadas de Fernando e Simão. A mulher do doutor Negro ia dizendo ao perpassar pelo abrigo de João Crisóstomo:
 
-- Minha filha, com a sua madrugada, arranjou uma forte enxaqueca, e lá ficou na cama. Se conseguir dormir, passa-lhe.
+\- Minha filha, com a sua madrugada, arranjou uma forte enxaqueca, e lá ficou na cama. Se conseguir dormir, passa-lhe.
 
 Dai a poucos minutos, abriu-se uma janela, a mais próxima de João, e logo Albertina lhe fez sinal de aproximar-se, e disse com assustada precipitação:
 
-- Qual é o teu intento? Vens para fugirmos?
+\- Qual é o teu intento? Vens para fugirmos?
 
-- Ainda não.
+\- Ainda não.
 
-- Puis a que vieste?
+\- Puis a que vieste?
 
-- Ver-te... saber que me seguirás.
+\- Ver-te... saber que me seguirás.
 
-- Não to disse eu na minha carta? Que esperas tu agora?
+\- Não to disse eu na minha carta? Que esperas tu agora?
 
-- Recursos indispensáveis para a fuga.
+\- Recursos indispensáveis para a fuga.
 
-- Onde irás tu buscá-los, meu desgraçado amigo?
+\- Onde irás tu buscá-los, meu desgraçado amigo?
 
-- Se o céu mos não der, irei buscá-los ao inferno. Dentro de trinta dias, estarei morto ou contigo.
+\- Se o céu mos não der, irei buscá-los ao inferno. Dentro de trinta dias, estarei morto ou contigo.
 
-- Meu Deus!... - exclamou Albertina - eu posso esperar muitos trinta dias! Não te espero eu há três anos entre ferros? O João, ó querido da minha alma, que a tua desesperação não venha completar a minha desgraça!
+\- Meu Deus!... - exclamou Albertina - eu posso esperar muitos trinta dias! Não te espero eu há três anos entre ferros? O João, ó querido da minha alma, que a tua desesperação não venha completar a minha desgraça!
 
-- Não virá. Tu és uma forte alma, Albertina, pois não és, mártir?
+\- Não virá. Tu és uma forte alma, Albertina, pois não és, mártir?
 
-- Que maiores provas te darei, meu amigo?
+\- Que maiores provas te darei, meu amigo?
 
-- Então espera-me, e adeus! Volto a Braga; a nossa amiga te enviará as minhas cartas...
+\- Então espera-me, e adeus! Volto a Braga; a nossa amiga te enviará as minhas cartas...
 
-- Esconde-te! - disse Albertina, vendo Simão de Valadares despontar entre as cilindras do portal.
+\- Esconde-te! - disse Albertina, vendo Simão de Valadares despontar entre as cilindras do portal.
 
 João recolheu-se ao coberto, e Albertina ao seu quarto.
 
@@ -1170,39 +1170,39 @@ Neste conflito de muitas dores irritantes, foi João Crisóstomo procurado, no s
 
 Principiou assim Agostinho José Chaves:
 
-- Estimo muito que os seus trabalhos acabassem, sr. João Crisóstomo. Era já tempo.
+\- Estimo muito que os seus trabalhos acabassem, sr. João Crisóstomo. Era já tempo.
 
-- Muito agradecido.
+\- Muito agradecido.
 
-- Como? - perguntou o sujeito pondo ao ouvido a cometa. O moço conheceu que era delicadeza aproximar-se do hóspede e gritar-lhe.
+\- Como? - perguntou o sujeito pondo ao ouvido a cometa. O moço conheceu que era delicadeza aproximar-se do hóspede e gritar-lhe.
 
 Prosseguiu o sr. Chaves:
 
-- Fizeram-lhe uma grande iniquidade, sr. João! Patifes! Puseram as leis ao serviço da desonra! Antes quiseram deixar desacreditada uma menina que remediar um desvario com o casamento. Que pai é aquele preto! Tem o coração da cor da cara, ou mais negro, se é possível... Que é feito da menina? Está com ele?
+\- Fizeram-lhe uma grande iniquidade, sr. João! Patifes! Puseram as leis ao serviço da desonra! Antes quiseram deixar desacreditada uma menina que remediar um desvario com o casamento. Que pai é aquele preto! Tem o coração da cor da cara, ou mais negro, se é possível... Que é feito da menina? Está com ele?
 
-- Não, senhor. Está longe do Porto - respondeu João Crisóstomo com desagrado, e continuou: - Devo desde já dizer a V. Sª que a srª D. Albertina não deu motivo algum a que o mundo a considere desacreditada.
+\- Não, senhor. Está longe do Porto - respondeu João Crisóstomo com desagrado, e continuou: - Devo desde já dizer a V. Sª que a srª D. Albertina não deu motivo algum a que o mundo a considere desacreditada.
 
-- Assim será, meu caro sr. João - replicou Agostinho-, mas quem pede tapar as bocas do mundo? Quem as abriu foi o preto, o selvagem! E o senhor agora que faz? Cuida em casar, ou desiste?
+\- Assim será, meu caro sr. João - replicou Agostinho-, mas quem pede tapar as bocas do mundo? Quem as abriu foi o preto, o selvagem! E o senhor agora que faz? Cuida em casar, ou desiste?
 
-- Espero - respondeu João.
+\- Espero - respondeu João.
 
-- Tenho verdadeira pena do senhor! - voltou Agostinho, abanando a cabeça. – O meu gosto era vê-lo casado e vingado.
+\- Tenho verdadeira pena do senhor! - voltou Agostinho, abanando a cabeça. – O meu gosto era vê-lo casado e vingado.
 
-- Mas - atalhou o copista, desconfiado da sinceridade do sujeito, e suspeitando-o enviado do doutor Negro - que conhecimento tem V. Sª de mim para tamanha compaixão dos meus infortúnios?
+\- Mas - atalhou o copista, desconfiado da sinceridade do sujeito, e suspeitando-o enviado do doutor Negro - que conhecimento tem V. Sª de mim para tamanha compaixão dos meus infortúnios?
 
-- Não preciso conhecê-lo para me compadecer. Basta que eu lhe diga que sou inimigo há dez anos do doutor Negro. Foi contra mim numa causa em que perdi quarenta mil cruzados.
+\- Não preciso conhecê-lo para me compadecer. Basta que eu lhe diga que sou inimigo há dez anos do doutor Negro. Foi contra mim numa causa em que perdi quarenta mil cruzados.
 
-- Seriam as leis e não ele - atalhou João Crisóstomo, avaliando com menosprezo a inimizade do homem ao advogado adverso.
+\- Seriam as leis e não ele - atalhou João Crisóstomo, avaliando com menosprezo a inimizade do homem ao advogado adverso.
 
-- Foi ele, não foram as leis; foi o preto que fez o branco da sua cor; foram os sofismas, as trapaças, as ladras tramóias da sua habilidade. Enganou a estupidez ou a boa fé dos desembargadores do Porto, e dos desembargadores da suplicação. Fez a maroteira, e gabou-se de a fazer. Homens assim não são sacerdotes da lei; são ladrões que saem à estrada de beca. Eu perdi bens no valor de quarenta mil cruzados: paguei as custas da demanda; e, se não fosse muito rico, ficava pobre.
+\- Foi ele, não foram as leis; foi o preto que fez o branco da sua cor; foram os sofismas, as trapaças, as ladras tramóias da sua habilidade. Enganou a estupidez ou a boa fé dos desembargadores do Porto, e dos desembargadores da suplicação. Fez a maroteira, e gabou-se de a fazer. Homens assim não são sacerdotes da lei; são ladrões que saem à estrada de beca. Eu perdi bens no valor de quarenta mil cruzados: paguei as custas da demanda; e, se não fosse muito rico, ficava pobre.
 
 Quando ele disse muito rico, os olhos de João Crisóstomo fitaram Agostinho José Chaves com certo brilho e penetração. Era o olhar faminto do ouro, que não tem nos humanos outro que o assemelhe.
 
-- Ora aqui tem o senhor - prosseguiu o surdo - porque eu queria ver aquele cafre bem esmagado. Além disso, eu sei que vossemecê é um rapaz de boas qualidades, trabalhador, e honrado. Pena é que seja pobre; porque, a falar-lhe a verdade, do modo que está este mundo, não se pode ser pobre. A virtude ninguém dá por ela, se o dinheiro não tine no lugar onde ela está. A gente admira-se quando vê um pobre virtuoso; mas ninguém pergunta com que linhas ele se alinhava. Se ele descamba um pé na estrada torta da honra - torta, digo eu, porque o piso é muito ruim; e, primeiro que um homem chegue ao caminho chão, quebra-se a cabeça um cento de vezes - se acerta de escorregar, lá vai, quanto Marta fiou; todos vêem a escorregadela, e esquecem as virtudes passadas; ficam todos desconfiados dele, e o que foi, já o não abona para o que há-de ser. O mundo é assim meu caro amigo e sr. João. Ora diga-me vossemecê: visitou-o muita gente nos três anos que esteve preso? Não precisa responder que eu bem sei que não. Pois aí tem. Muito honrado, muito honrado, mas lá te avenhas como puderes. Trabalha, se quiseres viver; senão, deixa-te morrer, que eu o mais que posso fazer-te é dizer que tu eras um moço muito honrado. É o que diz o mundo. Está-me a parecer que o sr. João se fosse um pouquinho atratantado, por exemplo, se, quando entrou na cadeia, levasse uns cinquenta mil cruzados, roubados ao órfão ou à viúva, com o auxílio da jurisprudência do doutor Francisco Simões de Alpedrinha, está-me a parecer, repito, que vossemecê, apesar de ladrão, havia de ter muito quem o visitasse, e pusesse ao seu serviço dinheiro, por saberem que o senhor o dispensava! É o mundo: não há dar-lhe volta. Quem não estiver bem, mude-se. Agora - acrescentou Chaves, alimpando os óculos - pergunta-me vossemecê porque não fui eu melhor que o resto do mundo, se tanto me admiro da sua honradez. Tem razão; mas eu vou responder. Em primeiro lugar, eu estava em Lisboa, cuidando das minhas demandas, quando vossemecê foi condenado; em segundo lugar, quando cheguei ao Porto, recebi a triste nova de que estava a dar alma a Deus minha mulher, e parti logo para a Póvoa de Varzim donde sou natural. Depois, quando tornei ao Porto, quis procurar o sr. João para lhe oferecer a minha bolsa; mas nessa ocasião apanhei uma catarral, e sobreveio-me logo uma dor de ouvidos. de que fiquei surdo a ponto de precisar desta cometa para ouvir alguma coisa; e, como uma desgraça nunca vem sozinha, quando estava resignado com a surdez, atacou-me uma inflamação de olhos, que me pôs em risco de cegar. Mandaram-me para a minha terra, e só agora é que pude tomar ao Porto. Ora aqui tem.
+\- Ora aqui tem o senhor - prosseguiu o surdo - porque eu queria ver aquele cafre bem esmagado. Além disso, eu sei que vossemecê é um rapaz de boas qualidades, trabalhador, e honrado. Pena é que seja pobre; porque, a falar-lhe a verdade, do modo que está este mundo, não se pode ser pobre. A virtude ninguém dá por ela, se o dinheiro não tine no lugar onde ela está. A gente admira-se quando vê um pobre virtuoso; mas ninguém pergunta com que linhas ele se alinhava. Se ele descamba um pé na estrada torta da honra - torta, digo eu, porque o piso é muito ruim; e, primeiro que um homem chegue ao caminho chão, quebra-se a cabeça um cento de vezes - se acerta de escorregar, lá vai, quanto Marta fiou; todos vêem a escorregadela, e esquecem as virtudes passadas; ficam todos desconfiados dele, e o que foi, já o não abona para o que há-de ser. O mundo é assim meu caro amigo e sr. João. Ora diga-me vossemecê: visitou-o muita gente nos três anos que esteve preso? Não precisa responder que eu bem sei que não. Pois aí tem. Muito honrado, muito honrado, mas lá te avenhas como puderes. Trabalha, se quiseres viver; senão, deixa-te morrer, que eu o mais que posso fazer-te é dizer que tu eras um moço muito honrado. É o que diz o mundo. Está-me a parecer que o sr. João se fosse um pouquinho atratantado, por exemplo, se, quando entrou na cadeia, levasse uns cinquenta mil cruzados, roubados ao órfão ou à viúva, com o auxílio da jurisprudência do doutor Francisco Simões de Alpedrinha, está-me a parecer, repito, que vossemecê, apesar de ladrão, havia de ter muito quem o visitasse, e pusesse ao seu serviço dinheiro, por saberem que o senhor o dispensava! É o mundo: não há dar-lhe volta. Quem não estiver bem, mude-se. Agora - acrescentou Chaves, alimpando os óculos - pergunta-me vossemecê porque não fui eu melhor que o resto do mundo, se tanto me admiro da sua honradez. Tem razão; mas eu vou responder. Em primeiro lugar, eu estava em Lisboa, cuidando das minhas demandas, quando vossemecê foi condenado; em segundo lugar, quando cheguei ao Porto, recebi a triste nova de que estava a dar alma a Deus minha mulher, e parti logo para a Póvoa de Varzim donde sou natural. Depois, quando tornei ao Porto, quis procurar o sr. João para lhe oferecer a minha bolsa; mas nessa ocasião apanhei uma catarral, e sobreveio-me logo uma dor de ouvidos. de que fiquei surdo a ponto de precisar desta cometa para ouvir alguma coisa; e, como uma desgraça nunca vem sozinha, quando estava resignado com a surdez, atacou-me uma inflamação de olhos, que me pôs em risco de cegar. Mandaram-me para a minha terra, e só agora é que pude tomar ao Porto. Ora aqui tem.
 
-- Muito obrigado - disse João Crisóstomo bem intencionado. - Escusava V. Sª de dar tão minuciosas explicações do que não é nem levemente uma falta.
+\- Muito obrigado - disse João Crisóstomo bem intencionado. - Escusava V. Sª de dar tão minuciosas explicações do que não é nem levemente uma falta.
 
-- Vou fazer-lhe uma observação - atalhou Agostinho. - Faça favor de me não dar senhoria, que eu não a tenho, nem quero. Chamo-me Agostinho José Chaves. Sou proprietário, filho e neto de lavradores. Tenho algum dinheiro e algumas terras: cá me vou arranjando com isto sem senhoria. Vamos ao que importa: vossemecê quer alguma coisa de mim? Basta de palavriado. Aqui está um homem dos que servem nas ocasiões de apuro. Precisa de dinheiro? Quer começar algum modo de vida mais rendoso que o que tem? Eu sei que o sr. João está escrevendo em casa do tabelião Ferreira: trabalha para ir vivendo, mas deve trabalhar para mais alguma coisa. Se, com dinheiro, pode casar-se, pondo outra vez demanda contra o preto, ou fugindo com a moça por esse mundo fora, e casar com ela no Brasil... É verdade! que feliz ideia! porque não vai o senhor para o Brasil e mais ela? Aquilo é que é terra para ganhar dinheiro. Eu já lá estive uns cinco anos, e, se não ficasse herdeiro dum irmão, a esta hora tinha ganhado cem contos de réis, com uma perna a costas. Vá para o Brasil, leve consigo a menina, e lê. case, ou não case, que ninguém lhe pergunta quantos anos tem. Pense nisto, sr. João.
+\- Vou fazer-lhe uma observação - atalhou Agostinho. - Faça favor de me não dar senhoria, que eu não a tenho, nem quero. Chamo-me Agostinho José Chaves. Sou proprietário, filho e neto de lavradores. Tenho algum dinheiro e algumas terras: cá me vou arranjando com isto sem senhoria. Vamos ao que importa: vossemecê quer alguma coisa de mim? Basta de palavriado. Aqui está um homem dos que servem nas ocasiões de apuro. Precisa de dinheiro? Quer começar algum modo de vida mais rendoso que o que tem? Eu sei que o sr. João está escrevendo em casa do tabelião Ferreira: trabalha para ir vivendo, mas deve trabalhar para mais alguma coisa. Se, com dinheiro, pode casar-se, pondo outra vez demanda contra o preto, ou fugindo com a moça por esse mundo fora, e casar com ela no Brasil... É verdade! que feliz ideia! porque não vai o senhor para o Brasil e mais ela? Aquilo é que é terra para ganhar dinheiro. Eu já lá estive uns cinco anos, e, se não ficasse herdeiro dum irmão, a esta hora tinha ganhado cem contos de réis, com uma perna a costas. Vá para o Brasil, leve consigo a menina, e lê. case, ou não case, que ninguém lhe pergunta quantos anos tem. Pense nisto, sr. João.
 
 Dinheiro há; falta a resolução. Que me diz?
 
@@ -1210,23 +1210,23 @@ João Crisóstomo ouvia-o com alvoroço, e um desafogo de espírito, um desoprim
 
 Ainda assim, a veemência do desejo não subordinou de pronto os ditames da razão. À repetida pergunta de Agostinho, sobre se queria dinheiro, o moço respondeu:
 
-- O que eu desde já quero e preciso é beijar-lhe as mãos, sr. Chaves.
+\- O que eu desde já quero e preciso é beijar-lhe as mãos, sr. Chaves.
 
-- Alto lá! não consinto - clamou o hóspede generoso, retirando as mãos. - Diga o que quer de mim com franqueza.
+\- Alto lá! não consinto - clamou o hóspede generoso, retirando as mãos. - Diga o que quer de mim com franqueza.
 
-- Eu responderei no espaço de oito dias: preciso consultar a minha infeliz amiga. O seu pensamento do Brasil, encanta-me, sr. Chaves! Trabalhar ao lado da mulher que amo, toda a vida! Morrer abençoado dela e da sociedade!...
+\- Eu responderei no espaço de oito dias: preciso consultar a minha infeliz amiga. O seu pensamento do Brasil, encanta-me, sr. Chaves! Trabalhar ao lado da mulher que amo, toda a vida! Morrer abençoado dela e da sociedade!...
 
 João Crisóstomo susteve aqui o entusiasmo da sua nobre alegria, porque lhe era necessário gritar mais do que os pulmões lhe outorgavam. O surdo abraçou-o, e disse-lhe:
 
-- Escreva-me, quando quiser para a Póvoa de Varzim, que eu parto hoje. Ali estou às ordens.
+\- Escreva-me, quando quiser para a Póvoa de Varzim, que eu parto hoje. Ali estou às ordens.
 
-- É um anjo que Deus enviou ao antro das dores - exclamou João. - Saiba agora, ar. Chaves, que deixa nesta casa um coração a transbordar de felicidade e gratidão.
+\- É um anjo que Deus enviou ao antro das dores - exclamou João. - Saiba agora, ar. Chaves, que deixa nesta casa um coração a transbordar de felicidade e gratidão.
 
-- É o que se quer.
+\- É o que se quer.
 
-- Albertina há-de abençoar o seu nome.
+\- Albertina há-de abençoar o seu nome.
 
-- Coitada da pobre menina! Adeus, adeus. Contem ambos comigo.
+\- Coitada da pobre menina! Adeus, adeus. Contem ambos comigo.
 
 Saiu Agostinho José Chaves limpando os olhos; e João pôs as mãos sobre o peito, os olhos no céu, e orou. Depois, sentou-se a escrever uma carta, que principiava assim:
 
@@ -1257,37 +1257,37 @@ Uma delas, com risonho semblante, lhe disse um dia que o pai estava morto por lh
 
 Fernando disse o seguinte, depois de um longo preparo de frases conducentes a pedir perdão do seu atrevimento:
 
-- Meu irmão está doido por V. Exª Todos sabemos que a srª D. Albertina rejeita a proposta do absurdo casamento, que seria a desgraça de ambos e a desordem irremediável desta casa. Porém, a cabeça de meu pobre irmão está desnorteada, e não há tirar-lhe dela a esperança de que V. Exª se há-de deixar levar da ambição de ser senhora desta casa, embora se faça escrava de um velho. Todos fazemos justiça à srª D. Albertina, excepto meu irmão. Permita-me agora V. Ex. uma pergunta: Esta situação é-lhe custosa?
+\- Meu irmão está doido por V. Exª Todos sabemos que a srª D. Albertina rejeita a proposta do absurdo casamento, que seria a desgraça de ambos e a desordem irremediável desta casa. Porém, a cabeça de meu pobre irmão está desnorteada, e não há tirar-lhe dela a esperança de que V. Exª se há-de deixar levar da ambição de ser senhora desta casa, embora se faça escrava de um velho. Todos fazemos justiça à srª D. Albertina, excepto meu irmão. Permita-me agora V. Ex. uma pergunta: Esta situação é-lhe custosa?
 
-- Muito - respondeu Albertina. - Peço continuamente a Deus e à minha imaginação um remédio pronto a isto, que é para mim, ao mesmo tempo, vergonha e suplício. Mas não sei que fazer-lhe: é tudo contra mim. Meu pai impõe-me a sua maldição; minha mãe está sempre a mortificar-me; o sr. Simão é a minha sombra; e, por sobre tudo, o desagrado destas senhoras que deviam ser mais justas e piedosas comigo.
+\- Muito - respondeu Albertina. - Peço continuamente a Deus e à minha imaginação um remédio pronto a isto, que é para mim, ao mesmo tempo, vergonha e suplício. Mas não sei que fazer-lhe: é tudo contra mim. Meu pai impõe-me a sua maldição; minha mãe está sempre a mortificar-me; o sr. Simão é a minha sombra; e, por sobre tudo, o desagrado destas senhoras que deviam ser mais justas e piedosas comigo.
 
-- Perdoe-lhes, V. Exª - atalhou Fernando comovido -, que elas receiam a pobreza e desconhecem o melhor do carácter da srª D. Albertina. Como sabe, eu sou filho segundo, tenho um pequeno património, que me não rende o necessário para o pão de minha família. Se meu irmão casa, serei expulso daqui. O futuro destas meninas qual será?! Tristíssimo, minha senhora!
+\- Perdoe-lhes, V. Exª - atalhou Fernando comovido -, que elas receiam a pobreza e desconhecem o melhor do carácter da srª D. Albertina. Como sabe, eu sou filho segundo, tenho um pequeno património, que me não rende o necessário para o pão de minha família. Se meu irmão casa, serei expulso daqui. O futuro destas meninas qual será?! Tristíssimo, minha senhora!
 
-- Pois bem! - acudiu Albertina - eu lhe juro pelo santíssimo nome de Deus e da Virgem que nunca hei-de casar com o sr. Simão de Valadares.
+\- Pois bem! - acudiu Albertina - eu lhe juro pelo santíssimo nome de Deus e da Virgem que nunca hei-de casar com o sr. Simão de Valadares.
 
-- Aceito o seu juramento! - redarguiu Fernando - mas é necessário que esta ideia se desvaneça do ânimo de meu irmão.
+\- Aceito o seu juramento! - redarguiu Fernando - mas é necessário que esta ideia se desvaneça do ânimo de meu irmão.
 
-- Que posso eu fazer? desenganá-lo? Todos os meus modos, todas as minhas palavras são um desengano. Já lhe disse que amava outro homem...
+\- Que posso eu fazer? desenganá-lo? Todos os meus modos, todas as minhas palavras são um desengano. Já lhe disse que amava outro homem...
 
-- Bem! - interrompeu Fernando de Valadares. - Chegámos ao ponto. essencial. Sei que V. Exª ama outro homem; e, pelo amor que lhe tem, lhe peço que me consinta uma outra pergunta, tendente à felicidade de ambos: Por que motivo se não une a esse homem que ama?
+\- Bem! - interrompeu Fernando de Valadares. - Chegámos ao ponto. essencial. Sei que V. Exª ama outro homem; e, pelo amor que lhe tem, lhe peço que me consinta uma outra pergunta, tendente à felicidade de ambos: Por que motivo se não une a esse homem que ama?
 
-- Bem sabe que mo impede meu pai.
+\- Bem sabe que mo impede meu pai.
 
-- Sei; mas, se de outra vez se desembaraçou da vontade caprichosa de seu pai, porque não tenta uma segunda fuga? Porque se não metem em Espanha, e lá se casam oportuna e sossegadamente?
+\- Sei; mas, se de outra vez se desembaraçou da vontade caprichosa de seu pai, porque não tenta uma segunda fuga? Porque se não metem em Espanha, e lá se casam oportuna e sossegadamente?
 
-- O homem que eu amo é pobre - respondeu Albertina, vencendo nesta confissão a resistência da natural vaidade.
+\- O homem que eu amo é pobre - respondeu Albertina, vencendo nesta confissão a resistência da natural vaidade.
 
-- Também sei que é pobre; mas, ao mesmo tempo, tenho notícia de que é honrado. Porventura, se ele quiser dinheiro, faltará um amigo de V. Exª ou dele que lho empreste?
+\- Também sei que é pobre; mas, ao mesmo tempo, tenho notícia de que é honrado. Porventura, se ele quiser dinheiro, faltará um amigo de V. Exª ou dele que lho empreste?
 
-- Não sei... - disse Albertina. - Ele cuida em obter meios para a nossa fuga; mas V. Sª, pela boa sorte de suas filhas, não nos descubra.
+\- Não sei... - disse Albertina. - Ele cuida em obter meios para a nossa fuga; mas V. Sª, pela boa sorte de suas filhas, não nos descubra.
 
-- Oh! minha senhora! por quem é, não me desdoure assim no seu conceito! Pois não sou eu mesmo quem está aconselhando a fuga, porque a julgo uma necessidade extrema, embora eu seja pai, e como tal deva aconselhar a obediência a uma filha!? Mas especialíssimas são as circunstâncias de V. Exª. Os ditames de submissão filial, neste caso, seriam empeçonhar-lhe a existência para sempre, minha senhora. Seu pai está cego de orgulho, e não vê o abismo em que despenha a sua querida filha. O tempo foge-nos, e eu receio que Simão a ande procurando. Em resumo, srª D. Albertina, eu ofereço a V. Exª e ao cavalheiro que a ama um conto de réis que tenho das minhas economias. Este dinheiro pagar-me-ão, quando puderem, e, se nunca puderem, esqueçam o credor, e lembrem-se do amigo. Agora peço mil perdões da afouteza com que falei neste assunto grosseiro de recursos a uma senhora, que ignora o valor das misérias reais da vida. Além do dinheiro, ofereço-lhes uma carta, que entregarão em Tui a um meu amigo. Este os conduzirá onde quiserem ir, e lhes desempecerá alguns obstáculos que impeçam à sua união. É o mais que posso e o menos do que desejo fazer-lhes.
+\- Oh! minha senhora! por quem é, não me desdoure assim no seu conceito! Pois não sou eu mesmo quem está aconselhando a fuga, porque a julgo uma necessidade extrema, embora eu seja pai, e como tal deva aconselhar a obediência a uma filha!? Mas especialíssimas são as circunstâncias de V. Exª. Os ditames de submissão filial, neste caso, seriam empeçonhar-lhe a existência para sempre, minha senhora. Seu pai está cego de orgulho, e não vê o abismo em que despenha a sua querida filha. O tempo foge-nos, e eu receio que Simão a ande procurando. Em resumo, srª D. Albertina, eu ofereço a V. Exª e ao cavalheiro que a ama um conto de réis que tenho das minhas economias. Este dinheiro pagar-me-ão, quando puderem, e, se nunca puderem, esqueçam o credor, e lembrem-se do amigo. Agora peço mil perdões da afouteza com que falei neste assunto grosseiro de recursos a uma senhora, que ignora o valor das misérias reais da vida. Além do dinheiro, ofereço-lhes uma carta, que entregarão em Tui a um meu amigo. Este os conduzirá onde quiserem ir, e lhes desempecerá alguns obstáculos que impeçam à sua união. É o mais que posso e o menos do que desejo fazer-lhes.
 
-- É muito - exclamou Albertina com sumo júbilo, e lágrimas de reconhecimento.
+\- É muito - exclamou Albertina com sumo júbilo, e lágrimas de reconhecimento.
 
-- Vou escrever, e espero que o meu infeliz amigo aceitará o empréstimo.
+\- Vou escrever, e espero que o meu infeliz amigo aceitará o empréstimo.
 
-- Deus o permita concluiu Fernando de Valadares, contentíssimo do êxito da sua traça generosa, perdoada a intenção da generosidade. Aqui está, portanto, outro enviado da Providência, quando os dois contrariados amantes se julgavam em completo desabrigo.
+\- Deus o permita concluiu Fernando de Valadares, contentíssimo do êxito da sua traça generosa, perdoada a intenção da generosidade. Aqui está, portanto, outro enviado da Providência, quando os dois contrariados amantes se julgavam em completo desabrigo.
 
 Deu-se pressa a filha do doutor Negro em escrever a João Crisóstomo, mediante a desvelada amiga de Braga. Encontraram-se no caminho as duas cartas consoladoras. A do Porto vinha contando o diálogo com Agostinho José Chaves e rematava pedindo o aplauso de Albertina para haver o dinheiro.
 
@@ -1305,33 +1305,33 @@ No segundo dia em que João Crisóstomo esperava o benfeitor da Póvoa de Varzim
 
 Chegou Agostinho José Chaves, e disse:
 
-- Graças a Deus! Eu estava a recear que o diabo protector do preto me contrariasse os meus bons intentos! Vamos ao cerro do cafre: desta vez há-de-lhe suar a carapinha à falta de topete. Vamos a saber, que eu interesso-me nas menores coisas da sua fortuna. Já combinou com a pequena a ida para o Brasil?
+\- Graças a Deus! Eu estava a recear que o diabo protector do preto me contrariasse os meus bons intentos! Vamos ao cerro do cafre: desta vez há-de-lhe suar a carapinha à falta de topete. Vamos a saber, que eu interesso-me nas menores coisas da sua fortuna. Já combinou com a pequena a ida para o Brasil?
 
 João Crisóstomo mostrou a sua correspondência, e disse:
 
-- Como já sabe, rejeitei o oferecimento do conto de réis...
+\- Como já sabe, rejeitei o oferecimento do conto de réis...
 
-- Se o aceitasse, tinha em mim um inimigo declarado por toda a vida - atalhou o Chaves.
+\- Se o aceitasse, tinha em mim um inimigo declarado por toda a vida - atalhou o Chaves.
 
-- Mas - continuou o moço - resolvi ir primeiro a Espanha receber minha esposa, e depois embarcaremos de lá para o Brasil.
+\- Mas - continuou o moço - resolvi ir primeiro a Espanha receber minha esposa, e depois embarcaremos de lá para o Brasil.
 
-- Faz muito bem: é bem pensado o plano. Podendo ir ligado com a menina à face da igreja, levam as suas consciências mais tranquilas, e em toda a parte serão tidos em melhor conta. A virtude, quando há dinheiro, é azul sobre o ouro, ou ouro sobre o azul, que leva tudo as mesmas voltas. Aqui tem vossemecê - prosseguiu Agostinho José Chaves tirando rolos de peças e prata das amplas algibeiras da casaca de saragoça duzentas moedas. Cento e cinquenta são as que pediu para pagar quando lhe não fizerem falta. As cinquenta moedas, que vêm a maior, ofereço eu à srª D. Albertina como prenda de casamento.
+\- Faz muito bem: é bem pensado o plano. Podendo ir ligado com a menina à face da igreja, levam as suas consciências mais tranquilas, e em toda a parte serão tidos em melhor conta. A virtude, quando há dinheiro, é azul sobre o ouro, ou ouro sobre o azul, que leva tudo as mesmas voltas. Aqui tem vossemecê - prosseguiu Agostinho José Chaves tirando rolos de peças e prata das amplas algibeiras da casaca de saragoça duzentas moedas. Cento e cinquenta são as que pediu para pagar quando lhe não fizerem falta. As cinquenta moedas, que vêm a maior, ofereço eu à srª D. Albertina como prenda de casamento.
 
-- Mil graças! - clamou João Crisóstomo. -Mil graças à sua bondade, que excede a medida da benquerença humana! Veja estas lágrimas, sr. Chaves!
+\- Mil graças! - clamou João Crisóstomo. -Mil graças à sua bondade, que excede a medida da benquerença humana! Veja estas lágrimas, sr. Chaves!
 
-- Não posso - atalhou ele sorrindo - que sou muito curto de vista. Nada de lágrimas! Alegria, e mais alegria! Quando vai o senhor tirar a pobre menina desse inferno?
+\- Não posso - atalhou ele sorrindo - que sou muito curto de vista. Nada de lágrimas! Alegria, e mais alegria! Quando vai o senhor tirar a pobre menina desse inferno?
 
-- Poderei demorar-me quinze dias em arranjos e combinações. Tenho de me entender com um cavalheiro de Braga, a quem devo grandes finezas. Não sei se ela poderá fugir sem estrondo, ou se me será preciso recorrer à violência. Convém ir preparado para tudo, visto que o tal Simão está suspeitoso.
+\- Poderei demorar-me quinze dias em arranjos e combinações. Tenho de me entender com um cavalheiro de Braga, a quem devo grandes finezas. Não sei se ela poderá fugir sem estrondo, ou se me será preciso recorrer à violência. Convém ir preparado para tudo, visto que o tal Simão está suspeitoso.
 
-- Faça a coisa de modo que não desnoque alguma perna - reflectiu Chaves. – O melhor é que ela fuja sem estrondo, nem desconfianças do preto... Cuidado com o número um, sr. João! Esta gente lá da serra anda afeita a atirar aos lobos, e matam um homem com uma sem-cerimónia que não lhe digo nada. Olhe cá, sr. João Crisóstomo, vossemecê agora, nestes dias que por cá se demora, não torna a casa do tabelião Ferreira?
+\- Faça a coisa de modo que não desnoque alguma perna - reflectiu Chaves. – O melhor é que ela fuja sem estrondo, nem desconfianças do preto... Cuidado com o número um, sr. João! Esta gente lá da serra anda afeita a atirar aos lobos, e matam um homem com uma sem-cerimónia que não lhe digo nada. Olhe cá, sr. João Crisóstomo, vossemecê agora, nestes dias que por cá se demora, não torna a casa do tabelião Ferreira?
 
-- Hei-de tornar todos os dias - respondeu João Crisóstomo - porque não posso estar ocioso, nem quero suscitar desconfianças. Eu sei que o doutor Alpedrinha pergunta por mim ao tabelião Ferreira.
+\- Hei-de tornar todos os dias - respondeu João Crisóstomo - porque não posso estar ocioso, nem quero suscitar desconfianças. Eu sei que o doutor Alpedrinha pergunta por mim ao tabelião Ferreira.
 
 Faz muito bem; acho isso muito acertado, e é boa ocasião de vossemecê me fazer um favorito.
 
-- Pois posso ser-lhe útil em alguma coisa? Dê-me a felicidade de o servir, sr. Chaves.
+\- Pois posso ser-lhe útil em alguma coisa? Dê-me a felicidade de o servir, sr. Chaves.
 
-- É uma coisita, que lhe não custa nada, meu amigo. Ora ouça lá..49
+\- É uma coisita, que lhe não custa nada, meu amigo. Ora ouça lá..49
 
 
 
@@ -1339,75 +1339,75 @@ Faz muito bem; acho isso muito acertado, e é boa ocasião de vossemecê me faze
     
 Agostinho limpou os óculos, e continuou:
 
-- Eu tenho desejo de ver uma escritura de compra de uma fazendória, que meu pai, Deus lhe fale na alma, comprou há coisa de vinte e cinco anos. Acho que foi em 1790. A nota onde a escritura foi lavrada está no cartório do tabelião Ferreira. Se o meu amigo, não lhe custando isso, poder trazer-me a nota por um ou dois dias, faz-me muito favor.
+\- Eu tenho desejo de ver uma escritura de compra de uma fazendória, que meu pai, Deus lhe fale na alma, comprou há coisa de vinte e cinco anos. Acho que foi em 1790. A nota onde a escritura foi lavrada está no cartório do tabelião Ferreira. Se o meu amigo, não lhe custando isso, poder trazer-me a nota por um ou dois dias, faz-me muito favor.
 
-- Isso é muito fácil, sr. Chaves - disse o amanuense - e não pode chamar-se favor grande nem pequeno. Hoje mesmo, se o senhor quiser.
+\- Isso é muito fácil, sr. Chaves - disse o amanuense - e não pode chamar-se favor grande nem pequeno. Hoje mesmo, se o senhor quiser.
 
-- Quando lhe lembrar, meu amigo. A nota, corno lhe disse, é de 1790. Ora agora, se lá vai hoje, eu volto por aqui ao fim da tarde; e depois de amanhã, cá estou com ela. É pr'amor de uma teima de água de rega, que me tem dado zangas; mas não quero entrar em demanda, sem ver como a escritura está lavrada.
+\- Quando lhe lembrar, meu amigo. A nota, corno lhe disse, é de 1790. Ora agora, se lá vai hoje, eu volto por aqui ao fim da tarde; e depois de amanhã, cá estou com ela. É pr'amor de uma teima de água de rega, que me tem dado zangas; mas não quero entrar em demanda, sem ver como a escritura está lavrada.
 
-- Pois tenha a bondade de vir aqui às cinco horas, meu bom amigo.
+\- Pois tenha a bondade de vir aqui às cinco horas, meu bom amigo.
 
 João Crisóstomo, a ocultas do tabelião levou para casa a nota, que entregou a Agostinho José Chaves.
 
 Volvidos os dois dias marcados, apareceu o proprietário da Póvoa de Varzim a restituir a nota, dizendo:
 
-- Aqui está com mil agradecimentos. Como vossemecê ainda cá se demora no Porto, eu hei-de aqui voltar com o meu letrado para ele examinar a escritura, se o sr. João tiver a bondade de a trazer outra vez.
+\- Aqui está com mil agradecimentos. Como vossemecê ainda cá se demora no Porto, eu hei-de aqui voltar com o meu letrado para ele examinar a escritura, se o sr. João tiver a bondade de a trazer outra vez.
 
-- Mas - atalhou o moço - não será melhor que o sr. Chaves a conserve enquanto precisar dela? Provavelmente o tabelião não tem que trasladar da nota por estes quinze dias; e então, quando a dispensar, o senhor fará favor de a trazer.
+\- Mas - atalhou o moço - não será melhor que o sr. Chaves a conserve enquanto precisar dela? Provavelmente o tabelião não tem que trasladar da nota por estes quinze dias; e então, quando a dispensar, o senhor fará favor de a trazer.
 
-- Como vossemecê quiser, sr. João - tornou Agostinho. - Nesse caso, levo-a, e, passados quatro dias, aqui estou.
+\- Como vossemecê quiser, sr. João - tornou Agostinho. - Nesse caso, levo-a, e, passados quatro dias, aqui estou.
 
 Dois dias depois, estando o amanuense do tabelião à mesa do trabalho no escritório, entraram uns lavradores pedindo a cópia de uma escritura de venda de bens a retroaberto, lavrada na nota do antecessor.
 
-- Em que ano? -perguntou João Crisóstomo.
+\- Em que ano? -perguntou João Crisóstomo.
 
-- Em 1790.
+\- Em 1790.
 
-- Esquisita coincidência!. -disse entre si o amanuense -. Felizmente que estou sozinho! - E respondeu aos lavradores:
+\- Esquisita coincidência!. -disse entre si o amanuense -. Felizmente que estou sozinho! - E respondeu aos lavradores:
 
-- Não se pode fazer já esse serviço; venham passados seis dias, procurar o traslado da escritura. Digam lá os nomes de compradores e vendedores.
+\- Não se pode fazer já esse serviço; venham passados seis dias, procurar o traslado da escritura. Digam lá os nomes de compradores e vendedores.
 
-- O comprador foi Gervásio Alves da Quintã - respondeu um dos lavradores. - Os vendedores a retroaberto, com prazo. marcado de vinte e cinco anos, que acabam em Dezembro, foram Sebastião França e sua mulher Comes, naturais de Fânzeres. A compra foi por quarenta mil cruzados. E vai agora - continuou o lavrador - o filho do sujeito que comprou diz que...
+\- O comprador foi Gervásio Alves da Quintã - respondeu um dos lavradores. - Os vendedores a retroaberto, com prazo. marcado de vinte e cinco anos, que acabam em Dezembro, foram Sebastião França e sua mulher Comes, naturais de Fânzeres. A compra foi por quarenta mil cruzados. E vai agora - continuou o lavrador - o filho do sujeito que comprou diz que...
 
-- Não tenho nada com o que diz o filho do comprador - interrompeu João Crisóstomo -. Venham vossemecês procurar a escritura findos seis dias.
+\- Não tenho nada com o que diz o filho do comprador - interrompeu João Crisóstomo -. Venham vossemecês procurar a escritura findos seis dias.
 
 Quando Agostinho José Chaves voltou com a nota, o amanuense contou-lhe o notável caso de ser pedido traslado duma escritura da mesma nota. Chaves deu ares de afligido com o dissabor do seu amigo; este, porém, tranquilizou-o, asseverando-lhe que não tivera a menor inquietação, visto que o tabelião ignorava ainda o pedido do traslado.
 
 Agostinho perguntou ainda sobre que versava a escritura pedida. João deu-lhe as poucas ideias que tinha de as ter escrito no seu livro de apontamentos, coisa em que o interlocutor fez nenhum reparo aparentemente.
 
-- E agora? - perguntou Chaves. - Quando é a partida?
+\- E agora? - perguntou Chaves. - Quando é a partida?
 
-- Passados oito dias.
+\- Passados oito dias.
 
-- Que faz vossemecê agora aqui?! Parece que pode bem com a saudade!.... - redarguiu Agostinho - Eu, no seu lugar, ia já. Está lá a pobre menina oprimida, Deus sabe quanto, e vossemecê aqui à espera de não sei quê!
+\- Que faz vossemecê agora aqui?! Parece que pode bem com a saudade!.... - redarguiu Agostinho - Eu, no seu lugar, ia já. Está lá a pobre menina oprimida, Deus sabe quanto, e vossemecê aqui à espera de não sei quê!
 
-- É que eu consultei o meu amigo de Braga, e espero resposta.
+\- É que eu consultei o meu amigo de Braga, e espero resposta.
 
-- Que resposta? perdoe a minha confiança. Nestes casos, sr. João, o melhor amigo é o dinheiro. Conselhos, os melhores, é o dinheiro que os dá. Sabe que mais? Parta daqui amanhã. Vossemecê vai alugar duas boas cavalgaduras até Valença. De noite, vai a Monção, e de madrugada está na tal aldeia. A menina põe o pé fora da porta, e salta para cima do cavalo. Em Valença, deixa vossemecê o barco tratado, e assim que chegam, embarcam para além. Depois que saltarem em Tui, façam para cá uma figa ao preto. Está por isto? As cavalgaduras quem vai arranjá-las sou eu, que eu sou homem para tudo. Está decidido?
+\- Que resposta? perdoe a minha confiança. Nestes casos, sr. João, o melhor amigo é o dinheiro. Conselhos, os melhores, é o dinheiro que os dá. Sabe que mais? Parta daqui amanhã. Vossemecê vai alugar duas boas cavalgaduras até Valença. De noite, vai a Monção, e de madrugada está na tal aldeia. A menina põe o pé fora da porta, e salta para cima do cavalo. Em Valença, deixa vossemecê o barco tratado, e assim que chegam, embarcam para além. Depois que saltarem em Tui, façam para cá uma figa ao preto. Está por isto? As cavalgaduras quem vai arranjá-las sou eu, que eu sou homem para tudo. Está decidido?
 
-- Mas é necessário avisar a senhora de Braga, para ela prevenir Albertina.
+\- Mas é necessário avisar a senhora de Braga, para ela prevenir Albertina.
 
-- Pois parta para Braga - retorquiu Agostinho - e espere um dia para dar tempo à ida do aviso. Saia do Porto, meu amigo.
+\- Pois parta para Braga - retorquiu Agostinho - e espere um dia para dar tempo à ida do aviso. Saia do Porto, meu amigo.
 
-- Estou decidido! - exclamou João Crisóstomo. - Mas vou ao correio procurar carta de Braga.
+\- Estou decidido! - exclamou João Crisóstomo. - Mas vou ao correio procurar carta de Braga.
 
-- Vamos juntos, e lá resolveremos, se devo ir alugar os cavalos.
+\- Vamos juntos, e lá resolveremos, se devo ir alugar os cavalos.
 
 Saíram para o correio. Agostinho levou João pelas travessas e becos menos concorridos. Ao desembocarem de uma viela numa rua de passagem, um caminheiro, ao perpassar por eles, encarou em Agostinho, e disse-lhe:
 
-- Adeus, sr. Alves!
+\- Adeus, sr. Alves!
 
 Agostinho passou como quem não ouviu, e o transeunte cumprimentador parou de admirado do seu engano, ou da grosseria do seu conhecido.
 
-- Aquele homem -disse João Crisóstomo- chamou-lhe Alves.
+\- Aquele homem -disse João Crisóstomo- chamou-lhe Alves.
 
 Agostinho pós a trompa na orelha, e disse:
 
-- O quê? Chamou-me Alves?
+\- O quê? Chamou-me Alves?
 
-- Sim, senhor.
+\- Sim, senhor.
 
-- Enganou-se, que eu, desde que o dei a criar, nunca mais o vi.
+\- Enganou-se, que eu, desde que o dei a criar, nunca mais o vi.
 
 E riu-se da sua graça.
 
@@ -1417,7 +1417,7 @@ Tinha João Crisóstomo carta da senhora de Braga, com a incluída de Albertina.
 
 Era um aflitivo aviso de que o pai escrevera a Simão Valadares, anunciando-lhe a ida a Barbeita; e também escrevera à mulher, azedado contra a filha, e resolvido a ir pessoalmente obrigá-la a ser feliz com o excelente marido que a fortuna lhe oferecia a ela, tão indigna de tal esposo. Concluía Albertina apressando o desfecho, para se não complicarem os obstáculos à fuga. Era ela quem traçava o plano. Ao dar da meia-noite, quando a mãe dormisse, havia de saltar da janela ao pomar, e auxiliada por Fernando Valadares, sairia pelo portal, onde João a estaria esperando com os cavalos.
 
-- Que lhe disse eu!? - exclamou Agostinho Chaves. - Parece que adivinhava! Meu amigo, vá preparar a sua bagagem, se tem que levar, que o melhor é ir escoteiro e leve. Às dez horas da noite estão as bestas no largo da Aguardente. Lá daremos o último abraço. Adeus até às nove horas.
+\- Que lhe disse eu!? - exclamou Agostinho Chaves. - Parece que adivinhava! Meu amigo, vá preparar a sua bagagem, se tem que levar, que o melhor é ir escoteiro e leve. Às dez horas da noite estão as bestas no largo da Aguardente. Lá daremos o último abraço. Adeus até às nove horas.
 
 João Crisóstomo avisou Albertina da noite e hora da sua chegada, e foi colocar a nota na estante do escritório, e despedir-se do tabelião Ferreira, dissimulando uma ida a Vairão na tentativa de reconciliar-se com seu pai. O tabelião elogiou-lhe os seus bons serviços, recomendando-lhe que fosse sempre honrado, que alguma hora deixaria de ser infeliz. Por último adeus, brindou-o com uma gratificação, devida à zeladora energia com que o amanuense curara dos interesses da sua escrivaninha, trabalhando por noite fora, além do contrato, quando era preciso dar vazão aos encargos.
 
@@ -1427,7 +1427,7 @@ Confessava João Crisóstomo que uma grande tristeza lhe enturvara o ânimo, a p
 
 João Crisóstomo, quando chegou à Terra-Negra, e viu o caminho da casa de seus pais, repuxou a rédea, parou e disse no secreto de sua alma:
 
-- Nunca mais! Nunca mais te verei, meu pai! Nunca mais ajoelharei. na sepultura de minha mãe. Sei que se acabou para mim a pátria, a terra da infância, as flores que ainda sorriem no pobre torrão do desgraçado que lá nasceu!
+\- Nunca mais! Nunca mais te verei, meu pai! Nunca mais ajoelharei. na sepultura de minha mãe. Sei que se acabou para mim a pátria, a terra da infância, as flores que ainda sorriem no pobre torrão do desgraçado que lá nasceu!
 
 O coração doeu-se deste pesar de espírito. O moço cuidou que estava assim, com estas meditações, ofendendo o amor da mulher que tudo abandonava por ele. Deu de esporas ao cavalo, e nunca mais voltou o rosto para os sítios da sua terra.
 
@@ -1455,7 +1455,7 @@ Deus lá sabe o que é; e o almotacel das trevas eternas também me parece que s
 
 Assim que Simão ouviu a ameaça de Albertina, ficou passado; e, assim que o ensejo lhe deu uma aberta, ajoelhou-se-lhe aos pés, exclamando:
 
-- Mate-me por piedade, antes de fugir!
+\- Mate-me por piedade, antes de fugir!
 
 E, dizendo, ofereceu-lhe um luzente punhal, que Albertina repeliu, partindo a fugir da sala, com as mãos na cabeça.
 
@@ -1472,25 +1472,25 @@ Escutou o ruído do interior da casa: era completo o silêncio, apenas quebrado 
 
 Fernando de Valadares avizinhou-se mui de manso, e disse-lhe ao ouvido:
 
-- Muito pouca bulha, que meu irmão está fora de casa. Receio que a aproximação dos cavalos levante algum estrondo. Não se assuste a menina, que os criados, prevenidos por ele, também o estão por mim. Aqui a felicidade é chegarmos ao portal sem ele dar fé.
+\- Muito pouca bulha, que meu irmão está fora de casa. Receio que a aproximação dos cavalos levante algum estrondo. Não se assuste a menina, que os criados, prevenidos por ele, também o estão por mim. Aqui a felicidade é chegarmos ao portal sem ele dar fé.
 
-- João Crisóstomo já lá está? - perguntou Albertina.
+\- João Crisóstomo já lá está? - perguntou Albertina.
 
-- Chega neste momento - respondeu Fernando, pondo o ouvido à vagarosa andadura dos cavalos, cujas patas o sagaz arneiro envolvera em panos, que lhes abafavam a estropeada -Vamos! - continuou ele. - Nada de susto!
+\- Chega neste momento - respondeu Fernando, pondo o ouvido à vagarosa andadura dos cavalos, cujas patas o sagaz arneiro envolvera em panos, que lhes abafavam a estropeada -Vamos! - continuou ele. - Nada de susto!
 
 Eu vou sem medo - observou Albertina - mas terá perigo ele?
 
-- Nenhum. Meu irmão não se atreve...
+\- Nenhum. Meu irmão não se atreve...
 
 Nisto, ouviram um grande brado; e logo a voz de Simão chamando os criados pelos seus nomes, e os cães de fila arremetendo ao portal.
 
-- Depressa, depressa! - murmurou Fernando, tirando com desnecessária força pelo braço de Albertina.
+\- Depressa, depressa! - murmurou Fernando, tirando com desnecessária força pelo braço de Albertina.
 
 Os cães acometeram contra o dono, e sustiveram-se farejando-o, assim que lhes ele falou. Simão batia às portas das lojas e palheiros no outro lado da casa, chamando os criados, que respondiam a grandes brados, sem atinarem, ou fingindo que não atinavam com as portas.
 
 Fernando abriu subtilmente o portal, tomou nos braços Albertina, e assentou-a na andilha. Apertou-lhe a mão, e disse:
 
-- Sejam felizes, e vão sem medo.
+\- Sejam felizes, e vão sem medo.
 
 Simão Valadares vira-os passar à desfilada, e enrouquecera de súbito com se as válvulas da laringe se lhe grudassem com o último brado de socorro. A criadagem saiu de roldão por todas as portas, apavorando com tiros a passarinhada, que dormia nas ramarias das carvalheiras. Simão ordenava que lhe aparelhassem o Relâmpago.
 
@@ -1500,52 +1500,52 @@ Mandou aparelhar o Junot, graça de outro cavalo, assim chamado em afronta ao ge
 
 Simão esvaiu-se de forças, e ficou espasmódico, por fim. A mulher do doutor Negro passou o restante da noite em desmaio interpolado de convulsões. panando de Valadares oferecia-se ao irmão para tudo que fosse necessário. A senhora e as meninas choravam clamorosamente pela sua perdida amiga. Que clamores! o que fazem senhoras! que engenhosas tramóias! E há quem diga que a imaginação para a comédia e para o romance é uma prerrogativa dos homens! A mais velha das meninas acercou-se do tio Simão, que estava prostrado num canapé. Tomou-lhe a cabeça nos braços, encostou-a ao seio, e murmurou:
 
-- Aquela infeliz não era digna do amor de meu tio!...
+\- Aquela infeliz não era digna do amor de meu tio!...
 
 Simão fitou-a com os olhos carregados de lágrimas, e suspirou. A menina limpou-lhe as lágrimas com o lenço, e continuou:
 
-- Que mal empregado coração!... Se, ao menos, o mundo não tivesse que dizer da virtude dela!... Quantas meninas puras corno o sol desejariam o amor de meu tio!...
+\- Que mal empregado coração!... Se, ao menos, o mundo não tivesse que dizer da virtude dela!... Quantas meninas puras corno o sol desejariam o amor de meu tio!...
 
 Simão abriu outra vez os olhos, alisou a fronte com a mão, sentou-se de salto, e disse:
 
-- Maldita seja ela, que me roubou a paz, a dignidade e a vida!
+\- Maldita seja ela, que me roubou a paz, a dignidade e a vida!
 
-- Nem a dignidade, nem a vida, meu tio - acudiu meigamente a menina. - A paz ela virá, quando outro coração mais digno lha der. Não o amamos nós todos com tanto extremo?
+\- Nem a dignidade, nem a vida, meu tio - acudiu meigamente a menina. - A paz ela virá, quando outro coração mais digno lha der. Não o amamos nós todos com tanto extremo?
 
 Simão não respondeu; porém, estas carícias fizeram-lhe bem.
 
 Quem estava inconsolável era a mãe da fugitiva. Grave e funda agonia era a da chorosa criatura! Antevia os trances, a loucura, e pode ser que a morte do marido. Como lhe havia de anunciar a nova e irremediável desgraça? Resolveu ir ela mesma encontrá-lo, talvez, no caminho. A senhora da casa instigava-lhe a tenção, para evitar a celeuma do doutor furioso, quando chegasse. Simão era indiferente à saída da hóspeda. A pungida mulher nem já recebia palavra consolativa de ninguém. Aborreciam-na as senhoras, e Fernando disse à mulher:
 
-- Faz diligências para que ela vá para o Porto. Enquanto isto não esquecer e sossegar, a nossa casa há-de estar sempre em desordem. Nunca o preto se lembrasse de Barbeita!
+\- Faz diligências para que ela vá para o Porto. Enquanto isto não esquecer e sossegar, a nossa casa há-de estar sempre em desordem. Nunca o preto se lembrasse de Barbeita!
 
-- Arrenego eu o preto! - disse a descendente dos Meios de Ponte. - Tomara eu impontar daqui esta adeleira de não sei que diga! Cuidou a trapalhona que nos vinha par fora de nossa casa! É o que eu estava a ver, que me não ia sem lhe pôr a cara da cor da do marido!
+\- Arrenego eu o preto! - disse a descendente dos Meios de Ponte. - Tomara eu impontar daqui esta adeleira de não sei que diga! Cuidou a trapalhona que nos vinha par fora de nossa casa! É o que eu estava a ver, que me não ia sem lhe pôr a cara da cor da do marido!
 
 No dia seguinte, pela tarde, a lastimável mãe saiu para Valença, e ali tomou liteira para o Porto. A meia légua de Viana encontrou o esposo. Assim que ele a reconheceu, saltou da liteira, bradando:
 
-- Onde vens tu?! Que é de Albertina?!
+\- Onde vens tu?! Que é de Albertina?!
 
 A senhora rompeu em alto pranto, e perdeu os sentidos. O doutor sacudiu-a brutalmente, bradando:
 
-- Dá-me conta de minha filha!
+\- Dá-me conta de minha filha!
 
 Os gritos do homem eram um anti-espasmódico, ao qual não resistiria o histerismo de senhora nenhuma.
 
-- Que é de minha filha?- ululava o pai aflito.
+\- Que é de minha filha?- ululava o pai aflito.
 
-- Fugiu - murmurou ela com um gemido.
+\- Fugiu - murmurou ela com um gemido.
 
-- Com quem?
+\- Com quem?
 
-- Com quem havia de ser? Eu não a vi fugir, que estava no primeiro sono; mas havia de ser com o malvado.
+\- Com quem havia de ser? Eu não a vi fugir, que estava no primeiro sono; mas havia de ser com o malvado.
 
 O doutor Negro cerrou os punhos, remessou-os hirtos com o vigor de duas catapultas contra o céu, e rugiu:
 
-- Não há Deus!
+\- Não há Deus!
 
 Disse, e atirou-se para a ribanceira da estrada, arrepelando os cabelos crespos, que não eram dos que se ajeitam mais aos repelões..55
 Saiu a esposa da liteira, e foi sentar-se a par dele. O doutor ergueu-se impetuosamente, e bradou:
 
-- Eu te amaldiçoo em nome de Deus, filha perdida!
+\- Eu te amaldiçoo em nome de Deus, filha perdida!
 
 Não há Deus - tinha ele dito momentos antes. Agora já o reconhecia para o efeito da maldição vingativa. São assim as nossas paixões. Quando pagamos por elas, se a força nos desampara, decretamos a inutilidade de Deus, visto que ele se não honra em nos auxiliar; porém, se carecemos de cevar o nosso ódio com o infortúnio das vítimas que nos fogem, concedemos ao Criador o favor de existir, e em nome dele sentenciamos a condenação de quem se esquiva às nossas garras.
 
@@ -1561,47 +1561,47 @@ Francisco Simões, recolhido a casa, chamou a si os amigos mais valiosos, e pedi
 
 Franziu o doutor a testa, e disse:
 
-- Sr. Silva, a sua erudição, vem fora de tempo. Deixe-me escutar os amigos que servem. Esta enfermidade de espírito há-de aniquilar-me!
+\- Sr. Silva, a sua erudição, vem fora de tempo. Deixe-me escutar os amigos que servem. Esta enfermidade de espírito há-de aniquilar-me!
 
-- Morbi perniciosiores... murmurou o sr. Januário, e conteve-se de repelão.
+\- Morbi perniciosiores... murmurou o sr. Januário, e conteve-se de repelão.
 
 O doutor dera uma upa na cadeira, e o latinista jurou consigo de não falar mais, ainda que o Cícero lhe caísse a talho.
 
 O doutor Alpedrinha continuou:
 
-- Que me dizem, meus amigos? Como hei-de haver à mão os infames? Falem por quem são!
+\- Que me dizem, meus amigos? Como hei-de haver à mão os infames? Falem por quem são!
 
 O mais graduado opinou:
 
-- Incumbe primeiro saber onde param.
+\- Incumbe primeiro saber onde param.
 
-- Na Espanha- acudiu outro.
+\- Na Espanha- acudiu outro.
 
-- Quem o sabe? - disse o doutor.
+\- Quem o sabe? - disse o doutor.
 
-- Eu, de uma carta, que recebi de Valença hoje mesmo. Sua filha e o tal meliante saltaram em Tui às cinco horas da manhã do dia 15 do corrente.
+\- Eu, de uma carta, que recebi de Valença hoje mesmo. Sua filha e o tal meliante saltaram em Tui às cinco horas da manhã do dia 15 do corrente.
 
-- Ordens para Espanha, ordens de prisão! - clamou o doutor Negro, com aplauso de três amigos parvos.
+\- Ordens para Espanha, ordens de prisão! - clamou o doutor Negro, com aplauso de três amigos parvos.
 
-- Pois sim - volveu o mais cordato -; mas investiguemos primeiro se tais ordens são aprovadas pela sã razão.
+\- Pois sim - volveu o mais cordato -; mas investiguemos primeiro se tais ordens são aprovadas pela sã razão.
 
 O retórico rasgou a mordaça, e disse:
 
-- Non debemus quicquam agere, cujus non possimus causam probabilem redere.
+\- Non debemus quicquam agere, cujus non possimus causam probabilem redere.
 
-- É de mais, sr. Costa Silva! - bradou o doutor. - Eu vejo-me obrigado a mandá-lo calar!
+\- É de mais, sr. Costa Silva! - bradou o doutor. - Eu vejo-me obrigado a mandá-lo calar!
 
-- O sr. Francisco Simões de Alpedrinha, no auge da sua dor – respondeu placidamente o erudito -, ofende um amigo que lhe perdoa de bom ânimo. Não fui chamado; mas vim. Agora vou-me, como cumpre; mas falarei, embora pouco, substancialmente há-de ser. Chegadas as coisas ao ponto em que as vejo, sr. doutor, o meu parecer é que deixe os fugitivos ao seu destino. Prendê-los em Espanha parece-me incurial, ilegal e inexequível por arbítrio das justiças. A sua vingança, se ela é justa, o tempo lha trará, que nihil est quod... perdão, que as minhas citações estomagam o meu amigo, cujo ódio a Cícero é ainda uma enfermidade de sua alma. Lamento as desventuras de uni pai extremoso e tão mal correspondido; mas não o aconselho a solicitar uma vingança que afinal lhe há-de gastar as forças, e abrir-lhe a sepultura. A morte ela virá, amigo e sr. doutor, e com ela o termo de todos os ódios. Omnium rerum mors est extremum. É o que se mie oferece dizer.
+\- O sr. Francisco Simões de Alpedrinha, no auge da sua dor – respondeu placidamente o erudito -, ofende um amigo que lhe perdoa de bom ânimo. Não fui chamado; mas vim. Agora vou-me, como cumpre; mas falarei, embora pouco, substancialmente há-de ser. Chegadas as coisas ao ponto em que as vejo, sr. doutor, o meu parecer é que deixe os fugitivos ao seu destino. Prendê-los em Espanha parece-me incurial, ilegal e inexequível por arbítrio das justiças. A sua vingança, se ela é justa, o tempo lha trará, que nihil est quod... perdão, que as minhas citações estomagam o meu amigo, cujo ódio a Cícero é ainda uma enfermidade de sua alma. Lamento as desventuras de uni pai extremoso e tão mal correspondido; mas não o aconselho a solicitar uma vingança que afinal lhe há-de gastar as forças, e abrir-lhe a sepultura. A morte ela virá, amigo e sr. doutor, e com ela o termo de todos os ódios. Omnium rerum mors est extremum. É o que se mie oferece dizer.
 
 Dito isto, Januário tomou o chapéu, e saiu.
 
 Ao descer as escadas, murmurou:
 
-- Optima suadere quam difficile est!
+\- Optima suadere quam difficile est!
 
 Chegando ao pátio, parou, e monologou:
 
-- Optima suadere!... isto não me soa a Cícero. Deve ser de Demóstenes. Hei-de ver a sentença em grego. Seria um desdouro citar Demóstenes em latim!
+\- Optima suadere!... isto não me soa a Cícero. Deve ser de Demóstenes. Hei-de ver a sentença em grego. Seria um desdouro citar Demóstenes em latim!
 
 No entanto, o doutor Negro ouvia colérico o parecer do mais cordato, que abundava no voto do retórico. Os outros membros do conselho, amolecidos pelo latim de Cícero, ou pelas razões vernáculas do homem prudente e mais autorizado, abandaram-se com ele, e deixaram sozinho o doutor a praguejar contra a egoísta insensibilidade do género humano. Por último, saíram todos descontentes da iracúndia do doutor Negro, e o pai aflito ficou bravejando contra eles em solilóquio.
 
@@ -1609,7 +1609,7 @@ Fecharam-se as janelas da casa de Alpodrinha. Os clientes, temerosos da demênci
 
 A este tempo, o moço transmontano estava já desligado do exército, e vivia no suave retiro da sua aldeia, guarecendo com a soledade meditativa a ferida renitente do seu primeiro amor. Apesar de nenhuma confiança ter em si, obteve de seu irmão morgado alguns recursos, e desceu ao Porto. Anunciou-se ao doutor Negro, foi recebido, e a primeira pessoa que se lhe atirou aos braços foi a mãe de Albertina, clamando:
 
-- Salve-me meu marido, que ele endoidece! Valha-nos pelas chagas de Cristo, que eu não sei o que há-de ser de nós!
+\- Salve-me meu marido, que ele endoidece! Valha-nos pelas chagas de Cristo, que eu não sei o que há-de ser de nós!
 
 O doutor estava no letargo conseguinte a um acesso. António da Silveira esperou, e no entanto ouviu a história da fuga.
 
@@ -1617,43 +1617,43 @@ Recobrado o enfermo, anunciou-se-lhe o amigo.
 
 Francisco Simões estremeceu, e disse:
 
-- Que entre o primeiro homem honrado do globo!
+\- Que entre o primeiro homem honrado do globo!
 
 Este dizer preveniu António da Silveira contra a sanidade intelectual do seu amigo.
 
 Assim que o viu, o doutor Negro exclamou rolando os olhos sanguíneos:
 
-- Quero beber o sangue do celerado que me leva a filha, a honra e a vida! Quero a cabeça dele, e o coração dela!
+\- Quero beber o sangue do celerado que me leva a filha, a honra e a vida! Quero a cabeça dele, e o coração dela!
 
 António da Silveira encarou-o com severidade, e disse:
 
-- Surge tandem, carnifex! «Ergue-te daí, algoz!»
+\- Surge tandem, carnifex! «Ergue-te daí, algoz!»
 O doutor Negro fitou-o com pavor, e disse com ofegante anseio:
 
-- Quem vem insultar um moribundo? Pois nem a morte é respeitável ao escárnio do mundo?
+\- Quem vem insultar um moribundo? Pois nem a morte é respeitável ao escárnio do mundo?
 
 António da Silveira abeirou-se do leito do doente, e disse com maviosa
 serenidade, tomando-lhe a mão convulsa:
 
-- Sr. dr. Alpedrinha, da borda do abismo, onde a mão da sua soberba o quer despenhar, levante os olhos para cima, e veja Deus. V. Sª lançou de si com desprezo uma tábua salvadora, quando as ondas amaríssimas da vida se cavaram em redor da sua alma enfraquecida pela religião. A piedade era o salvamento. A conformidade era o triunfo. A caridade era o anjo bom que o chamava a perdoar e abençoar a união de sua filha. V. 82 consultou os mestres do orgulho, folheou o seu Voltaire, e não encontrou lá o ditame do perdão da injúria, nem a bandeira da misericórdia com que devera cobrir a pureza de sua filha, manchada pela difamação. A soberba está aqui sentada à cabeceira desta cama, com um braço enroscado na sua garganta. Se do outro lado estivesse uma cruz, a vitória da honra seria certa. Não vejo um sinal do cristão enfermo em volta deste leito: é forçoso que as más paixões o dilacerem. Ali fora encontrei uma senhora chorando. Chora porque perdeu a filha. Chora porque vai perder seu marido. Chora porque há-de sobreviver ao esteio que se lhe quebra para estender a mão à caridade pública. Valia bem a pena que V. Sª obrigasse o pai daquela desgraçada mulher a ceder-lha para um fim de vida tão desprezado!... Há-de o sr. doutor acabar aí com este peso de remorso sobre o peito!...
+\- Sr. dr. Alpedrinha, da borda do abismo, onde a mão da sua soberba o quer despenhar, levante os olhos para cima, e veja Deus. V. Sª lançou de si com desprezo uma tábua salvadora, quando as ondas amaríssimas da vida se cavaram em redor da sua alma enfraquecida pela religião. A piedade era o salvamento. A conformidade era o triunfo. A caridade era o anjo bom que o chamava a perdoar e abençoar a união de sua filha. V. 82 consultou os mestres do orgulho, folheou o seu Voltaire, e não encontrou lá o ditame do perdão da injúria, nem a bandeira da misericórdia com que devera cobrir a pureza de sua filha, manchada pela difamação. A soberba está aqui sentada à cabeceira desta cama, com um braço enroscado na sua garganta. Se do outro lado estivesse uma cruz, a vitória da honra seria certa. Não vejo um sinal do cristão enfermo em volta deste leito: é forçoso que as más paixões o dilacerem. Ali fora encontrei uma senhora chorando. Chora porque perdeu a filha. Chora porque vai perder seu marido. Chora porque há-de sobreviver ao esteio que se lhe quebra para estender a mão à caridade pública. Valia bem a pena que V. Sª obrigasse o pai daquela desgraçada mulher a ceder-lha para um fim de vida tão desprezado!... Há-de o sr. doutor acabar aí com este peso de remorso sobre o peito!...
 
 Francisco Simões sentou-se arrebatadamente na cama, e bradou:
 
-- Cale-se! cale-se que me abafa!... Deixe-me morrer, que eu não tenho já espírito que se levante a Deus!
+\- Cale-se! cale-se que me abafa!... Deixe-me morrer, que eu não tenho já espírito que se levante a Deus!
 
-- Pois Deus baixará até ao seu espírito! - redarguiu António da Silveira. - Experimente, meu amigo. Chame a divina fé em seu socorro. Veja se pode apagar com lágrimas esse brasido que lhe requeima as entranhas. Peça ao Senhor a felicidade de sua filha. Perdoe-lhe a ela, perdoe ao homem que lha roubou.
+\- Pois Deus baixará até ao seu espírito! - redarguiu António da Silveira. - Experimente, meu amigo. Chame a divina fé em seu socorro. Veja se pode apagar com lágrimas esse brasido que lhe requeima as entranhas. Peça ao Senhor a felicidade de sua filha. Perdoe-lhe a ela, perdoe ao homem que lha roubou.
 
-- Nunca! - bramiu o doutor Negro. - Nunca! nem às portas do inferno com a recompensa de bem-aventurança eterna!
+\- Nunca! - bramiu o doutor Negro. - Nunca! nem às portas do inferno com a recompensa de bem-aventurança eterna!
 
 António da Silveira inclinou-se sobre o ombro do frenético, e disse-lhe com lágrimas:
 
-- Perdoe-lhes, meu bom amigo. Abra o seu coração a uma gota do sangue do Redentor.
+\- Perdoe-lhes, meu bom amigo. Abra o seu coração a uma gota do sangue do Redentor.
 
-- Nunca! - bradou ainda o doutor Negro, e saltou com gestos pavorosos do leito.
+\- Nunca! - bradou ainda o doutor Negro, e saltou com gestos pavorosos do leito.
 
 Silveira amparou-o nos braços com grande esforço, e sentou-o prostrado numa poltrona. Francisco Simões fechara os olhos, e transpirava um suor frio. Quando voltou a si exclamou:
 
-- Hão-de ser mais desgraçados do que eu sou!
+\- Hão-de ser mais desgraçados do que eu sou!
 
 
 
@@ -1684,7 +1684,7 @@ Que, finalmente, a divina Providência, quando agravava a um padecente o peso da
 
 O doutor Negro, ouvidas as razões do cândido evangelizador, sorriu-se, e murmurou:
 
-- É fácil coisa ser missionário, quando se não é desgraçado.
+\- É fácil coisa ser missionário, quando se não é desgraçado.
 
 António absteve-se de redarguir. Esta razão final do enfermo, dita num tom de apiedar a misericórdia do céu, comoveu-o. Verdadeiramente aquele sentir só os grandes infelizes o experimentaram.
 
@@ -1698,9 +1698,9 @@ Temiam-se de serem importunados para costearem as despesas do enfermo, ou ampara
 
 Já a razão do doutor Negro se ia aclarando o bastante para ver a solidão em que o deixavam os amigos. Quando nisto pensava, vidravam-se-lhe de lágrimas os olhos e, se António da Silveira estava ali, chamava-o para perto, pedia-lhe a mão, e convulsamente lha apertava, dizendo entre soluços:
 
-- Que é dos meus amigos? Que é dos homens a quem eu servi gratuitamente vinte anos? Onde estão uns poucos que me chamavam o salvador das suas fortunas e honras? Acaso, minha mulher pediria esmola a algum? Decerto não, que eu tenho mandado vender as minhas pratas, as jóias que eram de minha mãe, e haviam de ser de minha filha. Amanhã venderei es livros, depois este leito, depois o último farrapo desta casa;  mas não pedirei favor a ninguém, porque, morto eu, não haverá quem o pague.
+\- Que é dos meus amigos? Que é dos homens a quem eu servi gratuitamente vinte anos? Onde estão uns poucos que me chamavam o salvador das suas fortunas e honras? Acaso, minha mulher pediria esmola a algum? Decerto não, que eu tenho mandado vender as minhas pratas, as jóias que eram de minha mãe, e haviam de ser de minha filha. Amanhã venderei es livros, depois este leito, depois o último farrapo desta casa;  mas não pedirei favor a ninguém, porque, morto eu, não haverá quem o pague.
 
-- A que vem aqui a morte? - interrompeu António da Silveira. - Muita vida é o que nós queremos para vermos que amigos tornam depois. É um espectáculo digno de ser visto, e, sem a vida, perde-se o quadro de costumes. Merece o incómodo de viver um caso destes.
+\- A que vem aqui a morte? - interrompeu António da Silveira. - Muita vida é o que nós queremos para vermos que amigos tornam depois. É um espectáculo digno de ser visto, e, sem a vida, perde-se o quadro de costumes. Merece o incómodo de viver um caso destes.
 
 Vale bem a pena morrer num mundo assim! - emendou o doutor.
 
@@ -1713,15 +1713,15 @@ O doutor Negro recusara ler a carta. Foi António da Silveira que a leu resistin
 
 Concluída a leitura, o doutor estorcegou os dedos, e exclamou:
 
-- A ironia sobre a afronta!... o escárnio depois do insulto!...
+\- A ironia sobre a afronta!... o escárnio depois do insulto!...
 
-- Nem ironia, nem afronta - disse Silveira, - Não há dizer mais humilde nem singelo. Onde vê V. Sª o escárnio nesta carta suplicante?
+\- Nem ironia, nem afronta - disse Silveira, - Não há dizer mais humilde nem singelo. Onde vê V. Sª o escárnio nesta carta suplicante?
 
-- Onde vejo o escárnio? Dá-me parte do seu casamento! Que ultraje!...
+\- Onde vejo o escárnio? Dá-me parte do seu casamento! Que ultraje!...
 
-- Se ela lhe desse parte da sua desonra, que nome dada V. Sª ao descaramento? - redarguiu o transmontano.
+\- Se ela lhe desse parte da sua desonra, que nome dada V. Sª ao descaramento? - redarguiu o transmontano.
 
-- Não sei - bradou o doutor Negro. - Deixemo-nos de argumentações especiosas. Tire-me essa carta de diante dos olhos, e, se não se peja de escrever a essa perdida, que fui minha filha, diga-lhe que me não insulte, que não cuspa no rosto de um moribundo!
+\- Não sei - bradou o doutor Negro. - Deixemo-nos de argumentações especiosas. Tire-me essa carta de diante dos olhos, e, se não se peja de escrever a essa perdida, que fui minha filha, diga-lhe que me não insulte, que não cuspa no rosto de um moribundo!
 
 António da Silveira guardou a carta, e calou-se.
 
@@ -1733,11 +1733,11 @@ Albertina, digamos leal verdade, pungiu-se medianamente no tocante ao desprezo e
 
 João Crisóstomo enxugou-lhe as lágrimas, asseverando que os lucros de ambos sobejavam à parca e decente sustentação de quatro pessoas, e acrescentou:
 
-- Assim que eu puder pagar ao nosso amigo Chaves as cento e cinquenta moedas, fico desembaraçado para maiores despesas. Se não fossem as vinte que me custou a passagem do fio, e as trinta empregadas na mobilação desta casa, já hoje me desempenharia.
+\- Assim que eu puder pagar ao nosso amigo Chaves as cento e cinquenta moedas, fico desembaraçado para maiores despesas. Se não fossem as vinte que me custou a passagem do fio, e as trinta empregadas na mobilação desta casa, já hoje me desempenharia.
 
-- Mas não tens tu - observou Albertina sorrindo - as minhas cinquenta moedas da prenda do casamento? Empresto-as a ti, queres? Depois mas irás pagando em prestações com o pequeníssimo juro de um beijo. Está contratado?
+\- Mas não tens tu - observou Albertina sorrindo - as minhas cinquenta moedas da prenda do casamento? Empresto-as a ti, queres? Depois mas irás pagando em prestações com o pequeníssimo juro de um beijo. Está contratado?
 
-- Está - respondeu Crisóstomo antecipando o juro de todas as prestações imagináveis. - Vou procurar o negociante para a transferência do dinheiro.
+\- Está - respondeu Crisóstomo antecipando o juro de todas as prestações imagináveis. - Vou procurar o negociante para a transferência do dinheiro.
 
 Encarregamos o nosso bem Silveira de receber no Porto a quantia, e ao mesmo tempo escrevo a Agostinho José Chaves para que vá recebê-la. E - ajuntou com veemente alegria - não temos dividas! Começamos a viver exclusivamente do nosso trabalho.
 
@@ -1747,13 +1747,13 @@ Encarregamos o nosso bem Silveira de receber no Porto a quantia, e ao mesmo temp
     
 António da Silveira leu ao doutor a carta de Albertina, e a ordem de receber cento e cinquenta moedas para entregar a Agostinho José Chaves.
 
-- Quem é Agostinho José Chaves?! - perguntou Alpedrinha para saber a quem devia entranhadamente odiar.
+\- Quem é Agostinho José Chaves?! - perguntou Alpedrinha para saber a quem devia entranhadamente odiar.
 
-- Não sei: diz a ordem que ele é da Póvoa de Varzim.
+\- Não sei: diz a ordem que ele é da Póvoa de Varzim.
 
-- Desejo conhecer esse instrumento da minha desonra - tornou o doutor, cobrando forças milagrosas. - Queria ver um homem que emprestou cento e cinquenta moedas a outro, tal como o infame, para ele custear as despesas de um rapto! Veja se consegue mostrar-mo, sr. Silveira.
+\- Desejo conhecer esse instrumento da minha desonra - tornou o doutor, cobrando forças milagrosas. - Queria ver um homem que emprestou cento e cinquenta moedas a outro, tal como o infame, para ele custear as despesas de um rapto! Veja se consegue mostrar-mo, sr. Silveira.
 
-- Será possível - disse o moço para o não irritar com a contradição.
+\- Será possível - disse o moço para o não irritar com a contradição.
 
 Decorreram quinze dias, e Agostinho José Chaves não aparecia. Escreveu António da Silveira para a Póvoa de Varzim, e não teve resposta. Sua família chamava-o à província com pressa, e ele queria deixar o dinheiro em posse do seu dono. Foi à Póvoa de Varzim: perguntou por Agostinho José Chaves, e ninguém dava informações de tal homem, nem de tal nome. Apenas o administrador do correio disse que algumas vezes entregara cartas sobrescritadas assim. Participou o estranho sucesso a Albertina, depositou o dinheiro em casa do negociante que lho entregara com ordem da Corunha, e foi a casa assistir ao casamento de seu irmão mais velho.
 
@@ -1764,7 +1764,7 @@ Escandeceu-se a cabeça de João Crisóstomo a combinar semelhantes desconchavos
 
 João Crisóstomo respondia incoerências a estas perguntas, Albertina encolhia os ombros, e dizia:
 
-- Aqui há uma coisa extraordinária!
+\- Aqui há uma coisa extraordinária!
 
 Faça-se a luz neste caos. O leitor quer e tem direito a desembaraçar-se do enredo em que se acham ilaqueados os dois felizes da Corunha. Felizes!... santo Deus! Como eles se enganavam, e como o mundo se enganaria com eles, se os visse, tão sós numa só alma e consciência, tão embevecidos nos contentamentos do trabalho, gizando fortunas para longos anos!
 
@@ -1784,23 +1784,23 @@ O doutor Negro, ouvindo proferir o nome do honrado lavrador que lhe emprestara d
 
 Joaquim França expôs a sua questão, ajuntando que não recorrera desde o princípio dela ao amigo de seu pai, por lhe terem dito que V. Sª estava muito doente de desgostos.
 
-- Pois fez mal - disse o doutor - porque fui eu quem notou a escritura da venda dos bens a Gervásio Alves da Quintã, pai do ladrão que precisamente fez grande infâmia na nota. Sabe vossemecê ler?
+\- Pois fez mal - disse o doutor - porque fui eu quem notou a escritura da venda dos bens a Gervásio Alves da Quintã, pai do ladrão que precisamente fez grande infâmia na nota. Sabe vossemecê ler?
 
-- Alguma coisa - respondeu o lavrador escarlate de alegria.
+\- Alguma coisa - respondeu o lavrador escarlate de alegria.
 
-- Vá vossemecê àquela estante do fundo, e traga-me os maços de papéis que tiverem a marca de 1790. rode ser que por lá esteja o rascunho da escritura.
+\- Vá vossemecê àquela estante do fundo, e traga-me os maços de papéis que tiverem a marca de 1790. rode ser que por lá esteja o rascunho da escritura.
 
 O doutor desatou os maços, examinou um a um os papéis, e, desdobrando uma folha de papel almaço, disse:
 
-- É isto mesmo! Cá está.
+\- É isto mesmo! Cá está.
 
 Joaquim França pôs as mãos, e clamou:
 
-- Milagre!
+\- Milagre!
 
-- Não é milagre, não, senhor - acudiu placidamente o doutor. - É uma coisa naturalíssima. Aqui está o rascunho da escritura. Vá vossemecê fazer-me uma procuração. O seu advogado sou eu. Quero ver-me com o patife de Vila Nova. Hei-de mandá-lo num cavalinho de pau até à Índia. Está Portugal inçado de ladrões, e a África despovoada. Venha a procuração quanto antes. Estou muito doente; mas quero morrer protestando contra a desmoralização desta cafraria. Salteadores! Uns roubam a fazenda a seu donos, outros as filhas a seus pais. E triunfam todos, e há homens que os protegem! Vá buscar a procuração, homem! Que está a fazer aí?
+\- Não é milagre, não, senhor - acudiu placidamente o doutor. - É uma coisa naturalíssima. Aqui está o rascunho da escritura. Vá vossemecê fazer-me uma procuração. O seu advogado sou eu. Quero ver-me com o patife de Vila Nova. Hei-de mandá-lo num cavalinho de pau até à Índia. Está Portugal inçado de ladrões, e a África despovoada. Venha a procuração quanto antes. Estou muito doente; mas quero morrer protestando contra a desmoralização desta cafraria. Salteadores! Uns roubam a fazenda a seu donos, outros as filhas a seus pais. E triunfam todos, e há homens que os protegem! Vá buscar a procuração, homem! Que está a fazer aí?
 
-- Com licença de V. Sª - disse o lavrador e saiu,
+\- Com licença de V. Sª - disse o lavrador e saiu,
 O doutor Negro pediu logo vista do processo, ajuntou o rascunho da escritura, e requereu um exame de peritos à nota do tabelião Ferreira.
 
 Estrondeou logo a nova de que o doutor Negro, tido em conta de inválido para o foro, aceitara a defensão da causa. O réu tremeu.
@@ -1813,7 +1813,7 @@ Alegraram-se os inimigos do argentário, quando souberam que o doutor Negro lhe 
 
 Os peritos examinadores da nota, esmiuçado o confronto da letra do tabelião verdadeira com a suposta falsa, e a assinatura de duas testemunhas, que ainda viviam, com as outras presumidas de contrafacção, eram obrigados conscienciosamente a declarar que não encontravam indícios para suspeitas. O doutor Negro, assistente ao exame, exclamou:
 
-- A escritura foi substituída! Descosam a lombada do livro: examine-se a junção das folhas.
+\- A escritura foi substituída! Descosam a lombada do livro: examine-se a junção das folhas.
 
 Cumpriu-se. Nenhum vestígio de corrupção.! A escritura não foi esta! – rebramiu Francisco Simões. - Hei-de morrer desesperado sobre este infamíssimo roubo aqui lavrado neste livro, se não puder provar que Caetano Alves de Carvalho é um ladrão!
 
@@ -1823,37 +1823,37 @@ Requereu incontinente o doutor que Alves de Carvalho fosse citado para comparece
 
 Apareceu o réu com sossegado semblante. No momento em que entrou, avizinhou-se do doutor um fiel de feitos, e disse-lhe ao ouvido:
 
-- Aqui há dias encontrei-o de óculos verdes com outro sujeito, e levava um canudo por onde o outro lhe falava à orelha.
+\- Aqui há dias encontrei-o de óculos verdes com outro sujeito, e levava um canudo por onde o outro lhe falava à orelha.
 
 O doutor fitou o homem do segredo, e disse-lhe com espanto:
 
-- Você parece-me parvo! Que tem que ver com a falsificação da escritura que este velhaco andasse de óculos verdes?
+\- Você parece-me parvo! Que tem que ver com a falsificação da escritura que este velhaco andasse de óculos verdes?
 
-- Sr. doutor - redarguiu o fiel de feitos -, os tratantes sabem grandes maroscas! Pois não acha V. Sª que ele se fingiria cego e surdo para alguma trampolina?
+\- Sr. doutor - redarguiu o fiel de feitos -, os tratantes sabem grandes maroscas! Pois não acha V. Sª que ele se fingiria cego e surdo para alguma trampolina?
 
-- Vá-se embora que me está incomodando - replicou o doutor Negro com desabrimento.
+\- Vá-se embora que me está incomodando - replicou o doutor Negro com desabrimento.
 
 Assumida a imponente severidade de gesto e voz, Francisco Simões de Alpedrinha relatou ao juiz, na presença do réu, que fora ele o factor da escritura, nos termos em que ela se lia no rascunho. Jurando a verdade do seu dizer, empregou frases afogueadas do fervor da sua consciência, e disse: «Seja a minha memória infame como a consciência daquele homem, que me escuta impassível, se eu minto!»
 Caetano Alves abaixou a cabeça, e murmurou:
 
-- O Redentor da humanidade ainda sofreu mais! Cumpra-se a vontade do Altíssimo! - E, alteando a voz, prosseguiu: - Sr. juiz! eu não devo ser tão injustamente injuriado, sem que o sr. doutor Francisco Simões prove que eu delinqui. Sofro resignado em atenção às desgraças que exacerbam o ânimo do sr. doutor; mas peço ao infeliz pai que se não vingue em mim das ofensas que lhe fez sua filha.
+\- O Redentor da humanidade ainda sofreu mais! Cumpra-se a vontade do Altíssimo! - E, alteando a voz, prosseguiu: - Sr. juiz! eu não devo ser tão injustamente injuriado, sem que o sr. doutor Francisco Simões prove que eu delinqui. Sofro resignado em atenção às desgraças que exacerbam o ânimo do sr. doutor; mas peço ao infeliz pai que se não vingue em mim das ofensas que lhe fez sua filha.
 
 O doutor ergueu-se de salto, e bradou:
 
-- Visto que o miserável ousou aqui falar dos infortúnios da minha vida particular, eu particularmente lhe responderei.. Hei-de medir-lhe lá fora a extensão da língua.
+\- Visto que o miserável ousou aqui falar dos infortúnios da minha vida particular, eu particularmente lhe responderei.. Hei-de medir-lhe lá fora a extensão da língua.
 
 Os magistrados presentes amaciaram a cólera do doutor, e observaram ao réu que respondesse meramente às perguntas do advogado.
 
 Volveu de novo o fiel de feitos a postar-se à beira do doutor..65
-- Que é? - perguntou o jurisconsulto.
+\- Que é? - perguntou o jurisconsulto.
 
-- Uma pessoa pede licença para falar a V. Sª em particular sobre o pleito em questão.
+\- Uma pessoa pede licença para falar a V. Sª em particular sobre o pleito em questão.
 
 O doutor saiu à saleta das testemunhas, e encontrou um desconhecido, que lhe falou desta forma:
 
-- Na rua do Bonjardim, nº 49, mora um espanhol que fugiu da cadeia de uma cidade de Espanha, segundo ouvi dizer a outro espanhol, e entrou no Porto quando os franceses vieram. Eu pude esquadrinhar de uma criada do espanhol que a vida dele era escrevinhar. Tenho lá visto entrar fora de horas algumas pessoas, e há-de haver, pouco mais ou menos, mês e meio, que eu vi de lá sair o Alves de Vila Nova. Como ele trazia óculos, fiquei na dúvida, e esperei duas noites à espreita. Vi-o entrar às dez, e sair à meia-noite. Fui-lhe na peugada com todo o disfarce, e vi-o passar na ponte das barcas para além do rio, Fiquei convencido de que era ele. Veja lá V. Sª se estes esclarecimentos lhe servem de alguma coisa para este caso.
+\- Na rua do Bonjardim, nº 49, mora um espanhol que fugiu da cadeia de uma cidade de Espanha, segundo ouvi dizer a outro espanhol, e entrou no Porto quando os franceses vieram. Eu pude esquadrinhar de uma criada do espanhol que a vida dele era escrevinhar. Tenho lá visto entrar fora de horas algumas pessoas, e há-de haver, pouco mais ou menos, mês e meio, que eu vi de lá sair o Alves de Vila Nova. Como ele trazia óculos, fiquei na dúvida, e esperei duas noites à espreita. Vi-o entrar às dez, e sair à meia-noite. Fui-lhe na peugada com todo o disfarce, e vi-o passar na ponte das barcas para além do rio, Fiquei convencido de que era ele. Veja lá V. Sª se estes esclarecimentos lhe servem de alguma coisa para este caso.
 
-- Onde mora o espanhol? - perguntou o doutor.
+\- Onde mora o espanhol? - perguntou o doutor.
 
 Tomou nota da rua e numero, e voltou para a audiência. Escreveu um breve requerimento que fez passar ao juiz de fora. O juiz deferiu, e mandou à mesa do escrivão. O meirinho geral tomou conta de um papel, que apresentou ao juiz, o qual assinou, e o meirinho saiu.
 
@@ -1861,11 +1861,11 @@ Caetano Alves sentiu martelar-lhe no coração algum demónio que o beneficiava.
 
 Pediu licença para sair a tomar ar.
 
-- Com sentinelas à vista, requeiro - acudiu o doutor.
+\- Com sentinelas à vista, requeiro - acudiu o doutor.
 
-- Sentinelas?! - replicou o réu. - Pois eu já fui condenado?!
+\- Sentinelas?! - replicou o réu. - Pois eu já fui condenado?!
 
-- São prevenções necessárias - disse o juiz Pode o. sr. Alves sair com as seguranças requeridas pelo advogado do autor.
+\- São prevenções necessárias - disse o juiz Pode o. sr. Alves sair com as seguranças requeridas pelo advogado do autor.
 
 Caetano empalideceu.
 
@@ -1881,9 +1881,9 @@ Habemus confitentem reum!
 
 O meirinho geral disse:
 
-- O preso resistiu com armas de fogo: tive de requisitar soldados.
+\- O preso resistiu com armas de fogo: tive de requisitar soldados.
 
-- É engenhoso e valente o homem! - observou o doutor.
+\- É engenhoso e valente o homem! - observou o doutor.
 
 O espanhol da rua do Bonjardim entrava patibularmente amarelo.
 
@@ -1891,12 +1891,12 @@ Ao interrogatório do juiz respondeu que era espanhol de nação, nascido em Bar
 
 Concedida a palavra ao doutor Negro, foi mostrado Caetano Alves ao preso, que voltou a cabeça com inocente naturalidade para vê-lo, encarou-o atentamente, e disse que nunca o tinha visto.
 
-- Sem óculos verdes? - perguntou o doutor.
+\- Sem óculos verdes? - perguntou o doutor.
 
 O interrogado encolheu os ombros, e abanou a cabeça negativamente..66
 O doutor continuou:
 
-- Estava afeito a vê-lo de óculos e cometa acústica: estranha a figura. Veja a perfeição deste seu trabalho e ficará conhecendo a cara desfigurada daquele senhor.
+\- Estava afeito a vê-lo de óculos e cometa acústica: estranha a figura. Veja a perfeição deste seu trabalho e ficará conhecendo a cara desfigurada daquele senhor.
 
 Dizendo, mandou que lhe mostrassem a nota aberta na página da escritura.
 
@@ -1905,19 +1905,19 @@ O espanhol relaxou os tegumentos do queixo inferior, e encolheu os ombros, como 
 «Que salsada é esta!? Não vos percebo!»
 Caetano Alves pôs os olhos no tecto, e murmurou:
 
-- Louvado seja o Senhor! a que injúrias está sujeito um homem de bem!
+\- Louvado seja o Senhor! a que injúrias está sujeito um homem de bem!
 
 E gemeu como abafado pela constrição da afronta à sua probidade.
 
-- Vejo que não se reconhecem! - disse o doutor. - Esperemos que lhes voltem as reminiscências.
+\- Vejo que não se reconhecem! - disse o doutor. - Esperemos que lhes voltem as reminiscências.
 
 Requereu ao juiz a retenção do espanhol e de Caetano Alves para ulteriores averiguações, acrescentando:
 
-- Importa saber que motivos deu em Espanha este preso para ser encarcerado na cadeia donde fugiu.
+\- Importa saber que motivos deu em Espanha este preso para ser encarcerado na cadeia donde fugiu.
 
-- Eu!? - exclamou o espanhol.
+\- Eu!? - exclamou o espanhol.
 
-- Vossemecê! - respondeu o doutor Negro. - Não tem que estranhar as
+\- Vossemecê! - respondeu o doutor Negro. - Não tem que estranhar as
 masmorras de cá. Veremos agora para que possessão portuguesa as leis o mandam estudar documentos para a história de Portugal!...
 
 O auditório riu-se, e o espanhol cravou os olhos afuzilantes na cara do doutor.
@@ -1932,28 +1932,28 @@ O doutor segredou ao ouvido do juiz, e logo oficiais de justiça saíram em dire
 
 No pátio do tribunal encontrou Francisco Simões o seu amigo António da Silveira, que o abraçou, exclamando:
 
-- Graças a Deus que o encontro no teatro dos seus triunfos, doutor!
+\- Graças a Deus que o encontro no teatro dos seus triunfos, doutor!
 
-- Diz bem - respondeu Alpedrinha -; isto é uni verdadeiro teatro. Vamos lá para casa: dê-me o seu braço, que eu vou a cair, meu amigo.
+\- Diz bem - respondeu Alpedrinha -; isto é uni verdadeiro teatro. Vamos lá para casa: dê-me o seu braço, que eu vou a cair, meu amigo.
 
-- Assim que sua senhora me disse que V. Sª estava aqui, abafei de prazer. Quis entrar na sala; mas a mó do povo era impenetrável. Ouvi a sua voz, e contentei-me com isso.
+\- Assim que sua senhora me disse que V. Sª estava aqui, abafei de prazer. Quis entrar na sala; mas a mó do povo era impenetrável. Ouvi a sua voz, e contentei-me com isso.
 
-- Só a maior das protérvias de que tenho exemplo em trinta anos de foro pedia arrancar-me à letargia estúpida da minha desgraça -disse o doutor.
+\- Só a maior das protérvias de que tenho exemplo em trinta anos de foro pedia arrancar-me à letargia estúpida da minha desgraça -disse o doutor.
 
-- Ainda bem, que a indignação refaz os oradores, assim como fazia os verses, no dizer do satírico romano.
+\- Ainda bem, que a indignação refaz os oradores, assim como fazia os verses, no dizer do satírico romano.
 
-- Quem me diz a mim - tornou Alpedrinha, parando meditativo - que esta luta com a desmoralização não é um novo trago de peçonha que eu estou espremendo no meu cálice?!
+\- Quem me diz a mim - tornou Alpedrinha, parando meditativo - que esta luta com a desmoralização não é um novo trago de peçonha que eu estou espremendo no meu cálice?!
 
-- Aí vem a sua algoz fantasia! - atalhou António da Silveira, desenleando-o da sua abstracção.
+\- Aí vem a sua algoz fantasia! - atalhou António da Silveira, desenleando-o da sua abstracção.
 
-- Se eu não consigo provar que Caetano Alves é um ladrão, o ladrão serei eu no conceito público?
+\- Se eu não consigo provar que Caetano Alves é um ladrão, o ladrão serei eu no conceito público?
 
-- Como assim?! - perguntou o transmontano, mal conhecedor da matéria do pleito,
-- Porque eu apresentei como verdadeiro o rascunho de uma escritura que não existe. Se a falsa é válida, e havida como verdadeira, o falsário sou eu, que vendi a minha consciência ao autor do processo.
+\- Como assim?! - perguntou o transmontano, mal conhecedor da matéria do pleito,
+\- Porque eu apresentei como verdadeiro o rascunho de uma escritura que não existe. Se a falsa é válida, e havida como verdadeira, o falsário sou eu, que vendi a minha consciência ao autor do processo.
 
-- Mas a verdade triunfará! - replicou António da Silveira.
+\- Mas a verdade triunfará! - replicou António da Silveira.
 
-- O senhor é criança... - redarguiu o doutor. - Não sabe que Caetano Alves pode pôr uma barra de ouro sobre a boca do poço onde dizem que está a verdade? Ainda assim, é glorioso acabar em luta com um gigante daquela força! Morrerei no meu posto.
+\- O senhor é criança... - redarguiu o doutor. - Não sabe que Caetano Alves pode pôr uma barra de ouro sobre a boca do poço onde dizem que está a verdade? Ainda assim, é glorioso acabar em luta com um gigante daquela força! Morrerei no meu posto.
 
 Entraram em casa e prolongaram o diálogo acerca da falsificação da nota.
 
@@ -1963,19 +1963,19 @@ Alegraram-se Francisco Simões e António da Silveira.
 
 Não haviam ainda falado de Albertina. O moço receava espertar a dor latente. Foi o doutor que ajeitou o ensejo, dizendo:
 
-- E afinal nunca se pôde saber quem era Agostinho José Chaves?
+\- E afinal nunca se pôde saber quem era Agostinho José Chaves?
 
-- Eu não. Escrevi à srª D. Albertina, avisando-a de que depositei o dinheiro na mão do negociante que mo entregou, e nada mais soube.
+\- Eu não. Escrevi à srª D. Albertina, avisando-a de que depositei o dinheiro na mão do negociante que mo entregou, e nada mais soube.
 
-- É caso inaudito! - observou o doutor Negro. - Tenho levado noites de insânia a pensar nisto!... Já fiz perguntar ao tabelião Ferreira se ele conhecia, ou sabia que o tal miserável conhecesse Agostinho José Chaves. É nome que não existe!... O senhor acha pessimista a conjectura de que está escondido neste mistério um crime, seja ele da espécie que for?
+\- É caso inaudito! - observou o doutor Negro. - Tenho levado noites de insânia a pensar nisto!... Já fiz perguntar ao tabelião Ferreira se ele conhecia, ou sabia que o tal miserável conhecesse Agostinho José Chaves. É nome que não existe!... O senhor acha pessimista a conjectura de que está escondido neste mistério um crime, seja ele da espécie que for?
 
-- Crime!... - disse Silveira - qual crime?
+\- Crime!... - disse Silveira - qual crime?
 
-- Pergunta-me qual? Se o eu soubesse, seria tolice conjecturar que o há - respondeu o doutor, e continuou abstraidamente -: cento e cinquenta moedas dadas por um homem, desconhecido de todos, e do próprio indivíduo que as recebeu!... Latet anguis in herba!
+\- Pergunta-me qual? Se o eu soubesse, seria tolice conjecturar que o há - respondeu o doutor, e continuou abstraidamente -: cento e cinquenta moedas dadas por um homem, desconhecido de todos, e do próprio indivíduo que as recebeu!... Latet anguis in herba!
 
-- Não haveria, porventura - conjecturou Silveira -, aí um homem singular que beneficiasse João Crisóstomo como o faria um anónimo; e se crismasse com um nome fictício para esconder a mão generosa?
+\- Não haveria, porventura - conjecturou Silveira -, aí um homem singular que beneficiasse João Crisóstomo como o faria um anónimo; e se crismasse com um nome fictício para esconder a mão generosa?
 
-- Repito-lhe que o senhor é muito criança, e tem obrigação de conhecer melhor o mundo em que está - retorquiu o doutor Negro. - Nem Homero, nem Virgílio, nem mesmo os poetas bíblicos nos contam casos de anónimos tão levantados ao céu pela alçaprema da filantropia. Como quer achar o senhor monstros de virtude neste século gangrenado de egoísmo e abjecção!?
+\- Repito-lhe que o senhor é muito criança, e tem obrigação de conhecer melhor o mundo em que está - retorquiu o doutor Negro. - Nem Homero, nem Virgílio, nem mesmo os poetas bíblicos nos contam casos de anónimos tão levantados ao céu pela alçaprema da filantropia. Como quer achar o senhor monstros de virtude neste século gangrenado de egoísmo e abjecção!?
 
 Cessaram de aventar hipóteses os interlocutores, e declinaram a palestra sobre assuntos alheios ao estranho caso. Silveira saiu para voltar à noite, e o doutor, após breve repouso, foi assistir à conferência solicitada pelo corregedor do crime. Sobre a mesa do magistrado estavam alguns papéis soltos, parte dos quais já o corregedor com o escrivão tinham examinado. Eram cartas de amores escritas em espanhol, e outras em português. Das primeiras inferia-se que o galanteador estivera preso em Valhadolide, e dentre ferros cortejava uma qualquer menina que se propunha casar com ele, sem embargo da posição pouco amável do sujeito. Estas cartas eram sobrescritadas a D. Juan Ribera. Valiam muito como confirmação de que o espanhol estivera preso.
 
@@ -1985,103 +1985,103 @@ Ainda assim, a democrática senhora teve a discrição de não assinar-se nas ca
 
 As provas concludentes destes papéis eram que o espanhol mudava o nome, e fazia de conde.
 
-- Vamos agora ao que tem mais valor - disse o corregedor, folheando outros, papéis. - Mais valor digo; mas pouquíssima luz, que por enquanto nos esclareça o ponto que visamos. Está aqui esta meia folha de papel com duas formas de letra em espanhol. A primeira parte é uma certidão de óbito; a segunda é uma quitação de divida.
+\- Vamos agora ao que tem mais valor - disse o corregedor, folheando outros, papéis. - Mais valor digo; mas pouquíssima luz, que por enquanto nos esclareça o ponto que visamos. Está aqui esta meia folha de papel com duas formas de letra em espanhol. A primeira parte é uma certidão de óbito; a segunda é uma quitação de divida.
 
-- Ninguém pode duvidar que é um ensaio -reflexionou o doutor Negro.
+\- Ninguém pode duvidar que é um ensaio -reflexionou o doutor Negro.
 
-- Assim o creio: a tinta está fresca; o papel é português; colige-se que o falsificador está em correspondência com fregueses espanhóis. Logo que isto se me deparou, mandei ao correio-mor averiguar debaixo de que nome se entregavam cartas ao espanhol. O correio responde que tem entregado cartas com diversos nomes ao mesmo indivíduo, e promete miúdos esclarecimentos depois de examinar as listas, coadjuvado pela memória do empregado na entrega da correspondência. Esperemos esta espécie. Entretanto, vejamos estas duas cartas, que, a meu ver, prometem muito. Queira ouvir, sr. doutor Francisco Simões:
+\- Assim o creio: a tinta está fresca; o papel é português; colige-se que o falsificador está em correspondência com fregueses espanhóis. Logo que isto se me deparou, mandei ao correio-mor averiguar debaixo de que nome se entregavam cartas ao espanhol. O correio responde que tem entregado cartas com diversos nomes ao mesmo indivíduo, e promete miúdos esclarecimentos depois de examinar as listas, coadjuvado pela memória do empregado na entrega da correspondência. Esperemos esta espécie. Entretanto, vejamos estas duas cartas, que, a meu ver, prometem muito. Queira ouvir, sr. doutor Francisco Simões:
 
 «Amigo D. José. (Aqui é D. José - notou o corregedor). Oito dias é de mais. Tire-lhe dois, ainda que não duma. A gratificação será maior. É preciso repor a coisa no seu lugar. Eu vou depois de amanhã. Amigo para tudo. - A. J. C.»
-- Estas iniciais não provam nada - continuou o corregedor-; mas temos aqui uma outra carta, em que a última inicial se desenrola num apelido que pode provar muito.
+\- Estas iniciais não provam nada - continuou o corregedor-; mas temos aqui uma outra carta, em que a última inicial se desenrola num apelido que pode provar muito.
 
 Ouça o doutor:
 
 «D. José e amigo.
 
 O favor que me pede é superior às minhas forças. Mando-lhe metade da quantia, que fui pedir. São duzentas moedas. Em melhor ocasião, mandarei as outras. Amigo atencioso. - A. J. Chaves.»
-- Chaves! - exclamou o doutor Negro. -Agostinho José Chaves?!
+\- Chaves! - exclamou o doutor Negro. -Agostinho José Chaves?!
 
-- Agostinho José, diz V. Sª - respondeu o corregedor alvoroçado -; cá estão as iniciais A. J.! Conhece o doutor algum Agostinho José Chaves? Temos o fio de algum crime que nos leve ao conhecimento do outro! Conhece o homem?
+\- Agostinho José, diz V. Sª - respondeu o corregedor alvoroçado -; cá estão as iniciais A. J.! Conhece o doutor algum Agostinho José Chaves? Temos o fio de algum crime que nos leve ao conhecimento do outro! Conhece o homem?
 
 O doutor tinha a parda testa orvalhada de camarinhas de suor, e a respiração ansiada a ponto de levantar-se de salto, e correr à janela puxando as aspirações a grandes servos.
 
-- Que tem, meu amigo? - clamou o magistrado, seguindo-o, e abraçando-o pela cintura.
+\- Que tem, meu amigo? - clamou o magistrado, seguindo-o, e abraçando-o pela cintura.
 
 Francisco Simões caiu numa poltrona, e tartamudeou:
 
-- Isto passa já: é uma ânsia, procedida dos meus incómodos. Beberei uma pouca de água, se me faz favor.
+\- Isto passa já: é uma ânsia, procedida dos meus incómodos. Beberei uma pouca de água, se me faz favor.
 
 Recompôs-se o gesto do advogado, e logo o corregedor reservou para o dia seguinte o prosseguimento do exame. O doutor deu-se por pronto a continuá-lo sem perda de tempo. E, tomando as duas cartas entre mãos, disse:
 
-- Não trazem direcção no sobrescrito?
+\- Não trazem direcção no sobrescrito?
 
-- Veja que uma é marcada na Póvoa de Varzim. A outra presume-se que foi entregue em mão própria, ou escrita no Porto.
+\- Veja que uma é marcada na Póvoa de Varzim. A outra presume-se que foi entregue em mão própria, ou escrita no Porto.
 
-- Tenha V. Sª a bondade - disse o doutor - de ordenar que se dê uma busca nos papéis de Caetano Alves de Carvalho, sem demora, antes que ele seja visitado na cadeia.
+\- Tenha V. Sª a bondade - disse o doutor - de ordenar que se dê uma busca nos papéis de Caetano Alves de Carvalho, sem demora, antes que ele seja visitado na cadeia.
 
-- Está incomunicável - disse o corregedor.
+\- Está incomunicável - disse o corregedor.
 
-- A busca deve ser simultânea na quinta que ele tem nas vizinhanças da Póvoa de Varzim, e na casa de Vila Nova. Mora parte a obrigação que corre à polícia na devassa do crime, o meu cliente põe à sua disposição o dinheiro necessário nestas rápidas diligências.
+\- A busca deve ser simultânea na quinta que ele tem nas vizinhanças da Póvoa de Varzim, e na casa de Vila Nova. Mora parte a obrigação que corre à polícia na devassa do crime, o meu cliente põe à sua disposição o dinheiro necessário nestas rápidas diligências.
 
-- Tudo se cumprirá com independência do dinheiro do seu cliente - disse o magistrado.
+\- Tudo se cumprirá com independência do dinheiro do seu cliente - disse o magistrado.
 
 Saiu o doutor prometendo voltar no dia imediato.
 
 Quando entrou em casa, encontrou António da Silveira. Lançou-se-lhe aos braços, exclamando:
 
-- Não lho disse eu? não lho disse eu?
+\- Não lho disse eu? não lho disse eu?
 
-- O quê, sr. doutor? - perguntou o pávido moço, e a senhora aflita.
+\- O quê, sr. doutor? - perguntou o pávido moço, e a senhora aflita.
 
-- João Crisóstomo está debaixo duma suspeita de ladrão.
+\- João Crisóstomo está debaixo duma suspeita de ladrão.
 
-- Como? Que diz, doutor?!
+\- Como? Que diz, doutor?!
 
-- Agostinho José Chaves só é conhecido de João Crisóstomo, e do falsificador espanhol, fugido das cadeias de Valhadolide!
+\- Agostinho José Chaves só é conhecido de João Crisóstomo, e do falsificador espanhol, fugido das cadeias de Valhadolide!
 
 Silveira ficou transido. A mãe de Albertina irrompeu a chorar.
 
-- Não quero prantos! - bradou o doutor. - Quero cadafalsos, quero vingança, quero acreditar que há Providência!
+\- Não quero prantos! - bradou o doutor. - Quero cadafalsos, quero vingança, quero acreditar que há Providência!
 
-- Doutor! - murmurou António da Silveira. - Explique-me a razão das suas suspeitas.
+\- Doutor! - murmurou António da Silveira. - Explique-me a razão das suas suspeitas.
 
-- Deixe-me repousar! - disse o doutor Negro. - Rasga-se-me o peito. O inferno arde-me na cabeça! Minha filha, aquele anjo, a querida da minha alma está casada... com um ladrão!...
+\- Deixe-me repousar! - disse o doutor Negro. - Rasga-se-me o peito. O inferno arde-me na cabeça! Minha filha, aquele anjo, a querida da minha alma está casada... com um ladrão!...
 
 E abafava os soluços com as mãos trementes. António da Silveira contemplava com silenciosa estupefacção aquela agonia.
 
 Passados minutos, o doutor narrou o resultado da sua conferência com o corregedor do crime, e rematou, perguntando:
 
-- Que me diz a isto, sr. Silveira?
+\- Que me diz a isto, sr. Silveira?
 
 O interrogado deteve-se alguns segundos a pensar, e respondeu:
 
-- Por enquanto, é temeridade supor que João Crisóstomo seja ladrão.
+\- Por enquanto, é temeridade supor que João Crisóstomo seja ladrão.
 
-- Demonstre-me esse absurdo! - atalhou o doutor.
+\- Demonstre-me esse absurdo! - atalhou o doutor.
 
-- Demonstrarei, podendo; e creio que posso, porque estou isento de paixão. O que sabemos é que um tal Agostinho José Chaves, suspeito de correspondência criminosa com um espanhol de má nota, emprestou cento e cinquenta moedas a João Crisóstomo. Sabemos que lhas emprestou, porque o devedor mandava pagar-lhas. Acontece que não há Agostinho José Chaves: ficamos, portanto, certos de que houve um homem que falseou o seu nome, quando emprestou o dinheiro, e outro que o recebeu na ignorância dessa falsificação. Supondo que o chamado Agostinho José Chaves, pior estar em relações com uni espanhol criminoso é um criminoso também, não é justa a inferência de que João Crisóstomo seja criminoso como os dois homens, que não conhece. Portanto é temeridade capitular de ladrão João Crisóstomo.
+\- Demonstrarei, podendo; e creio que posso, porque estou isento de paixão. O que sabemos é que um tal Agostinho José Chaves, suspeito de correspondência criminosa com um espanhol de má nota, emprestou cento e cinquenta moedas a João Crisóstomo. Sabemos que lhas emprestou, porque o devedor mandava pagar-lhas. Acontece que não há Agostinho José Chaves: ficamos, portanto, certos de que houve um homem que falseou o seu nome, quando emprestou o dinheiro, e outro que o recebeu na ignorância dessa falsificação. Supondo que o chamado Agostinho José Chaves, pior estar em relações com uni espanhol criminoso é um criminoso também, não é justa a inferência de que João Crisóstomo seja criminoso como os dois homens, que não conhece. Portanto é temeridade capitular de ladrão João Crisóstomo.
 
-- Concluiu? - perguntou o doutor.
+\- Concluiu? - perguntou o doutor.
 
-- Dei as minhas razões, sem violentar a consciência.
+\- Dei as minhas razões, sem violentar a consciência.
 
-- Respondo às suas razões. Agostinho José Chaves, que ninguém conhece na Póvoa de Varzim, é Caetano Alves de Carvalho, que tem uma quinta nas proximidades da Póvoa de Varzim. Caetano Alves &e Carvalho é acusado de falsificar uma escritura, arrancando as páginas da verdadeira e substituindo-as por outras. A polícia prendeu uni espanhol visitado por Caetano Alves de Carvalho: deu-lhe busca aos papéis, e encontrou vestígios de contrafacção ide letras, e duas cartas de Agostinho José Chaves, uma que apressa uma obra recomendada, e outra que acompanha a remessa de duzentas moedas. Destas cartas, uma é escrita da Póvoa de Varzim, onde ninguém conhece Agostinho José Chaves, excepto João Crisóstomo. A nota corrompida estava no cartório do tabelião Ferreira: João Crisóstomo era amanuense do tabelião Ferreira. João Crisóstomo aparece devedor de cento e cinquenta moedas a Agostinho José Chaves, e Agostinho José Chaves é Caetano Alves de Carvalho, falsificador da nota. Respondi. Que tem a replicar o sr. Silveira?
+\- Respondo às suas razões. Agostinho José Chaves, que ninguém conhece na Póvoa de Varzim, é Caetano Alves de Carvalho, que tem uma quinta nas proximidades da Póvoa de Varzim. Caetano Alves &e Carvalho é acusado de falsificar uma escritura, arrancando as páginas da verdadeira e substituindo-as por outras. A polícia prendeu uni espanhol visitado por Caetano Alves de Carvalho: deu-lhe busca aos papéis, e encontrou vestígios de contrafacção ide letras, e duas cartas de Agostinho José Chaves, uma que apressa uma obra recomendada, e outra que acompanha a remessa de duzentas moedas. Destas cartas, uma é escrita da Póvoa de Varzim, onde ninguém conhece Agostinho José Chaves, excepto João Crisóstomo. A nota corrompida estava no cartório do tabelião Ferreira: João Crisóstomo era amanuense do tabelião Ferreira. João Crisóstomo aparece devedor de cento e cinquenta moedas a Agostinho José Chaves, e Agostinho José Chaves é Caetano Alves de Carvalho, falsificador da nota. Respondi. Que tem a replicar o sr. Silveira?
 
-- Que João Crisóstomo não pode ser ladrão.
+\- Que João Crisóstomo não pode ser ladrão.
 
-- Isso não é hermenêutica nem lógica, nem coisa nenhuma sensata! - bradou o doutor Negro - Porque não é ladrão João Crisóstomo?
+\- Isso não é hermenêutica nem lógica, nem coisa nenhuma sensata! - bradou o doutor Negro - Porque não é ladrão João Crisóstomo?
 
-- Porque os ladrões não contraem dívidas para pagá-las!
+\- Porque os ladrões não contraem dívidas para pagá-las!
 
-- Estou pasmado! - replicou o doutor. - Pelos modos, ladrão é aquele que contrai dividas que não paga.
+\- Estou pasmado! - replicou o doutor. - Pelos modos, ladrão é aquele que contrai dividas que não paga.
 
-- Em jurisprudência poderá ser outra a coisa definida; mas no direito congenial da razão humana acho ajustada a definição.
+\- Em jurisprudência poderá ser outra a coisa definida; mas no direito congenial da razão humana acho ajustada a definição.
 
-- Em direito, senhor - retorquiu o doutor -, ladrão é o que rouba; ladrão é o que proporciona o roubo; ladrão não deixa de ser aquele que contraiu unia divida como remuneração dum roubo, embora a pague. - Aqui está o que diz a jurisprudência congenial da razão humana...
+\- Em direito, senhor - retorquiu o doutor -, ladrão é o que rouba; ladrão é o que proporciona o roubo; ladrão não deixa de ser aquele que contraiu unia divida como remuneração dum roubo, embora a pague. - Aqui está o que diz a jurisprudência congenial da razão humana...
 
-- Mas... - atalhou António da Silveira.
+\- Mas... - atalhou António da Silveira.
 
-- Mas... peço perdão, meu amigo, à sua bondade: não façamos ensaio de polémica forense. Eu estou muito quebrado de forças: vou ver se consigo recuperá-las dormindo. Preciso viver, que esta batalha há-de ser tremenda. É um duelo de morte. Quem se atravessar diante da vingança que a justiça me dá, é meu inimigo jurado.
+\- Mas... peço perdão, meu amigo, à sua bondade: não façamos ensaio de polémica forense. Eu estou muito quebrado de forças: vou ver se consigo recuperá-las dormindo. Preciso viver, que esta batalha há-de ser tremenda. É um duelo de morte. Quem se atravessar diante da vingança que a justiça me dá, é meu inimigo jurado.
 
 António da Silveira acompanhou o doutor ao quarto, e voltou a mitigar as ânsias da mãe de Albertina.
 
@@ -2097,40 +2097,40 @@ Dobrava ele a carta, depois de a ter lido à risonha esposa, que vinha de consid
 
 Abriu-a Albertina, a quem ela vinha endereçada, e disse com muito regozijo:
 
-- É de António da Silveira!
+\- É de António da Silveira!
 
-- Não se demorem muito, que a mamã ficou à espera - disse o menino, e saiu.
+\- Não se demorem muito, que a mamã ficou à espera - disse o menino, e saiu.
 
 Albertina leu:
 
 «Minha prezada senhora.
 
 O punhal vai ser penetrante: mas a dor é necessária...»
-- Que será, meu Deus! - exclamou Albertina - morreria meu pai?!...
+\- Que será, meu Deus! - exclamou Albertina - morreria meu pai?!...
 
 E continuou, estando já o marido de par com ela, para ler ao mesmo tempo:
 
 «Não sei como hei-de preparar o bálsamo antes de abrir a ferida!... É inevitável!, Diga-se depressa o que é forçoso dizer-se.
 
 Há aqui um homem chamado Caetano Alves de Carvalho, que os tribunais vão condenar como falsificador de escritura. A escritura foi falsificada no livro de notas do tabelião Ferreira...»
-- Santo Deus! - bradou João Crisóstomo.
+\- Santo Deus! - bradou João Crisóstomo.
 
-- Que é? - clamou Albertina. - Fazes-me tremer! que é, João?
+\- Que é? - clamou Albertina. - Fazes-me tremer! que é, João?
 
-- Lê! - disse ele - Deixa-me ler a mim...
+\- Lê! - disse ele - Deixa-me ler a mim...
 
 E, tirando-lhe das mãos trémulas a carta, prosseguiu:
 
 «O falsificador há fundadas presunções de que fingisse chamar-se Agostinho José Chaves com duas pessoas: uma, já indiciada no crime, é o falsificador; outra, que brevemente o será, é seu marido.»
-- Ó Virgem Santíssima! - gritou Albertina.
+\- Ó Virgem Santíssima! - gritou Albertina.
 
 João Crisóstomo relanceou em roda de si os olhos esgazeados, e murmurou com acentuação de incomportável amargura:
 
-- Isso é atroz! Estou sonhando, Deus de misericórdia!...
+\- Isso é atroz! Estou sonhando, Deus de misericórdia!...
 
 Albertina tomava-lhe das mãos a carta, que ele não largou.
 
-- Deixa-me ler tudo - disse o atribulado. E leu:
+\- Deixa-me ler tudo - disse o atribulado. E leu:
 
 «Está seu pai advogando este pleito contra os falsificadores: é preciso não contar com a comiseração de seu pai, minha senhora.»
 Carrasco! - bradou Albertina alucinada. João continuou:
@@ -2141,45 +2141,45 @@ Fujam sem demora. Vão para o Brasil, e esperem lá que a verdade venha à luz d
 «António da Silveira.»
 João Crisóstomo acabara de ler a carta serenamente. Horribilíssima serenidade!
 
-- E agora? - perguntou Albertina asfixiada pelos soluços.
+\- E agora? - perguntou Albertina asfixiada pelos soluços.
 
-- Agora - disse o marido - vou ao Porto.
+\- Agora - disse o marido - vou ao Porto.
 
-- Não irás! - clamou ela-, não irás, filho da minha alma!
+\- Não irás! - clamou ela-, não irás, filho da minha alma!
 
-- Irei! - replicou firmemente o desgraçado.
+\- Irei! - replicou firmemente o desgraçado.
 
-- E eu não! - redarguiu ela com bravo ímpeto.
+\- E eu não! - redarguiu ela com bravo ímpeto.
 
-- Pois não vás, que não deves ir, Albertina. Fica.
+\- Pois não vás, que não deves ir, Albertina. Fica.
 
-- Não vou, porque me hás-de sepultar primeiro!
+\- Não vou, porque me hás-de sepultar primeiro!
 
 E, correndo ao seu quarto, voltou com unia pistola engatilhada ao ouvido, exclamando.:
 
-- Perdoo-te a morte, meu infeliz amigo.
+\- Perdoo-te a morte, meu infeliz amigo.
 
-- Albertina! - bradou João Crisóstomo, laçando-se-lhe ao braço.
+\- Albertina! - bradou João Crisóstomo, laçando-se-lhe ao braço.
 
 Neste momento, subiam as escadas umas doze pessoas, que compunham a família.
 
 O pai dos educandos vinha dizendo:
 
-- Que demora é esta?! Vamos, que são horas.
+\- Que demora é esta?! Vamos, que são horas.
 
 Quando assomaram ao limiar da porta, viram Albertina desmaiada nos braços do marido, com o rosto alagado das lágrimas dele, que derivavam a quatro. A pistola estava caída no pavimento ao lado da carta.
 
-- Que é isto?! - perguntou o espavorido espanhol.
+\- Que é isto?! - perguntou o espavorido espanhol.
 
 João escondeu o rosto contra a face de sua mulher. A família rodeou-os. As meninas mais novas choravam, abraçando-se à mestra. O pai levantara do chão a pistola, sem ousar pôr mão na carta.
 
-- Sr. Crisóstomo! - dizia ele em tom rogativo. - Podemos dar algum remédio a esta desgraça, seja ela qual for? Falem, pela amizade que lhes temos, se é desventura que possa ser sabida!...
+\- Sr. Crisóstomo! - dizia ele em tom rogativo. - Podemos dar algum remédio a esta desgraça, seja ela qual for? Falem, pela amizade que lhes temos, se é desventura que possa ser sabida!...
 
 João encarou na dama, e pediu-lhe a mercê de ajudar a transportar sua mulher ao leito. Albertina deixou-se levar desfalecida, O marido ficou sozinho com o espanhol na sala. Fecharam-se por dentro, e aí se demoraram duas horas.
 
 No entanto, Albertina, rodeada da carinhosa família, quando cobrou os sentidos, circunvagou a vista, perguntando pelo marido. Respondeu-lhe a senhora que estava com o seu amigo na sala, havia mais de uma hora. A filha do doutor Negro murmurou:
 
-- Vejam se o salvam!
+\- Vejam se o salvam!
 
 Pediram-lhe explicação do perigo que ele corria. Albertina calou-se, e ficou por largo tempo num taciturno espasmo.
 
@@ -2187,13 +2187,13 @@ Findas as duas horas, o espanhol saiu da sala, chamou a sua família, e voltaram
 
 João foi ao pé de sua mulher, e disse-lhe:
 
-- Sossega, Albertina, que eu não vou ao Porto. Estou tranquilo como vês. Imita a minha coragem. Eu vou escrever ao nosso Silveira.
+\- Sossega, Albertina, que eu não vou ao Porto. Estou tranquilo como vês. Imita a minha coragem. Eu vou escrever ao nosso Silveira.
 
 Ergueu-se ela com impetuoso vigor, e seguiu-o à escrivaninha, perguntando-lhe:
 
-- Que vais fazer?
+\- Que vais fazer?
 
-- Verás.
+\- Verás.
 
 Sentou-se e placidamente escreveu:
 
@@ -2209,27 +2209,27 @@ Criado e reconhecido amigo
 João Crisóstomo.»
 Albertina mostrou alegria com esta determinação.
 
-- Mas o dinheiro que aí está não chega! - observou ela.
+\- Mas o dinheiro que aí está não chega! - observou ela.
 
-- Temos um benfeitor. Ele aí está.
+\- Temos um benfeitor. Ele aí está.
 
 Entrou o espanhol com um saquinho de onças, que depôs sobre a banca.
 
 João entregou-lhe o dinheiro que tinha. Contou o espanhol duzentas moedas, completando-as com parte do dinheiro que trouxera. Ensacou-as, e saiu a remetê-las para o Porto, mediante uma ordem de pagamento à vista, a António da Silveira.
 
-- Agora, minha querida Albertina - disse Crisóstomo -, vamos por esse mundo fora deixando um rasto de desonra. Tu és a força da minha consciência: não me deixarás cair. Quando me vires inclinado aos braços da morte, cinge-me com os teus. Quando o mundo me chamar ladrão, diz-me tu que o não sou. Tens dois amigos a derem testemunho da minha probidade. Se eu morresse, devias invocá-los, para desinfamar a tua viuvez. Espero vencer a morte com o teu auxílio. Se vierem muitas dores, não te coíbas de chorar com medo de me afligir. Fazem-me bem as tuas lágrimas. Vamos para o Rio. de Janeiro. Trabalharemos como aqui. Há-de lá chegar a notícia do meu crime: paciência. Direi que estou inocente. Se me não acreditarem, cuidarão ao menos que eu me estou reabilitando pela honra do trabalho. Creio que voltaremos à pátria, porque é necessário que eu volte. Fica-me cá a minha pobre dignidade empenhada... Muito valor agora, Albertina.
+\- Agora, minha querida Albertina - disse Crisóstomo -, vamos por esse mundo fora deixando um rasto de desonra. Tu és a força da minha consciência: não me deixarás cair. Quando me vires inclinado aos braços da morte, cinge-me com os teus. Quando o mundo me chamar ladrão, diz-me tu que o não sou. Tens dois amigos a derem testemunho da minha probidade. Se eu morresse, devias invocá-los, para desinfamar a tua viuvez. Espero vencer a morte com o teu auxílio. Se vierem muitas dores, não te coíbas de chorar com medo de me afligir. Fazem-me bem as tuas lágrimas. Vamos para o Rio. de Janeiro. Trabalharemos como aqui. Há-de lá chegar a notícia do meu crime: paciência. Direi que estou inocente. Se me não acreditarem, cuidarão ao menos que eu me estou reabilitando pela honra do trabalho. Creio que voltaremos à pátria, porque é necessário que eu volte. Fica-me cá a minha pobre dignidade empenhada... Muito valor agora, Albertina.
 
-- Pois vês-me enfraquecer?! - atalhou ela cariciosamente.
+\- Pois vês-me enfraquecer?! - atalhou ela cariciosamente.
 
-- Não, por ora; mas é preciso que te unjas de resignação para um tremendo combate. Ao meu lado vai a fama das cem trombetas pregoando que eu deixei falsificar uma escritura. Quando ela gritar, fecha tu os ouvidos, minha filha. Se me cuspirem no rosto, fecha tu os olhos. Se me gravarem na testa o ferrete de ladrão, lava-mo com as tuas lágrimas.
+\- Não, por ora; mas é preciso que te unjas de resignação para um tremendo combate. Ao meu lado vai a fama das cem trombetas pregoando que eu deixei falsificar uma escritura. Quando ela gritar, fecha tu os ouvidos, minha filha. Se me cuspirem no rosto, fecha tu os olhos. Se me gravarem na testa o ferrete de ladrão, lava-mo com as tuas lágrimas.
 
-- Sim, meu infeliz anjo! - exclamou Albertina, estreitando-o contra o seio.
+\- Sim, meu infeliz anjo! - exclamou Albertina, estreitando-o contra o seio.
 
-- Abraça-me; mas não chores, que ainda é cedo!... Vamos ao essencial. Principia desde já a encaixotar a nossa bagagem. Mal dirias tu, quando, há pouco, te vestias para a festa, que irias estrear o teu vestido ao novo mundo!... Nada de fraquezas indignas de mártires tão provados como nós!... Arranja o que puderes, que eu vou tratar de uns pequenos preparos. O navio parte na próxima semana. Esta nossa mobília quer comprá-la este benfeitor, o segundo homem que vai jurar sobre a minha inocência. Ficamos devendo alguns centos de cruzados ao pai dos nossos discípulos. É necessário viver para lhos pagar. Estás animada?
+\- Abraça-me; mas não chores, que ainda é cedo!... Vamos ao essencial. Principia desde já a encaixotar a nossa bagagem. Mal dirias tu, quando, há pouco, te vestias para a festa, que irias estrear o teu vestido ao novo mundo!... Nada de fraquezas indignas de mártires tão provados como nós!... Arranja o que puderes, que eu vou tratar de uns pequenos preparos. O navio parte na próxima semana. Esta nossa mobília quer comprá-la este benfeitor, o segundo homem que vai jurar sobre a minha inocência. Ficamos devendo alguns centos de cruzados ao pai dos nossos discípulos. É necessário viver para lhos pagar. Estás animada?
 
-- E contente, meu filho!
+\- E contente, meu filho!
 
-- Pois bendito seja Deus! Até logo.
+\- Pois bendito seja Deus! Até logo.
 
 O providencial espanhol foi com João Crisóstomo abonar-lhe o passaporte, e tomar passagem no navio mais próximo a sair.
 
@@ -2251,29 +2251,29 @@ João Crisóstomo.»
     
 Executadas as buscas domiciliárias na quinta da Póvoa de Varzim, e na casa de Vila Nova de Gaia, o corregedor do crime, antes de examinar os papéis encontrados, disse ao seu escrivão que avisasse o doutor Negro.
 
-- Desgraçado pai! - disse o escrivão.
+\- Desgraçado pai! - disse o escrivão.
 
-- A quem se refere o senhor? - perguntou o chefe da policia.
+\- A quem se refere o senhor? - perguntou o chefe da policia.
 
-- Ao doutor Negro - respondeu o subalterno com aspeito condoído.
+\- Ao doutor Negro - respondeu o subalterno com aspeito condoído.
 
-- Esclareça-me esse seu gesto melancólico.
+\- Esclareça-me esse seu gesto melancólico.
 
-- Dois únicos papéis indiciadores de crime apareceram nas escrivaninhas de Caetano Alves. São duas cartas: uma encontrada na Póvoa; a outra em Vila Nova.
+\- Dois únicos papéis indiciadores de crime apareceram nas escrivaninhas de Caetano Alves. São duas cartas: uma encontrada na Póvoa; a outra em Vila Nova.
 
 Ambas as cartas são sobrescritadas a Agostinho José Chaves, e ambas assinadas por João Crisóstomo, amanuense do tabelião Ferreira, e genro do doutor Negro actualmente.
 
-- O rapaz que esteve preso a cumprir sentença?
+\- O rapaz que esteve preso a cumprir sentença?
 
-- Esse mesmo, sr. doutor corregedor.
+\- Esse mesmo, sr. doutor corregedor.
 
-- Procure-me essas cartas entre os papéis.
+\- Procure-me essas cartas entre os papéis.
 
-- Aqui estão separadas.
+\- Aqui estão separadas.
 
 O magistrado leu a primeira em que João Crisóstomo pedia cento e cinquenta moedas de empréstimo; e a segunda em que ele avisava o credor para receber da mão de António da Silveira o pagamento da dívida.
 
-- Isto é decisivo! - opiniou o magistrado. - Está provada a cumplicidade do amanuense e a inocência do tabelião, que eu já hoje fiz capturar. Considerações com o doutor não pode haver nenhumas. Vá o senhor ou mande dizer-lhe o estado das coisas. É o único acto de atenção que posso ter com ele. Pode ser que o Alpedrinha desista de advogar neste pleito.
+\- Isto é decisivo! - opiniou o magistrado. - Está provada a cumplicidade do amanuense e a inocência do tabelião, que eu já hoje fiz capturar. Considerações com o doutor não pode haver nenhumas. Vá o senhor ou mande dizer-lhe o estado das coisas. É o único acto de atenção que posso ter com ele. Pode ser que o Alpedrinha desista de advogar neste pleito.
 
 Foi o escrivão em pessoa entender-se com Francisco Simões. Estava ele no escritório com António da Silveira.
 
@@ -2281,65 +2281,65 @@ Queria o oficial de justiça tratar o melindroso assunto a sós com o advogado, 
 
 O constrangido núncio da triste nova tirou da carteira as duas cartas indicativas de cumplicidade, e apresentou-as ao doutor Negro, que as leu em voz alta.
 
-- Bem! - disse com ostensiva tranquilidade Francisco Simões. - Eu vou requerer para que essas importantes cartas se juntem aos autos. Isto que prova é que temos uni criminoso mais na rede. Agora veremos se a justiça o deixa escapar da malha. Tem mais alguma coisa a dizer-me?
+\- Bem! - disse com ostensiva tranquilidade Francisco Simões. - Eu vou requerer para que essas importantes cartas se juntem aos autos. Isto que prova é que temos uni criminoso mais na rede. Agora veremos se a justiça o deixa escapar da malha. Tem mais alguma coisa a dizer-me?
 
-- Não, senhor - respondeu o escrivão.
+\- Não, senhor - respondeu o escrivão.
 
-- A sua vinda parecia-me que mirava a outro alvo...
+\- A sua vinda parecia-me que mirava a outro alvo...
 
-- A dizer a verdade, o sr. corregedor cuidou que V. Sª quereria desistir de advogado da acusação.
+\- A dizer a verdade, o sr. corregedor cuidou que V. Sª quereria desistir de advogado da acusação.
 
-- Diga ao corregedor que não desisto.
+\- Diga ao corregedor que não desisto.
 
-- Cumprirei.
+\- Cumprirei.
 
 Saíra o escrivão; e logo António da. Silveira, tomando o chapéu, disse em tom de voz quebrada pela comoção:
 
-- Vou sair do Porto, sr. doutor: agora sim; é tempo de ir esconder-me na minha aldeia, e esquecer o que vi e ouvi neste tremedal da sociedade culta...
+\- Vou sair do Porto, sr. doutor: agora sim; é tempo de ir esconder-me na minha aldeia, e esquecer o que vi e ouvi neste tremedal da sociedade culta...
 
-- Pois vai?! - cortou Francisco Simões. -A sua intenção era outra, há momentos ainda!...
+\- Pois vai?! - cortou Francisco Simões. -A sua intenção era outra, há momentos ainda!...
 
-- A minha tenção era declinar de sobre as suas cãs, sr. doutor, uma ignomínia iminente, o máximo vilipêndio que ainda homem nenhum levantou da lama social com suas próprias mãos!
+\- A minha tenção era declinar de sobre as suas cãs, sr. doutor, uma ignomínia iminente, o máximo vilipêndio que ainda homem nenhum levantou da lama social com suas próprias mãos!
 
 O doutor levantou-se em vibrações de cólera, e bradou:
 
-- Que inferno! que inferno! Conspiram todos em matar-me! Que mal fiz eu ao mundo! que mal faço eu a este homem que me tem visto chorar lágrimas de sangue!?
+\- Que inferno! que inferno! Conspiram todos em matar-me! Que mal fiz eu ao mundo! que mal faço eu a este homem que me tem visto chorar lágrimas de sangue!?
 
-- A mim - disse brandamente António da Silveira - tem-me feito a honra de me escutar, e não repelir os verdes anos que ousam contrapor-se as suas deliberações. A mim, sr. doutor, tem-me dado horas atormentadas, porque eu tenho chorado à cabeceira do seu leito, como raros filhos choram ao lado de um pai moribundo. O mal que me tem feito é levantar aos meus olhos o véu do esqualor de umas chagas que me fazem tédio do mundo, e saudades dos penhascos e da santa rudeza da minha aldeia. Retiro-me, porque não quero ver o resto; não quero ver o doutor Francisco Simões de Alpedrinha, num tribunal, a provar que o marido de sua filha é um infame. Eis aqui porque me retiro, e para sempre, da sua presença. Levo compaixão dos seus infortúnios, ar. doutor; mas sinceramente lhe digo que escassamente posso respeitar o homem que sofre até ao perdimento do coração: estimá-lo não posso. E creia V. Sª que o seu proceder vai alienar todas as simpatias que, porventura, as suas desgraças passadas acarearam. O mundo será pior do que eu mesmo cuido que ele é; mas, seja o que for, o mundo abomina o homem que aceita a odiosa missão de V. Sª. O próprio corregedor lhe mandou lembrar delicadamente os seus deveres de pai. V. Sª parece rejubilar-se da ocasião de arrastar seu genro pelos cabelos de sua filha, e dizer à sociedade: «Escarrem na cara desta mulher, que é esposa daquele ladrão!» O horror deste acto afoga-me a voz na garganta! Ainda bem, meu Deus, que tenho lágrimas para  doutor Negro sentara-se arquejante, a bracejar ansiadíssimo, e a soltar uns gritos inarticulados.
+\- A mim - disse brandamente António da Silveira - tem-me feito a honra de me escutar, e não repelir os verdes anos que ousam contrapor-se as suas deliberações. A mim, sr. doutor, tem-me dado horas atormentadas, porque eu tenho chorado à cabeceira do seu leito, como raros filhos choram ao lado de um pai moribundo. O mal que me tem feito é levantar aos meus olhos o véu do esqualor de umas chagas que me fazem tédio do mundo, e saudades dos penhascos e da santa rudeza da minha aldeia. Retiro-me, porque não quero ver o resto; não quero ver o doutor Francisco Simões de Alpedrinha, num tribunal, a provar que o marido de sua filha é um infame. Eis aqui porque me retiro, e para sempre, da sua presença. Levo compaixão dos seus infortúnios, ar. doutor; mas sinceramente lhe digo que escassamente posso respeitar o homem que sofre até ao perdimento do coração: estimá-lo não posso. E creia V. Sª que o seu proceder vai alienar todas as simpatias que, porventura, as suas desgraças passadas acarearam. O mundo será pior do que eu mesmo cuido que ele é; mas, seja o que for, o mundo abomina o homem que aceita a odiosa missão de V. Sª. O próprio corregedor lhe mandou lembrar delicadamente os seus deveres de pai. V. Sª parece rejubilar-se da ocasião de arrastar seu genro pelos cabelos de sua filha, e dizer à sociedade: «Escarrem na cara desta mulher, que é esposa daquele ladrão!» O horror deste acto afoga-me a voz na garganta! Ainda bem, meu Deus, que tenho lágrimas para  doutor Negro sentara-se arquejante, a bracejar ansiadíssimo, e a soltar uns gritos inarticulados.
 
 António da Silveira acrescentou balbuciante:
 
-- E vai V. Sª acusar um inocente!...
+\- E vai V. Sª acusar um inocente!...
 
-- Um inocente! - exclamou o doutor.
+\- Um inocente! - exclamou o doutor.
 
-- Repito: um inocente, apenas culpado de excessiva confiança num homem que lhe atraiçoou a boa fé. Não se engana o meu coração; o seu, sr. doutor, é que está dementado pelo ódio. Vá ao tribunal, vá! Pode ser que, a um tempo, alcance opróbrio e remorso. Pode ser que a inocência de João Crisóstomo seja provada pela mesma crueza e injúria com que V. Sª o acusar!...
+\- Repito: um inocente, apenas culpado de excessiva confiança num homem que lhe atraiçoou a boa fé. Não se engana o meu coração; o seu, sr. doutor, é que está dementado pelo ódio. Vá ao tribunal, vá! Pode ser que, a um tempo, alcance opróbrio e remorso. Pode ser que a inocência de João Crisóstomo seja provada pela mesma crueza e injúria com que V. Sª o acusar!...
 
-- Basta! - bradou o doutor. - Vá em paz! Deixe-me com a minha desgraça.
+\- Basta! - bradou o doutor. - Vá em paz! Deixe-me com a minha desgraça.
 
 Neste conflito, saiu duma alcova contígua ao escritório a mãe de Albertina, e abraçou-se em António, exclamando:
 
-- Não vá, sr. Silveira! Não deixe meu marido! pelas chagas de Jesus lho pede esta desgraçada mãe e esposa!
+\- Não vá, sr. Silveira! Não deixe meu marido! pelas chagas de Jesus lho pede esta desgraçada mãe e esposa!
 
-- Que é isto! - acudiu o doutor enfunado. - Temos tragédia?
+\- Que é isto! - acudiu o doutor enfunado. - Temos tragédia?
 
-- Tragédia é o justo nome que isto merece - respondeu António da Silveira, apiedado das contorsões aflitivas da senhora. - Que faço eu aqui, minha amiga? - continuou ele, obrigando-a suavemente a sentar-se. - Se o sr. doutor cede ao estímulo do ódio, e resiste ao do coração paternal, que hei-de eu fazer com os rogos da minha amizade sem nenhum valor?!
+\- Tragédia é o justo nome que isto merece - respondeu António da Silveira, apiedado das contorsões aflitivas da senhora. - Que faço eu aqui, minha amiga? - continuou ele, obrigando-a suavemente a sentar-se. - Se o sr. doutor cede ao estímulo do ódio, e resiste ao do coração paternal, que hei-de eu fazer com os rogos da minha amizade sem nenhum valor?!
 
-- Peça-lhe que não seja advogado contra o marido de nossa filha! - tornou a mãe de Albertina.
+\- Peça-lhe que não seja advogado contra o marido de nossa filha! - tornou a mãe de Albertina.
 
-- Já pedi, minha senhora.
+\- Já pedi, minha senhora.
 
-- Eu também to suplico! - voltou ela, ajoelhando ao marido. - Por aquele amor com que eu fugi de casa de meus pais para obedecer à tua vontade; pelas lágrimas que meus pais choraram; pelas dores que custaram a vida de minha mãe; por tudo que pode falar ao teu coração, te peço, Francisco! Não sejas contra a nossa Albertina! Basta-lhe a sua desgraça! Qualquer advogado os perderá; não é preciso que tu vás ao tribunal falar contra eles!
+\- Eu também to suplico! - voltou ela, ajoelhando ao marido. - Por aquele amor com que eu fugi de casa de meus pais para obedecer à tua vontade; pelas lágrimas que meus pais choraram; pelas dores que custaram a vida de minha mãe; por tudo que pode falar ao teu coração, te peço, Francisco! Não sejas contra a nossa Albertina! Basta-lhe a sua desgraça! Qualquer advogado os perderá; não é preciso que tu vás ao tribunal falar contra eles!
 
 O doutor Negro fez um aceno desabrido com a mão, e voltou o rosto húmido de pranto. A senhora ergueu-se, e saiu do escritório, gemendo, na incerteza de ter sido atendida.
 
 Francisco Simões murmurou:
 
-- Vencido; mas morto!
+\- Vencido; mas morto!
 
-- Deus é que tem os seus dias contados! - disse António da Silveira.
+\- Deus é que tem os seus dias contados! - disse António da Silveira.
 
-- Demito-me de advogado. Morri!... Nunca mais irei aos tribunais! Acabou-se tudo!... Sr. António da Silveira, isto era uma febre... o vasquejar de uma lâmpada... Era a paixão que me emprestava um calor, que me calcinava... É de fogo do Inferno o calor que dão as paixões! Maldito seja quem mo acendeu na alma! Maldito seja!... A minha inteligência estava ainda vigorosa como aos vinte e cinco anos. Eu podia ser rico; mas gastei muito com a educação da amaldiçoada! Rasgava sedas como as filhas dos príncipes! Sonhava desejos, e acordava para os ver realizados, ela, a ingrata, a perdida! Invejavam-na, e pasmavam da minha liberalidade! Eis-me pobre à beira da sepultura!...  O meu orgulho no que deu! Orgulho daquela filha! Mereceu-a um cúmplice de falsi-ficadores! Que destino, que destino!... E, ao cabo de tudo, morrer, não já de saudade dela, mas de vergonha do labéu que o marido lhe pôs! Aqui tem sr. Silveira, uma horrenda catástrofe!... Quem quererá ser pai, contemplando este meu fim de vida, esta agonia obscura, este morrer debaixo de um opróbrio esmagador!... Não fale, não fale! É inconsolável a minha tribulação! Pique, peço-lhe que fique ao meu lado.. Bem vê que nem um só amigo se lembra do homem desamparado dos afagos da fortuna! Esteja por aqui até ao fim, que isto acaba cedo!...
+\- Demito-me de advogado. Morri!... Nunca mais irei aos tribunais! Acabou-se tudo!... Sr. António da Silveira, isto era uma febre... o vasquejar de uma lâmpada... Era a paixão que me emprestava um calor, que me calcinava... É de fogo do Inferno o calor que dão as paixões! Maldito seja quem mo acendeu na alma! Maldito seja!... A minha inteligência estava ainda vigorosa como aos vinte e cinco anos. Eu podia ser rico; mas gastei muito com a educação da amaldiçoada! Rasgava sedas como as filhas dos príncipes! Sonhava desejos, e acordava para os ver realizados, ela, a ingrata, a perdida! Invejavam-na, e pasmavam da minha liberalidade! Eis-me pobre à beira da sepultura!...  O meu orgulho no que deu! Orgulho daquela filha! Mereceu-a um cúmplice de falsi-ficadores! Que destino, que destino!... E, ao cabo de tudo, morrer, não já de saudade dela, mas de vergonha do labéu que o marido lhe pôs! Aqui tem sr. Silveira, uma horrenda catástrofe!... Quem quererá ser pai, contemplando este meu fim de vida, esta agonia obscura, este morrer debaixo de um opróbrio esmagador!... Não fale, não fale! É inconsolável a minha tribulação! Pique, peço-lhe que fique ao meu lado.. Bem vê que nem um só amigo se lembra do homem desamparado dos afagos da fortuna! Esteja por aqui até ao fim, que isto acaba cedo!...
 
 Silveira disse breves palavras tendentes a sossegar o agitado ânimo do velho.
 
@@ -2347,13 +2347,13 @@ Conseguira deixá-lo entorpecido.
 
 Em seguida, foi pessoalmente às diferentes instâncias da judicatura civil e criminal anunciar a desistência do doutor Francisco Simões. Conversando com o corregedor, defendeu o carácter de João Crisóstomo, e refutou a arguição da cumplicidade voluntária. O magistrado, sabendo que o veemente defensor era o António da Silveira, indicado numa das cartas do marido de Albertina, houve por bem declarar-lhe que tencionava mandá-lo capturar para explicações.
 
-- Pois aqui estou - disse serenamente o transmontano. - Se o precedente da captura se faz mister à solenidade do interrogatório, receba-me V. Sª como preso. Eu aceito agradavelmente a cumplicidade da falsificação da escritura de camaradagem com João Crisóstomo. Repilo, porém, a conivência com os outros réus, que não conheço.
+\- Pois aqui estou - disse serenamente o transmontano. - Se o precedente da captura se faz mister à solenidade do interrogatório, receba-me V. Sª como preso. Eu aceito agradavelmente a cumplicidade da falsificação da escritura de camaradagem com João Crisóstomo. Repilo, porém, a conivência com os outros réus, que não conheço.
 
-- Está dispensado desse incómodo - replicou o corregedor. - Vá V. Sª seguro da sua liberdade, que eu já sei a pessoa com quem trato. t um mancebo na infância do coração, nas primeiras quimeras da vida, não apalpada ainda pela suja mão da experiência. Leve a certeza de que o seu amigo ou conhecido João Crisóstomo não está inocente; aconselho-lhe, se me dá licença, que fuja de acamaradar-se com sujeitos de tal polpa; e corte, o mais depressa que puder, a sua correspondência com semelhante malandrim. Estou convencidíssimo de que seu tio general, com cuja amizade me honro, o lançaria de sua presença, se V. Sª lhe dissesse que aceitava a cumplicidade do crime de falsificador com um tal João, ex-amanuense de cartórios. Enfim, sr. Silveira, tive muito gosto em conhece-lo, com o muito desprazer de o considerar relacionado com tamanho maroto.
+\- Está dispensado desse incómodo - replicou o corregedor. - Vá V. Sª seguro da sua liberdade, que eu já sei a pessoa com quem trato. t um mancebo na infância do coração, nas primeiras quimeras da vida, não apalpada ainda pela suja mão da experiência. Leve a certeza de que o seu amigo ou conhecido João Crisóstomo não está inocente; aconselho-lhe, se me dá licença, que fuja de acamaradar-se com sujeitos de tal polpa; e corte, o mais depressa que puder, a sua correspondência com semelhante malandrim. Estou convencidíssimo de que seu tio general, com cuja amizade me honro, o lançaria de sua presença, se V. Sª lhe dissesse que aceitava a cumplicidade do crime de falsificador com um tal João, ex-amanuense de cartórios. Enfim, sr. Silveira, tive muito gosto em conhece-lo, com o muito desprazer de o considerar relacionado com tamanho maroto.
 
 António da Silveira, abafado de indignação, saiu do gabinete do corregedor, sem levemente curvar a cabeça.
 
-- Que infame mundo! - dizia ele entre si, enxugando as lágrimas, nas escadas da autoridade, para que os transeuntes lhas não vissem.
+\- Que infame mundo! - dizia ele entre si, enxugando as lágrimas, nas escadas da autoridade, para que os transeuntes lhas não vissem.
 
 Vulgou-se logo a notícia da desistência do doutor Negro, e da criminalidade do genro.
 
@@ -2367,23 +2367,23 @@ António da Silveira, transportado de alegria, correu a ler a carta ao pai de Al
 
 O doutor Negro pediu segunda leitura, e observou:
 
-- Pode ser...
+\- Pode ser...
 
-- O quê? - perguntou Silveira.
+\- O quê? - perguntou Silveira.
 
-- Pode ser que seja isso.
+\- Pode ser que seja isso.
 
-- Pois V. Sª ainda duvida da inocência de João Crisóstomo?!
+\- Pois V. Sª ainda duvida da inocência de João Crisóstomo?!
 
-- Porque não vem ele prová-la cá?
+\- Porque não vem ele prová-la cá?
 
-- Porque eu lhe pedi encarecidamente que não viesse.
+\- Porque eu lhe pedi encarecidamente que não viesse.
 
-- Então o senhor já é dos que dão pouco pelo poder invencível da verdade? Se ele está inocente, que receio o afasta?!
+\- Então o senhor já é dos que dão pouco pelo poder invencível da verdade? Se ele está inocente, que receio o afasta?!
 
-- O receio de Voltaire... V. Sª há-de saber a história... O seu dilecto filósofo - continuou risonho o transmontano - escreveu que, se a justiça o arguísse de ter furtado o sino grande de Nossa Senhora de Paris, ainda que toda a gente estivesse vendo o sino na torre, ele sairia de França, e lá de fora provaria que não roubou o sino. Da cadeia é que não.
+\- O receio de Voltaire... V. Sª há-de saber a história... O seu dilecto filósofo - continuou risonho o transmontano - escreveu que, se a justiça o arguísse de ter furtado o sino grande de Nossa Senhora de Paris, ainda que toda a gente estivesse vendo o sino na torre, ele sairia de França, e lá de fora provaria que não roubou o sino. Da cadeia é que não.
 
-- É um gracejo de Voltaire... e mais nada - retorquiu o doutor. - Não se trata de sinos, é da escritura! Quem o salvará de ser preso no Brasil? Brasil é uma colónia de Portugal.
+\- É um gracejo de Voltaire... e mais nada - retorquiu o doutor. - Não se trata de sinos, é da escritura! Quem o salvará de ser preso no Brasil? Brasil é uma colónia de Portugal.
 
 António da Silveira tinha acessos de sufocada indignação contra a pertinácia do doutor.
 
@@ -2393,13 +2393,13 @@ O falsificador parecia estátua mal feita e de mau barro. Viam-se-lhe a gretar n
 
 Com assentimento do corregedor, uni oficial de justiça escreveu o recibo, que foi lido pelo magistrado.
 
-- Isto não está em forma - disse o magistrado. - É preciso que Caetano Alves de Carvalho declare que se chamava Agostinho José Chaves quando emprestou o dinheiro.
+\- Isto não está em forma - disse o magistrado. - É preciso que Caetano Alves de Carvalho declare que se chamava Agostinho José Chaves quando emprestou o dinheiro.
 
 O auditório riu-se; e o réu, arrancando-se à sua letargia, exclamou:
 
-- Não assino isso!
+\- Não assino isso!
 
-- Fica, portanto, o dinheiro depositado - tornou o doutor corregedor - até se averiguar quem seja Agostinho José Chaves. Passe o escrivão recibo ao sr. António da  Silveira, que eu assino.
+\- Fica, portanto, o dinheiro depositado - tornou o doutor corregedor - até se averiguar quem seja Agostinho José Chaves. Passe o escrivão recibo ao sr. António da  Silveira, que eu assino.
 
 Cumpriu-se.
 
@@ -2421,29 +2421,29 @@ O corregedor desprezou esta denúncia, que acabava de ler, ao tempo que António
 
 O magistrado exclamou, finda a leitura:
 
-- Tenho remorsos de haver ultrajado este homem na sua presença, sr. Silveira! Está inocente, e é muito infeliz. Há-de sê-lo sempre, que há desgraçados para quem todos os caminhos estão atravancados por um demónio fatal. Fez V. Sª bem em lhe dizer que não viesse aqui justificar-se. Sairia limpo; mas depois de meses ou anos de cadeia. Aqui tem o sr. Silveira uma carta, que podia prejudicar fortemente o seu pobre amigo.
+\- Tenho remorsos de haver ultrajado este homem na sua presença, sr. Silveira! Está inocente, e é muito infeliz. Há-de sê-lo sempre, que há desgraçados para quem todos os caminhos estão atravancados por um demónio fatal. Fez V. Sª bem em lhe dizer que não viesse aqui justificar-se. Sairia limpo; mas depois de meses ou anos de cadeia. Aqui tem o sr. Silveira uma carta, que podia prejudicar fortemente o seu pobre amigo.
 
 E mostrou-lhe a declaração de Caetano Alves de Carvalho.
 
 Silveira fremia de raiva.
 
-- Que faz V. Sª a esta calúnia? - perguntou o moço.
+\- Que faz V. Sª a esta calúnia? - perguntou o moço.
 
-- Rasgo-a.
+\- Rasgo-a.
 
-- Não: rogo-lhe que não, pela piedade que lhe merece a infelicidade de Albertina e João Crisóstomo.
+\- Não: rogo-lhe que não, pela piedade que lhe merece a infelicidade de Albertina e João Crisóstomo.
 
-- Pois que quer?
+\- Pois que quer?
 
-- Dê-ma V. Sª, se a não apresenta em juízo.
+\- Dê-ma V. Sª, se a não apresenta em juízo.
 
-- Aqui a tem. De que serve isso?
+\- Aqui a tem. De que serve isso?
 
-- Hei-de enviá-la a João Crisóstomo: e o destino que lhe dou.
+\- Hei-de enviá-la a João Crisóstomo: e o destino que lhe dou.
 
-- Dê-lhe o destino que lhe aprouver, contanto que não diga que a recebeu da mão do corregedor; que a impertérrita Justiça obriga es seus sacerdotes a fazerem obra por todas as calúnias que se lhe oferecem.
+\- Dê-lhe o destino que lhe aprouver, contanto que não diga que a recebeu da mão do corregedor; que a impertérrita Justiça obriga es seus sacerdotes a fazerem obra por todas as calúnias que se lhe oferecem.
 
-- Beijo as mãos de V. Sª.
+\- Beijo as mãos de V. Sª.
 
 Ao mesmo tempo, circulava o boato da aleivosia assacada pelo preso, e ecoava nos ouvidos do doutor Negro, por intercessão de algum raro visitante que vestia o rosto de horror e dó para ir levar-lhe as atoardas correntes nas praças.
 
@@ -2451,7 +2451,7 @@ António da Silveira impugnava os algozes oficiosos, e, mancomunado com a mãe d
 
 Francisco Simões piorava de dia para dia com espantosa celeridade. Já não apostrofava contra a filha, nem se enfurecia ouvindo a calorosa defesa do genro, traduzida ao propósito por Silveira. Dir-se-ia que as faculdades exteriores se congelavam à medida que o cérebro se atrofiava sob a pressão férrea do pressentir a morte próxima.
 
-- Que me importa a mim? - disse ele uma vez ao inseparável enfermeiro. - Eu já não hei-de ouvir que o condenam nem que o absolvem. Primeiro virá a morte, que já me tem o coração espedaçado nas garras. Conheço-a por este desprendimento do mundo. Há quinze dias figurava-se-me tormentoso o trespasse; agora, se me tirassem este resto de memória, eu morria bem... Memória abominável!... Lembra-me a minha filha quando nasceu, quando tinha um ano, quando eu endoidecia de júbilo a acalentá-la nos meus braços... Eu, às vezes, estava rodeado de trabalho e de clientes; e, se a ouvia chorar, deixava tudo, saia do escritório, ia acarinhá-la, perdia horas a inventar-lhe brinquedos e dilatava-se-me a alma em enchentes de ternura. Estou a vê-la!... Maldita memória!... Que criança tão linda, quando começou a balbuciar o meu nome! Como ela me encostava ao ombro aquele rostinho angélico!... Amava-me tanto, e mais do que à mãe! No meu colo não chorava nunca... Que é feito daquele anjo? Que me fizeram da minha filhinha?...
+\- Que me importa a mim? - disse ele uma vez ao inseparável enfermeiro. - Eu já não hei-de ouvir que o condenam nem que o absolvem. Primeiro virá a morte, que já me tem o coração espedaçado nas garras. Conheço-a por este desprendimento do mundo. Há quinze dias figurava-se-me tormentoso o trespasse; agora, se me tirassem este resto de memória, eu morria bem... Memória abominável!... Lembra-me a minha filha quando nasceu, quando tinha um ano, quando eu endoidecia de júbilo a acalentá-la nos meus braços... Eu, às vezes, estava rodeado de trabalho e de clientes; e, se a ouvia chorar, deixava tudo, saia do escritório, ia acarinhá-la, perdia horas a inventar-lhe brinquedos e dilatava-se-me a alma em enchentes de ternura. Estou a vê-la!... Maldita memória!... Que criança tão linda, quando começou a balbuciar o meu nome! Como ela me encostava ao ombro aquele rostinho angélico!... Amava-me tanto, e mais do que à mãe! No meu colo não chorava nunca... Que é feito daquele anjo? Que me fizeram da minha filhinha?...
 
 O velho escondia o rosto para chorar. António da Silveira queria dizer palavras banais de consolação, mas as lágrimas embargavam-lhas.
 
@@ -2483,14 +2483,14 @@ Alma irmã da sua, o morgado respondeu pela voz da santa mãe que as formara amb
 
 A hospitaleira casa de Alexandre Tomás da Silveira acolheu com desvelos de parentesco o doutor e sua mulher. Os rapazitos da aldeia tomaram-lhe medo quando o viram daquela cor estranha; mas, depois, se o doutor se assentava, ao fim da tarde, debaixo do souto secular do ressio, os meninos viam-no chorar, e rodeavam-no, acariciando-o. Uma vez António da Silveira ordenou às crianças que se afastassem.
 
-- Deixe-as - disse o doutor -, deixe-as, meu amigo, que todas me trazem um beijo e um afago da minha Albertina criancinha. Jesus Cristo, o divino filósofo – continuou ele, enternecido a lágrimas - amava muito as criancinha. Sinite ad me parvulos venire, dizia ele: «Deixai vir a mim os pequeninos.»
+\- Deixe-as - disse o doutor -, deixe-as, meu amigo, que todas me trazem um beijo e um afago da minha Albertina criancinha. Jesus Cristo, o divino filósofo – continuou ele, enternecido a lágrimas - amava muito as criancinha. Sinite ad me parvulos venire, dizia ele: «Deixai vir a mim os pequeninos.»
 Era a primeira vez que o religioso mancebo lhe ouvira citar Jesus Cristo, e palavras augustas do sustentador e compensador dos mártires. Desde esta hora, assim que lhe caía de molde, António da Silveira trazia referências a Jesus, e palpava com piedoso tacto as cordas do coração do velho. Algumas vezes, o som que elas davam era uma lágrima; e o moço, a chorar também, dizia-lhe:
 
-- Esse pranto vai na mão de um anjo à presença do Senhor.
+\- Esse pranto vai na mão de um anjo à presença do Senhor.
 
 O doutor Negro punha os olhos no firmamento, e dizia:
 
-- Faltou-me o esteio da religião... Se eu me refugiasse em Deus, seria menos desgraçado. Agora é tarde. Estou a encher dias.
+\- Faltou-me o esteio da religião... Se eu me refugiasse em Deus, seria menos desgraçado. Agora é tarde. Estou a encher dias.
 
 Estava.
 
@@ -2500,7 +2500,7 @@ Ao cabo de três meses, começaram a despegar as folhas dos arvoredos. O azul do
 
 Francisco Simões quisera um dia levantar-se para despedir-se do sol, dizia ele. Já não pudera. Chamou António da Silveira e disse-lhe:
 
-- Tenho padecido muito... É impossível que não haja Deus, e outra existência. Isto não pode acabar aqui. As dores imerecidas devem ser o testemunho de um destino, onde há o consolarem-se os atormentados neste mundo. Creio em Deus, creio no Deus que formou a sua alma de tantas virtudes, António da Silveira!... Quero que me escute um ministro da religião adorável que lhe deu esse nobre coração...
+\- Tenho padecido muito... É impossível que não haja Deus, e outra existência. Isto não pode acabar aqui. As dores imerecidas devem ser o testemunho de um destino, onde há o consolarem-se os atormentados neste mundo. Creio em Deus, creio no Deus que formou a sua alma de tantas virtudes, António da Silveira!... Quero que me escute um ministro da religião adorável que lhe deu esse nobre coração...
 
 Saiu António em ânsias de alegria e compungimento. Daqui a momentos, entrava no quarto a virtuosa mãe dos Silveiras com um crucifixo de marfim. O doutor recebeu-o entre as mãos, e osculou-o.
 
@@ -2514,7 +2514,7 @@ Deixou cair a pena, e fez um gesto a António da Silveira significando que se ap
 
 O mancebo leu, e, ajoelhado, beijou-lhe as mãos. Em seguida, o doutor Negro abraçou sua mulher, que o estivera amparando, e murmurou:
 
-- Morrerás à sombra da caridade desta família.
+\- Morrerás à sombra da caridade desta família.
 
 Rebentaram as lágrimas em todos os olhos.
 
@@ -2522,9 +2522,9 @@ O doutor revelou por meneios convulsos que estava muito aflito, e carecido de ar
 
 Saiu a família do quarto, e ficou o sacerdote. Duas horas depois, foi chamado António da Silveira, que estava na antecâmara.
 
-- Está a passar - disse o confessor. António acercou-se do leito, e curvou a cabeça ao lábios roxos. do agonizante, que ainda articularam estas palavras:
+\- Está a passar - disse o confessor. António acercou-se do leito, e curvou a cabeça ao lábios roxos. do agonizante, que ainda articularam estas palavras:
 
-- Minha pobre filha...
+\- Minha pobre filha...
 
 E expirou.
 
@@ -2542,13 +2542,13 @@ António da Silveira, transido de espasmo e abafado de indignação, faltava-lhe
 
 Regedor das justiças, chanceler, corregedor, provedor, os oficiais todos da esfarrapada Témis, ouviram-no com edificativa paciência, e observaram-lhe que os julgadores de Caetano Alves, de Benito Rojas, e João Crisóstomo conheciam cabalmente o título LIJI do livro V das Ordenações.
 
-- João Crisóstomo! - exclamava o transmontano - que há comum entre João Crisóstomo e os ladrões nomeados!
+\- João Crisóstomo! - exclamava o transmontano - que há comum entre João Crisóstomo e os ladrões nomeados!
 
-- Veremos - respondeu o regedor das justiças, enrugando a fronte já impaciente - Adhuc sub judice lis est.
+\- Veremos - respondeu o regedor das justiças, enrugando a fronte já impaciente - Adhuc sub judice lis est.
 
 Aquele mesmo corregedor do crime que, cinco meses antes, proclamara contritamente a inocência do marido de Albertina, dizia assim:
 
-- Talvez nos seja necessário erguer a mão de sobre o criminoso principal para a não carregarmos sobre o cúmplice. Eu creio que João Crisóstomo pecou por boa fé, dando aos falsificadores a nota; mas a boa fé, em direito criminal, é coisa tão do foro intimo, que raras vezes se tira a limpo sem provas concludentes, plenas e legitimas.
+\- Talvez nos seja necessário erguer a mão de sobre o criminoso principal para a não carregarmos sobre o cúmplice. Eu creio que João Crisóstomo pecou por boa fé, dando aos falsificadores a nota; mas a boa fé, em direito criminal, é coisa tão do foro intimo, que raras vezes se tira a limpo sem provas concludentes, plenas e legitimas.
 
 Silveira pasmou segunda vez, e levou as mãos aos olhos como se quisesse privá-los de verem o mundo.
 
@@ -2591,7 +2591,7 @@ Que montava o artifício?! Era tanta a opressão daquela abatida alma que o rost
 
 Assim que a represa das lágrimas era tanta que se afogava nelas o alento, João Crisóstomo não podia deixar de vertê-las no seio de Albertina. Contou então em soluçantes ânsias o seu descrédito. Albertina, de princípio, sucumbiu; depois, recobrou-se, venceu a natural fraqueza da mulher, que vê chorar um homem, e disse:
 
-- Não me disseste na Corunha: «Quando o mundo me chamar ladrão diz-me tu que o não sou»?... Fizeste-me esperar tanto do meu amor, e agora não valho eu nada para ti, quando o mundo te injuria!... E deixas-te esmagar, meu amigo... Que hei-de eu fazer, se tu choras! Onde hei-de eu ir procurar almas vigorosas que te reanimem!... Deixa-me ser o teu mundo unicamente; despreza a injúria, e aceita o louvor desta pobre Albertina! Tu és uni mártir, tu és um anjo atribulado pelo meu amor... Refugia-te em mim, e Deus nos defenderá!
+\- Não me disseste na Corunha: «Quando o mundo me chamar ladrão diz-me tu que o não sou»?... Fizeste-me esperar tanto do meu amor, e agora não valho eu nada para ti, quando o mundo te injuria!... E deixas-te esmagar, meu amigo... Que hei-de eu fazer, se tu choras! Onde hei-de eu ir procurar almas vigorosas que te reanimem!... Deixa-me ser o teu mundo unicamente; despreza a injúria, e aceita o louvor desta pobre Albertina! Tu és uni mártir, tu és um anjo atribulado pelo meu amor... Refugia-te em mim, e Deus nos defenderá!
 
 “Palavras de inspiração divina foram estas para o desalentado homem. A débil mão da ameigadora Albertina, ao levantar-lhe da fronte os cabelos, apagou de lá o ferrete calcinante em que João Crisóstomo cuidava que toda a gente fitava olhos indignados.
 
@@ -2633,7 +2633,7 @@ Esta nova é que João Crisóstomo futurava, quando chegou de Portugal a carta d
 
 Assim que a leu, a ocultas de Albertina, foi mostrá-la ao espanhol com tanta angústia que os sentidos lhe fugiam.
 
-- Aquiete o seu fraco espírito - disse o negociante. - Depois falaremos.
+\- Aquiete o seu fraco espírito - disse o negociante. - Depois falaremos.
 
 Deu João Crisóstomo a notícia da morte do pai a sua mulher, e mostrou-lhe o traslado do perdão. Choraram ambos. Quis Albertina ler a carta de António da Silveira.
 
@@ -2683,7 +2683,7 @@ E a humanidade riu-se, e os corrompidos riram também com a humanidade.
 
 Exceptua-se, porém, D. Benito Rojas. Este não riu, quando lhe disseram que estava absolto do crime imputado em Portugal; mas, a requisição do cônsul, tinha de ir responder a Espanha, donde fugira..
 
-- Não se aflija! - lhe disse à puridade Caetano Alves. - Eu comprarei o cônsul, e vossemecê irá para o olho da rua.
+\- Não se aflija! - lhe disse à puridade Caetano Alves. - Eu comprarei o cônsul, e vossemecê irá para o olho da rua.
 
 O proprietário de Vila Nova teve numerosos amigos que o acompanharam a casa.
 
@@ -2736,42 +2736,42 @@ Tinha fibras, ou a Providência teve mão dele, posto que a medicina se adjudica
 
 Um dos seus comensais da Relação, a quem ele expansivamente contara a fuga da moça com o considerável roubo, três vezes bateu na testa, e disse-lhe:
 
-- Eu vou jurar que a Tomasinha fugiu com o D. Benito!
+\- Eu vou jurar que a Tomasinha fugiu com o D. Benito!
 
-- Como desconfias tudo isso?!
+\- Como desconfias tudo isso?!
 
-- Porque já desconfiava na cadeia que eles se namoravam. Todos viam: tu é que estavas cego, homem! Pois quem não deu fé que ela lhe lançava os olhos derramados, e ele lhe estava sempre dando riscos para bordar, e corações a lápis com anjos a brincarem à roda dos corações?! Eu via isto, e tu também; mas quem te ouvia falar da fidelidade dela com tanto entusiasmo, não se afoutava a dizer-te nada! Eu, de mais a mais, uma vez que estávamos a jantar, não sei como, espreitei por debaixo da mesa, e quis-me parecer que os quatro pés deles lá se entendiam...
+\- Porque já desconfiava na cadeia que eles se namoravam. Todos viam: tu é que estavas cego, homem! Pois quem não deu fé que ela lhe lançava os olhos derramados, e ele lhe estava sempre dando riscos para bordar, e corações a lápis com anjos a brincarem à roda dos corações?! Eu via isto, e tu também; mas quem te ouvia falar da fidelidade dela com tanto entusiasmo, não se afoutava a dizer-te nada! Eu, de mais a mais, uma vez que estávamos a jantar, não sei como, espreitei por debaixo da mesa, e quis-me parecer que os quatro pés deles lá se entendiam...
 
-- E não mo disseste! - interrompeu Caetano.
+\- E não mo disseste! - interrompeu Caetano.
 
-- É verdade que to não disse porque nestas coisas de consciência sou muito liso e escrupuloso... (Este liso escrupuloso tinha ido jurar que Caetano Alves de Carvalho era modelo de homens de bem). E, depois, bem sabes que isto de se intrometer a gente em negócios de aflores é perigo de ficar mal com todos. Quem está cego de paixão dá bordoada de cego em quem o avisa... Pois podes estar na certeza de que a moça fugiu com o endiabrado do galego! Asno foste tu em o tirares da cadeia!... E, esta hora, onde estarão eles? Podem estar na China, e tu ficaste sem os teus quinze contos!... Já é dinheiro; mas não te fará grande falta, Caetano! O pior é ir-se-te a rapariga, que tu amavas a valer...
+\- É verdade que to não disse porque nestas coisas de consciência sou muito liso e escrupuloso... (Este liso escrupuloso tinha ido jurar que Caetano Alves de Carvalho era modelo de homens de bem). E, depois, bem sabes que isto de se intrometer a gente em negócios de aflores é perigo de ficar mal com todos. Quem está cego de paixão dá bordoada de cego em quem o avisa... Pois podes estar na certeza de que a moça fugiu com o endiabrado do galego! Asno foste tu em o tirares da cadeia!... E, esta hora, onde estarão eles? Podem estar na China, e tu ficaste sem os teus quinze contos!... Já é dinheiro; mas não te fará grande falta, Caetano! O pior é ir-se-te a rapariga, que tu amavas a valer...
 
-- O pior é ir-se-me o dinheiro! - atalhou sinceramente Caetano Alves.
+\- O pior é ir-se-me o dinheiro! - atalhou sinceramente Caetano Alves.
 
-- Faz-te muita falta?
+\- Faz-te muita falta?
 
-- Ora, se faz! era o meu pecúlio, que eu ali tinha, para um revés! Agora, dinheiro foi-se todo. Resta-me a quinta, e estas casas, e umas terras no Candal. O muito que poderei apurar são quinze contos! Já me vi com perto de cem, ganhados com o suor do meu rosto, afora a boa casa que me deixou meu pai. Como hei-de eu agora endireitar a minha fortuna com um casco de quinze contos!...
+\- Ora, se faz! era o meu pecúlio, que eu ali tinha, para um revés! Agora, dinheiro foi-se todo. Resta-me a quinta, e estas casas, e umas terras no Candal. O muito que poderei apurar são quinze contos! Já me vi com perto de cem, ganhados com o suor do meu rosto, afora a boa casa que me deixou meu pai. Como hei-de eu agora endireitar a minha fortuna com um casco de quinze contos!...
 
-- Está feito, está feito! - ponderou o confidente - Com menos começaste, e em menos de seis anos estavas rico.
+\- Está feito, está feito! - ponderou o confidente - Com menos começaste, e em menos de seis anos estavas rico.
 
-- Lembra-me ir negociar no Brasil com este resto... Preciso distrair-me a trabalhar, senão arrebento de paixão...
+\- Lembra-me ir negociar no Brasil com este resto... Preciso distrair-me a trabalhar, senão arrebento de paixão...
 
-- Da Tomásia?
+\- Da Tomásia?
 
-- Não, homem, do meu dinheiro, do meu dinheiro, que Tomásias há tantas como a praga...
+\- Não, homem, do meu dinheiro, do meu dinheiro, que Tomásias há tantas como a praga...
 
-- E daquelas - tornou o amigo - há mais que dez pragas juntas... Pois não me parece desacertado o teu projecto, Caetano. Vai-te até ao Rio...
+\- E daquelas - tornou o amigo - há mais que dez pragas juntas... Pois não me parece desacertado o teu projecto, Caetano. Vai-te até ao Rio...
 
-- Ao Rio não, que deve lá estar o patife do João Crisóstomo; e, se o vejo, esgano-o, palavra de honra! Foi ele que me fez gastar a minha fortuna! Não lhe posso perdoar! E, de mais a mais, enquanto eu estive na Relação, andou ele à solta, a divertir-se, e por Havana! E, agora, pode andar por onde quiser... Que justiça! Que justiça, homem!
+\- Ao Rio não, que deve lá estar o patife do João Crisóstomo; e, se o vejo, esgano-o, palavra de honra! Foi ele que me fez gastar a minha fortuna! Não lhe posso perdoar! E, de mais a mais, enquanto eu estive na Relação, andou ele à solta, a divertir-se, e por Havana! E, agora, pode andar por onde quiser... Que justiça! Que justiça, homem!
 
-- Também acho ajuizado - observou o interlocutor - que não vás para o Rio. Tiveste lá negócios, e agora não deves lá ter muitos créditos...
+\- Também acho ajuizado - observou o interlocutor - que não vás para o Rio. Tiveste lá negócios, e agora não deves lá ter muitos créditos...
 
-- Créditos é o dinheiro, meu rapaz! Eu não vou pedir abono a ninguém. Em dez anos, se os cálculos me não falham, hei-de voltar com mais de cem contos. Posso aindater uma velhice descansada e alegre.
+\- Créditos é o dinheiro, meu rapaz! Eu não vou pedir abono a ninguém. Em dez anos, se os cálculos me não falham, hei-de voltar com mais de cem contos. Posso aindater uma velhice descansada e alegre.
 
-- Isso podes, meu amigo. De mais a mais não tens :a quem deixar por obrigação...
+\- Isso podes, meu amigo. De mais a mais não tens :a quem deixar por obrigação...
 
-- Hei-de ter filhos, porque não me despeço de casar
-- Cuidado com as Tomasinhas, amigo Caetano!
+\- Hei-de ter filhos, porque não me despeço de casar
+\- Cuidado com as Tomasinhas, amigo Caetano!
 
 Um mês depois deste diálogo programático, vendida a quinta da Póvoa e as restantes propriedades, Caetano Alves de Carvalho embarcou para o Maranhão, e encetou comércio de couros e campeche. Como a fortuna lhe ventasse menos que o cálculo da sua cobiça, desistiu deste tráfego, e conchavou-se com os armadores de navios para escravatura. Saíram-lhe prósperas as tentativas; e o casco, segundo a frase dele, dobrou-se no primeiro ano.
 
@@ -2799,11 +2799,11 @@ Caetano Alves e sua mulher foram a bordo receber os benvindos.
 
 Estava a noiva no tombadilho do barco encostada ao ombro do marido, quando avistou num bote que saía da terra alguma coisa que a fez amarelecer e tremer.
 
-- Que tens, Luísa? - perguntou o marido.
+\- Que tens, Luísa? - perguntou o marido.
 
-- Quem é aquele homem que vem naquele bote?
+\- Quem é aquele homem que vem naquele bote?
 
-- É meu cunhado e minha irmã.
+\- É meu cunhado e minha irmã.
 
 A mulher fitou a vista de louca no bote, e expediu um grito sibilante.
 
@@ -2815,11 +2815,11 @@ Luisa tinha desmaiado.
 
 Aproximaram-se os recém-chegados do grupo... Caetano afastou desabridamente dois marinheiros, infirmou-se na mulher, e exclamou:
 
-- A Tomásia!... Quem trouxe aqui esta mulher?
+\- A Tomásia!... Quem trouxe aqui esta mulher?
 
-- Que diz você? - perguntou o cunhado.
+\- Que diz você? - perguntou o cunhado.
 
-- Quem trouxe aqui esta ladra, que me roubou quinze tontos de réis, moeda forte, e me fugiu com um espanhol tão ladrão como ela?
+\- Quem trouxe aqui esta ladra, que me roubou quinze tontos de réis, moeda forte, e me fugiu com um espanhol tão ladrão como ela?
 
 Terror e espanto geral!
 
@@ -2827,39 +2827,39 @@ O marido da desgraçada fez pé atrás, e abriu a boca. Era a petrificação de 
 
 Lançou-se de joelhos aos pés do marido, e exclamou:
 
-- Mate-me, por misericórdia, ou deixe-me lançar ao rio!
+\- Mate-me, por misericórdia, ou deixe-me lançar ao rio!
 
-- Pois esta é a mulher de você? - perguntou Caetano Alves, com as mãos postas na cabeça.
+\- Pois esta é a mulher de você? - perguntou Caetano Alves, com as mãos postas na cabeça.
 
-- É - respondeu o cunhado, abafando os soluços, e encostando a cara ao peito denegrido de um marujo.
+\- É - respondeu o cunhado, abafando os soluços, e encostando a cara ao peito denegrido de um marujo.
 
-- Mulher de você?! esta ladra?! - rebramiu ferozmente Caetano.
+\- Mulher de você?! esta ladra?! - rebramiu ferozmente Caetano.
 
 Tomásia tinha o rosto no pavimento, e os braços enroscados aos pés do marido.
 
 O capitão do navio travou do braço de Caetano Alves, tirou-o à parte, e disse-lhe:
 
-- Parece-me que o melhor é vossemecê retirar-se de bordo. Isto não tem jeito. Aquela mulher morre ali estarrecida!
+\- Parece-me que o melhor é vossemecê retirar-se de bordo. Isto não tem jeito. Aquela mulher morre ali estarrecida!
 
-- Que a leve o diabo! - bramiu Caetano. - O que ele deve fazer é afogá-la, o marido!
+\- Que a leve o diabo! - bramiu Caetano. - O que ele deve fazer é afogá-la, o marido!
 
-- Não se afoga assim uma mulher, sr. Alves - tornou o marítimo. - Já agora, o mal feito não tem remédio.
+\- Não se afoga assim uma mulher, sr. Alves - tornou o marítimo. - Já agora, o mal feito não tem remédio.
 
-- E os meus quinze contos! - replicou o vil sem vislumbre de dignidade e compaixão -. Quem é que mos dá?
+\- E os meus quinze contos! - replicou o vil sem vislumbre de dignidade e compaixão -. Quem é que mos dá?
 
-- Eu decerto lhos não dou - redarguiu o capitão, bradando: - Olá, gentes, caça velas!
+\- Eu decerto lhos não dou - redarguiu o capitão, bradando: - Olá, gentes, caça velas!
 
 A tripulação desfez o grupo. Ficaram Tomásia na postura de rojo, imóvel, corno morta, e o marido abraçado à irmã. Caetano sentava-se sobre o cabo das amarras, e observava de longe.
 
 Nisto, a mulher do negreiro ergueu-se de ímpeto, e arremeteu contra um bordo para se atirar ao rio. Reteve-a o marido pelas saias, e repuxou-a com violência, exclamando:
 
-- Não quero que morras!
+\- Não quero que morras!
 
 A desgraçada barafustou nos braços dele, até cair extenuada. O homem tomou-a em peso, e desceu com ela à câmara. Lançou-a num beliche, e subiu ao tombadilho.
 
 Chamou Caetano Alves, e disse-lhe:
 
-- Eu não desembarco: espero que outro navio se faça de vela para onde for. Pode vossemecê retirar-se com sua mulher. E a respeito da minha, nem mais uma palavra, senão mando-o de presente ao inferno!
+\- Eu não desembarco: espero que outro navio se faça de vela para onde for. Pode vossemecê retirar-se com sua mulher. E a respeito da minha, nem mais uma palavra, senão mando-o de presente ao inferno!
 
 Caetano quis benzer-se, mas não sabia.
 
@@ -2869,7 +2869,7 @@ No dia seguinte, o marido de Tomásia traspassou a sua casa comercial, e todos o
 
 Quando saltou em terra, apertou a mulher ao seio, e disse-lhe:
 
-- Estás perdoada pelo mal que me não fizeste a mim, e perdoada também pela mentira. Tem juízo de hoje avante, se desejas viver...
+\- Estás perdoada pelo mal que me não fizeste a mim, e perdoada também pela mentira. Tem juízo de hoje avante, se desejas viver...
 
 
 
@@ -2901,12 +2901,12 @@ António da Silveira foi dos mais enérgicos, e dos menos gritadores. Folgou de 
 
 Alexandre recebeu-o silencioso e triste. Passadas horas, disse-lhe com lágrimas:
 
-- Semeaste vento; mais tarde colherás tempestades.
+\- Semeaste vento; mais tarde colherás tempestades.
 
 António sorriu-se, e replicou:.99
-- A humanidade já não retrocede.
+\- A humanidade já não retrocede.
 
-- A humanidade está sempre no mesmo posto - retorquiu Alexandre. - O que tu chamas «civilização», meu amigo, se não vier sem baptismo de sangue, também não virá com ele.
+\- A humanidade está sempre no mesmo posto - retorquiu Alexandre. - O que tu chamas «civilização», meu amigo, se não vier sem baptismo de sangue, também não virá com ele.
 
 O fidalgo lavrador, até certo ponto, parecia cordato e razoável.
 
@@ -2919,11 +2919,11 @@ Agravou-se-lhe a enfermidade com a morte da senhora da casa, consoladora santa d
 No fim deste ano recebeu Silveira notícias de Albertina. João Crisóstomo continuava no invariável mister de ajudante de guarda-livros, e sofria moléstia assustadora de peito, consequência do clima e do trabalho.. Mostrava-se conformado com a vontade de Deus e dos homens. Noticiava a existência de Caetano Alves no Maranhão, e, a este respeito, acrescentava: «Vai-se aproximando o tempo de fecharmos o saldo aberto das nossas contas. Lamento hoje ter uma mulher. Às vezes, sonho que a vejo ao abrigo da casa misericordiosa dos Silveiras.»
 A longos prazos, sustentaram correspondência até 1823.
 
-- Depois, disse-me António da Silveira, em 1824, indo eu ao Porto, casualmente encontrei o advogado que defendera João Crisóstomo. Disse-me ele:
+\- Depois, disse-me António da Silveira, em 1824, indo eu ao Porto, casualmente encontrei o advogado que defendera João Crisóstomo. Disse-me ele:
 
-- Deve já saber o que aconteceu ao nosso desgraçado homem...
+\- Deve já saber o que aconteceu ao nosso desgraçado homem...
 
-- A João Crisóstomo? Não sei...
+\- A João Crisóstomo? Não sei...
 
 O advogado contou brevemente um sucesso, que o romancista não pode reproduzir com a mesma concisão. Vamos procurar a causa da palidez angustiosa com que António da Silveira ouviu a pungentíssima nova.
 
@@ -2941,53 +2941,53 @@ Voltou, no dia seguinte; espreitou-o à saída, e reconheceu-o. Tornou para o es
 
 Às dez horas desta noite, João Crisóstomo depôs a pena, com desalento.
 
-- Estás fatigado? - perguntou Albertina. - Basta de escrever, filho; conversemos um pouquinho.
+\- Estás fatigado? - perguntou Albertina. - Basta de escrever, filho; conversemos um pouquinho.
 
 João Crisóstomo abraçou-a com veemência, e deixou-lhe o rosto húmido de lágrimas.
 
-- Que é isto - clamou ela. - Tu choras, meu amigo? Que nova desgraça me anuncias? Conta-me tudo por compaixão das minhas dores!
+\- Que é isto - clamou ela. - Tu choras, meu amigo? Que nova desgraça me anuncias? Conta-me tudo por compaixão das minhas dores!
 
-- Nada, filha, nada é. Foi um rapto de ternura, de amor... - balbuciou ele.
+\- Nada, filha, nada é. Foi um rapto de ternura, de amor... - balbuciou ele.
 
-- Por Deus! tu enganas-me!...
+\- Por Deus! tu enganas-me!...
 
-- Pois duvidas que te estremeço, filha?
+\- Pois duvidas que te estremeço, filha?
 
-- Não; mas creio que estás aflito!... O meu esposo!... - que negra nuvem é esta que me baixou à alma!... Que há na tua vida... Oh! diz-mo, diz-mo!...
+\- Não; mas creio que estás aflito!... O meu esposo!... - que negra nuvem é esta que me baixou à alma!... Que há na tua vida... Oh! diz-mo, diz-mo!...
 
-- A eterna desgraça que sabes... Mais nada.
+\- A eterna desgraça que sabes... Mais nada.
 
-- E a resignação, meu querido amor? a resignação, que é o bálsamo das mãos de Deus?...
+\- E a resignação, meu querido amor? a resignação, que é o bálsamo das mãos de Deus?...
 
-- E a infâmia, o ferrete indelével, o descrédito, este viver e morrer coberto de opróbrio!... E a pobreza, Albertina!... Não me vês assim doente?... Que te deixo eu, que te fica de mim? Um nome injurioso!... Quem dará um colmado e uni bocado de pão duro à viúva do ladrão?
+\- E a infâmia, o ferrete indelével, o descrédito, este viver e morrer coberto de opróbrio!... E a pobreza, Albertina!... Não me vês assim doente?... Que te deixo eu, que te fica de mim? Um nome injurioso!... Quem dará um colmado e uni bocado de pão duro à viúva do ladrão?
 
-- Ó filho!... - exclamou ela, pondo as mãos suplicantes. - Pois tu morres-me? Tu queres deixar-me?
+\- Ó filho!... - exclamou ela, pondo as mãos suplicantes. - Pois tu morres-me? Tu queres deixar-me?
 
-- Deixar-te desvalida, envolta nesta mortalha escarrada do mundo, que eu arrasto há cinco anos... É assim que eu te deixo, esposa da minha alma... Onde irás tu? Se isto que temos bastar à tua passagem para Portugal, vai pedir o talher, vago pela morte de tua mãe, à mesa dos Silveiras. Viverás trabalhando, e morrerás resguardada dos insultos do mundo... Os teus ossos terão sepultura honrada, já que tantos abrolhos de ignomínia te fiz trilhar nesta vida toda noite, toda inferno para ti... e para mim, que a não merecíamos...
+\- Deixar-te desvalida, envolta nesta mortalha escarrada do mundo, que eu arrasto há cinco anos... É assim que eu te deixo, esposa da minha alma... Onde irás tu? Se isto que temos bastar à tua passagem para Portugal, vai pedir o talher, vago pela morte de tua mãe, à mesa dos Silveiras. Viverás trabalhando, e morrerás resguardada dos insultos do mundo... Os teus ossos terão sepultura honrada, já que tantos abrolhos de ignomínia te fiz trilhar nesta vida toda noite, toda inferno para ti... e para mim, que a não merecíamos...
 
-- Confiança no Altíssimo, filho!...
+\- Confiança no Altíssimo, filho!...
 
 João parecia não ouvir as interrupç8es de Albertina; e continuou agitado e vibrante de ira:
 
-- Foi aquele homem que nos perdeu... Está nas mãos dele esta esponja de fel, que se me não despega da boca! É o maldito sempre a cavar-me a sepultura, que a sociedade me há-de cobrir de lama... E a minha vingança, Albertina!... a vingança do homem que tu enobreceste com o teu amor?...
+\- Foi aquele homem que nos perdeu... Está nas mãos dele esta esponja de fel, que se me não despega da boca! É o maldito sempre a cavar-me a sepultura, que a sociedade me há-de cobrir de lama... E a minha vingança, Albertina!... a vingança do homem que tu enobreceste com o teu amor?...
 
-- Vingança de quem? do miserável? Deixá-lo debaixo da mão da Providência! Pois tu pensas em alguma vingança que nos acabe de perder?... Por compaixão de mim, João!! desiste, desiste desse intento... É um demónio que te alucina, filho!...
+\- Vingança de quem? do miserável? Deixá-lo debaixo da mão da Providência! Pois tu pensas em alguma vingança que nos acabe de perder?... Por compaixão de mim, João!! desiste, desiste desse intento... É um demónio que te alucina, filho!...
 
 João tornou sobre si com instantâneo artificio, e disse quase sossegado:
 
-- Que dizes tu de alucinação? Pois eu disse que me ia vingar?!
+\- Que dizes tu de alucinação? Pois eu disse que me ia vingar?!
 
-- Falaste de vingança.
+\- Falaste de vingança.
 
-- Tantas vezes tenho falado nisto, Albertina...
+\- Tantas vezes tenho falado nisto, Albertina...
 
-- Pois sim; mas nunca te vi esses gestos, esse incêndio nos olhos...
+\- Pois sim; mas nunca te vi esses gestos, esse incêndio nos olhos...
 
-- É febre, meu querido anjo... Vês que estou tranquilo?...
+\- É febre, meu querido anjo... Vês que estou tranquilo?...
 
-- Quem sabe?...
+\- Quem sabe?...
 
-- Sabes tu, Albertina, que vês o mais recôndito da minha alma... Se eu pudesse agora dormir... Era-me necessário repouso.
+\- Sabes tu, Albertina, que vês o mais recôndito da minha alma... Se eu pudesse agora dormir... Era-me necessário repouso.
 
 Na madrugada do dia seguinte, João Crisóstomo levantou-se mansamente.
 
@@ -2998,13 +2998,13 @@ Saiu abafando o rumor dos passos; e, de passagem, tirou uma carteira dentre os l
 Encaminhou-se à residência de Caetano Alves..101
 O negreiro que hospedava o sócio ia saindo quando João Crisóstomo entrava.
 
-- Se este me conhece - disse o caixeiro entre si -, balda-se tudo!
+\- Se este me conhece - disse o caixeiro entre si -, balda-se tudo!
 
 Não o conhecia o negreiro: a sua vida era mais de mar que de terra.
 
 Perguntou João Crisóstomo se o sr. Caetano Alves ainda estava em casa.
 
-- Ficou a dormir; mas levanta-se logo - respondeu o outro. - Se lhe quer alguma coisa, este preto que o leve lá acima à sala, e que vá chamar o sr. Caetano.
+\- Ficou a dormir; mas levanta-se logo - respondeu o outro. - Se lhe quer alguma coisa, este preto que o leve lá acima à sala, e que vá chamar o sr. Caetano.
 
 João Crisóstomo seguiu o preto.
 
@@ -3018,23 +3018,23 @@ O escravo entrou a chamar Caetano Alves, e voltou a perguntar quem era.
 
 João tergiversou a responder, e disse afinal:
 
-- Diz-lhe que é um sujeito que vem saldar contas.
+\- Diz-lhe que é um sujeito que vem saldar contas.
 
 Levou o preto a resposta, e Caetano disse em monólogo:
 
-- Eu não devo nada a ninguém cá no Rio... Então é homem que me deve, e eu estou esquecido... Vamos lá.
+\- Eu não devo nada a ninguém cá no Rio... Então é homem que me deve, e eu estou esquecido... Vamos lá.
 
 E ergueu-se à pressa: porém, quando estava envergando a jaqueta de fustão branco, sentiu nas cavernas do peito um estrondo, se não antes um couce do caprichoso diabo que o avisava.
 
-- Não estou bom cá por dentro! - disse ele. - Adivinho não sei quê... Estará minha mulher doente! Ou...
+\- Não estou bom cá por dentro! - disse ele. - Adivinho não sei quê... Estará minha mulher doente! Ou...
 
 Não sabemos que outras inferências supersticiosas ele tirou do abalo com referência às coisas da sua casa, O certo é que o homem ia abstraído, quando entrou à sala.
 
 Caetano Alves estacou, e pôs as costas contra o alizar da meia porta que abrira.
 
-- O senhor é... - tartamudeou Caetano.
+\- O senhor é... - tartamudeou Caetano.
 
-- Sou eu - respondeu João Crisóstomo.
+\- Sou eu - respondeu João Crisóstomo.
 
 
 
@@ -3042,82 +3042,82 @@ Caetano Alves estacou, e pôs as costas contra o alizar da meia porta que abrira
     
 Caminhou vagarosamente João Crisóstomo para Caetano Alves, e disse-lhe:
 
-- Creio que o sr. Agostinho José Chaves me vê sem óculos, e me ouve sem cometa acústica. Felicito-o da feliz cura de olhos e de ouvidos.
+\- Creio que o sr. Agostinho José Chaves me vê sem óculos, e me ouve sem cometa acústica. Felicito-o da feliz cura de olhos e de ouvidos.
 
 Então o senhor que me quer?! - atalhou, com sobranceria, o negreiro, medindo com olhar desprezador o franzino e descamado vulto do caixeiro.
 
-- Saldar contas - respondeu com gravidade o outro.
+\- Saldar contas - respondeu com gravidade o outro.
 
-- Estou pago e satisfeito.
+\- Estou pago e satisfeito.
 
-- Eu é que não.
+\- Eu é que não.
 
-- Que lhe devo eu a você? - replicou Caetano Alves, trejeitando carranca ameaçadora.
+\- Que lhe devo eu a você? - replicou Caetano Alves, trejeitando carranca ameaçadora.
 
-- A honra.
+\- A honra.
 
-- Qual honra, nem meia honra! Vá-se com Deus ou com o diabo, e deixe-me, se não quer que eu lhe peça contas a você.
+\- Qual honra, nem meia honra! Vá-se com Deus ou com o diabo, e deixe-me, se não quer que eu lhe peça contas a você.
 
-- Peça, que eu dou-as leais ao sr. Agostinho José Chaves, ou como é que se chama. Vamos ver quem deve.
+\- Peça, que eu dou-as leais ao sr. Agostinho José Chaves, ou como é que se chama. Vamos ver quem deve.
 
 João Crisóstomo tirou da carteira dois papéis, e continuou, lendo meia folha que desdobrou:
 
 «Ficam depositadas duzentas moedas de ouro, as quais o sr. António da Silveira, por ordem de João Crisóstomo, residente na Corunha, entregou para serem dadas a Caetano Alves de Carvalho, logo que se liquide Ler este o Agostinho José Chaves que as emprestou a João Crisóstomo. Porto, 12 de Março de 1815. O corregedor do crime, Mourão Mosqueira.»
-- Recebeu o sr. Agostinho, ou Caetano, este dinheiro?
+\- Recebeu o sr. Agostinho, ou Caetano, este dinheiro?
 
-- Recebi; e daí?
+\- Recebi; e daí?
 
-- E daqui está o senhor pago.
+\- E daqui está o senhor pago.
 
-- Já disse que estava... Não me tire o tempo!
+\- Já disse que estava... Não me tire o tempo!
 
-- Serei breve. Está aqui o titulo da dívida de que eu sou credor.
+\- Serei breve. Está aqui o titulo da dívida de que eu sou credor.
 
-- Credor o sr. João? Ora essa! Vejamos!
+\- Credor o sr. João? Ora essa! Vejamos!
 
-- A letra é sua? - perguntou Crisóstomo, voltando para Caetano a face da carta que desdobrara.
+\- A letra é sua? - perguntou Crisóstomo, voltando para Caetano a face da carta que desdobrara.
 
-- Parece-o, se não for letra falsa.
+\- Parece-o, se não for letra falsa.
 
-- Pode ser. Quem falsificou a escritura, com menos engenho falsificaria a carta. Leia o senhor.
+\- Pode ser. Quem falsificou a escritura, com menos engenho falsificaria a carta. Leia o senhor.
 
-- Não quero. Leia, se quiser.
+\- Não quero. Leia, se quiser.
 
-- Da melhor vontade - respondeu João Crisóstomo, sorrindo, e leu:
+\- Da melhor vontade - respondeu João Crisóstomo, sorrindo, e leu:
 
 «Il.mo sr. corregedor do crime,
 Devo participar a V. Sª, para que a justiça se não engane com os criminosos ladinos, que João Crisóstomo, actualmente residente na Corunba, foi quem deu a nota do cartório do tabelião Ferreira, sabendo o fim para que a dava, assistindo à falsificação da escritura, e recebendo em paga disso muito bom dinheiro. As cento e cinquenta moedas é a quantia que ele depois me pediu emprestada; e o pagamento deste dinheiro não prova nada para a inocência de João Crisóstomo. Eu provarei em ocasião própria a verdade do que Levo exposto. Cadeias da Relação, 15 de Fevereiro de 1816. Caetano Alves de Carvalho.»
-- Agora reconheça o texto e a assinatura da sua carta, sr. Caetano.
+\- Agora reconheça o texto e a assinatura da sua carta, sr. Caetano.
 
-- Já vi; fui eu quem escreveu isso - disse denodadamente o homem. - E então que quer? A vilão vilão e meio, é o ditado. Você perdeu-me, eu quis pagar-lhe na mesma moeda. Deixasse-se lá estar onde estava, que ninguém bolia com o sr. João.
+\- Já vi; fui eu quem escreveu isso - disse denodadamente o homem. - E então que quer? A vilão vilão e meio, é o ditado. Você perdeu-me, eu quis pagar-lhe na mesma moeda. Deixasse-se lá estar onde estava, que ninguém bolia com o sr. João.
 
-- Mas a minha honra, sr. Caetano?
+\- Mas a minha honra, sr. Caetano?
 
-- E a dar-lhe com a sua honra! E a minha?
+\- E a dar-lhe com a sua honra! E a minha?
 
-- A sua?! perguntou João, espirrando um impulso de riso feroz.
+\- A sua?! perguntou João, espirrando um impulso de riso feroz.
 
-- Sim, a minha! e a minha fortuna de mais de cem contos que perdi por sua causa?
+\- Sim, a minha! e a minha fortuna de mais de cem contos que perdi por sua causa?
 
-- O sr. Caetano é prodigiosamente infame! - replicou tranquilamente o marido de Albertina.
+\- O sr. Caetano é prodigiosamente infame! - replicou tranquilamente o marido de Albertina.
 
-- O quê? você vem insultar-me ainda por cima?! - bradou Caetano, sacudindo os nervudos braços.
+\- O quê? você vem insultar-me ainda por cima?! - bradou Caetano, sacudindo os nervudos braços.
 
-- O senhor não é homem que se insulte; é um celerado sem pejo e sem cara para o vergão do azorrague.
+\- O senhor não é homem que se insulte; é um celerado sem pejo e sem cara para o vergão do azorrague.
 
-- Fora daqui, patife! - ululou Caetano.
+\- Fora daqui, patife! - ululou Caetano.
 
-- Pois cuida o miserável que eu vim aqui para me retirar pacificamente com mais uma injúria da sua boca?
+\- Pois cuida o miserável que eu vim aqui para me retirar pacificamente com mais uma injúria da sua boca?
 
-- Então que quer?
+\- Então que quer?
 
-- Quase nada. Obrigá-lo a engolir esta carta.
+\- Quase nada. Obrigá-lo a engolir esta carta.
 
 E, dizendo, meteu-a à boca, e estrinçou-a e humedeceu-a com os dentes até a reduzir ao tamanho de uma bala de onça. Caetano Alves observava perplexo a operação, sem atinar com o desfecho.
 
 Subitamente, João Crisóstomo arrancou da algibeira uma pistola.
 
-- Que é isto? - exclamou Caetano; e, de um salto, entrou no quarto mais próximo, que devia ser o do sócio, e saiu com uma brilhante faca de mato em punho.
+\- Que é isto? - exclamou Caetano; e, de um salto, entrou no quarto mais próximo, que devia ser o do sócio, e saiu com uma brilhante faca de mato em punho.
 
 Crisóstomo tinha ajustado ao bordo do cano da pistola o globozinho formado da carta, e, ao tempo que o adversário o atacava corajosamente, disparou o tiro no rosto em cheio, e subtraiu o peito à facada que descia.
 
@@ -3137,11 +3137,11 @@ João Crisóstomo não respondeu a pergunta alguma. Deixou-se agarrar dos braço
 
 Apareceram o inspector de quarteirão e chusma de pedestres. Levaram-no escada abaixo, quase abafado na compressão de braços e corpos, que o cerravam de perto. Ao fim da escada, João Crisóstomo olhou em redor de si, e ressumou duas lágrimas, e proferiu esta palavra, que era em si uma hórrida e infinita agonia:
 
-- Albertina!...
+\- Albertina!...
 
 Conduziram-no ao primeiro interrogatório. Disse que matara Caetano Alves. Pediram-lhe a causa do crime. Respondei:
 
-- Sabe-a Deus; sei-a eu; o mundo a saberá. Não me defendo.
+\- Sabe-a Deus; sei-a eu; o mundo a saberá. Não me defendo.
 
 Conduziram-no à correcção.
 
@@ -3160,7 +3160,7 @@ Albertina, lido este bilhete, perdeu o sentimento da sua desgraça. Foi levada e
 
 Entretanto, João Crisóstomo escreveu a António da Silveira. Mandou a carta aberta ao patrão, e recostou-se sobre uma tarimba de tábuas nuas, golfando sangue. O comerciante enviou-lhe colchão e roupas. Crisóstomo aceitou indiferentemente o beneficio. Ajeitaram-lhe a cama, e ele deitou-se, dizendo:
 
-- O leito da morte!...
+\- O leito da morte!...
 
 Avisado o negociante do estado doentio do preso, enviou-lhe o seu médico. Em resultado da auscultação, o módico declarou a tísica tuberculosa do enfermo, e asseverou a brevidade da vida, com a ocorrência da enorme tribulação em que o vira.
 
@@ -3176,28 +3176,28 @@ Era uma esmola do céu deixarem-nos chorar a sós.
 
 A filha do doutor Negro encarou a fito nos olhos do marido, e exclamou:
 
-- Como estás desfigurado!... Tu morres! tu morres! filho de minha alma!
+\- Como estás desfigurado!... Tu morres! tu morres! filho de minha alma!
 
-- Quem sabe?! - acudiu ele, contrafazendo jovialidade. - Estou ainda na idade da força e dos milagres, minha Albertina! Esperancemo-nos, filha...
+\- Quem sabe?! - acudiu ele, contrafazendo jovialidade. - Estou ainda na idade da força e dos milagres, minha Albertina! Esperancemo-nos, filha...
 
-- Santo Deus!... - tornou ela em clamor. -Virgem mãe de Jesus Cristo!... pois eu hei-de ficar sem meu marido!... Eu hei-de vê-lo morrer, oh Senhor!
+\- Santo Deus!... - tornou ela em clamor. -Virgem mãe de Jesus Cristo!... pois eu hei-de ficar sem meu marido!... Eu hei-de vê-lo morrer, oh Senhor!
 
 E, soltando-se dos braços do esposo, caiu de joelhos, com as mãos postas, e os olhos lançados ao céu, através das grades..105
-- Albertina! - disse João Crisóstomo em aflitivas ânsias. - Tem pena de mim e de ti... Vem cá, pobrezinha... Deus há-de operar em ti um prodígio de valor, porque tens sido uma santa e forte alma, e nunca deixaste de o crer e chamar nos grandes transes da nossa vida. Dá-me a mim o exemplo da coragem, Albertina!
+\- Albertina! - disse João Crisóstomo em aflitivas ânsias. - Tem pena de mim e de ti... Vem cá, pobrezinha... Deus há-de operar em ti um prodígio de valor, porque tens sido uma santa e forte alma, e nunca deixaste de o crer e chamar nos grandes transes da nossa vida. Dá-me a mim o exemplo da coragem, Albertina!
 
 Ergueu-se ela com transporte, e estreitou o marido ao seio, e disse soluçante:
 
-- Pode ser, pode ser que tu não morras!
+\- Pode ser, pode ser que tu não morras!
 
 Estas esperanças eram relâmpagos. Assim que ela fitava olhar atento no semblante do marido, cortava-se-lhe o coração, e cedia ao alto gemer da sua inconsolável dor.
 
 O médico observou que a presença de Albertina, a não se comedir em sua aflição,  apressaria a morte do preso.
 
-- E que lucra ele em viver?! - reflectiam as mais condoídas testemunhas do espectáculo.
+\- E que lucra ele em viver?! - reflectiam as mais condoídas testemunhas do espectáculo.
 
 Seguiram-se as quotidianas visitas de Albertina. Fizera espanto a inesperada mudança que se operara na miseranda senhora, passada a terceira visita. Viam-na chegar à cabeceira do enfermo - a quem o facultativo chamava moribundo - e sentar-se, sem lágrimas, num sereno quietismo e introversão, que incutia maior piedade no ânimo dos assistentes. João Crisóstomo dissimulava os empuxões que lhe iam no peito ao desatar-se a vida fibra por fibra. A cada contorcimento e estridor de dentes, erguia-se ela, punha-lhe a mão na face, e perguntava:
 
-- Sentes a morte, filho?
+\- Sentes a morte, filho?
 
 Esta pergunta repetida infundiu no espírito de João Crisóstomo receio, que lhe redobrou as penas. Previu que Albertina lhe esperava o alento final para suicidar-se.
 
@@ -3211,26 +3211,26 @@ João Crisóstomo, o homicida - quem o diria? - combateu o materialismo de seu p
 
 Albertina ouvira-o atenta, e sorria, quando João Crisóstomo disse:
 
-- Não estão estas verdades no teu coração, anjo?
+\- Não estão estas verdades no teu coração, anjo?
 
 E, como ela permanecesse silenciosa, o marido sentou-se de violento ímpeto, e disse:
 
-- Não permita Deus que eu seja causa a que tu dês ao mundo um quadro de miserável fraqueza, Albertina! Não permita Deus que tu me faças dar contas ao supremo juiz da perdição da tua alma!...
+\- Não permita Deus que eu seja causa a que tu dês ao mundo um quadro de miserável fraqueza, Albertina! Não permita Deus que tu me faças dar contas ao supremo juiz da perdição da tua alma!...
 
 E limpava um suor, semelhante ao soro do último sangue, que vinha arrefecido das artérias mortas.
 
 Albertina ajoelhou, e disse:
 
-- Perdoa-me, que eu sou mulher, e não sei o que é viver sem ti! Perdoa-me, que eu, se não morrer, enlouquecerei, e depois o fim da minha vida será horrendo...
+\- Perdoa-me, que eu sou mulher, e não sei o que é viver sem ti! Perdoa-me, que eu, se não morrer, enlouquecerei, e depois o fim da minha vida será horrendo...
 
-- Que seja... que o mundo te lastime perdida para a luz do entendimento. O Senhor te dará luz, mártir!... Jura, jura ao teu pobre marido agonizante que não tentarás contra a tua vida!
+\- Que seja... que o mundo te lastime perdida para a luz do entendimento. O Senhor te dará luz, mártir!... Jura, jura ao teu pobre marido agonizante que não tentarás contra a tua vida!
 
 Albertina beijou a mão que o esposo lhe estendera a solenizar o juramento, e balbuciou:
 
-- Não me matarei!.106
-- Bem hajas! - tornou João Crisóstomo com repetidas intermitências de abafação.
+\- Não me matarei!.106
+\- Bem hajas! - tornou João Crisóstomo com repetidas intermitências de abafação.
 
-- Bem hajas! Fica pedindo por mim... Bem sabes que eu não deixo quem reze uma Avé-Maria por minha alma. Tu irás à Pátria, e dirás. aos difamadores do meu nome que eu... não roubei um ceitil a homem nenhum... Irás ajoelhar à sepultura de teu pai, e pedirás perdão para os delitos da minha alma... Eu matei um homem; levo a Deus este sangue que me ressaltou à face; mas... quem sondou, senão Ele, as minhas angústias?... E tu hás-de viver, Albertina, para eu ouvir na eternidade as tuas preces!...
+\- Bem hajas! Fica pedindo por mim... Bem sabes que eu não deixo quem reze uma Avé-Maria por minha alma. Tu irás à Pátria, e dirás. aos difamadores do meu nome que eu... não roubei um ceitil a homem nenhum... Irás ajoelhar à sepultura de teu pai, e pedirás perdão para os delitos da minha alma... Eu matei um homem; levo a Deus este sangue que me ressaltou à face; mas... quem sondou, senão Ele, as minhas angústias?... E tu hás-de viver, Albertina, para eu ouvir na eternidade as tuas preces!...
 
 Caíra sobre os travesseiros extenuado. Albertina soluçava de joelhos.
 
@@ -3240,25 +3240,25 @@ Conseguiu a piedade dos amigos, contraídos nos últimos dias de inexcedível de
 
 Ao repontar do sol da seguinte manhã, o comerciante entrou no quarto, e disse:
 
-- Todos os seus amigos, sr. João Crisóstomo, apregoam a sua inocência, e juram que o senhor padeceu os efeitos da calúnia, e está limpo de toda a mácula.
+\- Todos os seus amigos, sr. João Crisóstomo, apregoam a sua inocência, e juram que o senhor padeceu os efeitos da calúnia, e está limpo de toda a mácula.
 
 João Crisóstomo pôs os olhos em Albertina, e disse:
 
-- Minha mulher, já vês que te deixo a única herança que podia deixar: um nome sem o ferrete de ladrão. A sociedade perdoará ao homicida...
+\- Minha mulher, já vês que te deixo a única herança que podia deixar: um nome sem o ferrete de ladrão. A sociedade perdoará ao homicida...
 
 Estas derradeiras palavras foram exprimidas com tanto desafogo e serenidade que os assistentes julgaram muito aliviado o moribundo.
 
 Albertina viu que o sacerdote e o comerciante confirmavam as suas esperanças dela; e logo, arrebatada de alegria, abraçou-se ao esposo, exclamando:
 
-- Tu estás muito melhor, meu filho!
+\- Tu estás muito melhor, meu filho!
 
-- Estou... - disse João Crisóstomo, e, descaindo lentamente as pálpebras, inclinou algum tanto a face para Albertina, e desprendeu um trémulo e profundo soluço.
+\- Estou... - disse João Crisóstomo, e, descaindo lentamente as pálpebras, inclinou algum tanto a face para Albertina, e desprendeu um trémulo e profundo soluço.
 
 Morreu.
 
 Esta palavra atroz, quando o sacerdote a proferiu, com as mãos erguidas e a cruz entre elas, foi o último sopro na razão de Albertina.
 
-- Não me respondes? - exclamou ela, abraçando-se ao peito do cadáver. – Não me respondes?... Pois tu estás morto.?
+\- Não me respondes? - exclamou ela, abraçando-se ao peito do cadáver. – Não me respondes?... Pois tu estás morto.?
 
 Ergueu-se de golpe, e contemplou-lhe a face; vergou-se outra vez, e beijou-lhe os lábios.
 
@@ -3298,7 +3298,7 @@ Por amor de partido, inventou que seu pai tinha morrido de desgosto por ver um i
 
 O coronel Silveira, assim que traduziu os vincos da fronte de seu sobrinho, sacudiu o pó dos sapatos, e saiu, dizendo:
 
-- Procurei o céu e as árvores da minha infância: cá estão, reconheço-as, e reconhecem-me: a ti, meu sobrinho, é que eu não conheço.
+\- Procurei o céu e as árvores da minha infância: cá estão, reconheço-as, e reconhecem-me: a ti, meu sobrinho, é que eu não conheço.
 
 E saiu para habitar uma casa coberta de colmo, que se alugava na aldeia de seus avós.
 
@@ -3308,15 +3308,15 @@ Pediu informações a comerciantes do Porto: responderam-lhe que o espanhol tinh
 
 Em 1840, procurou-o o ancião abade de sua freguesia, e disse-lhe, com um periódico do Porto na mão:
 
-- Trago-lhe uma surpresa dolorosa.
+\- Trago-lhe uma surpresa dolorosa.
 
-- Que é?... Aboliram os soldos aos coronéis que só têm um braço? - perguntou o risonho Silveira.
+\- Que é?... Aboliram os soldos aos coronéis que só têm um braço? - perguntou o risonho Silveira.
 
-- Não é tanto; mas receio que lhe doa. mais.
+\- Não é tanto; mas receio que lhe doa. mais.
 
-- Mais? Que pode ser?!
+\- Mais? Que pode ser?!
 
-- Tenha a coragem de ler esta local.
+\- Tenha a coragem de ler esta local.
 
 O coronel leu o seguinte:
 
@@ -3328,78 +3328,78 @@ Assim que apeou à porta da estalagem mais económica, dirigiu-se à Calçada do
 
 Lá viu uma mendiga com a mão aberta e o braço estendido, e um cão de água no regaço. Afirmou-se muito tempo nela, e disse consigo:
 
-- É mentira! não é possível! Aqui não há rosto de feição de Albertina!...
+\- É mentira! não é possível! Aqui não há rosto de feição de Albertina!...
 
 Avizinhou-se, quase convencido do romance do localista, e disse:
 
-- Albertina!
+\- Albertina!
 
 A mendiga ergueu os olhos do regaço, fitou-o, e respondeu:
 
-- Quem me chama?
+\- Quem me chama?
 
-- A senhora é Albertina?
+\- A senhora é Albertina?
 
-- Sou Albertina.
+\- Sou Albertina.
 
-- A filha de Francisco Simões Alpedrinha?
+\- A filha de Francisco Simões Alpedrinha?
 
-- Que Deus tenha em sua santa glória.
+\- Que Deus tenha em sua santa glória.
 
-- A mulher de João Crisóstomo?
+\- A mulher de João Crisóstomo?
 
-- Desse anjo, que espera entrar no céu.
+\- Desse anjo, que espera entrar no céu.
 
-- Conheceu António da Silveira?
+\- Conheceu António da Silveira?
 
 A mendiga baixou a fronte entre as mãos, e correu os dedos pela fronte, murmurando:
 
-- António da Silveira?...
+\- António da Silveira?...
 
-- Sim... o amigo de Albertina e de João Crisóstomo, e de seu pai e mãe, que morreram...
+\- Sim... o amigo de Albertina e de João Crisóstomo, e de seu pai e mãe, que morreram...
 
-- Em casa de António da Silveira...
+\- Em casa de António da Silveira...
 
-- Pois é! - exclamou o coronel, tomando-lhe a mão com veemente ardor. - É
+\- Pois é! - exclamou o coronel, tomando-lhe a mão com veemente ardor. - É
 Albertina que está aqui pedindo esmola?... E não reconhece em mim António da Silveira?
 
 A mendiga assestou-lhe uma vista fulgurante de demência, e disse com vozes interpoladas de suspensões ansiosas:
 
-- A voz dele era assim... e os olhos... e o olhar piedoso... Era novo então, e gentil, o nosso querido amigo...
+\- A voz dele era assim... e os olhos... e o olhar piedoso... Era novo então, e gentil, o nosso querido amigo...
 
-- E aqui estou velho, srª D. Albertina, e mutilado, e desconhecido até aos seus olhos, que viam em mim o irmão extremoso. Não me reconhece ainda, desgraçada senhora?
+\- E aqui estou velho, srª D. Albertina, e mutilado, e desconhecido até aos seus olhos, que viam em mim o irmão extremoso. Não me reconhece ainda, desgraçada senhora?
 
-- Conheço!... conheço!... - exclamou ela debulhada em lágrimas; porém, imóvel como se fosse paralítica.
+\- Conheço!... conheço!... - exclamou ela debulhada em lágrimas; porém, imóvel como se fosse paralítica.
 
 Silveira apertou-lhe convulsivamente a mão, e clamou embargado de soluços:
 
-- Como chegou até isto?... E eu que a julgava morta há tantos!...
+\- Como chegou até isto?... E eu que a julgava morta há tantos!...
 
-- Morta estou eu - disse ela sem a menor agitação.
+\- Morta estou eu - disse ela sem a menor agitação.
 
-- Vai sair já daqui - tornou o coronel - eu vou buscar uma sege...
+\- Vai sair já daqui - tornou o coronel - eu vou buscar uma sege...
 
-- Não vá - acudiu Albertina.
+\- Não vá - acudiu Albertina.
 
-- Porquê?
+\- Porquê?
 
-- Porque o meu posto é aqui.
+\- Porque o meu posto é aqui.
 
-- O seu posto é o que seu marido lhe impôs. Eu conservo ainda a carta em que ele me avisa de que sou eu o amparo da sua viúva.
+\- O seu posto é o que seu marido lhe impôs. Eu conservo ainda a carta em que ele me avisa de que sou eu o amparo da sua viúva.
 
-- Uma carta?... Bem me lembra... Mas não vou... A alma de meu marido está ganhando o céu com minha humildade. A humildade da mendiga é a mais grata ao Senhor. Se o Altíssimo for servido, acabarei neste serviço à alma do meu anjo.
+\- Uma carta?... Bem me lembra... Mas não vou... A alma de meu marido está ganhando o céu com minha humildade. A humildade da mendiga é a mais grata ao Senhor. Se o Altíssimo for servido, acabarei neste serviço à alma do meu anjo.
 
 O coronel instou; mas o silêncio de Albertina era uma resposta que o desesperava de movê-la.
 
 Penalizadora situação a do honrado homem!
 
-- Que hei-de eu, pois, fazer em bem desta infeliz? - disse ele como interrogando o seu coração. - Que horrível serenidade a desta mulher! Que hei-de eu fazer?
+\- Que hei-de eu, pois, fazer em bem desta infeliz? - disse ele como interrogando o seu coração. - Que horrível serenidade a desta mulher! Que hei-de eu fazer?
 
-- Dê-me uma esmola como os outros que passam - respondeu ela.
+\- Dê-me uma esmola como os outros que passam - respondeu ela.
 
 António da Silveira, coberto de lágrimas, tirou da algibeira todo o dinheiro que tinha, e depôs-lho no regaço.
 
-- É muito - disse ela -; basta-me isto.
+\- É muito - disse ela -; basta-me isto.
 
 E tomou uma pequena moeda de prata..110
 O coronel foi obrigado a aceitar o dinheiro. Albertina beijou a esmola, e orou.
@@ -3410,13 +3410,13 @@ A mendiga ergueu-se; tomou o cãozinho nos braços, e caminhou em direitura à R
 
 Albertina abriu a porta, fez uma mesura a António da Silveira, como lhas tinha feito em 1811, e disse:
 
-- A Virgem mãe de Deus lhe dê uma boa noite, ar. Silveira. Contarei a meu marido que o vi.
+\- A Virgem mãe de Deus lhe dê uma boa noite, ar. Silveira. Contarei a meu marido que o vi.
 
 No dia seguinte, Silveira foi procurar um velho camarada, contou-lhe o sucesso, e encarregou-o de enviar todos os dias ao cardenho da filha do doutor Negro um almoço e jantar.
 
 Foi ainda vê-la em três dias sucessivos; porém o espectáculo cortava-lhe o coração. Era desgraça irremediável! Quando o coronel lhe pedia a história de quinze anos, Albertina respondia:
 
-- Não sei... Lembra-me que vi morrer meu marido, e mais nada... Depois, achei-me aqui... e estou orando, e ajudando a remir a alma do pecador.
+\- Não sei... Lembra-me que vi morrer meu marido, e mais nada... Depois, achei-me aqui... e estou orando, e ajudando a remir a alma do pecador.
 
 António da Silveira voltou para a sua pobre casa, deixando ao camarada o preço da sustentação de Albertina por um mês.
 
@@ -3444,7 +3444,7 @@ Passou ali o restante do dia ajoelhada.
 
 A patrulha encontrou ali às onze horas da noite aquela mulher. Interrogou-a e, como ela respondesse com sufocantes soluços, conduziu-a à casa da guarda no quartel do Carmo. A senhora de um oficial, residente no quartel, condoeu-se da mulher, que dava ares de turbação de juízo, e chorava sempre. No dia seguinte, despediram-na como insuspeita de culpa, e com o título de louca, passaporte para morrer de fome, onde quisesse. Porém, a caritativa dama encarregou-se de lhe arranjar um abrigo, e perguntou-lhe se queria uma casinha, onde pudesse viver. Albertina aceitou a esmola, dizendo:
 
-- Eu sou uma pobre que pede. A alma de meu marido precisa que eu seja humilde.
+\- Eu sou uma pobre que pede. A alma de meu marido precisa que eu seja humilde.
 
 Confirmou com este dizer a suposição da demência.
 
@@ -3474,17 +3474,17 @@ Deus sabe quantas privações custou ao coronel aquela generosidade, e a aliment
     
 Em 1846, um lavrador de Vairão procurou Albertina no hospital de S. Francisco, e disse-lhe:
 
-- A senhora é a viúva de João Crisóstomo que Deus haja?
+\- A senhora é a viúva de João Crisóstomo que Deus haja?
 
-- Sou eu essa desgraçada.
+\- Sou eu essa desgraçada.
 
-- Há poucos dias soube que a senhora ainda vivia. Venho aqui restituir o que não roubei, e cuidei que era meu. Eu estou há quinze anos de posse dos bens que eram de meu parente João Crisóstomo. O pai dele morreu há vinte anos; ficou um filho, que Deus levou quatro anos depois, e morreu solteiro. Soube-se logo que o irmão herdeiro tinha morrido no Brasil, e que a viúva também morrera. Eu era filho de uma irmã do tio Nicolau, pai de seu marido. Tomei posse dos bens; mas agora que soube que a senhora está viva, não quero senão o que é meu.
+\- Há poucos dias soube que a senhora ainda vivia. Venho aqui restituir o que não roubei, e cuidei que era meu. Eu estou há quinze anos de posse dos bens que eram de meu parente João Crisóstomo. O pai dele morreu há vinte anos; ficou um filho, que Deus levou quatro anos depois, e morreu solteiro. Soube-se logo que o irmão herdeiro tinha morrido no Brasil, e que a viúva também morrera. Eu era filho de uma irmã do tio Nicolau, pai de seu marido. Tomei posse dos bens; mas agora que soube que a senhora está viva, não quero senão o que é meu.
 
 Albertina meditou alguns instantes, e respondeu:
 
-- Aceito a esmola de ir viver na sua companhia, com a condição de me darem para morrer o leito em que nasceu meu marido.
+\- Aceito a esmola de ir viver na sua companhia, com a condição de me darem para morrer o leito em que nasceu meu marido.
 
-- Lá está tudo como estava quando morreu seu cunhado. A senhora vai para sua casa, e fará o que quiser.
+\- Lá está tudo como estava quando morreu seu cunhado. A senhora vai para sua casa, e fará o que quiser.
 
 A filha do doutor Negro saiu do hospital, e foi para Vairão.
 
@@ -3533,7 +3533,7 @@ António da Silveira, o justo, o honrado, o cristão, chegou aos setenta anos co
 
 Morreu em 1860 na casa onde nascera, porque seu sobrinho, remordido pela consciência da feia acção, um dia se ajoelhou aos pés do velho coronel, suplicando-lhe que entrasse no seio da sua família. O ancião ergueu nos braços o sobrinho, e disse-lhe:
 
-- Estás perdoado pelos afagos que me fazias em criancinha.
+\- Estás perdoado pelos afagos que me fazias em criancinha.
 
 Na minha última visita às montanhas onde fui criado, encontrei António da Silveira, ensinando a traduzir Horácio a um neto de seu irmão Alexandre. Ao lado de Horácio estava também aberto o livro de Sob. Em seguida à versão de uma ode respirando blandícias de sibarita, o velho traduzia uma lamentação do virtuoso inabalável, enternecedora pela paciência, e confiança na Providência, que tudo lhe tirara ao opulento da terra de Hus.
 
@@ -3545,7 +3545,7 @@ Quis eu que António da Silveira, com o seu estilo sentencioso, me insinuasse no
 
 A isto respondeu ele:
 
-- O senhor tem escrito muitos romances sem moral nenhuma que eu saiba; e desculpe, se isto belisca o melindre do seu engenho. Quer-me parecer que há por esse mundo muita desgraça, que move à comiseração, e até certo ponto desmoraliza. Há outras desgraças que não moralizam nem enternecem. A gente não deve supor que todos os infortúnios procedem de desvios do dever. Se assim fosse, para inferirmos que um homem delinquiu, bastaria vê-lo desgraçado. Ora eu conheci, no trajecto de setenta anos, muitos maus afortunados, e muitas almas nobres passadas de angústias. Se eu fizesse romances e escrevesse as histórias que sei, teria de me abster de moralizar por conta da Providência, que importaria o mesmo pô-la em dúvida. E, demais, se inferno e glória fossem neste mundo, a que vinha a superfluidade do outro, em que se prometem prémios e castigos?! Escritores cristianíssimos sei eu que se afadigam em demonstrar que os prevaricadores inevitavelmente pagam neste mundo. Eu mesmo preguei este falso Evangelho ao doutor Negro; mas o mundo preleccionou-me sessenta anos, e modificou as minhas crenças dos vinte e dois. Pois, em verdade, lhe digo que fazem um desserviço à religião de Jesus os que pregoam que a felicidade neste mundo é prova de sã consciência e rectidão de vida. Não, senhor, absolutamente não é. A religião de Cristo diz: «Bem-aventurados são os que sofrem, porque estes serão consolados.» Os errados intérpretes exclamam: «A religião, mãe de todas as virtudes, é um manancial de felicidades neste mundo para quem a observa.» Isto, se não é contraditório, ataca a eficácia das palavras do Divino Mestre. Em suma, se o senhor instasse muito comigo para lhe eu dar o tom da filosófica, ou da cristã moralidade do romance da filha do doutor Negro, citar-lhe-ia estas palavras dele:
+\- O senhor tem escrito muitos romances sem moral nenhuma que eu saiba; e desculpe, se isto belisca o melindre do seu engenho. Quer-me parecer que há por esse mundo muita desgraça, que move à comiseração, e até certo ponto desmoraliza. Há outras desgraças que não moralizam nem enternecem. A gente não deve supor que todos os infortúnios procedem de desvios do dever. Se assim fosse, para inferirmos que um homem delinquiu, bastaria vê-lo desgraçado. Ora eu conheci, no trajecto de setenta anos, muitos maus afortunados, e muitas almas nobres passadas de angústias. Se eu fizesse romances e escrevesse as histórias que sei, teria de me abster de moralizar por conta da Providência, que importaria o mesmo pô-la em dúvida. E, demais, se inferno e glória fossem neste mundo, a que vinha a superfluidade do outro, em que se prometem prémios e castigos?! Escritores cristianíssimos sei eu que se afadigam em demonstrar que os prevaricadores inevitavelmente pagam neste mundo. Eu mesmo preguei este falso Evangelho ao doutor Negro; mas o mundo preleccionou-me sessenta anos, e modificou as minhas crenças dos vinte e dois. Pois, em verdade, lhe digo que fazem um desserviço à religião de Jesus os que pregoam que a felicidade neste mundo é prova de sã consciência e rectidão de vida. Não, senhor, absolutamente não é. A religião de Cristo diz: «Bem-aventurados são os que sofrem, porque estes serão consolados.» Os errados intérpretes exclamam: «A religião, mãe de todas as virtudes, é um manancial de felicidades neste mundo para quem a observa.» Isto, se não é contraditório, ataca a eficácia das palavras do Divino Mestre. Em suma, se o senhor instasse muito comigo para lhe eu dar o tom da filosófica, ou da cristã moralidade do romance da filha do doutor Negro, citar-lhe-ia estas palavras dele:
 
 Minha filha há-de ser muito desgraçada, ainda mesmo que o homem que ma roubou venha a ser seu marido, e a felicidade mentirosa lhes dê a efémera embriaguez do crime satisfeito. Eu morrerei, sem a ter visto no último degrau da miséria; mas você viverá para lembrar-se das derradeiras palavras proferidas pelo velho que chora em suas mãos.
 
