@@ -6,7 +6,7 @@ type: romance
 ---
 ##                                                 INTRODUÇÃO
 
-        Entre as diversas moléstias significativas daminha velhice, o amor aos livros antigos – a mais dispendiosa
+Entre as diversas moléstias significativas daminha velhice, o amor aos livros antigos – a mais dispendiosa
 – leva-me o dinheiro que me sobra da botica, onde os outros achaques me obrigam a fazer grandes orgias de pílulas
 e tisanas. E, quando cuido que me curo com as drogas e me ilustro com os arcaísmos, arruíno o estômago, e
 enferrujo o cérebro numa caturrice académica.
@@ -47,7 +47,7 @@ muito duvidosa, disse o que quer que fosse a respeito dos pecados que entram pel
 Depois informaram-me que esta viúva, bastante estragada no moral e ainda mais no físico, andara de
 amores ilícitos com um escrivão do juiz de paz, o Barroso, um dos 7500 do Mindelo, que lera o Bom senso do cura
 João Meslier, e a saturara de má filosofia, e também a esbulhara de parte dos seus bens de raiz e do melhor da sua
-riqueza – a Fé, o bordão com que as velhas e os velhos caminham resignados e contentes para os mistérios da
+riqueza – a Fé, o bordão com que as velhas e os velhos caminham resignados e contentes para os mistérios da
 eternidade.                                               
 
 Logo que cheguei a casa, entrei a folhear as páginas dos dois livros, preparado para o dissabor de encontrá-
@@ -56,12 +56,12 @@ ruína da boa linguagem quinhentista. Folheei o Entendimento literal e constrvi�
 quarto de papel almaço amarelecido, com umas linhas de letra esbranquiçada, mas legível e regularmente escrita. O
 conteúdo do papel, onde se conheciam vincos de dobras, era o seguinte?
 
-        José, teu irmão, quando eu hoje saia da igreja, onde fui pedir a Nossa Senhora a tua vida ou minha morte,
+José, teu irmão, quando eu hoje saia da igreja, onde fui pedir a Nossa Senhora a tua vida ou minha morte,
 disse-me que eu não tardaria a pedir a Deus pela tua alma. Eu já não posso chorar mais nem rezar. Agora o que
 peço a Deus é que me leve também. Se não morrer, endoideço. Perdoa-me, José, e pede a Deus que me leve
 depressa para ao pé de ti.
 
-                                                                                        Marta.
+                                                                                Marta.
 
 Não é preciso ser a gente extraordinariamente romântica para interessar-se, averiguar, querer notícias das
 duas pessoas que têm nestas linhas uma história qualquer, mais ou menos vulgar. Ocorreu-me logo que o estudante,
@@ -116,7 +116,7 @@ derrabar gatos. Ela, lady Jackson, escreve que lhe fazem compaixão os pobres bi
 orelhas, estão como que envergonhados de si mesmos. Excelente senhora!
 
 
-                                                
+                                        
 
 Pedi que me apresentassem ao reitor de Caldelas na feira de Santo urso. Achei-lhe um semblante
 convidativo, animador a entabular-se com ele uma indagação de curiosidades sentimentais.
@@ -124,7 +124,7 @@ convidativo, animador a entabular-se com ele uma indagação de curiosidades sen
 Fazia respeitável a sua batina sem nódoas o padre Osório. Parece que também as não tem na vida. Passa por
 ser um velho triste, que não teve mocidade, nem as ambições que suprem os doces afectos do coração mutilados
 pelo cálculo ou congelados pelo temperamento. Há trinta e dois anos que pastoreia uma das mais pobres freguesias
-do arcebispado. Pregou alguns anos com aplauso dos entendidos e inutilidade dos pecadores. A retórica é a arte de
+do arcebispado. Pregou alguns anos com aplauso dos entendidos e inutilidade dos pecadores. A retórica é a arte de
 falar bem; mas os vícios são a arte de viver bem e alegremente. Assim se pensa, embora não se diga.
 
  Como pregava gratuitamente, o vigário de Caldelas era chamado por todos os mordomos e confrarias
@@ -182,7 +182,7 @@ patacoadas das novelas. Ela não morreu doida; mas pensava em romancear a histó
 tendo lido trezentos volumes de novelas, não encontrara caso imitante. – E, dando-me o bilhete de Marta: – Este
 quarto de papel é o exórdio de uma agonia original.
 
-                                                 
+                                         
 
 Como a exposição do reitor saiu muito enfeitada de jóias sentimentais – detestável espécie arqueológica
 que ninguém tolera – farei quanto em mim couber por. uma a uma, ir montando e refugando as flores de modo que
@@ -198,7 +198,7 @@ Oh! os bigodes tingem-se; mas as frases – madeixas do espírito – são refra
       Marta era filha de um lavrador mediano que tinha em Pernambuco um irmão rico de quem dizia o diabo.
 
 Chamava-lhe ladrão porque, no espaço de vinte anos, lhe mandara três moedas, com os seguintes encargos: à mãe
-6$000 réis fortes, às almas do Purgatório, de Negrelos, 3$000 réis também fortes, que lhos prometera quando
+6$000 réis fortes, às almas do Purgatório, de Negrelos, 3$000 réis também fortes, que lhos prometera quando
 embarcou, e o resto para ele –
  A rapariga conversou diversos mancebos, uns da lavoura, outros da arte, e, afinal, quando o pai lhe
 negociava o casamento com um pedreiro, mestre-de-obras, muito endinheirado e já maduro, apareceu o José Dias,
@@ -275,7 +275,7 @@ a carta.
  A segunda carta que ela escreveu, já sem pauta, foi a José Dias, ao estudante, que já não estudava por causa
 das memórias nocivas à sua saúde fraca, um pelém.
 
-            Neste tempo já o Zeferino da Lamela se tinha declarado com o Simeão de Prazins, de um modo quase
+    Neste tempo já o Zeferino da Lamela se tinha declarado com o Simeão de Prazins, de um modo quase
 original.
 
 – Você quanto deve, ó tio Simeão? – perguntou.
@@ -355,7 +355,7 @@ disse-lhe a mastigar as palavras?
 – Home, o caso mudou muito de figura. Então você pelos modos ainda não sabe que vem aí o meu irmão de
 Pernambuco comprar quintas e conventos?
 
-          E começou a desenrolar o nastro gorduroso de uma carteira de couro em que tinha recibos da décima, um
+  E começou a desenrolar o nastro gorduroso de uma carteira de couro em que tinha recibos da décima, um
 aviso da junta da paróquia para pagar a côngrua, uma conta de azeviche contra maus-olhados, uma oração
 manuscrita contra as maleitas, um oficio antigo que o nomeava regedor, de que fora demitido pelos Cabrais, uma
 velha ressalva de recrutamento, uns versos que ele recitara no Natal, num Auto do Nascimento do Menino, onde ele
@@ -439,7 +439,7 @@ indigesto, dava-lhe a coragem interina dos bêbedos, e berrava?
 
  – Se é homem, venha para cá! Você manda-me sair daqui, seu pedaço-de-asno? E o estudante, já amarelo?
 
-          – Eu não o mando sair daí, nem lhe consinto que me chame asno. Olhe que eu largo a espingarda, tiro-lhe
+  – Eu não o mando sair daí, nem lhe consinto que me chame asno. Olhe que eu largo a espingarda, tiro-lhe
 das unhas o machado e dou-lhe com ele.
 
  – Ó alma do Diabo! – exclamou o pedreiro crescendo para o caçador.
@@ -511,7 +511,7 @@ a despesa e economia doméstica.» Chegando apenas para a despesa doméstica de 
 lhe seria necessário para despesas de fora? Um dos zeros do Sr. Martins de Carvalho deve passar para a direita do 4,
 e reduzir a anuidade do príncipe a 7 200$000 réis ou 40 000 francos.
 
-Marcelino. Mas as cartas quem lhas redigia era o mano frade, recheando-as de trechos de política de púlpito –
+Marcelino. Mas as cartas quem lhas redigia era o mano frade, recheando-as de trechos de política de púlpito –
 resultado das suas digestões morosas, contemplativas – que serviram de ornamento nas colunas do Portugal Velho!,
 periódico miguelista da época.
 
@@ -584,7 +584,7 @@ emborracha-se ao jantar e faz brindes ao Menino Jesus e ao Sr. D. Miguel I. Pica
 saudades do rei, e sai para o terreiro a dar-lhe vivas. Outros vinhos em ebulição respondem-lhe num grito de
 sinceridade compacta. Trava da espada, que se tingira no sangue de três batalhas à volta do Porto; entra com ele a
 convicção em delírio acrisolada pela alucinação da embriaguez. E o anojo temerário dos grandes guerreiros o que é
-senão uma embriaguez de glória, quando não é uma embriaguez de genebra? Nas guerras civis portuguesas houve ai
+senão uma embriaguez de glória, quando não é uma embriaguez de genebra? Nas guerras civis portuguesas houve ai
 um bravo soldado de fortuna que, no vigor dos anos, ganhara as charlateiras de general e uma coroa de conde. Os
 seus camaradas, mais retardados na carreira por causa da abstinência, diziam que ele nunca saíra vitorioso de
 campanha onde não entrasse bêbedo. Este general, ao declinar da vida, casado e abstémio, não deu uma página
@@ -662,7 +662,7 @@ cartuchame pegavam dos tamancos e galgavam socalcos, buscando o refúgio dos pin
 
  O alferes sentiu um choque duro de coisa que lhe contundia as costas e lhe apertava o pescoço. Era o
 Retrinca de Santiago de Antas, o mais feroz da sua malta, que se amparava nele, quando caía varado por um
-pelouro. Este espectáculo trivial não aterrava o soldado de Ponte Ferreira, das Antas e da Asseiceira; mas dava-lhe
+pelouro. Este espectáculo trivial não aterrava o soldado de Ponte Ferreira, das Antas e da Asseiceira; mas dava-lhe
 as antigas pernas que o serviram nessas gloriosas batalhas. Tinha cinquenta anos, e fugia ganhando a dianteira aos
 garotos do seu bando destroçado. Porém, quando ele escalava a ladeira barrenta que se precipita ao sopé do monte,
 desciam em saltos de bezerros mordidos por vespereiros os seus homens, num turbilhão, acossados pelo tiroteio da
@@ -744,7 +744,7 @@ de vista, murmurou: – Valha-te o Diabo, banabóia!
 recomendou na qualidade de afilhado do fidalgo e filho de um alferes que comandara o ataque de 1838 sobre Santo
 urso, o Cristóvão Bezerra tratou-o muito bem e pediu-lhe notícias desse ataque a Santo Tirso que ele não conhecia.
 
-O pedreiro contou a façanha do pai, a nadar, com a espada nos dentes; e o fidalgo, quando soube que ele estava
+O pedreiro contou a façanha do pai, a nadar, com a espada nos dentes; e o fidalgo, quando soube que ele estava
 entrevado, disse pungidamente: Mal empregado! – que um general romano fizera o mesmo e que o levasse às Caldas
 de Vizela à bomba quente.
 
@@ -821,7 +821,7 @@ vezes, no tempo de estudante e seminarista, quando o Sr. D. Miguel esteve em Bra
 tornado saliente para o mesmo Sr. D. Miguel, como o mesmo abade me contou também, mas por isso
 mesmo nada mais posso acrescentar... (Carta de 11 de Novembro de 1882).
 
-como se sabe, depois que Sua Majestade quebrou a perna em 28. Que el-rei nomeara o abade de Calvos seu capelão-
+como se sabe, depois que Sua Majestade quebrou a perna em 28. Que el-rei nomeara o abade de Calvos seu capelão-
 mor, que dera a mitra de Coimbra ao abade de Priscos, e fizera chantre o padre Manuel das Agras, e a ele lhe fizera
 a mercê de duas comendas e o título de barão de Bouro, afora outras graças a diversos clérigos e leigos.
 
@@ -901,7 +901,7 @@ que desgraça, ó moças! Um menino tão rico e tão fidalgo, vi-o aqui há temp
 lambia, a pagar vinho ao Alho e mais à cróia da filha, e a comerem todos iscas de bacalhau com as mãos! Ao que eu
 vi chegar um senhor dos fidalgos de Quadros! Quando eu era rapariguita, aqueles senhores nunca saíam sem os seus
 mochilas fardados e tinham liteiras com as armas reais pintadas. Faziam mesmo um respeito! O Sr. Rodrigo, pai
-deste morgado velho, era disto dos governos lá de Lisboa, e quando vinha ver as suas quintas, ó senhores, caía ai o
+deste morgado velho, era disto dos governos lá de Lisboa, e quando vinha ver as suas quintas, ó senhores, caía ai o
 poder do mundo de Braga e Guimarães a visitá-lo! E as fidalgas? isso então a gente, quando as via, corria logo a
 beijar-lhes a mão, e elas no dia de Páscoa mandavam às cachopas lenços para a cabeça e regueifas de pão podre.
 
@@ -978,7 +978,7 @@ Boulogne, no Hyde-Park, e nunca vi mulher que tanto me penetrasse os íntimos se
 fatalidade, nunca! Como é que eu sinto aos vinte e oito anos as palpitações de um coração que nasce? Que faísca de
 amor é esta que me lavra um incêndio devastador das alegrias de alma que ainda ontem me doiravam a existência?
 
-         Era o estilo hidrópico de Arlincourt; mas é de crer que exprimisse garrafalmente a singela e natural
+ Era o estilo hidrópico de Arlincourt; mas é de crer que exprimisse garrafalmente a singela e natural
 comoção que lhe fez a gentileza, a poesia elegíaca, a majestade inflexa daquela mulher a quem a desgraça dera uma
 crítica moderna e revolucionária na religião das mães.
 
@@ -1049,7 +1049,7 @@ femeaço reles, e muito esquivos a tratarem com senhoras – canhestros e bestia
 vendiam, nas matas distantes, ao desbarato, cortes de madeira e roças de mato; além disso tinham umas pequenas
 mesadas que o pai lhes dava. Ainda assim, a casa de Quadros não estava empenhada, prosperava, e era das primeiras
 do concelho. O luxo do fidalgo era a garrafeira. Mais nada. As filhas de Honorata, quando, entre si, falavam da mãe,
-chamavam-lhe ; os rapazes, com um desapego desleixado que poderia fingir dignidade, nem se lembravam que
+chamavam-lhe ; os rapazes, com um desapego desleixado que poderia fingir dignidade, nem se lembravam que
 tinham mãe. Quanto ao pai, esse, antes de jantar, era taciturno, casmurro, como quem se esforça por sacudir um
 pesadelo; e, de tarde, sumia-se para recomeçar as suas visões luminosas interceptadas pelas trevas momentâneas da
 razão. Não se sabe o que ele pensava da mulher.
@@ -1127,7 +1127,7 @@ alcoolização; por fim convenceu-se de que o pobre homem era enganado e escarne
 padre tinha muita compaixão do fidalgo, que a mulher e as filhas enlameavam torpemente. Ele avisara D. Andresa
 que, no dia em que o Sr. Dr. Adolfo entrasse nos Pombais pela porta principal, ele sairia pela porta travessa; e a
 fidalga levam tão a mal o proceder do irmão que pensava em fazer testamento para que os filhos dele e de Honorata
-lhe não herdassem as quintas. Sabia-se nesse tempo que o Dr. Adolfo da Silveira era juiz de Direito nos Açores e
+lhe não herdassem as quintas. Sabia-se nesse tempo que o Dr. Adolfo da Silveira era juiz de Direito nos Açores e
 tinha consigo uma formosa amante com três meninos.
 
 A única ideia com que o Cerveira contribuiu para a redacção da carta foi que escrevesse: – Vossa
@@ -1208,7 +1208,7 @@ meia.
 
  Da cozinha vaporava um perfume de salpicão frito com ovos. Sua Majestade farejava com as narinas
 anelantes num forte apetite. A criada voltou com toalha, guardanapo, louça da índia, talheres de prata, e uma
-travessa coberta. Sua Majestade, muito familiar, tirou de sobre a mesa uns cadernos escritos, cosidos com seda
+travessa coberta. Sua Majestade, muito familiar, tirou de sobre a mesa uns cadernos escritos, cosidos com seda
 escarlate, e um grande tinteiro de chumbo com penas de pato.
 
 – Ora Vossa Majestade a incomodar-se! Valha-me Deus! eu tiro isso, Real Senhor! Não que uma coisa
@@ -1301,31 +1301,31 @@ desconfiar.. Esta pergunta à moça traz água no bico.
 
 – Andaste bem.
 
-        Quando o padre Marcos Rebelo subia à sala, pedindo licença a meio da escada, já o rei e o visconde vinham
+Quando o padre Marcos Rebelo subia à sala, pedindo licença a meio da escada, já o rei e o visconde vinham
 saindo da alcova – um, aprumado na atitude da majestade, o outro, na do respeito, muito composto.
 
-        – Pede licença na sua casa, Dom Prior? – disse el-rei.
+– Pede licença na sua casa, Dom Prior? – disse el-rei.
 
-        O Dom Prior de Guimarães genuflectiu a perna direita; o soberano apressou-se a erguê-lo.
+O Dom Prior de Guimarães genuflectiu a perna direita; o soberano apressou-se a erguê-lo.
 
-        – Nada de etiquetas, já lho disse dúzias de vezes.
+– Nada de etiquetas, já lho disse dúzias de vezes.
 
-        – Não posso nem devo proceder de outra maneira, senhor!
+– Não posso nem devo proceder de outra maneira, senhor!
 
-        – Pode e deve que o mando eu.
+– Pode e deve que o mando eu.
 
-        E o abade, inclinando-se com os braços em cruz sobre a batina?
+E o abade, inclinando-se com os braços em cruz sobre a batina?
 
-        – Saberá Vossa Majestade que o Sr. Capitão-Mor de Santa Marta, a quem Vossa Real Majestade fez barão
+– Saberá Vossa Majestade que o Sr. Capitão-Mor de Santa Marta, a quem Vossa Real Majestade fez barão
 de Bouro...
 
-        – Bem sei... aquele amável cavalheiro...
+– Bem sei... aquele amável cavalheiro...
 
-        – Perfeito cavalheiro – atestou o Nunes.
+– Perfeito cavalheiro – atestou o Nunes.
 
-        – Escreveu-me a carta que tenho a honra de depositar nas mãos de Vossa Majestade.
+– Escreveu-me a carta que tenho a honra de depositar nas mãos de Vossa Majestade.
 
-        El-rei leu alto?
+El-rei leu alto?
 
 Amigo Dom Prior de Guimarães. – Um realista do concelho de Famalicão chegou há pouco a esta casa, a
 fim de que eu escrevesse ao meu nobre e velho amigo para obter de S. M. licença para lho apresentar como
@@ -1396,7 +1396,7 @@ O outro arregalou os olhos e deitou a língua de fora quanto lhe foi possível. 
 brigadeiro de infantaria, do abade capelão-mor de el-rei, de dois reitores, cónegos despachados, e o ex-sargento-mor
 de Rio Caldo, nomeado capitão-mor de Lanhoso. Estavam todos em pé resistindo à licença de se sentarem. A
 cadeira de sola estava com o príncipe encostada ao relógio; e, na mesa central, papéis, o tinteiro de chumbo, o Novo
-Príncipe, de Gama e Castro, a Besta Esfolada e o Punhal dos Corcundas, do bispo Frei Fortunato. Em cima das
+Príncipe, de Gama e Castro, a Besta Esfolada e o Punhal dos Corcundas, do bispo Frei Fortunato. Em cima das
 caixas do milho estava uru meio alqueire com feijões brancos, destinados às tripas, e dois foles vazios que a
 Senhorinha tencionava encher de grão para a fornada quando el-rei se recolhesse. Sobre um dos foles resbunava um
 gato enroscado.
@@ -1466,8 +1466,8 @@ Abriu, leu para si, passou a carta ao secretário, e comentando exultante?
 – Um grande amigo! dos raros! um dos nossos melhores esteios! Com homens assim dedicados, o triunfo é
 certo. Posso dizer com o grande vate Camões?
 
-        E dir-me-eis qual é mais excelente
-        Se ser do mundo rei, se de tal gente.
+E dir-me-eis qual é mais excelente
+Se ser do mundo rei, se de tal gente.
 
 Um dos reitores que estavam na penumbra, lá em baixo ao pé das caixas, olhou com espanto para o outro,
 que lhe disse à puridade, discretamente?
@@ -1489,7 +1489,7 @@ convento dos Remédios e forminhas.
 Havia mastigação de mandíbulas pesadas; as forminhas eram frescas, muito torriscadas, davam rangidos
 numa trincadeira voluptuosa. Conversava-se em dois grupos. O sargento-mor de Rio Caldo contava passagens de
 caça no Gerês, com enfáticos arremedos, movimentados, de altanaria. Que o porco-bravo viera direito a ele, e
-cortava mato, troncos de giestas como a sua coxa – e mostrava –; tinha apanhado de raspão a cadela, a Ligeira, raça
+cortava mato, troncos de giestas como a sua coxa – e mostrava –; tinha apanhado de raspão a cadela, a Ligeira, raça
 de todos os diabos que o atacava pela orelha, e ficou aleijada para nunca mais; e ele então caíra sobre a esquerda, e
 trepara à fraga da Portela, e esperara o porco na clareira; e mal ele apontou, pumba! meteu-lhe três zagalotes no
 quadril.
@@ -1585,7 +1585,7 @@ escandecida numa congestão de júbilo.
 
  – Apanhou-a hoje daquela casta! Como um cacho! – informou um caseiro.– Mandou aparelhar a poldra
 castanha do Sr. Egas, com os coldres das pistolas, escanchou-se na sela, com a espada desembainhada e desatou a
-galope por debaixo das ramadas a dar gritos: Eu estava a ver quando o levava a breca de encontro a um esteio de
+galope por debaixo das ramadas a dar gritos: Eu estava a ver quando o levava a breca de encontro a um esteio de
 pedra, que malhava abaixo da burra como um dez!... Depois o Sr. Egas e mais o Sr. Heitor lá o apearam como
 puderam, e foram-no pôr a dormir. Arre diabo! lá que um homem uma vez por outra apanhe um pilão, vá; mas
 embebedar-se todos os dias, é muito feio! E depois ninguém se entende com ele. Medra com o suor dos pobres. Um
@@ -1664,7 +1664,7 @@ Conhecia-lhe a letra. Lembrava-se muito bem; era assim; e então a assinatura �
 um certo período que devia impressioná-lo mais pela mudança súbita que lhe transluziu no semblante. Depois
 dobrou vagarosamente a carta.
 
-         O Zeferino esperava a confidência do conteúdo; mas o fidalgo, apesar da nobilitação do sargento-mor,
+ O Zeferino esperava a confidência do conteúdo; mas o fidalgo, apesar da nobilitação do sargento-mor,
 continuava a considerá-lo o pedreiro que lhe fizera os canastros e reconstruíra as paredes da cozinha. Não estava
 assaz bêbedo para confidências.
 
@@ -1733,29 +1733,29 @@ Velho, honrado e leal amigo, Vasco da Cerveira Lobo, conde de Quadros e general 
 El-Rei vos envio muito saudar. Não podeis imaginar o grande prazer que senti quando ouvi o vosso nome e o li
 escrito no final da vossa mais que todas preciosíssima carta.
 
-        – Fiem? – interrompeu o Cerveira.
+– Fiem? – interrompeu o Cerveira.
 
-        – Muito bem – e prosseguiu lendo?
+– Muito bem – e prosseguiu lendo?
 
-        Muitas vezes me lembrou no desterro de onze anos o vosso nome, porque não podia esquecer o de um
+Muitas vezes me lembrou no desterro de onze anos o vosso nome, porque não podia esquecer o de um
 amigo que tão de perto conheci e tanto me acompanhou nas alegrias da minha mocidade.
 
-        – Eu não lhe disse, padre, que o rei e mais eu tínhamos feito pândegas rasgadas quando éramos rapazes?
+– Eu não lhe disse, padre, que o rei e mais eu tínhamos feito pândegas rasgadas quando éramos rapazes?
 
-        – Sim, senhor, V. Exª tinha-mo dito.
+– Sim, senhor, V. Exª tinha-mo dito.
 
-        – Ora aí tem, eu nunca minto. Ah! que bambochatas! – e recordava-se com os olhos num espasmo entre a
+– Ora aí tem, eu nunca minto. Ah! que bambochatas! – e recordava-se com os olhos num espasmo entre a
 saudade e as iniciativas da borracheira.
 
-        – Continuo, se V. Exª permite.
+– Continuo, se V. Exª permite.
 
-        – Ande lá; Quem te viu e quem te vê, Cerveira Lobo! – disse com tristeza, muito abatido.
+– Ande lá; Quem te viu e quem te vê, Cerveira Lobo! – disse com tristeza, muito abatido.
 
-        Padre Rocha encarava-o com piedade, sentia ânsias de abraçá-lo, e dizer-lhe?
+Padre Rocha encarava-o com piedade, sentia ânsias de abraçá-lo, e dizer-lhe?
 
-        – Ande lá. Leia, que o melhor está para baixo.
+– Ande lá. Leia, que o melhor está para baixo.
 
-        Logo que cheguei a Portugal chamado por amigos de primeira ordem e fui para aqui enviado, perguntei se
+Logo que cheguei a Portugal chamado por amigos de primeira ordem e fui para aqui enviado, perguntei se
 ainda éreis vivo. Alegraram-me com a resposta; mas delicadamente me obrigaram a não escrever a alguém,
 enquanto o triunfo infalível da minha justiça dependesse de certas negociações, pendentes entre as nações da
 Europa e o meu ministro em Inglaterra, o Ribeiro Saraiva, que muito bem deveis conhecer de nome. Tenho eu sido
@@ -1789,12 +1789,12 @@ dizer a missa.
 
 – Ande lá.
 
-        Desgraçadamente o vosso heroísmo e amor à minha causa legítima não foi muito imitado. Eu perdi a
+Desgraçadamente o vosso heroísmo e amor à minha causa legítima não foi muito imitado. Eu perdi a
 coroa, mas a perda maior foi a de amigos como vós, bem poucos, mas que valem um remo.
 
-        – Torne a ler esse bocado que é coisa muito profunda, ó padre Rocha.
+– Torne a ler esse bocado que é coisa muito profunda, ó padre Rocha.
 
-        Fez-lhe a vontade. O Rocha também admirava, e de si consigo dizia que o rei tinha bom palavreado
+Fez-lhe a vontade. O Rocha também admirava, e de si consigo dizia que o rei tinha bom palavreado
 sentimental, ou que o impostor não era qualquer pedaço-de-asno. Continuou?
 
 Vou responder com repugnância e tristeza às últimas linhas da vossa carta em que me ofereceis
@@ -1816,7 +1816,7 @@ com o mais, que é a minha eterna gratidão.
 
 Deus Nosso Senhor vos tenha em sua santa guarda. De São Gens de Calvos, aos 12 de Maio de 1845.
 
-                                                                                             Miguel, Rei.
+                                                                                     Miguel, Rei.
 
 Esta carta não confirmou nem removeu as suspeitas do padre Rocha. Quando o Cerveira lhe perguntou: –
 que tal? o que dizia ele? – dobrava a carta vagarosamente, encolhia os ombros e respondia?
@@ -1829,7 +1829,7 @@ como. Ou se é amigo ou não se é amigo, hem? Que diz a isto, padre?
 – Se quem escreveu esta carta é o Sr. D. Miguel, faz V. Exª o que deve, porque faz o que pode; mas seria
 bom ter a certeza...
 
-          – De que é o rei que me escreve?
+  – De que é o rei que me escreve?
 
  – Sim.. a prudência... Há muito maroto por esse mundo.
 
@@ -1908,7 +1908,7 @@ congregavam ali os homens eminentes, por inteligência e haveres, do partido rea
 Luís de Sousa passava os seus dias rodeado de pergaminhos, imobilizado numa poltrona, gemendo as
 dores da gota. Morreu muito pobre e muito desamparado.
 
-          – Faz bem. Não lho aconselharia, se pudéssemos dar remédio mais suave à doença desse miserável
+  – Faz bem. Não lho aconselharia, se pudéssemos dar remédio mais suave à doença desse miserável
 impostor, de quem eu sei mais algumas traficâncias. Constou-me há poucas horas, que umas beatas de Braga,
 abastadas, e de apelido Botelhas, tinham enviado uma importante quantia, por intermédio de um certo abade, a um
 D. Miguel que está escondido em Portugal. Eu podia dar aviso desta ladroeira; mas tenho compaixão do abade: não
@@ -1988,7 +1988,7 @@ Em cima, o sargento e três soldados entraram e examinaram vagarosamente os quar
 algumas botijas de genebra. A garrafeira da casa real deve ser coisa muito rica! Venha primeiro o Sr. D. Miguel, que
 lhe queremos fazer uma saúde.
 
-         – O senhor está a mangar! – disse o abade afinando pelo tom da chalaça. – Genebra, se a querem, dou-lha;
+ – O senhor está a mangar! – disse o abade afinando pelo tom da chalaça. – Genebra, se a querem, dou-lha;
 mas a respeito de rei, só lhe posso dar o de copas, que tenho ali um.
 
 – Pois sim, traga o rei de copas, e não será mau que ponha em guarda também o ás do mesmo naipe.
@@ -2083,7 +2083,7 @@ sargento com seriedade imponente.
 4São as textuais palavras e a atitude do padre, significativas da crença entranhada na realeza do preso, e
 da sua paixão naquele lance. Parece que intentava mover à piedade a escolta, increpando-a pela
 profanação de pôr mãos no rei legítimo. (Informação de Ferreira de Andrade.)
-          – Não seja asno! – volveu o sargento. Este homem não é D. Miguel. É um falante que o está aqui a comer a
+  – Não seja asno! – volveu o sargento. Este homem não é D. Miguel. É um falante que o está aqui a comer a
 você e mais aos patolas tia sua laia. Vá-lhe buscar a roupa, senão ele entra na escolta em mangas de camisa.
 
  – Dê licença que este senhor se vá vestir ao seu quarto – suplicou o abade.
@@ -2101,18 +2101,18 @@ e a dizer ao barbaças?
        Rol das mercês que Sua Majestade o Senhor D. Miguel I fez em Portugal e que se descrevem neste livro de
 apontamentos provisoriamente.
 
-        E na primeira página?
+E na primeira página?
 
        Marcos António de Faria Rebelo, abade de São Gens de Calvos, capelão-mor de el-rei e Dom Prior de
 Guimarães.
 
-        E perguntava ao abade?
+E perguntava ao abade?
 
-        – Este ratão deste Dom Prior é você, hem? Parabéns!
+– Este ratão deste Dom Prior é você, hem? Parabéns!
 
-        Em seguida?
+Em seguida?
 
-        Torcato Munes Elias, visconde de São Gens, secretário privado de el-rei.
+Torcato Munes Elias, visconde de São Gens, secretário privado de el-rei.
 
 – Torcato Nunes! – recordava o Pílula. – Eu parece-me que conheço este diabo de o ver em Braga no Café
 da Açucena, na Cruz de Pedra. Nunes! um pelintra. Onde está o visconde, que lhe queda dar um cigarro? Enfim cá
@@ -2159,7 +2159,7 @@ segredava ao ouvido do Zeferino coisas, ratices suas em Braga, quando era rapaz.
 primas, tudo pelo pó do gato. Que pagara bem o seu tributo à asneira; e casquinava com vaidade paparreta,
 carregando-lhe a mão no verde. Quando entravam pelo assado, chegou um tenente do 8 a contar a um amigo, que
 estava à mesa, que chegara naquele momento preso ao Governo Civil, vindo da Póvoa de Lanhoso, um maroto que
-dizia ser D. Miguel, e ouvira dizer a um realista que o vira em Roma, havia três anos, que se parecia bastante com
+dizia ser D. Miguel, e ouvira dizer a um realista que o vira em Roma, havia três anos, que se parecia bastante com
 ele.
 
  O Cerveira erguera-se num grande espanto indiscreto a olhar para o oficial, que o fixava com uma
@@ -2248,7 +2248,7 @@ espada?
 O Veríssimo entrou na cadeia de Braga, e na madrugada do dia seguinte foi transferido para a Relação do
 Porto.
 
-         O nome e apelidos que ele deu no Governo Civil eram verdadeiros: Veríssimo Borges Camelo da
+ O nome e apelidos que ele deu no Governo Civil eram verdadeiros: Veríssimo Borges Camelo da
 Mesquita5.
 
 Tinha nascido em 1806 em Alvações do Corgo, no Douro. Ao pai chamavam-lhe o Norberto das facadas,
@@ -2320,7 +2320,7 @@ registada no , no ano de 1574.
 
 Marcial fez rir os Romanos à custa de um genealógico esquadrinhador de tal casta, que, não tendo já
 humanas gerações que espanejar do lixo dos séculos, entrou a deslindar os remotos avoengos de uni
-          O Veríssimo era Mesquita pela mãe, que não conhecera. Também florira da cepa ilustre dos Mesquitas de
+  O Veríssimo era Mesquita pela mãe, que não conhecera. Também florira da cepa ilustre dos Mesquitas de
 Vilar de Maçada; mas o Norberto, achando-a em flagrante adultério com um primo Pizarro, anavalhou-a
 mortalmente, escondeu-se, fugiu com o Junot no regimento do conde da Ega, e quando voltou estava esquecido o
 caso.
@@ -2391,7 +2391,7 @@ camarada tinham saído de Braga juramentados a morder o pó onde caísse o seu g
 cavalo chamado Herpino. Passarei também às coudelarias quando o brasão subir da tenda ao sport, e
 derivar dos especieiros esparramados às bestas elegantes.
 
-de companhias, e tinham duas carreiras abertas – uma que levava à glória, outra à sepultura – que também era uma
+de companhias, e tinham duas carreiras abertas – uma que levava à glória, outra à sepultura – que também era uma
 glória morrer pela pátria.
 
 José Joaquim, o Remexido, era um bem figurado homem de trinta e oito anos. Nascera em Estômbar,
@@ -2466,7 +2466,7 @@ mulher do tabelião, uma trigueira de má casta, entrou a compará-lo com o mari
 e os olhos tortos. Mas o tabelião viu as coisas pelo direito, e pôs o amanuense na rua, e a mulher em lençóis de
 vinho, dizia-se. Veríssimo conhecia o capitão-mor de Murça, o Campos, uni hebreu realista, muito abastado.
 
-Ofereceu-se-me para escudeiro e foi aceite com bom ordenado. O capitão-mor era viúvo; mas tinha uma governanta
+Ofereceu-se-me para escudeiro e foi aceite com bom ordenado. O capitão-mor era viúvo; mas tinha uma governanta
 fresca, de uma fome de pecado irritada pela indiferença judaica do amo em matéria de religião. O Veríssimo tinha a
 fatalidade femeeira do seu Sósia, do Sr. D. Miguel. O capitão-mor, com o seu fino olho de raça, lobrigou as
 sentimentalidades da rapariga. Pagou generosamente ao escudeiro, e impô-lo. Voltou ao Douro, e procurou o
@@ -2551,13 +2551,13 @@ dava comida, cama e doze vinténs por dia. Venderiam a um adeleiro da Rua Chã o
 enroupar de pano piloto, quinzena e calças com alguma decência, roupa branca, reforma das botas cambadas, chapéu
 de feltro e um paletó de agasalho.
 
-        Na quinta -feira gorda, a Libânia, com exemplar coragem, foi para Ramalde. A Grainha negociava em teias,
+Na quinta -feira gorda, a Libânia, com exemplar coragem, foi para Ramalde. A Grainha negociava em teias,
 ia vendê-las ao Douro, tinha visto em Gouvinhas o limpo trabalho da rapariga, e quando a encontrou no Porto?
 
-        – Olhe, moça, quando quiser ganhar a vida honradamente, lá estamos em Ramalde. Uma de doze, comer
+– Olhe, moça, quando quiser ganhar a vida honradamente, lá estamos em Ramalde. Uma de doze, comer
 como eu e lençóis lavados na cama.
 
-        O Nunes e o Veríssimo foram juntos até perto de Braga. Aí, o de Calvos seguiu para casa, e o outro no
+O Nunes e o Veríssimo foram juntos até perto de Braga. Aí, o de Calvos seguiu para casa, e o outro no
 sábado gordo partiu para a Póvoa de Lanhoso.
 
 ##                                                         XI
@@ -2630,7 +2630,7 @@ carmim, que pareciam a distância umas chagas de mendigo de romaria aperfeiçoad
 branco da fidalga velha de Rio Caldo, feito em 1824 para um baile que houve em Braga aos anos de D. João VI. O
 peito chato do carpinteiro ficava à altura dos quadris da fidalga, e as clavículas espipavam as ombreiras do corpete,
 prendendo os movimentos ao desgraçado Matilde. Posto que a cena fosse a Casa de Astolfo, pai da doente fingida, a
-velhaca estava de chapéu de palhinha com enorme telha enconchada e plumas brancas muito amarelecidas do mofo.
+velhaca estava de chapéu de palhinha com enorme telha enconchada e plumas brancas muito amarelecidas do mofo.
 
 O vestido era-lhe curto, mas lucravam com isso as pernas, que se deixavam ver até acima do jarrete, cingidas de
 fitas cruzadas que subiam de uns sapatos de duraque sem tacões, feitos de propósito e em concordância com os
@@ -2720,7 +2720,7 @@ dizia o Gonçalves ao abade, perguntando-lhe se conhecia aquele senhor.
 
 O Veríssimo dera três passos para acender um cigarro no de um músico que estava sentado num bombo.
 
-         – E ele! – repetiu o abade. – Você não o viu coxear?
+ – E ele! – repetiu o abade. – Você não o viu coxear?
 
 – Fale baixo, fale baixo, e não olhe muito para ele, que eu já o vi deitar-nos os olhos – acautelou o Nunes.
 
@@ -2817,7 +2817,7 @@ Dizia-lhe depois o abade no quinteiro?
 
 – Você ia-se estendendo, Nunes! Esteve por um triz a dizer, um criado de Vossa Majestade, não esteve?
 
-         – Por um triz, abade, que me estendia! Tal é a certeza de que está el-rei nesta casa! – E com transporte,
+ – Por um triz, abade, que me estendia! Tal é a certeza de que está el-rei nesta casa! – E com transporte,
 olhando para as janelas: – Onde está pernoitando o Sr. D. Miguel I! o rei amado dos Portugueses, na pobre
 residência de São Gens de Calvos! Isto parece um sonho!
 
@@ -2905,10 +2905,10 @@ Foi assim que se inaugurou a corte de D. Miguel I em São Gens de Calvos, segund
 
 ##                                                        XII
 
-        Depois, bem sabem, senhores, como aquele padre Rocha despenhou abruptamente o desfecho da farsa,
+Depois, bem sabem, senhores, como aquele padre Rocha despenhou abruptamente o desfecho da farsa,
 cuidando que vingava a moral e punia com degredo o celerado que infamava o sacratíssimo nome de el-rei D.
 
-Miguel. No trânsito para a Relação, a meia légua, na estrada do Porto, o Veríssimo, com delicadas maneiras e o seu
+Miguel. No trânsito para a Relação, a meia légua, na estrada do Porto, o Veríssimo, com delicadas maneiras e o seu
 aspecto venerável, obteve que o sargento da escolta lhe permitisse alugar a mula de um almocreve que seguia a
 mesma direcção. Cavalgou na albarda da mula arreatada com chocalho, sem estribos; empunhou a corda do
 cabresto, e ladeado de doze praças do 8, entrou ao cair da tarde em Famalicão.
@@ -2988,7 +2988,7 @@ júbilo, nos braços da mulher do chaveiro. Como era feliz, deixou-se ser mulher
  O conselheiro Leite recomendou ao Munes procurador que lhe mandasse a casa o Veríssimo. O filho de
 Norberto apresentou-se timorato, receoso, com maneiras submissas, mas dignas de um Borges Camelo infeliz.
 
-         O desembargador explicou-lhe que o chamara para lhe fazer conhecer a dívida que lhe pagou, posto que as
+ O desembargador explicou-lhe que o chamara para lhe fazer conhecer a dívida que lhe pagou, posto que as
 situações fossem muito diversas. Improperou-lhe serenamente o seu delito; estigmatizou a acção de permitir que o
 julgassem D. Miguel; falou acerbamente contra este tirano parricida, incestuoso, canalha, e terminou por lhe
 aconselhar o trilho da honra, o trabalho, e a expiação das suas irregularidades, mostrando-se digno da compaixão
@@ -3058,19 +3058,19 @@ direcção aduaneira do Ultramar. Ainda vivia há poucos anos, porque um jornal 
 símbolo fúnebre – um anjo curvado e deplorativo sobre a sua urna, enlutada pelas madeixas de um chorão –
 publicava?
 
-        Veríssimo Borges Camelo da Mesquita dá parte aos seus numerosos e respeitáveis amigos que foi Deus
+Veríssimo Borges Camelo da Mesquita dá parte aos seus numerosos e respeitáveis amigos que foi Deus
 servida chamar à sua divina presença, hoje pelas 5 horas da manhã, sua chorada esposa D. Libânia de Covas
-Borges da Mesquita, a cujo cadáver, etc. Pelo seu profundo estado de consternação pede desculpa de
+Borges da Mesquita, a cujo cadáver, etc. Pelo seu profundo estado de consternação pede desculpa de
 cumprimentos.
 
-        O jornal, depois de uns adjectivos lúgubres e velhos como a morte, acrescentava?
+O jornal, depois de uns adjectivos lúgubres e velhos como a morte, acrescentava?
 
-        A Ex.ma Srª D. Libânia, que todos choramos com seu Ex.mo viúvo, era uma senhora de esmeradíssima
+A Ex.ma Srª D. Libânia, que todos choramos com seu Ex.mo viúvo, era uma senhora de esmeradíssima
 educação, pertencia à ilustre família dos Covas; – modelo no trato insinuante com que cativava o respeito e a
 amizade de todas as pessoas desta Ilha, que tiveram a fortuna de a conhecer. Receba S. Ex.mo Sr. Conselheiro-
 Director os nossos mais sentidos pêsames pela desgraça que acaba de o ferir implacavelmente.
 
-        Veríssimo e Nunes podem ainda viver, porque eram robustos de corpo e de alma.
+Veríssimo e Nunes podem ainda viver, porque eram robustos de corpo e de alma.
 
 ##                                                       XIII
 
@@ -3134,7 +3134,7 @@ Que os sentimentos religiosos a Levariam a dar o consentimento, se Marta cometes
 remedeiam com o matrimónio. O padre Osório dizia-lhe que a intenção era honesta, mas o expediente mau. Não lhe
 citou teólogos nem preceitos de origem divina. Argumentoulhe com a hipótese da pertinaz resistência da mãe. Que
 não esperava nada da sua religião um hábito de trejeitos de mãos e de beiços, o automatismo idólatra dos selvagens
-da América, que davam guinchos mecânicos, prostrando-se por terra, quando ouviram a primeira missa; que a
+da América, que davam guinchos mecânicos, prostrando-se por terra, quando ouviram a primeira missa; que a
 religião das aldeias, sobre a dos indianos da catequese dos jesuítas, as vantagens que tinha era a hipocrisia em uns, e
 o fanatismo em outros, quando não se jantavam ambas as coisas nos mesmos fiéis, O padre Osório paroquiava e
 conhecia o seu rebanho, joeirando-o pelos crivos do confessionário. Não conhecia menos a tia Maria de Vilalva.
@@ -3179,8 +3179,8 @@ mártires do amor.
 Depois, levantou-se, limpou as faces à manga da camisa, pegou da esquadria e continuou a trabalhar,
 assobiando a música triste de uma cantiga desse tempo?
 
-                                         >Ó mar, se queres,
-                                         >Tem dó de mim.
+                                 >Ó mar, se queres,
+                                 >Tem dó de mim.
 
 Estes assobios eram o silvo da serpente da vingança; mas o seu rancor não punha a pontaria em Marta. Se
 deixava de cinzelar a pedra, e fitava os olhos extáticos num imenso vácuo, via passar lucilante a imagem da
@@ -3203,7 +3203,7 @@ se enganara com o luar. A Marta estava desacreditada na freguesia; as mulheres q
 comentários perpétuos ao texto do pedreiro, recordavam as façanhas da Genoveva, contadas pelas velhas, e as mais
 antigas diziam que a Brígida Galinheira, avó da Marta, já tinha dado o exemplo à filha. – Uma geração de marafonas
 do alto, dizia a tia Rosa de Carude, cuspindo no chão, e pondo a soca em cima. Riam-se do Zeferino, que andava
-como a cobra que perdeu a peçonha, muito escamado; que lhe tinham saído dois casamentos com boas lavradeiras, e
+como a cobra que perdeu a peçonha, muito escamado; que lhe tinham saído dois casamentos com boas lavradeiras, e
 ele diz que havia de ir morrer solteiro às Pedras Negras, depois da matar um homem; e houve quem afirmasse que o
 vira com um bacamarte, debaixo dos carvalhos, por essa noite fora, defronte da casa do Simeão. Uma calúnia.
 
@@ -3259,8 +3259,8 @@ empresas mais difíceis.
 Marta recobrava alegres esperanças, e o Zeferino das Lamelas digeria a sua dor, assobiando a música da
 melancólica balada?
 
-                                         >Ó mar, se queres,
-                                         >Tem dó de mim.
+                                 >Ó mar, se queres,
+                                 >Tem dó de mim.
 
 Para seu desafogo, ia a miúdo a Quadros saber quando chegaria o Sr. D. Miguel. O Cerveira estava
 relacionado com os setembristas. Formara-se a junção dos dois partidos hostis aos Cabrais, aproximados pelas
@@ -3277,7 +3277,7 @@ Em Março daquele ano, 1846, os setembristas de Braga fomentaram os motins popul
 Lanhoso. Na Inglaterra, na câmara dos comuns, lorde Bentinck explicou tragicamente, em frases pomposas, a
 origem dessa revolução, que um desdém indígena chamou . Ele disse que os Cabrais mandaram construir
 cemitérios; mas não os muraram; de modo que entravam neles cães, gatos e porcos-bravos em tamanha quantidade
-que chegaram a desenterrar os cadáveres7. As nações e os naturalistas deviam formar uma ideia assaz agigantada
+que chegaram a desenterrar os cadáveres7. As nações e os naturalistas deviam formar uma ideia assaz agigantada
 do tamanho dos gatos portugueses que desenterravam cadáveres, e das boas avenças dos nossos cães com os
 referidos gatos na obra da exumação dos mortos, e não menos se espantariam da familiaridade dos javalis que
 vinham do Gerês colaborar com os cães e gatos naquela mineração das carnes podres das terras de Lanhoso. A
@@ -3350,7 +3350,7 @@ cónego Monte Alverne.
 
 7Carta   dirigida ao cavalheiro José Hume. Versão de António Pereira dos Reis, 1847, pág. 99.
 
-          Neste meio-tempo, chegou da América o Feliciano Rodrigues Prazins, tio de Marta. Demorou-se poucos
+  Neste meio-tempo, chegou da América o Feliciano Rodrigues Prazins, tio de Marta. Demorou-se poucos
 dias. Ganhara medo que o roubassem as guerrilhas. Foi para o Porto pôr em segurança as suas letras e voltou quando
 a queda dos Cabrais garantia o sossego dos capitalistas. Na volta a Prazins, olhou mais atentamente para a sobrinha,
 deu-me alguns cordões, e disse ao irmão que não se lhe dava de casar com ela. O Simeão afirmou logo com um
@@ -3418,7 +3418,7 @@ outra face. Mas, apertado pela palavra que dera, repetiu que ele pela sua parte 
 justificava-se deste respeito à mulher, alegando que a casa de Vilalva era toda da sua companheira, e o que ele
 levara para o casal não valia dois caracóis.
 
-         – Enfim – concluía – se o rapaz arrijar, casa querendo a mãe; mas, enquanto ele assim estiver, faça favor de
+ – Enfim – concluía – se o rapaz arrijar, casa querendo a mãe; mas, enquanto ele assim estiver, faça favor de
 lhe não falar na rapariga... Bem lhe basta o seu mal... E um homem que está doente deveras não deve pensar em
 mulheres, é na salvação da sua alma. Eu penso assim, amigo padre Osório.
 
@@ -3496,9 +3496,9 @@ ligeira tosse seca. Abria então os olhos, que fitava no rosto de Osório, e às
 em busca da visão espectral da mãe, que o vigário de Caldelas cuidadosamente e com doloroso constrangimento
 defendia de entrar à alcova.
 
-        Em Prazins ouvia-se dobrar a defunto em Vilalva. Marta perguntou ao pai quem tinha morrido.
+Em Prazins ouvia-se dobrar a defunto em Vilalva. Marta perguntou ao pai quem tinha morrido.
 
-          Ele respondeu serenamente?
+  Ele respondeu serenamente?
 
  – Dizem que foi o Dias que está com Deus. Reza-lhe por alma, que é o que ele precisa agora.
 
@@ -3573,7 +3573,7 @@ de Amarante.
 8Era o meu actual e prezado amigo Augusto Soares de Azevedo Barbosa de Pinho Leal, autor do
 Portugal Antigo e Moderno.
 
-          Pinho Leal inventara o ataque dos eabralistas para salvar-se a si e aos outros da carniçaria inevitável;
+  Pinho Leal inventara o ataque dos eabralistas para salvar-se a si e aos outros da carniçaria inevitável;
 porque, ao romper a manhã do dia seguinte, entraram em Guimarães seiscentos soldados do Casal ainda
 embriagados da sangueira de Braga. Reproduzem-se textualmente no seu estilo militarmente pitoresco os
 veracíssimos esclarecimentos de Pinho Leal: ...A besta do escocês continuava na sua pânria sem se importar da
@@ -3644,7 +3644,7 @@ cobriram. Tinha os dedos aduncos, inflexíveis, e uma das mãos afincada como ga
 
 11Carta   citada.
 
-          O Zeferino disse que o seu tenente-coronel devia trazer um cinturão com dinheiro em ouro; mas ninguém
+  O Zeferino disse que o seu tenente-coronel devia trazer um cinturão com dinheiro em ouro; mas ninguém
 ousou desabotoar a farda do morto defendido pelo sagrado terror da morte. Apenas uma das sentinelas intanguidas
 de frio, votou que se bebesse o resto da genebra. Assim que foi dia claro, o Zeferino desceu à igreja próxima, a
 Margaride, avisar o pároco que tinha morrido na estrada um fidalgo do exército do Sr. D. Miguel. O padre,
@@ -3722,7 +3722,7 @@ deixasse morrer ao lado da sua espada, já que ele não podia defendê-la porque
  O pedreiro quedou-se longo tempo sentado com as mãos fincadas na cabeça: olhava para o canto em que
 tivera duas dúzias de espingardas compradas pelo Cerveira Leite, e dizia com resignação contrafeita?
 
-          – Elas assim com'ássim já não serviam de nada... A guerra acabou... Que leve o Diabo tudo... – E, passados
+  – Elas assim com'ássim já não serviam de nada... A guerra acabou... Que leve o Diabo tudo... – E, passados
 alguns segundos de recolhida angústia: – Veja você, sor pai! O Simeão dá-me a filha, depois diz que ma não dá; isto
 não se fazia a um homem que põe navalha na cara... Eu levava a minha vida muito direita, estava muito bem, você
 bem sabe; deitei-me a trabalhar quanto podia; e vai depois, por causa da minha paixão, fiquei areado do juízo, deixei
@@ -3800,7 +3800,7 @@ luz mortiça de uma vela de sebo numa placa de lata. D. Teresa, com a Marta nos 
 
  – Que miséria de casa! Pede luzes e água para se lavar aquele sangue.
 
-         E, assim que Marta voltou a si, levou-a para o seu quarto – que a viria chamar quando o pai a pudesse ver.
+ E, assim que Marta voltou a si, levou-a para o seu quarto – que a viria chamar quando o pai a pudesse ver.
 
 Queria retirá-la do espectáculo dos paroxismos.
 
@@ -3868,17 +3868,17 @@ cidade, que estragam o corpo e a alma; que era preciso ter muito cuidado com ela
 enfim, que seria bom casá-la, e dar-lhe vinagre a cheirar, quando viesse outro ataque, e ter cuidado que ela não
 apanhasse a língua entre os dentes; que lhe metessem um pano entre os dois queixos, quando lhe desse outro ataque.
 
-        – Ele disse que o melhor era casar-se – lembrou o Feliciano ao padre Osório.
+– Ele disse que o melhor era casar-se – lembrou o Feliciano ao padre Osório.
 
 ##                                                        XVI
 
-        Relatava o vigário de Caldelas?
+Relatava o vigário de Caldelas?
 
-        – O cérebro do Simeão, se era refractário aos golpes da dignidade, não era mais sensível às comoções das
+– O cérebro do Simeão, se era refractário aos golpes da dignidade, não era mais sensível às comoções das
 pauladas. Duas vezes feliz quanto à cabeça: nem honra nem predisposições inflamatórias. Cicatrizou a ferida;
 começou a comer galinhas com a fome de um canibal e com o prazer carnívoro de uma raposa. Dera tacitamente
 Marta o consentimento de casar com o tio; esperava em soturno abatimento que a casassem; e, se minha irmã lhe
-tocava nesse assunto, dizia: . Quanto ao casamento – prosseguiu o padre Osório – eu cismava se a primeira noite
+tocava nesse assunto, dizia: . Quanto ao casamento – prosseguiu o padre Osório – eu cismava se a primeira noite
 nupcial seria a véspera de escandalosas desavenças, arrependimentos, choradeiras, divórcio, vergonhas, coisas; mas
 ocorria-me que Feliciano me confessara repetidamente que saíra da sua aldeia aos doze anos e tornara casto e puro
 como saíra. E eu então, atendendo a que a castidade, além de ser em si e virtualmente uma coisa boa, tem umas
@@ -3955,7 +3955,7 @@ aguardente – encareceu uni pedreiro. – Anda agora a trabalhar no palácio da
 mosteiro. Pelos modos vai para lá viver logo que case com a Marta. Lá o mestre Zeferino rebenta que o leva os
 diabos! Isso diz que dá cada arranco...
 
-        – O Zeferino, a falar a verdade, tem razão – disse o Melro. – O Simeão tinha-lha prometido. Gente sem
+– O Zeferino, a falar a verdade, tem razão – disse o Melro. – O Simeão tinha-lha prometido. Gente sem
 palavra que a leve o Diabo! Eu, se fosse comigo... Mas, enfim, é irmão do meu compadre... não devo dizer nada.
 
 Que se governem.
@@ -3982,15 +3982,15 @@ palma da mão.
 assobiando o hino da Maria da Fonte, despejava a pólvora da escorva, desaparafusava a culatra e tirava as duas
 braçadeiras. A mulher soluçava, e ele cantando numa surdina rouca?
 
-                                   >Leva avante, portugueses,
-                                   >Leva avante, e não temer...
+                           >Leva avante, portugueses,
+                           >Leva avante, e não temer...
 
-        – Pelas chagas de Nosso Senhor, lembra-te dos nossos pequenos.
+– Pelas chagas de Nosso Senhor, lembra-te dos nossos pequenos.
 
-        E o Melro numa distracção lírica?
+E o Melro numa distracção lírica?
 
-                                      >Pela santa liberdade,
-                                      >Triunfar ou padecer...
+                              >Pela santa liberdade,
+                              >Triunfar ou padecer...
 
 Depois, bufava para dentro do cano e punha o dedo indicador no ouvido da culatra para sentir a pressão do
 sopro, que fazia um frémito áspero impedido pelas escórias nitrosas. Pediu à mulher umas febras de algodão em
@@ -4006,21 +4006,21 @@ secas as últimas farripas da zaracoteia. Soprou novamente e o ar saia sem estor
 
 Parecia satisfeito, e cantarolava, mezza voce?
 
-                                      >Agora, agora, agora,
-                                        >Luisinha, agora.
+                              >Agora, agora, agora,
+                                >Luisinha, agora.
 
-        Armou a clavina, aparafusou as braçadeiras, a culatra e a fecharia, introduzindo a agulha. Aperrou e
+Armou a clavina, aparafusou as braçadeiras, a culatra e a fecharia, introduzindo a agulha. Aperrou e
 desfechou o cão repetidas vezes, acompanhando o movimento com o dedo polegar, paira certificar-se de que o
 desarmador, a caixeta e o fradete trabalhavam harmonicamente. Levantou o fuzil de aço, que fez um som rijo na
 mola, e friccionou-o com pólvora fina; e, com o bordo de um navalhão de cabo de chifre, lascou a aresta da
 pederneira que faiscava.
 
-        – Valha-me a Virgem! valha-me a Virgem! – soluçava a mulher. E ele, zangado com as lástimas da mulher,
+– Valha-me a Virgem! valha-me a Virgem! – soluçava a mulher. E ele, zangado com as lástimas da mulher,
 com expansão raivosa, num sfogato?
 
-                                     >E viva a nossa rainha,
-                                            >Luisinha
-                                    >Que é uma linda capitoa...
+                             >E viva a nossa rainha,
+                                    >Luisinha
+                            >Que é uma linda capitoa...
 
  – Vai à loja atrás da seira dos figos e traz o maço dos cartuchos e uma cabacinha de pólvora de escorvar
 que está ao canto.
@@ -4034,8 +4034,8 @@ benditas. Ele encarou-a de esconso, e regougou?
 palmadas na recâmara para fazer descer a pólvora ao ouvido. Fez duas buchas do papel do cartucho, bateu-as com a
 vareta ligeiramente, uma sobre a pólvora e a outra sobre a bala.
 
-                                       >Agora, a gora, agora,
-                                         >Luisinha, agora.
+                               >Agora, a gora, agora,
+                                 >Luisinha, agora.
 
  Depois, pegou da clavina pela guarda-mata, e pôs-se a fazer pontarias vagamente, passeando um olho, com
 o outro fechado, desde a mira ao ponto.
@@ -4111,10 +4111,10 @@ estivera três horas de joelhos diante da sua divina imagem. O marido objectava 
 não lhe dava a casa, visto que não fora ele quem vindimara o Zeferino; e a mulher – que levasse o demo a casa; que
 eles tinham vivido até então na choupana alugada e que o Bom Jesus os havia de ajudar.
 
-        Ao outro dia, o Joaquim Melro convenceu-se do milagre, quando o compadre, depois de lhe ouvir contar a
+Ao outro dia, o Joaquim Melro convenceu-se do milagre, quando o compadre, depois de lhe ouvir contar a
 morte do pedreiro, lhe disse?
 
-        – Enfim, você ganha a casa, compadre, porque mátava Zéférino, se os outros não matam ele, hem?
+– Enfim, você ganha a casa, compadre, porque mátava Zéférino, se os outros não matam ele, hem?
 
 ##                                                       XVII
 
@@ -4191,7 +4191,7 @@ começá-lo quanto antes. Disse mais chalaças a propósito e foi-se deitar. Fel
 esposa, mas já não havia luz no quarto de D. Teresa. Recolheuse à cama, e continuou mais uma noite no seu leito
 solitário, virginalmente.
 
-          D. Teresa sentia-se mal, num embaraço quase ridículo, naquele meio. Marta não a largava, parecia uma
+  D. Teresa sentia-se mal, num embaraço quase ridículo, naquele meio. Marta não a largava, parecia uma
 criança espavorida, agarrada ao vestido da mãe, assim que ouvia os passos do tio. Ele, muito carinhoso, com o
 monóculo no olho direito, a oferecer-lhe castanhas de ovos, toucinho do céu, a pegar-lhe da mão e a fazer-lhe festas
 no rosto muito corado de pudor. D. Teresa discretamente deixou-os sozinhos. A Marta ficou a olhar para a porta por
@@ -4261,7 +4261,7 @@ que os especialistas consideram a mais incurável. Este me parece o itinerário 
 ser um acto imoral para ser um estúpido arranjo de fortuna por lado do pai e de luxúria por parte do marido. Esta
 pequena tinha de vir a isto, e há-de ir a demência, mesmo sem drama nem paixão. Tem o cérebro defeituoso assim
 como podia ter a espinha vertebral raquítica. Como se faz a perda da vista? Pela paralisia dos nervos ópticos; pois a
-perda da vista normal da alma é também a paralisia de uma porção de massa encefálica. Bem sei que isto embaraça
+perda da vista normal da alma é também a paralisia de uma porção de massa encefálica. Bem sei que isto embaraça
 um pouco os senhores teólogosmetafísicos, mas lá se avenham: a verdade é esta.
 
 ##                                                       XVIII
@@ -4331,7 +4331,7 @@ Dias lhe falara nele com muita esperança em que desfizesse os obstáculos do ca
 varatojano. e revelou para esse acto uma expectativa seráfica, grande deliberação ansiosa, um sobressalto jubiloso
 em que parecia influir a cooperação sobrenatural do querido morto. O padre Osório entrevia prelúdios de loucura
 nas alegres disposições com que Marta, num recolhimento contemplativo, desde o apontar da aurora, esperava à
-porta da igreja que chegassem os missionários com o cortejo das mulheres encapuchadas, muito ramelosas,
+porta da igreja que chegassem os missionários com o cortejo das mulheres encapuchadas, muito ramelosas,
 estralejando os seus tamancos ferrados na grade do adro que vedava a passagem aos porcos.
 
  Enquanto na igreja, depois da missão, se depunha a hóstia nas línguas saburrentas e gretadas das beatas –
@@ -4402,7 +4402,7 @@ canteiros de flores aromáticas, sempre belas, sempre cheirosas; passam os dias,
 as faces do meu amor sempre são flores, nem o sol as murcha, nem o frio as corta, nem a água as corrompe, nem o
 vento as desfolha; são rosas, são açucenas, são brancas e encarnadas. Oh! quem me dera uma gota da água que as
 rega, um grão do calor que as vivifica; quem me dera que o Jardineiro que as compõe me quisera semear umas
-flores no meu jardim e tomar à sua conta compô-las e regá-las, que o meu amado gosta muito de flores. Dizei-me,
+flores no meu jardim e tomar à sua conta compô-las e regá-las, que o meu amado gosta muito de flores. Dizei-me,
 aves do ar, flores do campo, peixes do mar, viventes da Terra, dizei-me se sabeis onde assiste este jardineiro. Mas
 que digo, se este mesmo é o amado a quem busco e não mereço achar! Ó saudade ardente, ó sede matadora, ó seta
 penetrante, ó amor escondido! Que fareis, Senhor, que fareis, se o vosso empenho é ser amado, porque a minha
@@ -4471,7 +4471,7 @@ brasileira de Prazins estava possessa, muito gravemente energúmena. O padre Os�
 destes que vêm de dentro em golfos involuntários como a náusea de um embarcadiço enjoado. O egresso reparou no
 trejeito herético da boca do padre, e perguntou-lhe se tinha alguma dúvida a pôr.
 
-          – Uma pequena dúvida, Sr. Frei João – respondeu intemeratamente o vigário. – Não posso aceitar que o
+  – Uma pequena dúvida, Sr. Frei João – respondeu intemeratamente o vigário. – Não posso aceitar que o
 Diabo, sendo filho de Deus, seja o ente perverso que faz sofrer a pobre Marta...
 
  – O Diabo, filho de Deus! – interrompeu o varatojano, levando as mãos enclavinhadas à testa. – Padre
@@ -4554,7 +4554,7 @@ quasdam voces se vocantes. Porque aborrecia a carne e o pão, e tinha grande fas
 seriam enojos peculiares da gravidez; mas o varatojano confundia-o com o latim. Quando quis non potuit gustare
 panem aut cantem. Ela digeria com muita dificuldade os alimentos. Era obra do Diabo, porque o livro dizia – bem
 vê – mostrava Frei João ao padre Osório: Quando quis sanus cibum digerere non potest in stomacho. Chorava e não
-dizia por que chorava. Diabrura com toda a certeza: – Quando lacrymas plorat et nescit quid ploret. Havia um artigo
+dizia por que chorava. Diabrura com toda a certeza: – Quando lacrymas plorat et nescit quid ploret. Havia um artigo
 que acentuava as mais fortes presunções da obsessão íncuba de Marta. Parece que ela no confessionário se acusava
 de repugnâncias, de concessões violentadas, de resistências às carícias do esposo: e talvez revelasse que a imagem
 de José Dias intervinha nessas lutas da alcova. É o que se depreende do Sinal décimo terceiro que Frei João
@@ -4639,7 +4639,7 @@ Leve-a à capital; demore-se por lá; e, quando a vir distraída, contente e com
  O brasileiro disse que bem sabia que os exorcismos eram chérinolas; mas que o frade se lhe metera em
 casa, e dizia que não se ia embora sem curar ela. Acrescentou que não podia agora sair do Minho porque estava à
 espera que os filhos do Cerveira de Quadros perdessem na batota do Porto a sua parte de alguns contos de réis, que
-acharam por morte do pai; – que lhe convinha muito comprar a quinta da Ermida que partia com a dele, e havia
+acharam por morte do pai; – que lhe convinha muito comprar a quinta da Ermida que partia com a dele, e havia
 outro brasileiro que a trazia de olho. Que a respeito da sobrinha tencionava levá-la a banhos do mar, e havia de
 comprar o Manual do Raspail, a ver o que ele dizia da moléstia, porque em Pernambuco toda a casta de doença se
 curava pelo Raspail, e que levasse o Diabo o frade e mais a caiporice dos exorcismos.
@@ -4715,7 +4715,7 @@ vobiscum.
 
  – É de co espirituo – respondeu o Simeão, que sabia ajudar à missa.
 
-          Seguiram-se vários Oremus e deprecações, e a Ladainha de Nossa Senhora; mais outros Oremus, e a
+  Seguiram-se vários Oremus e deprecações, e a Ladainha de Nossa Senhora; mais outros Oremus, e a
 detestação da energúmena, uma estirada que principiava: E tu, Demónio maldito, com que autoridade intentas
 possuir jamais meu corpo ou molestarme por modo algum? Marta rejeitou o livro, e disse que não podia ler nem
 estar de joelhos; que tinha vágados e que se queria ir deitar. Mas o exorcista, severo e formidável no seu ministério –
@@ -4790,7 +4790,7 @@ não se restaura sob a impressão do amor maternal, que só actua nas organizaç
 podia crer que Marta estivesse confirmadamente louca, posto que nas suas conversações em que, raras vezes, se
 interessava, disparatasse, afirmando que via a alma de José Alves, como quem conta um caso trivial.
 
-          Quando lhe mostraram a filha recém-nascida, contemplou-a alguns segundos; mas nem balbuciou uma
+  Quando lhe mostraram a filha recém-nascida, contemplou-a alguns segundos; mas nem balbuciou uma
 palavra carinhosa, nem fez gesto algum de contentamento. A amiga dizia-lhe coisas muito meigas da filhinha, a ver
 se lhe espertava o coração. Punha-lha nos braços, dava-lha a beijar. Marta cedia com tristeza e constrangimento.
 
@@ -4862,7 +4862,7 @@ dementes, excepto no maior número das histéricas com erotismo.
 vão para casa dos pais, onde continuam na sáfara dos campos a sua lida de solteiras. O pai educara-as na lavoura de
 pé descalço, e sachola nas unhas. Trabalham nas lavras com uma grande alegria e garganteiam cantigas muito
 frescas. E os maridos, cheios de bom senso, já as não procuram. Quando regressam, recebem-nas sem as
-interrogarem; porque, se as afligem, dão-lhes vágados e choram. Nos outros filhos intanguidos, escrofulosos, tristes
+interrogarem; porque, se as afligem, dão-lhes vágados e choram. Nos outros filhos intanguidos, escrofulosos, tristes
 e sem infância, predomina a diátese da imbecilidade e a falta de senso moral, que é uma espécie patológica menos
 estudada dos alienistas. Entre estes filhos há um que estudou para clérigo. Passava por ser o mais escorreito. O pai
 achava-lhe talento. Estudou seis anos latim, em Braga, debaixo das mais rigorosas violências à sua incapacidade; e
@@ -4917,6 +4917,6 @@ proveitoso como elemento que reorganize o indivíduo ou a espécie?
 desta obra estéril assevera, em nome do patriarca Voltaire, que deixaremos este mundo tolo e mau, tal qual era
 quando cá entrámos.
 
-        São Miguel de Seide, Dezembro de 1882.
+São Miguel de Seide, Dezembro de 1882.
 
 
