@@ -3,6 +3,7 @@ title: A Brasileira de Prazins
 author: Camilo Castelo Branco
 date: 1882
 type: romance
+structure: Introdução, Capítulos (I a XX), Conclusão, PS
 ---
 ##                                                 INTRODUÇÃO
 
