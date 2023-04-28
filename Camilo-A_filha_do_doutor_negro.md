@@ -6,7 +6,7 @@ type: "desconhecido"
 structure: Prefácio, Capítulos (Capítulo Primeiro a Vigésimo Quarto), Conclusão
 revision: Ricardo Guimarães
 ---
-#    Prefácio
+##    Prefácio
     
 Eu era estudante na Academia do Porto em 1845.
 
