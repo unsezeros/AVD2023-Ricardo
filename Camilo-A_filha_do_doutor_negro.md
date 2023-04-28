@@ -4,6 +4,7 @@ author: "Camilo Castelo Branco"
 date: "1864"
 type: "desconhecido"
 structure: Prefácio, Capítulos (Capítulo Primeiro a Vigésimo Quarto), Conclusão
+revision: Ricardo Guimarães
 ---
 #    Prefácio
     
