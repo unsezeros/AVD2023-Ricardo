@@ -4,7 +4,10 @@ author:  Camilo Castelo Branco
 subtitle: Memórias Duma Família
 date: 1862
 type: romance
+structure: Dedicatória, Introdução, Capítulos (Capítulo I a XIX), Conclusão
+revision: Ricardo Guimarães
 ---
+# Dedicatória
 
 Ao
 Ilmo. e Exmo. Sr.
@@ -84,7 +87,7 @@ acarear enojos dos frios julgadores do coração, e das sentenças que eu aqui l
 contra a falsa virtude de homens, feitos bárbaros, em nome da sua honra.
 
 
-# CAPÍTULO I
+## CAPÍTULO I
 
 
 Domingos José Correia Botelho de Mesquita e Meneses, fidalgo de linhagem
@@ -335,7 +338,7 @@ nas suas vinganças e estúpido juiz de uma rapaziada, o magistrado desenrugou a
 severidade postiça da testa, e confessou tacitamente que era brutal e estúpido juiz.
 
 
-# CAPÍTULO II
+## CAPÍTULO II
 
 
 Simão Botelho levou de Viseu para Coimbra arrogantes convicções da sua
@@ -520,7 +523,7 @@ de Albuquerque a escrever aquela carta de pungentíssima surpresa para o
 acadêmico, convertido aos deveres, à honra, à sociedade e a Deus pelo amor.
 
 
-# CAPÍTULO III
+## CAPÍTULO III
 
 
 O pai de Teresa não embicaria na impureza do sangue do corregedor, se o
@@ -783,7 +786,7 @@ Prometeu-lhe julgar-se morta para todos os homens, menos para seu pai.
 Tadeu ouviu-a, e não lhe replicou.
 
 
-# CAPÍTULO IV
+## CAPÍTULO IV
 
 
 O coração de Teresa estava mentindo. Vão pedir sinceridade ao coração!
@@ -988,7 +991,7 @@ horrorosas ilusões, quando o amor as inventa. Simão Botelho, com o ouvido cola
 sobressaltado.
 
 
-# CAPÍTULO V
+## CAPÍTULO V
 
 
 Baltasar Coutinho estava na sala, simulando vingativa indiferença por sua
@@ -1311,7 +1314,7 @@ esconder as lágrimas.
 
 
 
-# CAPÍTULO VI
+## CAPÍTULO VI
 
 
 As dez horas e meia da noite daquele dia, três vultos convergiram para o
@@ -1853,7 +1856,7 @@ Simão teve um instante de horror do homicida, e de arrependimento de se
 ter ligado com tal homem.
 
 
-# CAPÍTULO VII
+## CAPÍTULO VII
 
 
 O ferimento de Simão Botelho era melindroso demais para obedecer
@@ -2331,7 +2334,7 @@ os que mais precisam de amor e de conforto. Vou ver se posso esquecer-me,
 dormindo. Como isto é triste, meu querido amigo!... Adeus".
 
 
-# CAPÍTULO VIII
+## CAPÍTULO VIII
 
 
 Mariana, a filha de João da Cruz, quando viu seu pai pensar a chaga do
@@ -2749,7 +2752,7 @@ ter opinião, a culpa de Simão Botelho está na fraca natureza, que é toda gal
 céu, no mar e na terra, e toda incoerências, absurdas e vícios no homem, que se
 aclamou a si próprio rei da criação, e nesta boa fé dinástica vai vivendo e morrendo.
 
-# CAPÍTULO IX
+## CAPÍTULO IX
 
 
 Duas horas se detivera João da Cruz fora de casa. Chegou quando a
@@ -3004,7 +3007,7 @@ pintada não dava eu a minha égua; e, se cá viesse o Miramolim de Marrocas ped
 uma história!
 
 
-# CAPÍTULO X
+## CAPÍTULO X
 
 
 Apeou Mariana defronte do mosteiro, e foi à portaria chamar a sua amiga
@@ -3662,7 +3665,7 @@ As irmãs de Baltasar seguiram o cadáver de seu irmão para casa do tio.
 
 
 
-# CAPÍTULO XI
+## CAPÍTULO XI
 
 
 O corregedor acorda com o grande rebuliço que ia na casa, e perguntou à
@@ -3999,7 +4002,7 @@ garrafa de licor de canela, que depôs sobre a cadeira.
 apressada, como para poupar ao infeliz palavras de gratidão.
 
 
-# CAPÍTULO XII
+## CAPÍTULO XII
 
 
 O corregedor, nesse mesmo dia, ordenou que se preparassem mulher e
@@ -4263,7 +4266,7 @@ pensamento: "Afinal, cobarde! Que bravura é morrer quando não há esperança d
 vida?! A forca é um triunfo quando se encontra ao cabo do caminho da honra
 
 
-# CAPÍTULO XIII
+## CAPÍTULO XIII
 
 
 — E Teresa?
@@ -4584,7 +4587,7 @@ senhoras moribundas tinham apagado os seus últimos raios de luz.
 
 
 
-# CAPÍTULO XIV
+## CAPÍTULO XIV
 
 
 Anunciara-se Tadeu de Albuquerque na portaria de Monchique, ao dia
@@ -4851,7 +4854,7 @@ coisa, que Simão Botelho não vai à forca.
 
 — Veremos... — resmoneou o velho.
 
-# CAPÍTULO XV
+## CAPÍTULO XV
 
 
 São treze dias decorridos do mês de Março de 1805.
@@ -5155,7 +5158,7 @@ ele, e hoje de manhã já lá tinha na estalagem a ordem do senhor intendente ge
 policia. Até logo.
 
 
-# CAPÍTULO XVI
+## CAPÍTULO XVI
 
 
 Um incidente agora me ocorre, não muito concertado com o seguimento da
@@ -5432,7 +5435,7 @@ crime, mudou de regimento para Lisboa, e ai permaneceu até que, falecido seu pa
 pediu a baixa e voltou à província.
 
 
-# CAPÍTULO XVII
+## CAPÍTULO XVII
 
 
 João da Cruz, no dia 4 de agosto de 1805, sentou-se à mesa com triste
@@ -5666,7 +5669,7 @@ pode sugerir-me o inferno! Chore, minha irmã, chore: mas veja-me através das s
 lágrimas!
 
 
-# CAPÍTULO XVIII
+## CAPÍTULO XVIII
 
 
 Mariana, decorridos dias, foi a Viseu recolher a herança paterna Em
@@ -5911,7 +5914,7 @@ Foi aviso ao intendente geral da polícia, e o nome de Simão Botelho foi
 inscrito no catálogo dos degredados para a Índia.
 
 
-# CAPÍTULO XIX
+## CAPÍTULO XIX
 
 
 A verdade é algumas vezes o escolho de um romance.
@@ -6396,7 +6399,7 @@ fitava os olhos na luz mortiça da lâmpada oscilante, e cismava, como ele, na m
 
 E o nordeste sibilava, como um gemido, nas gáveas da nau.
 
-CONCLUSÃO
+# CONCLUSÃO
 
 
 As onze horas da noite, o comandante recolhera-se num beliche de
@@ -6720,15 +6723,3 @@ Eram, como sabem, a correspondência de Teresa e Simão.
 Da família de Simão Botelho vive ainda, em Vila-Real-de-Trás-os-Montes, a
 senhora D. Rita Emília da Veiga Castelo Branco, a irmã predileta dele. A última
 pessoa falecida, há vinte e seis anos, foi Manoel Botelho, pai do autor deste livro.
-
-
-
-
-
-                               FIM
-
-
-
-
-
-
