@@ -1,11 +1,13 @@
+---
+title: O Regicida
+author: Camilo Castelo Branco
+date: 1882
+type: romance
+structure: Dedicatória, Advertência, Capítulos (I a XXI), Conclusão, Notas (Notas 1ª a 19ª, Nota final)
+revision: Ricardo Guimarães
+---
 
-
-Camilo Castelo Branco
-
-O Regicida
-     
-     
-     
+# Dedicatória 
     Francisco Martins de Gouvêa Morais Sarmento
     
     Oferece
@@ -14,20 +16,18 @@ O Regicida
     Camilo Castelo Branco
      
      
-
      
      
      
-    Advertência
+# Advertência
     
      A urdidura deste romance, que afoitamente denominamos histórico, deu-no-la um manuscrito que pertenceu à livraria do secretário de Estado Fernando Luís Pereira de Sousa Barradas.
      O colector destes apontamentos, que a história impressa, respeitando as conveniências, omitiu, foi contemporâneo dos sucessos que arquivou, pois escrevia em 1648.
      De lavra nossa, neste romance, há apenas os episódios que me saíram ajustados e congruentes com os traços essenciais da narrativa.
      
      
-
      
-    Capítulo I
+## Capítulo I
     
      António Leite, casado com Maria Pereira, e morador na vila de Guimarães, em 1634, era o cuteleiro de maior voga em Portugal.
      Naquele ano, tinham um filho, de nome Domingos, com dezassete anos de idade.
@@ -55,9 +55,8 @@ O Regicida
      - Sei todas essas histórias, Sr. Provedor – atalhou Domingos Leite. - E sei outras muitas de igual moralidade, como a do poeta Jorge da Silva que expiou no Limoeiro os seus amores a uma irmã de D. João III; e também sei que D. João da Silva, por malogrado amor à imperatriz Leonor, filha de D. Afonso V, se fez frade franciscano, chamou-se o Beato Amadeu, e disciplinou as rebeldes carnes, lembrando-se sempre do paço como S. Jerónimo se lembrava das virgens de Roma nos areais do Mar Morto. Não ignoro que D. Afonso V mandou degolar um Duarte de Sousa que visitava fora de horas uma das suas criadas. Sei, finalmente, o que custam sereias da corte, desde que D. João I mandou queimar no Rossio o seu camareiro Fernando Afonso, porque uma dama da rainha se queimara nas chamas do gentil galã... Sei tudo o que diz ao intento das reflexões de Vossa Mercê; mas eu já lhe declarei que vou atraído à capela real pela música, à imitação do penhasco arrastado por Orfeu; depois, irei, como César, quo Deus impulerit. De damarias não curo, nem por mulheres vai longe quem lhes procura a fortuna no regaço. Não me deu Deus jeitos de pajem, nem de namorado de arrabil. Sou de Guimarães, onde os corações têm mais aço que flores. Tudo que ali nasce parece sair da forja onde se fazem as rijas lâminas das facas de mato e das alabardas.
      
      
-
      
-    Capítulo II
+## Capítulo II
     
      A residência no Paço da Ribeira facilitou ao moço da capela relacionar-se com fidalgos que o estremaram da turba da criadagem.
      O capelão-mor D. João da Silva, irmão do marquês de Gouvêa, agradecido ao rei intruso que, em 1625, dera a seu irmão Manrique, conde de Portalegre, a coroa de marquês, ajoelhava nos estrados da vice-rainha, como outros muitos portugueses que, volvidos quatro anos, a ameaçaram de ser despejada à rua sobre o cadáver de Miguel de Vasconcelos (Nota 4ª).
@@ -88,9 +87,8 @@ O Regicida
      Não admira que os filhos de tão faccioso castelhano se não bandeassem com os patriotas de 1640; espanta, porém, que D. João IV os chamasse ao seu despacho.
      
      
-
      
-    Capítulo III
+## Capítulo III
     
      O que o leitor sabe sobejamente da história seria impertinência repetir-lho no romance.
      A revolução de 1640 é tão falada, desde a escola de instrução primária até às festividades retóricas de cada 1º de Dezembro, que a pessoa inteligente em cuja mão este livrinho tem o préstimo de a livrar de ler outro pior, me está pedindo que dê vivas à independência nacional e passe avante.
@@ -137,9 +135,8 @@ O Regicida
      Nós é que sabemos como foi.
      
      
-
      
-    Capítulo IV
+## Capítulo IV
     
      Em alegre paz derivaram dois anos.
      Ao fim do primeiro, deu ao amor de seu marido Maria Isabel uma menina.
@@ -197,9 +194,8 @@ O Regicida
      Neste comenos, ouviram-se os passos mesurados do marquês mordomo-mor no salão contíguo. Os dois amigos evadiram-se pressurosos escada abaixo.
      
      
-
      
-    Capítulo V
+## Capítulo V
     
      O padre Luís da Silveira viera da Alhandra para Lisboa, chamado pela fama de pregador, em 1635, tendo vinte e quatro anos de idade.
      A marquesa de Montalvão deu-lhe capelania em sua casa, e acesso à estima dos fidalgos mais parciais do rei castelhano. Os sermões do padre Luís degeneravam, pelo ordinário, em arengas políticas em prol da legitimidade dos Filipes, e invectivas irónicas adversas aos sebastianistas. Naquele tempo, tanto os esperançados no vencido de Alcácer Quibir, como os imaginativos de rei português, eram chanceados de sebastianistas.
@@ -226,9 +222,8 @@ O Regicida
      Ora os pais, quando admiravam as rápidas sabenças da filha, graças à assiduidade do mestre, decerto não sentiam sobressaltos que lhes agouren-tassem a satisfação, lembrando-lhes que houvera no mundo uma discípula muito aproveitada, chamada Heloísa. Se na mente de padre Luís chamejaram memórias históricas de Pedro Abélard, e o Demónio da imitação entrou com ele, é o que vamos depreender do capítulo seguinte.
      
      
-
      
-    Capítulo VI
+## Capítulo VI
     
      Vimos, no capítulo IV, Domingos Leite e Roque da Cunha esquivarem-se rapidamente à presença do marquês de Gouvêa.
      Ao separar-se, o alucinado escrivão murmurou sinistramente ao seu funesto amigo:
@@ -287,9 +282,8 @@ O Regicida
      - Retire esse tratamento do tu - voltou o marido com sobrecenho. - Nem uma palavra, nem um gesto que indique a maior ou menor aliança de duas almas que se estimaram, ou tredamente se dissimularam... Esta casa é bastante grande. Podem viver nela duas pessoas sem se encontrarem. A Senhora é rica; administre o que tem; eu não tenho nada que ver com os seus bens de fortuna. Ficamos entendidos. Qualquer infracção deste pacto, estalará em tempestade sem bonança.
      
      
-
      
-    Capítulo VII
+## Capítulo VII
     
      Aquele merceeiro, primo do mestre de Maria Isabel, atribulado agora pelas revelações que fizera a Roque da Cunha, avisou padre Luís da Silveira, encarecendo os martírios que lhe arrancaram o segredo.
      O tesoureiro de S. Miguel de Alfama ponderou o melindre da situação, e maldisse a embriaguez que o levou à imprudência de se gabar de um delito que ele julgava já esquecido e delido como o bolo avinhado de que lhe espumara aos beiços a jactância de ter sido amado da esbelta Maria Isabel Traga-Malhas.
@@ -326,9 +320,8 @@ O Regicida
      1 - Escuso dizer ao leitor que todas estas ruas e becos desapareceram no terrenoto de 1755. Há memória delas em João Baptista de Castro (Mapa de Portugal) e outros topógrafos de Lisboa.
      
      
-
      
-    Capítulo VIII
+## Capítulo VIII
     
      O assassínio do padre Luís da Silveira foi explicado por vários modos, tanto que o cadáver apareceu, no Beco dos Namorados, com dez punhaladas no peito. 
      Disse-se que os seus antigos consócios de infidelidade à Pátria e contubernais em patifarias, receosos que ele lhes delatasse os delitos, visto que medrava na estimação dos ministros de D. João IV, o matariam para se desfazerem de um delator perigoso. Diziam outros, mais plausivelmente, que o padre acabara às mãos dos vingadores do arcebispo Sebastião de Matos e seus cúmplices, levados ao patíbulo pela delação do seu ignóbil confidente. Outros, finalmente, acusavam sem rancor, antes com aprovação, um tal licenciado Rui Pires da Veiga, irmão da manceba do clérigo, desde que a viram abraçada ao morto, e reconheceram nela a menina que, dois anos antes, desaparecera de casa de sua família honesta e abastada.
@@ -373,9 +366,8 @@ O Regicida
      Debalde o esperou.
      
      
-
      
-    Capítulo IX
+## Capítulo IX
     
      Ele disse que não teria ânimo de se despedir da filha.
      Ânimo de partir sem vê-la é que ele não teve.
@@ -449,9 +441,8 @@ O Regicida
      - Forças, meu Deus! Guardai-me os maiores tormentos para o desterro, e dai-me alento neste lance!
      
      
-
      
-    Capítulo X
+## Capítulo X
     
      Quando se divulgou em Lisboa que o escrivão do Cível, secretário do mordomo-mor, desaparecera com Roque da Cunha, duas opiniões se formaram acerca do sucesso estrondoso.
      Quanto a Domingos Leite, dizia-se que, tendo o Santo Ofício, no começo daquele ano de 1647, aferrolhado nos seus cárceres alguns sujeitos amigos do escrivão, este, receando sorte igual, se evadira. A criminalidade dos réus presos era suspeita do pecado infame (veja Larraga, passim); porém, o delito que o vulgo atribuía ao marido da Traga-Malhas era de menos impudica espécie: dizia-se que o fugitivo andava gafado de heresia, e dava notícia de livros luteranos procedentes da Holanda. Os propagadores do boato, querendo explicar a fuga simultânea de Roque da Cunha, asseveraram que ele se passara a Madrid, onde vivia sua mãe, D. Vicência Corrêa, loureira famosa de Lisboa, antes de ser casada com Francisco Leitão, o Guedelha, que tinha sido do Conselho de Portugal em Madrid, de boas avenças com o usurpador, e, como renegado incontrito, lá se ficara contraminando a restauração do reino (Nota 12ª).
@@ -519,9 +510,8 @@ O Regicida
      Estas palavras, proferidas torvamente, impressionaram o espírito já preparado a recebê-las sem constrangimento da razão, bem que ao ânimo reconhecido de Domingos Leite doesse o consentir em tão austeras demasias. É uma santa verdade não haver aliança de estima honesta entre dois homens pactuados por um feito criminoso. O afecto de Domingos Leite Pereira a Roque da Cunha era tão simulado ou sobreposse, quanto os remordimentos de um e o despejo do outro se distanciavam entre si. O coração - que desbordava de lágrimas, cismando na filha estremecida, e, às vezes, vibrava de angústia, pensando que a esposa poderia vingar-se dando a outro a beleza desprezada - não entraria aos lodaçais, onde as grandes angústias se atordoam e atrofiam, emparceirado com Roque da Cunha.
      Domingos Leite era muitíssimo desgraçado, quando seu pai o deixou, indo a Guimarães vender o prediozinho que representava trinta anos de economias.
      
-
      
-    Capítulo XI
+## Capítulo XI
     
      Chamava a cada hora pelo pai a inconsolável Ângela.
      A mãe acariciava com oeijos o rosto da filha; e, soluçando, dizia-lhe que o pai não tardaria.
@@ -584,9 +574,8 @@ O Regicida
      1 - O Sr. M. Pinheiro Chagas, História de Portugal, tomo 6, pág. 291. e o Sr- A. José Viale no Novo Epítome de História de Portugal, pág 158. Veja Monstruosidades do Tempo e da Fortuna, por Fr. Alexandre da Paixão, Ms. da Biblioteca do Porto - e Vida de Afonso VI, escrita no ano de 1684, Porto, 1873.
      
      
-
      
-    Capítulo XII
+## Capítulo XII
     
      Maria Isabel, querendo passar a Castela, ofereceu os seus prédios da Tanoaria a vários compradores que lhos haviam desejado; mas a alienação dos bens seria nula sem consenso do marido, e nula também enquanto ele não houvesse respondido à justiça que o esbulhara dos seus direitos.
      Recorreu a dama ao mordomo-mor, que não antevira o embaraço, nem podia removê-lo. A consternada Senhora saiu do gabinete do marquês, desatendendo os prudentes conselhos que tendiam a esperar alguns dias o resultado da intervenção de um ministro mais influente no real ânimo. O mordomo-mor lembrara-se de António Cavide. Maria Isabel lembrara-se de D. João IV.
@@ -703,9 +692,8 @@ O Regicida
      2 - O tratamento de Senhoria foi jurídico para as donas, moças da câmara e açafatas, por alvará de 17 de Maio de 1777, quando já de antes a Excelência era o tratamento usual. Na corte de D. João IV, a lisonja e a urbanidade não hesitariam tratar de Senhoria as açafatas, e as amantes do rei em perspectiva.
      
      
-
      
-    Capítulo XIII
+## Capítulo XIII
     
      Velou a noite inteira Maria Isabel.
      Figuravam-se-lhe visões, ora terríveis, ora deslumbrantes.
@@ -759,9 +747,8 @@ O Regicida
      Ai! Aquela mãe e esposa pressentiu que havia de escorregar à voragem das desonradas, embora resvalasse por ladeira de ouro, e lhe pusessem à flor do seu pego de lama uma coroa de rei!
      
      
-
      
-    Capítulo XIV
+## Capítulo XIV
     
      Na correnteza dos referidos casos passados em Lisboa, Domingos Leite Pereira, desmentindo os informadores de D. João IV, vivia pouco menos de obscuro, nos arrabaldes de Madrid, gastando restritamente o que seu pai lhe enviava com grande resguardo e dificuldade.
      Ideara ele que sua mulher, quer por compaixão, quer a rogos de Ângela, lhe escrevesse, dizendo-lhe, ao menos, que a filha chorava. Esta dor filial quisera ele que lhe fosse desafogo às suas.
@@ -820,9 +807,8 @@ O Regicida
      2 - Em Nota, que há-de ser posta como confirmação destas miudezas, verá o leitor que não tem razão para se maravilhar da omissão dos historiadores, salvo se lhe não é desconhecido um opúsculo de Fr. Francisco Brandão, cronista-mor do reino, opúsculo publicado anonimamente em 1647, com este título: Relação do Assassínio Intentado por Castela contra a Majestade de El-Rei D. João IV, Nosso Senhor, e Impedido Miraculosamente.
      
      
-
      
-    Capítulo XV
+## Capítulo XV
     
      Na noite de 10 de Abril de 1647, por volta das onze horas, chegou Domingos Leite aos arrabaldes de Lisboa, os quais, do lado da Senhora da Graça, eram povoados de quintas, cujas casas, debruçadas pelos outeiros da serra de Almofala, o luar frouxo daquela noite amarelecia tristemente.
      Aí descavalgou Domingos Leite, despediu o arrieiro que o conduzira desde Moira, e esperou o repontar da manhã, hora em que as trinta e oito portas de Lisboa se franqueavam.
@@ -934,9 +920,8 @@ O Regicida
      Domingos Leite curvou-se até beijar a mão do marquês e saiu.
      
      
-
      
-    Capítulo XVI
+## Capítulo XVI
     
      Esperava-o Bernardo com o ouvido colado ao postigo.
      Domingos Leite entrou no quarto do criado, sem sensível mudança no rosto. Palavra, que denunciasse as revelações do marquês, não proferiu alguma. Bernardo perguntou-lhe a medo se descobrira a paragem da Senhora. Respon-deu que não disse verdade.
@@ -1029,9 +1014,8 @@ O Regicida
      1 - Os secretários de Estado tiveram Excelência de jure desde a lei de 29 de Janeiro de 1739. Os mordomos-mores já recebiam Excelência no tempo de D. João IV. Em 1648 o padre António Vieira tratava de Vossa Mercê em cartas o secretário de Estado Pedro Vieira da Mota.
      
      
-
      
-    Capítulo XVII
+## Capítulo XVII
     
      Aos primeiros assomos do dia seguinte, a casa de Domingos Leite e a de Francisco Mendes Nobre eram invadidas pela justiça dos corregedores de dois bairros.
      A da Rua dos Vinagreiros foi arrombada, e a outra exposta à busca pelo escudeiro. Bernardo, como gaguejasse nas respostas, foi preso, conduzido, e posto a tratos.
@@ -1123,9 +1107,8 @@ O Regicida
      Invocara o dulcíssimo nome da divina caridade humana, e... estava perdido! Quem sabe como lá soou nos juízos de Deus aquela invocação! Quem sabe a distância que medeia entre o grito do homem e a serena majestade do seu Criador!
      
      
-
      
-    Capítulo XVIII
+## Capítulo XVIII
     
      Roque da Cunha negociava com os ministros de Filipe IV, em nome de Domingos Leite, a morte do usurpador. Encomiando o carácter audaz do seu amigo, encarecia-o também como grato e afeiçoado ao rei de Espanha, sendo que a facção planeada timbrava tanto de pessoal como de política. E, do mesmo passo, entremostrava que o ex-escrivão do Cível da corte, pelo facto de haver sido tão liberalmente remunerado, criara necessidades de pompas, que el-rei de Castela poderia de antemão assegurar-lhe em Madrid, com promessas de maiores vantagens, restaurado Portugal.
      Exposto isto ao valido por Francisco Leitão, o secretário das mercês nomeou Domingos Leite em uma comenda de Cristo de lotação de duzentos cruzados e brindou o medianeiro com quatrocentos escudos e um ofício na casa real. Quanto à partilha do espólio de Portugal, Diogo Soares, desde logo, magnanimamente nomeou seu secretário Domingos Leite, com meio vencimento, até se abancar na respectiva secretaria.
@@ -1155,9 +1138,8 @@ O Regicida
      Se um homem nestas condições ousaria prever que um historiógrafo português, século e meio depois, escreveria dele:... cheio de confusão e honra! Pois houve! O leitor verá que nesta sua, tão sua e minha querida terra, temos historiadores que denominam a incestuosa mulher de Pedro II rainha prudentíssima (veja o Sr. conselheiro António José Viale, na sua História) e Roque da Cunha homem cheio de confusão e honra (veja Roque Ferreira Lobo na sua História da Aclamação de D. João IV).
      
      
-
      
-    Capítulo XIX
+## Capítulo XIX
     
      Às dez da noite saíra Roque. Às onze já Domingos Leite, vestido de feitio que nenhum traço arguia o aparaltado do escrivão do Cível, parava no largo da Porta do Salvador, contemplando a casa imersa em trevas que nenhum pontinho luminoso interceptava. Que fazia ali?
      Fantasiara que o seu velho criado lá estaria, não obstante lhe dizer Roque da Cunha que a justiça lhe dera tratos até saber onde o amo se escondia; e, sendo assim, decerto o expulsaria Maria Isabel.
@@ -1276,9 +1258,8 @@ O Regicida
      Cavalgaram e deram de esporas. Na assomada de um dos outeiros de Alvalade pararam, e olharam na direcção de Lisboa. Ninguém os seguia. Era uma cavalhada de campinos, que voltavam da procissão do Triunfo, e recolhiam aos seus casais.
      
      
-
      
-    Capítulo XX
+## Capítulo XX
     
      Diogo Soares, previsto e diligentíssimo em proporcionar aos assassinos enviados os meios de fácil fugida, mandara uma chalupa do porto do Ferrol para os receber na barra de Lisboa; mas o portador, que por terra trouxera o aviso ao mercador Simão Serges, não o encontrando no dia 19 de Junho, segundo as ordens que trazia, foi na noite de 20 a Paço de Arcos fazer sinal de erguerem âncora aos da chalupa. Simão Serges, àquela hora em que o buscavam, temeroso do resultado da tentativa, passara o Tejo, e esperava em Aldeia Galega a notícia das ocorrências. O manuscrito, que nos esclarece as escuridades da história, diz a tal respeito: «Neste tempo estava Roque da Cunha com os cavallos esperando-o ao Postigo da Graça, onde foi ter com ele Domingos Leite, e que lhe contou o que passara; e é de saber que na mesma tarde foi visto em Passod'Arcos um barco longo de Castella, e que havendo descuido em ir a elle de noute, fugiu este, e desappareceu, e os dois foram por terra.»
      Ao mesmo tempo, Bernardo, que passara a noite e o dia em oração, quando viu terminadas as festas do Triunfo, e nenhum caso extraordinário se contava em Lisboa, nem voz humana proferia o nome de seu amo, deu fervorosas graças ao Senhor, porque atendera às suas preces.
@@ -1338,9 +1319,8 @@ O Regicida
      1 - Relação do Assassínio Intentado por Castela contra a Majestade de El-Rei D. João IV Nosso Senhor, e Impedido miraculosamente. Lisboa, 1647.
      2 - Obra citada.
      
-
      
-    Capítulo XXI
+## Capítulo XXI
     
      Decorrera o restante daquele dia 28 de Julho, e parte do seguinte sem novas de Roque da Cunha. Cerca do meio-dia, chegou um guia, portador de um bilhete para Domingos Leite. Dizia-lhe o fementido que, não encontrando cavalo que comprasse ou alugasse em Gaifões, passara a Rilvas, onde achara um sendeiro estropiado, que alugou para si, e lhe enviava a ele o cavalo para que a jornada lhe fosse menos enfadonha.
      Domingos Leite sentiu-se cativo desta deferência; mas, apenas montou, conheceu que o cavalo estava por tanta maneira escalavrado que só muito a passo alcançaria vencer as seis léguas, que o distanciavam da Póvoa de S. Martinho, até à noite do dia seguinte. O arrieiro que o guiava recomendou-lhe pouca espora, se queria chegar com o cavalo vivo à Póvoa.
@@ -1430,7 +1410,6 @@ O Regicida
      
      
      
-
      
     Conclusão
     
@@ -1444,7 +1423,6 @@ O Regicida
      (Nota final).
      
      
-
      
     Notas
     
@@ -1625,13 +1603,9 @@ O Regicida
      Um homem deste vulto, se acreditava na peçonha dos pés de ganso e do cérebro dos ratos, é porque realmente, naqueles dias, a toxicologia era mais investigada que hoje.
      
      
-
      
-     Nota final
+# Nota final
      
      As pessoas lidas na história pátria estão afeitas a encontrar, neste caso da tentativa de morte contra D. João IV, que houve um denunciante de Domingos Leite, chamado Manoel da Cunha e não Roque da Cunha, como eu o denomino. Argúem-me, pois, de inventar nomes desnecessários à novela com agravo da história. É injustiça que me fazem. Todos os historiadores que o leitor conhece o enganaram involuntariamente ou por negligência de quem fiou de mais nos seus antecessores e guias. Tenho presentes o conde da Ericeira (Portugal Restaurado), Fr. Cláudio da Conceição (Gabinete Histórico), D. António Caetano de Sousa (História Genealógica da Casa Real Portuguesa), Roque Ferreira Lobo (História da Aclamação de D. João IV), Ferdinand Denis (Portugal Pitoresco), João Baptista de Castro (Mapa de Portugal), o Sr. Viale (Resumo da História de Portugal) e melhor que todos o Sr. Manuel Pinheiro Chagas (História de Portugal). Dizem todos invariavelmente que o delator de Domingos Leite era Manuel Roque, porque todos invariavelmente se guiaram pelo conde da Ericeira, que escrevia 32 anos depois do sucesso. O mais curial seria averiguar nos escritores coevos, e, nomeadamente, as relações escritas no mesmo ano de 1647. O investigador laborioso encontraria, acerca deste assunto, afora a citada notícia de Fr. Francisco Brandão, impressa em 1647, duas mais do mesmo ano, uma de António de Sousa de Macedo, e outra de D. Francisco Manuel de Melo.
      São duas peças declamatórias: retórica em barda, e muita pobreza de particularidades. O documento mais precioso é do cronista-mor do reino. O conde da Ericeira não o leu; que farte revela ignorância dos elementos que o deviam esclarecer. Diz que Domingos Leite Pereira era de Lisboa, e de família distinta.
      Quanto a ser de Lisboa, claramente contradiz a afirmativa do escritor coetâneo que o faz de Guimarães neste trecho da sua relação: Foi o executor da máquina... Domingos Leite Pereira indigno de haver nascido na nobre e leal vila de Guimarães, que sempre abominará tão monstruoso aborto. E em outra passagem, já referida no texto, nos conta que Domingos Leite, da primeira vez que viera de Castela a Lisboa, fora procurado em Guimarães. Pelo que respeita ao nome do traidor, em vários lanços o nomeia Roque da Cunha, e em um deles, por sinal, a crítica de Brandão desmerece grandemente dos créditos alcançados noutros escritos. Se não, vejam: Dia de S. Roque, a 21 de agosto, se executou a sentença no delinquente, e o ser Roque da Cunha o companheiro que o entregou à justiça, faz crivel que por ser este Sancto um dos tutelares do reino, escolhido pelo sr. rei D. João III, de que na capela real ha particular confraria, accudiu á vingança merecida contra os legítimos reis d'esta corôa.
-     
-     
-     
