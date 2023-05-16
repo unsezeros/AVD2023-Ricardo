@@ -1,12 +1,12 @@
 ---
-title: "A filha do doutor negro"
-author: "Camilo Castelo Branco"
-date: "1864"
+title: A filha do doutor negro
+author: Camilo Castelo Branco
+date: 1864
 type: "desconhecido"
 structure: Prefácio, Capítulos (Capítulo Primeiro a Vigésimo Quarto), Conclusão
 revision: Ricardo Guimarães
 ---
-##    Prefácio
+#    Prefácio
     
 Eu era estudante na Academia do Porto em 1845.
 
@@ -3549,5 +3549,3 @@ A isto respondeu ele:
 \- O senhor tem escrito muitos romances sem moral nenhuma que eu saiba; e desculpe, se isto belisca o melindre do seu engenho. Quer-me parecer que há por esse mundo muita desgraça, que move à comiseração, e até certo ponto desmoraliza. Há outras desgraças que não moralizam nem enternecem. A gente não deve supor que todos os infortúnios procedem de desvios do dever. Se assim fosse, para inferirmos que um homem delinquiu, bastaria vê-lo desgraçado. Ora eu conheci, no trajecto de setenta anos, muitos maus afortunados, e muitas almas nobres passadas de angústias. Se eu fizesse romances e escrevesse as histórias que sei, teria de me abster de moralizar por conta da Providência, que importaria o mesmo pô-la em dúvida. E, demais, se inferno e glória fossem neste mundo, a que vinha a superfluidade do outro, em que se prometem prémios e castigos?! Escritores cristianíssimos sei eu que se afadigam em demonstrar que os prevaricadores inevitavelmente pagam neste mundo. Eu mesmo preguei este falso Evangelho ao doutor Negro; mas o mundo preleccionou-me sessenta anos, e modificou as minhas crenças dos vinte e dois. Pois, em verdade, lhe digo que fazem um desserviço à religião de Jesus os que pregoam que a felicidade neste mundo é prova de sã consciência e rectidão de vida. Não, senhor, absolutamente não é. A religião de Cristo diz: «Bem-aventurados são os que sofrem, porque estes serão consolados.» Os errados intérpretes exclamam: «A religião, mãe de todas as virtudes, é um manancial de felicidades neste mundo para quem a observa.» Isto, se não é contraditório, ataca a eficácia das palavras do Divino Mestre. Em suma, se o senhor instasse muito comigo para lhe eu dar o tom da filosófica, ou da cristã moralidade do romance da filha do doutor Negro, citar-lhe-ia estas palavras dele:
 
 Minha filha há-de ser muito desgraçada, ainda mesmo que o homem que ma roubou venha a ser seu marido, e a felicidade mentirosa lhes dê a efémera embriaguez do crime satisfeito. Eu morrerei, sem a ter visto no último degrau da miséria; mas você viverá para lembrar-se das derradeiras palavras proferidas pelo velho que chora em suas mãos.
-
-#FIM
