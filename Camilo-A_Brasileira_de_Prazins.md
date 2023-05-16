@@ -277,7 +277,7 @@ a carta.
  A segunda carta que ela escreveu, já sem pauta, foi a José Dias, ao estudante, que já não estudava por causa
 das memórias nocivas à sua saúde fraca, um pelém.
 
-    Neste tempo já o Zeferino da Lamela se tinha declarado com o Simeão de Prazins, de um modo quase
+   Neste tempo já o Zeferino da Lamela se tinha declarado com o Simeão de Prazins, de um modo quase
 original.
 
 – Você quanto deve, ó tio Simeão? – perguntou.
