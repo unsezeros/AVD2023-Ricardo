@@ -2,7 +2,7 @@
 title: A filha do doutor negro
 author: Camilo Castelo Branco
 date: 1864
-type: "desconhecido"
+type: desconhecido
 structure: Prefácio, Capítulos (Capítulo Primeiro a Vigésimo Quarto), Conclusão
 revision: Ricardo Guimarães
 ---
