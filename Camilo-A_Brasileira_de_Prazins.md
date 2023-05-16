@@ -6,7 +6,7 @@ type: romance
 structure: Introdução, Capítulos (I a XX), Conclusão, PS
 revision: Ricardo Guimarães
 ---
-##                                                 INTRODUÇÃO
+#                                                 INTRODUÇÃO
 
 Entre as diversas moléstias significativas daminha velhice, o amor aos livros antigos – a mais dispendiosa
 – leva-me o dinheiro que me sobra da botica, onde os outros achaques me obrigam a fazer grandes orgias de pílulas
