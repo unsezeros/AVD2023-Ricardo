@@ -35,9 +35,7 @@ aos 24 de setembro de 1861.
 
                                           CAMILO CASTELO BRANCO.
 
- 
 # INTRODUÇÃO
-
 
 Folheando os livros de antigos assentamentos, no cartório das cadeias da
 Relação do Porto, li, no das entradas dos presos desde 1803 a 1805, a folhas 232, o
@@ -86,9 +84,7 @@ ou se antes me não fora melhor abrir mão desde já de uma história que me pod
 acarear enojos dos frios julgadores do coração, e das sentenças que eu aqui lavrar
 contra a falsa virtude de homens, feitos bárbaros, em nome da sua honra.
 
-
 ## CAPÍTULO I
-
 
 Domingos José Correia Botelho de Mesquita e Meneses, fidalgo de linhagem
 e um dos mais antigos solarengos de Vila-Real de Trás-os-Montes, era em 1779,
@@ -164,7 +160,6 @@ surradas e traçadas que figuravam na comitiva.
 D. Rita, avistando o préstito das liteiras, ajustou ao olho direito a sua grande
 luneta de oiro, e disse:
 
-
 — Ó Meneses, aquilo que é?
 
 — São os nossos amigos e parentes que vêm esperar-nos.
@@ -175,17 +170,12 @@ luneta de oiro, e disse:
 
 — Ah! sim? Cuidei que o tempo parara aqui no século doze...
 
-
 O marido achou que devia rir-se do chiste, que o não lisonjeara
 grandemente.
 
 Fernão Botelho, pai do juiz de fora, saiu à frente do préstito para dar a mão à
 nora, que apeava da liteira, e conduzi-la à de casa. D. Rita, antes de ver a cara de
 seu sogro, contemplou-lhe a olho armado as fivelas de aço, e a bolsa do rabicho.
-
-
-
-
 
 Dizia ela depois que os fidalgos de Vila-Real eram muito menos limpos que os
 carvoeiros de Lisboa. Antes de entrar na avoenga liteira de seu marido, perguntou,
@@ -303,11 +293,6 @@ O pai maravilhava-se do talento do filho, e desculpa-o da extravagância por amo
 talento. Pede-lhe explicações do seu mau viver com Manuel, e ele responde que seu
 irmão o quer forçar a viver monasticamente.
 
-
-
-
-
-
 Os quinze anos de Simão têm aparências de vinte. É forte de compleição;
 belo homem com as feições de sua mãe, e a corpulência dela; mas de todo avesso
 em gênio. Na plebe de Viseu é que ele escolhe amigos e companheiros. Se D. Rita
@@ -337,9 +322,7 @@ e prometeu fazê-lo capturar em Coimbra. Como, porém, D. Rita lhe chamasse brut
 nas suas vinganças e estúpido juiz de uma rapaziada, o magistrado desenrugou a
 severidade postiça da testa, e confessou tacitamente que era brutal e estúpido juiz.
 
-
 ## CAPÍTULO II
-
 
 Simão Botelho levou de Viseu para Coimbra arrogantes convicções da sua
 valentia. Se recordava os chibantes pormenores da derrota em que pusera trinta
@@ -422,11 +405,6 @@ de cinco meses, consentiu que seu filho lhe dirigisse a palavra.
 Simão Botelho amava. Aí está uma palavra única, explicando o que parecia
 absurda reforma aos dezessete anos.
 
-
-
-
-
-
 Amava Simão uma sua vizinha, menina de quinze anos, rica herdeira,
 regularmente bonita e bem nascida. Da janela do seu quarto é que ele a vira pela
 primeira vez, para amá-la sempre. Não ficara ela incólume da ferida que fizera no
@@ -487,11 +465,6 @@ por amor de ti. Não me esqueças tu, e achar-me-ás no convento, ou no céu, se
 tua do coração, e sempre leal. Parte para Coimbra. Lá irão dar as minhas cartas; e
 na primeira te direi em que nome hás de responder à tua pobre Teresa".
 
-
-
-
-
-
 A mudança do estudante maravilhou a academia. Se o não viam nas aulas,
 em parte nenhuma o viam. Das antigas relações restavam-lhe apenas as dos
 condiscípulos sensatos que o aconselhavam para bem, e o visitaram no cárcere de
@@ -522,9 +495,7 @@ No seguinte capítulo se diz minuciosamente a peripécia que forçara a filha de
 de Albuquerque a escrever aquela carta de pungentíssima surpresa para o
 acadêmico, convertido aos deveres, à honra, à sociedade e a Deus pelo amor.
 
-
 ## CAPÍTULO III
-
 
 O pai de Teresa não embicaria na impureza do sangue do corregedor, se o
 ajustarem-se os dois filhos em casamento se compadecesse com o ódio de um e o
@@ -563,11 +534,9 @@ e forçou-a pelo terror a contar tudo que ouvira à vizinha. Tanta foi sua cóle
 sem atender às razões da esposa, que viera espavorida dos gritos, correu ao quarto
 de Simão, e viu ainda Teresa à janela.
 
-
 — Olé! — disse ele à pálida menina — Não tenha a confiança de pôr olhos
 em pessoa de minha casa, Se quer casar, case com um sapateiro, que é um digno
 genro de seu pai.
-
 
 Teresa não ouviu o remate da brutal apóstrofe: tinha fugido aturdida e
 envergonhada. Porém, como o desabrido ministro ficasse bramindo no quarto, e
@@ -620,25 +589,20 @@ uma lenta, mas segura conquista. Verdade é que Baltazar nunca se explicara de
 modo que Teresa lhe desse resposta decisiva. Um dia, porém, instigado por seu tio,
 afoitou-se o ditoso noivo a falar assim à melancólica menina:
 
-
 — É tempo de lhe abrir o meu coração, prima. Está bem disposta a ouvir-
 -me?
 
 — Eu estou sempre bem disposta a ouvi-lo, primo Baltasar.
-
 
 O desdém aborrecido desta resposta abalou algum tanto as convicções do
 fidalgo, respeito à inocência, modéstia e acanhamento de sua prima. Ainda assim,
 quis ele no momento persuadir-se que a boa vontade não poderia exprimir-se doutro
 modo, e continuou:
 
-
 — Os nossos corações penso eu que estão unidos; agora é preciso que as
 nossas casas se unam.
 
-
 Teresa empalideceu, e baixou os olhos.
-
 
 — Acaso lhe diria eu alguma coisa desagradável?! — prosseguiu Baltasar,
 rebatido pela desfiguração de Teresa.
@@ -666,13 +630,6 @@ exato?
 — É.
 
 — E com tamanha paixão que desobedece a seu pai?
-
-
-
-
-
-
-
 
 — Não desobedeço: o coração é mais forte que a submissa vontade duma
 filha. Desobedeceria, se casasse contra a vontade de meu pai; mas eu não disse ao
@@ -714,14 +671,12 @@ deste modo:
 aguadeiros, distinto cavalheiro, que passa os anos letivos encarcerados nas cadeias
 de Coimbra...
 
-
 Claro está que Baltasar Coutinho conhecia o segredo de Teresa. Seu tio,
 naturalmente, lhe comunicara a criancice da prima, talvez antes de destinar-lhe a
 esposa.
 
 Ouvira Teresa o tom sarcástico daquelas palavras, e erguera-se
 respondendo com altivez:
-
 
 — Não tem mais que me diga, primo Baltasar?
 
@@ -761,7 +716,6 @@ levado a pontapés para fora da casa de meu tio Tadeu de Albuquerque.
 — Quero-a dirigir enquanto a sua razão precisar de auxílio. Tenha juízo e eu
 serei indiferente ao seu destino. Não a enfado mais, prima Teresa.
 
-
 Baltasar Coutinho foi dali procurar seu tio, e contou-lhe o essencial do
 diálogo. Tadeu, atônito da coragem da filha e ferido no coração e direitos paternais,
 correu ao quarto dela, disposto a espancá-la. Reteve-o Baltasar, reflexionando-lhe
@@ -785,9 +739,7 @@ Prometeu-lhe julgar-se morta para todos os homens, menos para seu pai.
 
 Tadeu ouviu-a, e não lhe replicou.
 
-
 ## CAPÍTULO IV
-
 
 O coração de Teresa estava mentindo. Vão pedir sinceridade ao coração!
 
@@ -825,7 +777,6 @@ encontrou o velho na antecâmara a recebê-la com muito agrado, perguntando-lhe 
 ela se erguia de bons humores para dar ao autor de seus dias um resto de velhice
 feliz. O silêncio de Teresa era interrogador.
 
-
 — Vais hoje dar a mão de esposa a teu primo Baltasar, minha filha. É
 preciso que te deixes cegamente levar pela mão de teu pai. Logo que deres este
 passo difícil, conhecerás que a tua felicidade é daquelas que precisam ser impostas
@@ -839,10 +790,8 @@ casamento, por temer que a reflexão fizesse mal ao zelo de boa filha com que tu
 vais abraçar teu pai, e agradecer-lhe a prudência com que ele respeitou o teu gênio,
 velando sempre a honra de te encontrar digna do seu amor.
 
-
 Teresa não desfitou os olhos do pai; mas tão abstraída estava, que
 escassamente lhe ouviu as primeiras palavras, e nada das últimas.
-
 
 — Não me respondes, Teresa?! — tornou Tadeu, tomando-lhe
 cariciosamente as mãos.
@@ -862,12 +811,6 @@ virtudes não bastassem a formar um marido excelente.
 — E ele quer-me depois de eu me ter negado? — disse ela com amargura
 irônica.
 
-
-
-
-
-
-
 — Se ele está apaixonado, filha!... e tem bastante confiança em si para crer
 que tu hás de amá-lo muito!...
 
@@ -876,9 +819,7 @@ como nunca pensei que se pudesse abominar! Meu pai... — continuou ela,
 chorando, com as mãos erguidas — mate-me; mas não me force a casar com meu
 primo! É escusada a violência, porque eu não caso!
 
-
 Tadeu mudou de aspecto, e disse irado:
-
 
 — Hás de casar! — Quero que cases! Quero!... Quando não, amaldiçoada
 serás para sempre, Teresa! Morrerás num convento! Esta casa irá para teu primo!
@@ -888,14 +829,11 @@ foram pela primeira vez insultados pelo pai desse miserável que tu amas! Maldit
 sejas! Entra nesse quarto, e espera que daí te arranquem para outro, onde não
 verás um raio de sol.
 
-
 Teresa ergueu-se sem lágrimas, e entrou serenamente no seu quarto. Tadeu
 de Albuquerque foi encontrar seu sobrinho, e disse-lhe:
 
-
 — Não te posso dar minha filha, porque já não tenho filha. A miserável, a
 quem dei este nome, perdeu-se para nós e para ela.
-
 
 Baltasar, que, a juízo de seu tio, era um composto de excelência, tinha
 apenas um quebra; a absoluta carência de brios. Malograda a tentativa do seu amor
@@ -990,9 +928,7 @@ horrorosas ilusões, quando o amor as inventa. Simão Botelho, com o ouvido cola
 à fechadura, ouvia apenas o som das flautas, e as pancadas do coração
 sobressaltado.
 
-
 ## CAPÍTULO V
-
 
 Baltasar Coutinho estava na sala, simulando vingativa indiferença por sua
 prima. As irmãs do fidalgo e a demais parentela da casa não deixavam respirar
@@ -1042,13 +978,11 @@ envolvia toda. O de Castro-d'Aire fez pé atrás para não ser visto. Teresa, po
 num relance de olhar temeroso, ainda vira um vulto retirar-se. Teve medo, e
 retrocedeu a largar a capa, e entrou na sala, ofegante de cansaço e pálida de medo.
 
-
 — Que tens, minha filha? — disse-lhe o pai — Já duas vezes saíste da sala,
 e vens tão alvoraçada! Tens algum incômodo, Teresa?
 
 — Tenho uma dor: preciso de ir respirar de vez em quando... Nada é, meu
 pai.
-
 
 Tadeu acreditou, e disse a toda a gente que a sua filha tinha uma dor; só o
 não disse a seu sobrinho, porque o não encontrou, e soube que ele tinha saído.
@@ -1057,9 +991,7 @@ Também Teresa dera pela ausência do primo, e fingiu que o ia procurar,
 resolução de que o velho gostou muito. Desceu ela ao jardim, correu à porta onde a
 esperava Simão, abriu-a, e, com a voz cortada pela ansiedade, apenas disse:
 
-
 — Vai-te embora; vem amanhã às mesmas horas... Vai, vai!
-
 
 Simão, quando isto ouvia, os olhos fitos num vulto que se aproximava dele,
 rente com o muro do quintal. O areeiro, que primeiro o vira, dera um sinal, e entalara
@@ -1071,12 +1003,9 @@ distância de seis passos. O areeiro tinha lentamente avançado a meio caminho d
 patrão, quando este lhe disse que não se aproximasse. E, caminhando para o vulto,
 aperrou duas pistolas, e disse-lhe:
 
-
 — Isto aqui não é caminho. Que quer?
 
-
 O fidalgo não respondeu.
-
 
 — Parece-me que lhe abro a boca com uma bala — tornou Simão.
 
@@ -1084,9 +1013,7 @@ O fidalgo não respondeu.
 segredo, como o senhor parece que tem o seu nestes sítios, sou obrigado a
 confessar-lho!?
 
-
 Simão refletiu, e replicou.
-
 
 — Este muro pertence a uma casa onde mora uma só família, e uma só
 mulher.
@@ -1099,19 +1026,11 @@ primo de Teresa. — Se o cavalheiro espera uma, eu posso esperar outra.
 — Não conheço a pessoa que me interroga, nem quero conhecer. Fiquemos
 cada um com o nosso incógnito. Boas noites.
 
-
 Baltasar Coutinho retrocedeu, dizendo entre si:
-
 
 — "Que partido tem uma espada contra dois homens e duas pistolas?"
 
-
 Simão Botelho cavalgou, e partiu para casa do hospitaleiro ferrador.
-
-
-
-
-
 
 O sobrinho de Tadeu de Albuquerque entrou na sala sem denunciar
 levemente alteração de ânimo. Viu que Teresa o observava de revés, e soube
@@ -1143,7 +1062,6 @@ rosto belo e triste. Notou Simão os reparos em que ela se demorava a contemplá
 e perguntou-lhe a causa daquele olhar melancólico com que ela o fitava. Mariana
 corou, abriu um sorriso triste, e respondeu:
 
-
 — Não sei o que me adivinha o coração a respeito de vossa senhoria.
 Alguma desgraça está para lhe suceder...
 
@@ -1163,18 +1081,14 @@ que alguma desgraça lhe estava para acontecer...
 
 — Por amor duma fidalga de Viseu, que tem um primo em Castro-d'Aire.
 
-
 Simão espantou-se da publicidade do seu segredo, e ia colher pormenores
 do que ele julgava mistério entre duas famílias, quando o mestre ferrador João da
 Cruz entrou no sobrado, onde o precedente diálogo se passara. A moça, como
 ouvisse os passos do pai, saíra lentamente por outra porta.
 
-
 — Com sua licença — disse mestre João.
 
-
 Dizendo, fechou por dentro ambas as portas, e sentou-se sobre uma arca.
-
 
 — Ora, meu fidalgo — continuou ele, descendo as mangas arregaçadas da
 camisa, e apertando-as com dificuldade nos grossos pulsos, como quem sabe as
@@ -1188,10 +1102,8 @@ vez armou-se aqui à minha porta uma desordem, a troco de um couce que um
 macho dum almocreve deu numa égua, que estava ferrando, e, em tão boa hora foi,
 que lhe partiu rente o jarrete por aqui, salvo tal lugar.
 
-
 João da Cruz mostrou na sua perna o ponto por onde fora fraturada a da
 égua, e continuou:
-
 
 — Eu tinha ali à mão o martelo, e não me tive que não pregasse com ele na
 cabeça do macho, que foi logo pra terra. O recoveiro de Carção, que era chibante,
@@ -1239,12 +1151,6 @@ não é assim?
 — De certo... — respondeu Simão, adivinhando o remate da história. —
 Quem era o homem que ele queria morto?
 
-
-
-
-
-
-
 — Era vossa senhoria... O homem! — disse o ferrador com espanto — O
 senhor nem sequer mudou de cor!
 
@@ -1290,7 +1196,6 @@ serviços quando me forem necessários. Esta noite hei de ir, como fui a noite
 passada, a Viseu. Se houver novidade, então veremos o que se há de fazer. Conto
 com vossemecê, e creia que tem em mim um amigo.
 
-
 Mestre João da Cruz não replicou. Dali foi examinar mudamente a fecharia
 da clavina, e entender-se com o cunhado sobre cautelas necessárias, enquanto
 descarregava a arma, e a carregava de novo com uns zagalotes especiais, que ele
@@ -1299,7 +1204,6 @@ denominava "amêndoas de pimpões".
 Neste intervalo, Mariana, a filha do ferrador, entrou no sobrado, e disse com
 meiguice a Simão Botelho:
 
-
 — Então sempre é certo ir?
 
 — Vou; para que não hei de ir?!
@@ -1307,22 +1211,13 @@ meiguice a Simão Botelho:
 — Pois Nossa Senhora vá na sua companhia — tornou ela, saindo logo para
 esconder as lágrimas.
 
-
-
-
-
-
-
-
 ## CAPÍTULO VI
-
 
 As dez horas e meia da noite daquele dia, três vultos convergiram para o
 local, raro frequentado, em que se abria a porta do quintal de Tadeu de
 Albuquerque. Ali se detiveram alguns minutos discutindo e gesticulando. Dos três
 vultos havia um, cujas palavras eram ouvidas em silêncio e sem réplica pelos outros.
 Dizia ele a um dos dois:
-
 
 — Não convém que estejas perto desta porta. Se o homem aparecesse aqui
 morto, as suspeitas caiam logo sobre mim ou meu tio. Afastem-se vocês um do
@@ -1342,7 +1237,6 @@ jeito de tiro, mas longe daqui, percebem vocês? — disse Baltasar Coutinho.
 — Tenho a certeza de que não está em casa do pai, já Iho disse. Basta de
 palavreado. Vão esconder-se atrás da Igreja, e não adormeçam.
 
-
 Debandou o grupo, e Baltasar ficou alguns momentos encostado ao muro.
 Soaram os três quarto depois da dez. O de Castro-d'Aire colocou o ouvido à porta, e
 retirou-se aceleradamente, ouvindo o rumor da folhagem seca que Teresa vinha
@@ -1354,7 +1248,6 @@ podia figurar um homem. Rodeou a igreja, que estava a duzentos passos de
 distância. Viu os dois vultos direitos com o recanto que formava a junção da capela-
 -mor, e sobre o qual caíram as sombras da torre. Fitou-os de passagem, e suspeitou;
 não os conheceu, mas eles disseram entre si, depois que ele desaparecera:
-
 
 — E o João da Cruz, ferrador, ou o diabo por ele!...
 
@@ -1379,35 +1272,25 @@ filho cá está...
 
 — Deixá-lo ser... Tanto entram as balas nele como noutro...
 
-
 A discussão continuou sobre várias conjeturas. De tudo o que eles disseram
 uma coisa era certíssima: ser o vulto o João da Cruz, ferrador.
 
 Teria este dado trezentos passos, quando os criados de Baltasar ouviram o
 remoto tropel da cavalgadura.
 
-
-
-
-
 Ao tempo que eles saíam do seu esconderijo, saía João da Cruz à frente do
 cavaleiro. Simão aperrou as pistolas, e o areeiro uma clavina.
-
 
 — Não há novidade — disse o ferrador —; mas saiba vossa senhoria que já
 podia estar em baixo do cavalo com quatro zagalotes no peito.
 
-
 O areeiro reconheceu o cunhado, e disse:
-
 
 — És tu, João?
 
 — Sou eu. Vim primeiro que tu.
 
-
 Simão estendeu a mão ao ferrador, e disse, comovido.
-
 
 — Dê cá a sua mão; quero sentir na minha a mão dum homem honrado.
 
@@ -1425,7 +1308,6 @@ andar com a cara para frente.
 
 — Bem sei que não; mas, à vista do inimigo, veremos.
 
-
 Simão tinha apeado. O ferrador tomou as rédeas do cavalo, recuou alguns
 passos na rua, e foi prendê-lo à argola da parede duma estalagem.
 
@@ -1436,18 +1318,14 @@ passasse do ponto donde os visse.
 Quis o acadêmico protestar contra um plano que o humilhava como
 protegido pela defesa dos dois homens; o ferrador, porém, não admitiu a réplica
 
-
 — Faça o que eu lhe digo, fidalgo — disse ele com energia.
-
 
 João da Cruz e o cunhado, espiando todas as esquinas, chegaram defronte
 do quintal de Teresa, e viram, um vulto a sumir-se no ângulo da parede.
 
-
 — Vamos sobre eles — disse o ferrador — que lá passaram para o adro da
 igreja; nestes entrementes, o doutor chegará à porta do quintal e entra; depois
 voltaremos para lhe guardar a saída.
-
 
 Neste propósito, moveram-se apressados, e Simão Botelho caminhou com
 as pistolas aperradas na direção da porta.
@@ -1459,13 +1337,7 @@ Os dois criados de Baltasar, quando o tropel do cavalo parou, recordaram as
 ordens do amo, no caso de vir a pé Simão. Buscaram sitio azado para o espreitarem
 na saída, e entraram na alameda quando o acadêmico chegara à porta do quintal.
 
-
 — Agora está seguro — disse um,
-
-
-
-
-
 
 — Se lá não ficar dentro... — respondeu o outro, vendo-o entrar, e fechar-se
 a porta.
@@ -1478,28 +1350,22 @@ outra entrada da alameda.
 — O melhor é retirarmos. Nós estamos à espera do outro, e não deste.
 Vamos embora daqui...
 
-
 Este não esperou convencer o companheiro: desceu a ribanceira do
 cascalho. O mais intrépido teve também a prudência de todos os assassinos
 assalariados: seguiu o assustadiço, e deu-lhe razão, quando ouviu após de si os
 passos velozes dos perseguidores. Saiu-lhes o amo de frente quando dobravam a
 esquina do quintal, disse-lhes:
 
-
 — Vocês a que fogem, seus poltrões?
-
 
 Os homens pararam de envergonhados, aperrando os bacamartes.
 
 João da Cruz e o areeiro apareceram, e Baltasar caminhou para eles,
 brandando:
 
-
 — Alto aí!
 
-
 O ferrador disse ao cunhado:
-
 
 — Fala-lhe tu, que eu não quero que ele me conheça.
 
@@ -1520,12 +1386,9 @@ querem vocês?
 — Não admito perguntas — disse o de Castro-d'Aire, aventurando alguns
 passos vacilantes para a frente. — Quero saber quem são.
 
-
 Mestre João disse ao ouvido do cunhado:
 
-
 — Diz-lhe que, se dá mais um passo, que o arrebentas.
-
 
 O areeiro repetiu a cláusula, e Baltasar parou.
 
@@ -1533,9 +1396,7 @@ Um dos criados deles chamou-o ao lado para lhe dizer que aquele dos dois
 que não falava parecia ser o João da Cruz. O morgado duvidou, e quis esclarecer-
 -se; mas o ferrador ouvira as palavras do criado, e disse ao cunhado:
 
-
 — Vem comigo, que eles conhecem-me.
-
 
 Dizendo, voltou as costas ao grupo, e caminhou ao longo do quintal de
 Tadeu de Albuquerque. Os criados de Baltasar, gloriosos da retirada, como de uma
@@ -1553,7 +1414,6 @@ retirou-se. Queria ele reconhecer os dois vultos parados a distância, mas João
 Cruz, com o tom imperioso de quem obriga à submissão, disse ao filho do
 corregedor:
 
-
 — Vá por onde veio, e não olhe para trás. Simão foi indo até encontrar o
 cavalo. Montou, e esperou os dois inalteráveis guardas que o seguiam a passo
 vagaroso. Maravilhara-os o súbito desaparecimento dos criados de Baltasar, e
@@ -1567,29 +1427,23 @@ passo.
 — Vá como quiser — disse mestre João — que nós vamos por fora do
 caminho.
 
-
 E subiram a uma rampa de olivais, para tornarem a descer encobertos por
 moitas de giesta, cosendo-se aos torcicolos duma parede paralela com a estrada.
-
 
 — O atalho vai acolá onde a serra faz aquele cotovelo — disse o ferrador ao
 cunhado, — hão de ali passar, ou já passaram. A estrada vai mesmo na quebrada
 daquele outeirinho. Os homens é dali que vão atirar, encobertos pelos sobreiros.
 Vamos depressa...
 
-
 E um pouco descobertos, e outro curvados à sombra das devesas,
 chegaram a um valado donde ouviram os passos dos dois homens que
 atravessavam o pontilhão de um córrego.
 
-
 — Já não vamos a tempo — disse aflito o João da Cruz — os homens vão
 atirar-lhe, porque o cavalo trupa cá muito atrás.
 
-
 E corriam já sem temor de serem vistos, porque os outros tinham dobrado o
 outeiro, em cujo vale corria a estrada.
-
 
 — Os homens vão atirar-lhe... — disse o ferrador.
 
@@ -1598,26 +1452,16 @@ outeiro, em cujo vale corria a estrada.
 — Já não é tempo... Ou o matem ou não matem, quando voltarem são
 nossos.
 
-
 Tinham já passado o pontilhão, e subiam a ladeira quando ouviram dois
 tiros.
 
-
-
-
-
-
-
-
 — Arriba! — exclamou João da Cruz — que não vão meter-se à estrada, se
 mataram o fidalgo.
-
 
 Tinham vencido o chá, esbofados e ansiados, com as davinas aperradas. Os
 criados de Baltasar, ao invés da conjetura do ferrador, retrocediam pelo mesmo
 atalho, supondo que os companheiros de Simão iam adiante batendo os pontos
 azados à emboscada, ou se tinham retardado.
-
 
 — Eles aí vêm! disse o areeiro.
 
@@ -1629,14 +1473,12 @@ uns silveirais.
 
 — Atira ao da esquerda — disse João da Cruz.
 
-
 Foram simultâneas as explosões. A pontaria do ferrador fez logo um
 cadáver. Os balotes do areeiro não estremaram o outro entre o carrascal onde se
 embrenhara.
 
 A este tempo assomava Simão no teso donde lhe tinham atirado, e corria ao
 ponto onde ouvira o segundo tiro.
-
 
 — É vossa senhoria, fidalgo — bradou o ferrador.
 
@@ -1649,10 +1491,8 @@ ponto onde ouvira o segundo tiro.
 — Este desalmado deixou fugir o melro — tomou João da Cruz — mas o
 meu lá está a pernear na vinha. Sempre lhe quero ver as trombas...
 
-
 O ferrador desceu os três socalcos da vinha, e curvou-se sobre o cadáver,
 dizendo:
-
 
 — Alma de cântaro, se eu tivesse duas clavinas, não ias sozinho para o
 inferno.
@@ -1678,48 +1518,35 @@ rei que não queria outro médico senão um alveitar. Hei de mostrar-lhe o meu c
 que está uma rede de facadas, e nunca fui ao cirurgião. Com ceroto e vinagre sou
 capaz de ir ressuscitar aquela alma do diabo que ali está a escutar a cavalaria.
 
-
-
-
-
-
 Nisto ouviu-se um leve rumor de folhagem no matagal para onde tinha
 saltado o companheiro do morto.
 
 João da Cruz, como galo de fino olfato, fitou a orelha e resmungou:
 
-
 — Querem vocês ver que eles se armam!.
-
 
 Dar-se-á caso que o outro ainda esteja por ali a tremer maleitas?
 
 O rumor continuou, e logo um bando de pássaros rompeu dentre a
 folhagem, chilreando.
 
-
 — O homem está ali — tornou o ferrador. — Passe-me cá uma pistola,
 senhor Simão!
-
 
 Correu mestre João, e ao mesmo tempo uma grande restolhada se fez entre
 as moitas de codessos e urzes.
 
-
 — Ele estrinça lenha como um porco do monte! — exclamou o ferrador, — Ó
 cunhado, bate este mato com alguns penedos; quero ver sair o javali da moita!..
 
-
 Para o outro lado da bouça estava um plaino cultivado. Simão, rodeando a
 sebe, conseguira saltar ao campo por sobre a pedra dum agueiro.
-
 
 — Tenha lá mão, mestre; não vá você atirar-me! — bradou Simão ao
 ferrador.
 
 — Pois o fidalgo já aí anda!? Então está fechado o cerco. Eu cá vou fazer de
 furão. Se este nos escapa, não há nada seguro neste mundo!
-
 
 Não se enganaram. O criado de Baltasar Coutínho, quando se atirara
 desamparado à brenha, deslocara um joelho, e caíra atordoado. O areeiro não
@@ -1733,10 +1560,8 @@ tirou do bolso da jaqueta um podão, e começou a cortar a selva de carvalhas no
 e giestas que se emaranhavam em redor do esconderijo. Já cansado, porém, e
 vendo o pouco fruto do trabalho, disse ao areeiro:
 
-
 — Petisca lume, vai ali dentro buscar um pouco de restolho seco, e vamos
 pegar fogo ao mato, que este ladrão há de morrer assado.
-
 
 O perseguido, quando tal ouviu, tirou do maior perigo coragem para fugir,
 rompendo a espessura e saltando a parede da tapada para o campo do restolho em
@@ -1746,27 +1571,17 @@ alcançado, lançou-se de joelhos e mãos erguidas, pedindo perdão, e dizendo q
 amo o obrigaria àquela desgraça. Já a coronha do bacamarte do areeiro lhe ia
 direita ao peito, quando Simão lhe reteve o braço.
 
-
-
-
-
-
-
 — Não se bate num homem ajoelhado! — disse o moço — Levanta-te,
 rapaz!
 
 — Eu não posso, senhor. Tenho uma perna quebrada e estou aleijado para
 a minha vida!
 
-
 Neste comenos chegou o ferrador, e exclamou:
-
 
 — Pois esse tratante ainda está vivo!?
 
-
 E correu sobre ele com o podão.
-
 
 — Não mate o homem, senhor João! — disse o filho do corregedor'.
 
@@ -1806,40 +1621,26 @@ resistem.
 
 — Vamos embora — tornou Simão — deixemos por aí esse miserável.
 
-
 Mestre João cismou alguns momentos, coçando a cabeça, e resmungou
 com descontentamento:
 
-
 — Vamos lá. .. Quem o seu inimigo poupa nas mãos lhe morre.
-
 
 Tinham já saído do plano e saltado o tapada, e iam descendo para a
 estrada, quando o ferrador exclamou:
 
-
 — Lá me ficou a minha clavina encostada à sebe... Vão indo que eu venho
 já.
-
-
-
-
-
-
-
 
 O areeiro conduzia o cavalo, que pacificamente estivera tosando a relva das
 paredes marginais da estrada, quando Simão ouviu gritos. Conjeturou com certeza o
 que era.
 
-
 — O João lá está a fazer justiça! — disse o areeiro — Deixá-lo lá, meu amo,
 que ele é homem que sabe o que faz.
 
-
 João da Cruz apareceu daí a pouco, limpando com fenos o podão
 ensanguentado.
-
 
 — Você é cruel, sr. João — disse o acadêmico.
 
@@ -1851,13 +1652,10 @@ meter a gente nelas. Agora levo a minha consciência sossegada. A justiça que
 prove, se quiser; mas não há de ser porque lho digam aqueles dois que eu mandei
 de presente ao diabo.
 
-
 Simão teve um instante de horror do homicida, e de arrependimento de se
 ter ligado com tal homem.
 
-
 ## CAPÍTULO VII
-
 
 O ferimento de Simão Botelho era melindroso demais para obedecer
 prontamente ao curativo do ferrador, enfronhado em aforismos de alveitaria. A bala
@@ -1939,7 +1737,6 @@ a mendiga lhe passara ao escurecer, pendente de uma linha, quando o pai entrou n
 seu quarto, e a mandou vestir-se. A menina obedeceu, tomando uma capa e um
 lenço,
 
-
 — Vista-se como quem é: lembre-se que ainda tem os meus apelidos —
 disse com severidade o velho.
 
@@ -1949,11 +1746,6 @@ Teresa.
 — E a senhora sabe para onde vai?
 
 — Não sei... meu pai.
-
-
-
-
-
 
 — Então vista-se, e não me dê leis.
 
@@ -1985,13 +1777,10 @@ levava o tinteiro, o papel e o macete de cartas de Simão. Saiu do seu quarto,
 relanceando os olhos lacrimosos para o painel da Virgem, e, encontrando o pai,
 pediu-lhe licença para levar consigo aquela devota imagem.
 
-
 — Lá irá ter — respondeu ele. — Se tivesse tanta vergonha como devoção,
 seria mais feliz do que há de ser.
 
-
 Uma das primas, irmãs de Baltasar, chamou-a de parte e segredou-lhe:
-
 
 — Ó menina, estava ainda na tua mão dares remédio à desordem desta
 casa...
@@ -2022,23 +1811,15 @@ meus algozes. Podes dizer isto ao primo Baltasar e dize-lho antes que te esqueç
 
 — Estou pronta, meu pai.
 
-
 Abriu-se a portaria do mosteiro. Teresa entrou sem uma lágrima. Beijou a
 mão de seu pai, que ele não ousou recusar-lhe na presença das freiras. Abraçou
 suas primas, com semblante de regozijo; e, ao fechar-se a porta, exclamou, com
 grande espanto das monjas:
 
-
 — Estou mais livre que nunca. A liberdade do coração é tudo.
-
-
-
-
-
 
 As freiras olharam-se entre si, como se ouvissem na palavra "coração" uma
 heresia, uma blasfêmia proferida na casa do Senhor.
-
 
 — Que diz a menina?! — perguntou a prioresa, fitando-a por cima dos
 óculos, e apanhando no lenço de Alcobaça a destilação do esturrinho.
@@ -2062,14 +1843,12 @@ tornou a nossa madre prioresa.
 as paixões mundanas. Ora pois! Aqui está a nossa madre mestra de noviças, a
 quem compete encaminhá-la e dirigi-la.
 
-
 Teresa não redarguiu: fez um gesto de respeito à mestra de noviças, e
 seguiu o caminho que a prelada lhe ia indicando.
 
 A nossa madre entrou nos seus aposentos, e disse a Teresa que era sua
 hóspeda enquanto ali estivesse; e ajuntou que não sabia se seu pai escolheria
 aquele convento ou outro.
-
 
 — Que importa que seja um ou outro? — disse Teresa.
 
@@ -2101,17 +1880,9 @@ for servido. Eu vou à cozinha buscar a ceia da menina, e já volto. Aqui a deix
 senhora madre organista, que é uma pomba, e com a nossa mestra de noviças, que
 sabe dizer melhor que eu o que é a virtude nestas santas casas.
 
-
 Apenas a prioresa voltou as costas, disse a organista à mestra de noviças:
 
-
 — Que impostora!
-
-
-
-
-
-
 
 — E que estúpida! — acudiu a outra. — A menina não se fie nesta
 trapalhona, e veja se seu pai lhe dá outra companhia enquanto cá estiver, que a
@@ -2121,23 +1892,19 @@ era a freira que mais escândalos dava na casa; depois de velha era a mais ridí
 porque ainda queria amar e ser amada; agora, que está decrépita, anda sempre este
 mostrengo a fazer missões e a curar indigestões.
 
-
 Teresa, apesar da sua dor, não pôde reprimir uma risada, lembrando-se da
 vida de Deus com os anjos que as esposas do Senhor ali viviam, no dizer da madre
 prioresa.
 
 Pouco depois, entrou a prelada com a ceia, e saíram as duas freiras.
 
-
 — Que lhe pareceram as duas religiosas que ficaram com a menina? —
 disse ela a Teresa.
 
 — Pareceram-me muito bem.
 
-
 A velha distendeu os beiços matizados de meandros de esturrinho líquido, e
 regougou:
-
 
 — Hum!... Está feito, está feito!... Ainda não são das piores; mas, se fossem
 melhores, não se perdia nada... Ora vamos a isto, menina; aqui tem duas pernas de
@@ -2155,11 +1922,9 @@ peco. A organista tem já os seus quarenta bons, e ainda vai ao locutório derre
 em finezas; a outra, apesar de ser mestra de noviças, à falta doutra que quisesse
 sê-lo, se eu lhe não andasse com o olho em cima, estragava-me as raparigas.
 
-
 Este edificante discurso de caridade foi interrompido pela madre escrivã, que
 vinha, palitando os dentes, pedir à prelada um copinho de certo vinho estomacal
 com que todas as noites era brindada.
-
 
 — Estava eu a dizer a esta menina as peças que são a organista e a mestra
 — disse a prioresa.
@@ -2170,18 +1935,10 @@ perdoam a ninguém.
 
 — Vais tu ver se ouves alguma coisa, minha flor? — disse a prelada.
 
-
 A escrivã, contente da missão, foi imperceptivelmente ao longo dos
 dormitórios até parar a uma porta, que não vedava o ruído estridente das risadas.
 
 No entanto, dizia a prelada a Teresa:
-
-
-
-
-
-
-
 
 — Esta escrivã não é má rapariga. Só tem o defeito de se tomar da
 pingoleta; depois, não há quem a ature. Tem uma boa tença, mas gasta tudo em
@@ -2196,13 +1953,11 @@ sempre uns namorados pandilhas que bebem com ela na grade, isso lá me custa;
 mas, enfim, não há ninguém perfeito!... Boa rapariga é ela... se não fosse aquele
 maldito vício...
 
-
 Como tocasse ao coro nesta ocasião, a veneranda prioresa bebeu o
 segundo cálice do vinho estomacal, e disse a Teresa que a esperasse um quarto de
 hora, que ela ia ao coro, e pouco se demoraria. Tinha ela saído, quando a escrivã
 entrou a tempo que Teresa, com as mãos abertas sobre a face, dizia em si: "Um
 convento, meu Deus! Isto é que é um convento?"
-
 
 — Está sozinha? — disse a escrivã.
 
@@ -2231,9 +1986,7 @@ ninguém. Para ela tudo são libertinas e bêbedas.
 viva. Enquanto à libertinagem, tomara eu tantos mil cruzados como de amantes ela
 tem tido! Faz lá uma pequena idéia, menina!...
 
-
 A escrivã bebeu um cálice do vinho da sua prelada, e continuou:
-
 
 — Faz lá uma pequena idéia! Ela é velhíssima como a sé. Quando eu
 professei, já ela era velha como agora, com pouca diferença. Ora eu sou freira há
@@ -2258,9 +2011,7 @@ Não se fie de alguém, senão de mim. Olhe que a mestra de noviças e a organis
 são duas falsas. Não lhes dê trela, que, se as admite à sua confiança, está perdida.
 Ai vem a lesma... Falemos noutra coisa...
 
-
 A prelada vinha entrando, e a escrivã prosseguiu assim:
-
 
 — Não há, não há nada mais agradável que a vida do convento quando se
 tem a fortuna de ter uma prelada como a nossa... Aí! eras tu, menina? Olha se
@@ -2284,7 +2035,6 @@ trazem aqui tudo intrigado numa meada, que é mesmo coisa de pecado!
 — Do estomacal?
 
 — Pudera!
-
 
 Dionisia cumpriu a penitência, e saiu para, dizia ela deixar a prelada na sua
 hora de oração.
@@ -2333,15 +2083,12 @@ impossível. Ama-me assim desgraçada, porque me parece que os desgraçados são
 os que mais precisam de amor e de conforto. Vou ver se posso esquecer-me,
 dormindo. Como isto é triste, meu querido amigo!... Adeus".
 
-
 ## CAPÍTULO VIII
-
 
 Mariana, a filha de João da Cruz, quando viu seu pai pensar a chaga do
 braço de Simão, perdeu os sentidos. O ferrador riu estrondosamente da fraqueza da
 moça, e o acadêmico achou estranha sensibilidade em mulher afeita a curar as
 feridas com que seu pai vinha laureado de todas as feiras e romarias.
-
 
 — Não há ainda um ano que me fizeram três buracos na cabeça, quando eu
 fui à Senhora dos Remédios, a Lamego, e foi ela que me tosquiou e rapou o casco à
@@ -2370,11 +2117,6 @@ para as custas.
 — Vossemecê tem uma casinha sofrível — atalhou Simão — pode,
 querendo, casar a sua filha numa boa casa de lavoura.
 
-
-
-
-
-
 — Assim ela quisesse. Maridos não lhe faltam; até o alferes da casa da
 Igreja a queria, se eu lhe fizesse doação de tudo, que pouco é, mas ainda quatro mil
 cruzados bons; o caso é que a moça não tem querido casar, e eu, a falar a verdade,
@@ -2388,7 +2130,6 @@ deixa ir, e eu acho graça à obediência com que me deixo guiar pela moça, que
 pede que não vá por alma da mãe. Eu cá, em ela me pedindo por alma da minha
 santa mulher, já não sei de que freguesia sou.
 
-
 Mariana ouvia o pai escondendo meio rosto no seu alvíssimo avental de
 linho. Simão estava-se gozando na simpleza daquele quadro rústico, mas sublime
 de naturalidade.
@@ -2396,16 +2137,13 @@ de naturalidade.
 João da Cruz foi chamado para ferrar um cavalo, e despediu-se nestes
 termos:
 
-
 — Tenho dito, rapariga; aqui te entrego o nosso doente: trata-o como quem
 é e como se fosse teu irmão ou marido.
-
 
 O rosto de Mariana acerejou-se quando aquela última palavra saiu, natural
 como todas, da boca de seu pai.
 
 A moça ficou encostada ao batente da alcova de Simão.
-
 
 — Não foi nada boa esta praga que lhe caiu em casa, Mariana! — disse o
 acadêmico — Fazerem-na enfermeira dum doente, e privarem-na talvez de ir
@@ -2441,12 +2179,6 @@ gente fala nuns homens que apareceram mortos.
 eram criados do primo da tal senhora? Parece que vossa senhoria desconfia de
 mim, e está a querer guardar um segredo que eu tomara que ninguém soubesse,
 para que meu pai e o senhor Simão não tenha alguns trabalhos maiores...
-
-
-
-
-
-
 
 — Tem razão, Mariana; eu não devia esconder de si o mau encontro que
 tivemos.
@@ -2490,12 +2222,10 @@ noutro homem; antes de minha mãe morrer, acordei eu a chorar por ela, e mais
 ainda viveu dois meses... A gente da cidade ri-se dos sonhos, mas Deus sabe o que
 isto é... Aí vem meu pai... Senhor dos Passos! Não vá ser alguma má nova!...
 
-
 João da Cruz entrou com uma carta que recebera da pobre do costume.
 Enquanto Simão leu a carta escrita do convento, Mariana fitou os seus grandes
 olhos azuis no rosto do acadêmico, e, a cada contração da fronte dele, angustiavas-
 -lhe a ela o coração. Não teve mão da sua ânsia, e perguntou:
-
 
 — E noticia má?
 
@@ -2513,14 +2243,8 @@ estava aflito quando lia.
 — E não se enganou — tornou o doente, voltando-se para o ferrador. — O
 pai arrastou Teresa ao convento.
 
-
-
-
-
-
 — Sempre é patife duma vez! — disse o ferrador, fazendo com os braços
 instintivamente um movimento de quem aperta às mãos um pescoço.
-
 
 Neste, lance, um observador perspicaz veria luzir nos olhos de Mariana um
 clarão de inocente alegria.
@@ -2528,9 +2252,7 @@ clarão de inocente alegria.
 Simão sentou-se, e escreveu sobre uma cadeira, que Mariana
 espontaneamente lhe chegou, dizendo:
 
-
 — Enquanto escreve, vou olhar pelo caldinho, que está a ferver.
-
 
 "E necessário arrancar-te daí — dizia a carta de Simão. — Esse convento há
 de ter uma evasiva. Procura-a, e dize-me a noite e a hora em que devo esperar-te.
@@ -2551,7 +2273,6 @@ Depois ficou relendo a de Teresa, e recordando-se da resposta que dera.
 
 Mestre João foi à cozinha, e disse a Mariana:
 
-
 — Desconfio de uma coisa, rapariga.
 
 — O que é, meu pai?
@@ -2563,10 +2284,8 @@ Mestre João foi à cozinha, e disse a Mariana:
 — E que ele pediu-me a carteira para tirar dinheiro, e ela pesava tanto como
 uma bexiga de porco cheia de vento.
 
-
 Isto bole-me cá por dentro! Queria oferecer-lhe dinheiro e não sei como há
 de ser...
-
 
 — Eu pensarei nisso, meu pai — disse Mariana refletindo.
 
@@ -2577,22 +2296,18 @@ dinheiro dos meus bezerros: são onze moedas de ouro menos um quarto.
 
 — Pois falaremos: pensa tu no modo de ele aceitar sem remorsos.
 
-
 Remorsos, na linguagem pouco castigada de mestre João, era sinônimo de
 escrúpulos, ou repugnância.
 
 Foi Mariana levar o caldo a Simão, que lho rejeitou como distraído em
 profundo cismar.
 
-
 — Pois não toma o caldinho? — disse ela com tristeza.
 
 — Não posso, não tenho vontade, menina; será logo. Deixe-me sozinho
 algum tempo; vá, vá; não passe o seu tempo ao pé dum doente aborrecido.
 
-
 — Não me quer aqui? Irei, e voltarei quando vossa senhoria chamar.
-
 
 Dissera isto Mariana com os olhos a verterem lágrimas.
 
@@ -2663,11 +2378,9 @@ assim, e meditava angustiada a nobre rapariga. Depois ergueu-se de golpe,
 conversou longo tempo com o pai. João da Cruz escutou-a, contrariou-a, mas ia de
 vencida sempre pelas réplicas da filha, até que, a final, disse:
 
-
 — Farei o que dizes, Mariana. Dá-me cá o teu dinheiro, que não vou agora
 levantar a pedra da lareira para bulir no caixote dos quatrocentos mil réis. Tanto faz
 um como outro: teu é ele todo.
-
 
 Mariana deu-se pressa em ir à arca, donde tirou uma bolsa de linho com
 dinheiro em prata, e alguns cordões, anéis e arrecadas. Guardou o seu oiro numa
@@ -2676,7 +2389,6 @@ boceta, e deu a bolsa ao pai.
 João da Cruz aparelhou a égua e saiu. Mariana foi para a sala do doente.
 
 Acordou Simão.
-
 
 — Não sabe!? — exclamou ela com semblante entre alegre e assustado,
 perfeitamente contrafeito.
@@ -2703,14 +2415,12 @@ Vou-lhe buscar o caldinho, sim?
 
 — Vá, se quer, Mariana. O céu deparou-me em si a amizade duma irmã.
 
-
 Não achou a moça na sua alegre alma palavras em resposta à doçura que o
 rosto do mancebo exprimia.
 
 Veio com o "caldinho" — diminutivo que a retórica duma linguagem meiga
 sanciona; mas contra o qual protestava a larga e funda malga branca, ao lado da
 travessa com meia galinha loura, de gorda.
-
 
 — Tanta coisa! — exclamou, sorrindo, Simão.
 
@@ -2727,12 +2437,6 @@ que é uma sua irmã que lhe pede. Ainda agora me disse...
 — Que o céu me dava em si a amizade duma irmã...
 
 — Pois aí está...
-
-
-
-
-
-
 
 Simão achou tão necessário à sua conservação o sacrifício, como ao
 contentamento da carinhosa Mariana. Passou-lhe na mente, sem sombra de
@@ -2754,19 +2458,15 @@ aclamou a si próprio rei da criação, e nesta boa fé dinástica vai vivendo e
 
 ## CAPÍTULO IX
 
-
 Duas horas se detivera João da Cruz fora de casa. Chegou quando a
 curiosidade do estudante era já sofrimento.
-
 
 — Estará seu pai preso?! — disse ele a Mariana.
 
 — Não mo diz o coração, e o meu coração nunca me engana — respondera
 ela.
 
-
 E Simão replicara:
-
 
 — E que lhe diz o coração a meu respeito, Mariana? Os meus trabalhos
 ficarão aqui?
@@ -2779,13 +2479,11 @@ Diga...
 — Pois sim... O meu coração diz-me que os seus trabalhos ainda estão no
 começo...
 
-
 Simão ouviu-a atentamente e não respondeu. Assombrou-lhe o ânimo esta
 idéia torva, e afrontosa à singela rapariga: — "Pensará ela em me desviar de
 Teresa, para se fazer amar?"
 
 Pensava assim quando chegou o ferrador.
-
 
 — Aqui estou de volta — disse ele com semblante festivo. — Sua mãe
 mandou-me chamar...
@@ -2819,11 +2517,9 @@ soubesse que o menino cá estava, ia tudo raso lá em casa. Ora ai está.
 — Nada, senão que ela fora para o convento. Agora deixe-me ir amansar a
 égua, que está a escorrer em fio. Ó rapariga, traze-me cá a manta.
 
-
 Enquanto Simão contava onze moedas menos um quartinho, maravilhando
 da estranha liberalidade, Mariana, abraçando o pai no repartimento vizinho da casa,
 exclamava:
-
 
 — Arranjou muito bem a mentira!
 
@@ -2837,13 +2533,11 @@ bezerros.
 — Olha o milagre! isso sei eu: mas, como diz lá o ditado; quem semeia,
 colhe.
 
-
 Mariana quedou pensativa, e dizendo entre si: — Ainda bem que ele não
 pode pensar de mim o que meu pai pensa. Deus sabe que não tenho esperanças
 nenhumas interesseiras no que fiz.
 
 Simão chamou o ferrador, e disse-lhe:
-
 
 — Meu caro João, se eu não tivesse dinheiro, aceitava sem repugnância os
 seus favores, e creio que vosmecê nos faria sem esperança de ganhar com eles;
@@ -2860,7 +2554,6 @@ ora, ainda está a capoeira cheia de galinhas, e o pão coze-se todas as semanas
 — Em minha casa ninguém dá leis senão eu — replicou mestre João, com
 simulado enfadamento. — Guarde lá o seu dinheiro, fidalgo, e não falemos mais
 nisso, se quer que o negócio vá direito até ao fim. E victo-sério!
-
 
 Nos cinco subsequentes dias recebeu Simão regularmente cartas de Teresa,
 umas resignadas e confortadoras, outras escritas na violência exasperada da
@@ -2932,7 +2625,6 @@ Mariana estava ali; ouvira a confidência, e achara acertada a opinião de seu
 pai. Vedando, porém, a impaciência do hóspede, pediu licença para falar onde não
 era chamada, e disse:
 
-
 — Se o senhor Simão quer, eu vou à cidade e procuro no convento a Brito,
 que é uma rapariga minha conhecida, moça duma freira, e dou-lhe uma carta sua
 para entregar à fidalga.
@@ -2942,7 +2634,6 @@ moça.
 
 — Pois então! — disse o ferrador — o que pode fazer-se, faz-se. Vai-te
 vestir, rapariga, que eu vou botar o albardão à égua.
-
 
 Simão sentou-se a escrever. Tão embaralhadas lhe acudiam as idéias, que
 não atinava a formar o desígnio mais proveitoso à situação de ambos. Ao cabo de
@@ -2966,7 +2657,6 @@ amas, se por lhe dar alívio às dores tu mesma lhe desempeces o caminho por ond
 te ele há de fugir para sempre, que nome darei ao teu heroísmo! Que anjo te fadou o
 coração para a santidade desse obscuro martírio?!
 
-
 — Estou pronta, disse Mariana.
 
 — Aqui tem a carta, minha boa amiga. Faça muito por não vir sem resposta
@@ -2976,43 +2666,31 @@ coração para a santidade desse obscuro martírio?!
 
 — Não, é para si, Mariana: compre um anel.
 
-
 Mariana tomou a carta, e voltou rapidamente as costas para que Simão não
 lhe visse o gesto de despeito senão desprezo.
 
 O acadêmico não ousou insistir, vendo-a apressar-se na descida para o
 quinteiro, onde o ferrador enfreava a égua.
 
-
 — Não lhe chegues muito com a vara — disse João da Cruz a Mariana, que,
 de um pulo, se assentou no albardão, coberto de uma colcha escarlate. — Tu vais
 amarela como cidra, moça! — exclamou ele reparando na palidez da filha — Tu que
 tens?
 
-
-
-
-
-
 — Nada; que hei de eu ter?! dê-me cá a vara, meu pai.
-
 
 A égua partiu a galope, e o ferrador, no meio da estrada, a rever-se na filha
 e na égua, dizia em solilóquio, que Simão ouvira:
-
 
 — Vales tu mais, rapariga, que quantas fidalgas tem Viseu! Pela mais
 pintada não dava eu a minha égua; e, se cá viesse o Miramolim de Marrocas pedir-
 -me a filha, os diabos me levem se eu lha dava! Isto é que são mulheres, e o mais é
 uma história!
 
-
 ## CAPÍTULO X
-
 
 Apeou Mariana defronte do mosteiro, e foi à portaria chamar a sua amiga
 Brito.
-
 
 — Que boa moça! — disse o padre capelão, que estava no raro lateral da
 porta, praticando com a prioresa, acerca da salvação das almas, e de umas coretas
@@ -3030,10 +2708,8 @@ naquele todo da rapariga!...
 — Pois repare o senhor padre João — replicou a freira — que eu tenho mais
 que fazer.
 
-
 E retirou-se com o coração malferido, e o queixo superior escorrendo
 lágrimas... de simonte.
-
 
 — Donde é vossemecê? — disse brandamente o padre capelão.
 
@@ -3057,26 +2733,16 @@ lágrimas... de simonte.
 
 — Mariana, és tu?! Anda cá!
 
-
 A moça fez uma cortesia de cabeça ao padre capelão, e foi ao locutório
 donde vinha aquela voz.
-
 
 — Eu queria falar contigo em particular, Joaquina — disse Mariana.
 
 — Eu vou ver se arranjo uma grade: espera aí..
 
-
-
-
-
-
-
-
 O padre tinha saído do pátio, e Mariana, enquanto esperava, examinou, uma
 a uma, as janelas do mosteiro. Numa das janelas, através das reixas de ferro, viu ela
 uma senhora sem hábito.
-
 
 — Será aquela? — perguntou Mariana ao seu coração, que palpitava — Se
 eu fosse amada como ela!...
@@ -3084,16 +2750,12 @@ eu fosse amada como ela!...
 — Sobe aquelas escadinhas, Mariana, e entra na primeira porta do corredor,
 que eu lá vou — disse Joaquina.
 
-
 Mariana deu alguns passos, olhou novamente para a janela onde vira a
 senhora sem hábito, e repetiu ainda:
 
-
 — Se eu fosse amada como ela!...
 
-
 Mal entrou na grade, disse à sua amiga:
-
 
 — Olha lá, Joaquina, quem é uma menina muito branca, alva como leite, que
 estava ali agora numa janela?
@@ -3141,28 +2803,17 @@ que ela venha cá, que eu dou-te chita para um vestido.
 quero a tua chita, rapariga. Se eu puder dizer-lhe que venha, sem que alguém me
 ouça, digo-lho. E agora é boa maré, porque tocou ao coro... Deixa-me ir lá...
 
-
 Joaquina saiu-se bem da difícil comissão. Teresa estava sozinha, absorvida
 a cismar, com os olhos fitos no ponto onde vira Mariana.
 
-
 — A menina faz favor de vir comigo depressinha? — disse-lhe a criada.
 
-
 Seguiu-a Teresa, e entrou na grade, que Joaquina fechou, dizendo:
-
-
-
-
-
-
 
 — O mais breve que possa bata por dentro para eu lhe abrir a porta. Se
 perguntarem por vossa excelência, digo-lhe que a menina está no mirante.
 
-
 A voz de Mariana tremia, quando D. Teresa lhe perguntou quem era.
-
 
 — Sou uma portadora desta carta para vossa excelência.
 
@@ -3170,9 +2821,7 @@ A voz de Mariana tremia, quando D. Teresa lhe perguntou quem era.
 
 — Sim, minha senhora.
 
-
 A reclusa leu convulsiva a carta duas vezes, e disse:
-
 
 — Eu não posso escrever-lhe, que me roubaram o meu tinteiro, e ninguém
 me empresta um. Diga-lhe que vou de madrugada para o convento de Monchique,
@@ -3187,18 +2836,14 @@ muito acompanhada. Vai o primo Baltasar e as minhas primas, e meu pai e não sei
 quantos criados de bagagem e das liteiras. Tirar-me no caminho é uma loucura com
 resultados funestos. Diga-lhe tudo, sim?
 
-
 Joaquina disse fora da porta:
-
 
 — Menina, olhe que a prioresa anda lá por dentro a procurá-la.
 
 — Adeus, adeus — disse Teresa, sobressaltada. — Tome lá esta lembrança
 como prova de minha gratidão.
 
-
 E tirou do dedo um anel de ouro, que ofereceu a Mariana.
-
 
 — Não aceito minha senhora.
 
@@ -3208,9 +2853,7 @@ E tirou do dedo um anel de ouro, que ofereceu a Mariana.
 há de ser de quem cá me mandou. Fique com Deus, minha senhora, e oxalá que
 seja feliz.
 
-
 Saiu Teresa, e Joaquina entrou na grade.
-
 
 — Já te vais embora, Mariana?
 
@@ -3221,18 +2864,11 @@ Conta, que eu não digo nada, rapariga!...
 
 — Outra vez, outra vez; obrigada, Joaquina?
 
-
 Mariana, durante a veloz caminhada, foi repetindo o recado da fidalga; e, se
 alguma vez se distraia deste exercício de memória, era para pensar nas feições da
 amada do seu hóspede, e dizer, como em segredo, ao seu coração: "Não lhe
 bastava ser fidalga e rica: é, além de tudo, linda como nunca vi outra!" E o coração
 da pobre moça, avergoando ao que a consciência lhe ia dizendo, chorava.
-
-
-
-
-
-
 
 Simão, de uma fresta do postigo do seu quarto, espreitava ao longo do
 caminho, ou escutava a estropeada da cavalgadura.
@@ -3244,7 +2880,6 @@ depois do tiro.
 A filha do ferrador deu o recado, e sem alteração de palavra. Simão
 escutara-a placidamente até ao ponto em que lhe ela disse que o primo Baltasar a
 acompanhava ao Porto.
-
 
 — O primo Baltasar!... — murmurou ele com um sorriso sinistro — Sempre
 este primo Baltasar cavando a sua sepultura e a minha!...
@@ -3274,10 +2909,8 @@ caminho. Não tem mais que dizer.
 ninguém em trabalhos. Com a minha desgraça, por maior que ela seja, hei de eu
 lutar sozinho.
 
-
 João da Cruz, assumiu uma gravidade de que a sua figura raras vezes se
 enobrecia, disse:
-
 
 — Senhor Simão, vossa senhoria não sabe nada do mundo. Não meta
 sozinho a cabeça aos trabalhos, que eles, como o outro que diz, quando pegam de
@@ -3296,16 +2929,8 @@ o senhor quer sair à estrada e tirar a tal pessoa ao pai, ao primo, e a um regi
 se for necessário, eu vou montar na égua, e daqui a três horas estou de volta com
 quatro homens, que são quatro dragões.
 
-
-
-
-
-
-
-
 Simão fitara os olhos chamejantes no do ferrador, e Mariana exclamara,
 ajuntando as mãos sobre o seio:
-
 
 — Meu pai, não lhe dê esses conselhos!...
 
@@ -3316,7 +2941,6 @@ amansa-a, e bota-lhe seco. Não és aqui chamada.
 amargurada. — Eu não aproveito alguns dos conselhos de seu pai. Ouço-o com boa
 vontade, porque sei que quer o meu bem; mas hei de fazer o que a honra e o
 coração me aconselharem.
-
 
 Ao anoitecer, Simão, como estivesse sozinho, escreveu uma longa carta, da
 qual extraímos os seguintes períodos:
@@ -3353,13 +2977,11 @@ Não o deixaram continuar as lágrimas, nem depois a presença de Mariana.
 Vinha ela pôr a mesa para a ceia, e, quando desdobrava a toalha, disse em voz
 abafada, como se a si mesma somente o dissesse:
 
-
 — É a última vez que ponho a mesa ao senhor Simão em minha casa!
 
 — Por que diz isso, Mariana?
 
 — Por que mo diz o coração.
-
 
 Desta vez, o acadêmico ponderou supersticiosamente os ditames do
 coração da moça, e com o silêncio meditativo deu-lhe a ela a evidência antecipada
@@ -3368,13 +2990,7 @@ do vaticínio.
 Quando voltou com a travessa da galinha, vinha chorando a filha de João da
 Cruz.
 
-
 — Chora com pena de mim, Mariana? — disse Simão, enternecido.
-
-
-
-
-
 
 — Choro, porque me parece que o não tornarei a ver; ou, se o vir, será de
 modo que oxalá que eu morresse antes de o ver.
@@ -3391,7 +3007,6 @@ modo que oxalá que eu morresse antes de o ver.
 saísse.
 
 — Então perdoe a minha ousadia. Deus o tenha da sua mão.
-
 
 A rapariga foi contar ao pai as intenções do acadêmico. Acudiu logo mestre
 João combatendo a idéia da saída, com encarecer os perigos do ferimento. Depois,
@@ -3412,15 +3027,12 @@ portas da janela do seu quarto, e passou dali para a varanda de pau, da qual o s
 à estrada era sem risco. Saltou, e tinha dado alguns passos, quando a fresta, lateral
 à porta da varanda, se abriu, e a voz de Mariana lhe disse:
 
-
 — Então adeus, senhor Simão. Eu fico pedindo a Nossa Senhora que vá na
 sua companhia.
-
 
 O acadêmico parou, e ouviu a voz intima que lhe dizia: — "O teu anjo da
 guarda fala pela boca daquela mulher, que não tem mais inteligência que a do
 coração alumiado pelo seu amor."
-
 
 — Dê um abraço em seu pai. Mariana — disse-lhe Simão — e adeus... até
 logo, ou...
@@ -3428,7 +3040,6 @@ logo, ou...
 — Até ao juízo final... — atalhou ela.
 
 — O destino há de cumprir-se... Seja o que o céu quiser.
-
 
 Tinha Simão desaparecido nas trevas, quando Mariana acendeu a lâmpada
 do santuário, e ajoelhou orando com o fervor das lágrimas.
@@ -3479,7 +3090,6 @@ corações de meninas criadas à discrição. Se meu tio a obrigasse, desde meni
 uma obediência cega, tê-la-ia agora submissa, e ela não se julgaria autorizada a
 escolher marido.
 
-
 — Era uma filha única, Baltasar! — dizia o velho soluçando.
 
 — Pois por isso mesmo — replicou o sobrinho. — Se tivesse outra, ser-lhe-
@@ -3488,13 +3098,11 @@ filha mais querida, embora tivesse de impetrar uma licença régia para deserdar
 primogênita. Assim, agora, não lhe vejo outro remédio senão empregar o cautério à
 chaga; com emplastros é que se não faz nada.
 
-
 Abriu-se novamente a portaria e saíram as três senhoras, e após elas
 Teresa.
 
 Tadeu enxugou as lágrimas, e deu alguns passos a saudar a filha, que não
 ergueu do chão os olhos.
-
 
 — Teresa... — disse o velho.
 
@@ -3508,20 +3116,13 @@ ergueu do chão os olhos.
 
 — Não me acusa a consciência de o não ser.
 
-
-
-
-
-
 — Ainda mais?!... Queres ir para tua casa, e esquecer o maldito que nos faz
 a todos desgraçados?
 
 — Não, meu pai. O meu destino é o convento. Esquecê-lo nem por morte.
 Serei filha desobediente, mas mentirosa é que nunca.
 
-
 Teresa, circunvagando os olhos, viu Baltasar, e estremeceu, exclamando:
-
 
 — Nem aqui!
 
@@ -3544,7 +3145,6 @@ escondem-se nas costas dos criados, que se deixam matar.
 — Ainda se não fizeram as contas finais..., minha querida prima — redarguiu
 o morgado.
 
-
 Este diálogo correu rapidamente, enquanto Tadeu de Albuquerque cortejava
 a prioresa e outras religiosas. As quatro senhoras, seguidas de Baltasar, tinham
 saído do átrio do convento, e deram de rosto em Simão Botelho, encostado à
@@ -3552,20 +3152,15 @@ esquina da rua fronteira.
 
 Teresa viu-o... adivinhou-o, primeira de todas, e exclamou:
 
-
 — Simão!
-
 
 O filho do corregedor não se moveu.
 
 Baltasar, espavorido do encontro, fitando os olhos nele, duvidava ainda.
 
-
 — É incrível que este infame aqui viesse! — exclamou o de Castro-d'Aire.
 
-
 Simão deu alguns passos, e disse placidamente:
-
 
 — In[ame... eu! e por que?
 
@@ -3585,12 +3180,6 @@ forças.
 de se apresentar a sua filha a confortá-la na sua malvadez! Isto é de mais! Olhe que
 eu esmago-o aqui, seu vilão.
 
-
-
-
-
-
-
 — Vilão é o desgraçado que me ameaça, sem ousar avançar para mim um
 passo — redarguiu o filho do corregedor.
 
@@ -3601,7 +3190,6 @@ podes supor meus defensores, canalha!
 — Se assim é — tornou Simão, sorrindo — espero nunca me encontrar de
 rosto com sua senhoria. Reputo-o tão cobarde, tão sem dignidade, que o hei de
 mandar azorragar pelo primeiro mariola das esquinas.
-
 
 Baltasar Coutinho lançou-se de ímpeto a Simão. Chegou a apertar-lhe a
 garganta nas mãos; mas depressa perdeu o vigor dos dedos. Quando as damas
@@ -3614,7 +3202,6 @@ rodearam Simão, que conservava o dedo no gatilho da outra pistola. Animados uns
 pelos outros e pelos brados do velho, iam lançar-se ao homicida, com risco de vida,
 quando um homem, com um lenço pela cara, correu da rua fronteira, e se colocou,
 de bacamarte aperrado, à beira de Simão. Estacaram os homens.
-
 
 — Fuja, que a égua está ao cabo da rua — disse o ferrador ao seu hóspede.
 
@@ -3630,13 +3217,11 @@ postos nela, que caíra desfalecida sobre as escadas da igreja.
 — Já o estava. Vá-se embora, meu amigo, por sua filha lho rogo. Olhe que
 pode ser-me útil; fuja...
 
-
 Abriram-se todas as portas e janelas, quando o ferrador se lançou na fuga.
 até cavalgar a égua.
 
 Um dos vizinhos do mosteiro, que, em razão do seu ofício, primeiro saiu à
 rua, era o meirinho geral.
-
 
 — Prendam-no, prendam-no, que é um matador! — exclamava Tadeu de
 Albuquerque.
@@ -3650,7 +3235,6 @@ acrescentou a meia voz: — Venha, que eu deixo-o fugir.
 
 — Eu não fujo — tornou Simão. — Estou preso. Aqui tem a minhas armas.
 
-
 E entregou as pistolas.
 
 Tadeu de Albuquerque, quando se recobrou do espasmo, fez transportar a
@@ -3658,22 +3242,13 @@ filha a uma das liteiras, e ordenou que dois criados a acompanhassem ao Porto.
 
 As irmãs de Baltasar seguiram o cadáver de seu irmão para casa do tio.
 
-
-
-
-
-
-
-
 ## CAPÍTULO XI
-
 
 O corregedor acorda com o grande rebuliço que ia na casa, e perguntou à
 esposa, que ele supunha também desperta na câmara imediata, que bulha era
 aquela. Como ninguém lhe respondesse, sacudiu freneticamente a campainha, e
 ferrou ao mesmo tempo, aterrado pela hipótese de incêndio na casa. Quando D. Rita
 acudiu, já ele estava enfiando os calções às avessas.
-
 
 — Que estrondo é este? Quem é que grita? — exclamou Domingos Botelho.
 
@@ -3697,9 +3272,7 @@ Viseu! Aí está um caso para que as Ordenações do Reino não providenciaram.
 — Parece que brinca, Menezes! Seu filho matou na madrugada de hoje
 Baltasar Coutinho, sobrinho de Tadeu de Albuquerque.
 
-
 Domingos Botelho mudou inteiramente de aspecto.
-
 
 — Foi preso? — perguntou o corregedor.
 
@@ -3718,19 +3291,15 @@ morte?... Mande-me chamar o meirinho, sem demora.
 Senhora D. Rita, eu não quero ouvir choradeiras; diga às meninas que se calem, ou
 que vão chorar no quintal.
 
-
 O meirinho, chamado, relatou miudamente o que sabia e disse ter-se
 verificado que o amor à filha do Albuquerque fora causa daquele desastre.
 
 Domingos Botelho, ouvia a história, disse ao meirinho:
 
-
 — O juiz de fora que cumpra as leis; se ele não for rigoroso, eu o obrigarei a
 sê-lo.
 
-
 Ausente o meirinho, disse D. Rita Preciosa ao marido:
-
 
 — Que significa esse modo de falar de seu filho?
 
@@ -3740,10 +3309,6 @@ queria ver mil vezes morto Simão que ligado a essa família. Escrevi-lhe muitas
 dizendo-lhe que o expulsava de minha casa, se alguém me desse a certeza de que
 ele tinha correspondência com tal mulher. Não há de querer a senhora que eu vá
 sacrificar a minha integridade a um filho rebelde, e de mais a mais homicida.
-
-
-
-
 
 D. Rita, algum tanto por afeto maternal e bastante por espírito de
 contradição, contendeu largo espaço; mas desistiu, obrigada pela insólita pertinácia
@@ -3757,7 +3322,6 @@ recebê-lo, não com o semblante afetuoso de quem vai agradecer a delicadeza e
 implorar indulgência, senão que, de carrancudo que ia, mais parecera ir ele
 representar o juiz, por vir naquela visita dar a crer que a balança da justiça na sua
 mão tremia algumas vezes.
-
 
 — Começo por dar a vossa senhoria os pêsames da desgraça de seu filho
 — disse o juiz de fora.
@@ -3803,21 +3367,14 @@ quebranta o rancor de estranhos, quanto mais o afetuoso ressentimento de um pai!
 Cumpra o seus deveres, que lho ordena o corregedor, e o amigo mais tarde lhe
 agradecerá a delicadeza.
 
-
 Saiu o juiz de fora, e foi encontrar Simão na mesma serenidade em que o
 deixara.
-
 
 — Venho de falar com seu pai — disse o juiz; encontrei-o mais irado do que
 era natural calcular. Penso que por enquanto nada pode esperar da influência ou
 patrocínio dele.
 
 — Isto que importa? — respondeu sossegadamente Simão.
-
-
-
-
-
 
 — Importa muito, senhor Botelho. Se seu pai quisesse haveria meios de
 mais tarde lhe adoçar a sentença.
@@ -3851,7 +3408,6 @@ miudezas de estômago.
 
 — De certo não — redarguiu, irritado, o juiz — Faça o que quiser.
 
-
 E, chamando o meirinho geral, entregou-lhe o réu, dispensando o aguazil de
 pedir força para acompanhá-lo.
 
@@ -3882,12 +3438,10 @@ mãe!. ."
 
 Simão suspendeu a leitura, e disse entre si:
 
-
 — Como se entende isto?! Pois minha mãe não mandou chamar o João da
 Cruz! E não foi e]a quem me mandou o dinheiro?
 
 — Olhe que o almoço arrefece, menino! — disse o criado.
-
 
 Simão continuou a ler, sem ouvir o criado:
 
@@ -3910,7 +3464,6 @@ Simão Botelho refletiu alguns minutos, e convenceu-se de que o dinheiro
 recebido era de João da Cruz. Quando saiu com o espírito desta meditação, tinha os
 olhos marejados de lágrimas.
 
-
 — Não chore, menino — disse o criado. — Os trabalhos são para os
 homens, e Deus há de fazer tudo pelo melhor. Almoce, senhor Simão.
 
@@ -3922,7 +3475,6 @@ homens, e Deus há de fazer tudo pelo melhor. Almoce, senhor Simão.
 nada da casa de meus pais. Diz a minha mãe que eu estou sossegado, bem alojado,
 e feliz, e orgulhoso da minha sorte. Vai-te embora já.
 
-
 O criado saiu, e disse ao carcereiro que o seu infeliz amo estava doido. D.
 Rita achou provável a suspeita do servo, e viu a evidência da loucura nas palavras
 do filho.
@@ -3933,15 +3485,12 @@ momento não apertava sequer a mão do hóspede, correu a ele com os braços
 abertos e o rosto banhado de lágrimas. O carcereiro retirou-se, dizendo consigo: —
 "Esta é bem mais bonita que a fidalga!"
 
-
 — Não quero ver lágrimas, Mariana — disse Simão. — Aqui, se alguém
 deve chorar, sou eu; mas lágrimas dignas de mim, lágrimas de gratidão aos favores
 que tenho recebido de si e de seu pai. Acabo de saber que minha mãe nunca me
 mandou dinheiro algum. Era de seu pai aquele dinheiro que recebi.
 
-
 Mariana escondeu o rosto no avental com que enxugava o pranto.
-
 
 — Seu pai teve algum perigo? — tornou Simão em voz perceptível dela.
 
@@ -3968,11 +3517,6 @@ comprasse nada sem saber se sua família lhe mandava o necessário.
 
 — Eu não tenho família, Mariana. Tome o dinheiro.
 
-
-
-
-
-
 — Não recebo dinheiro, sem licença de meu pai. Para essas compras trouxe
 eu demais. E a sua ferida como estará?
 
@@ -3985,25 +3529,19 @@ meter sem sentidos na liteira, e está muito povo à porta do fidalgo.
 — Está bom, Mariana... Não há desgraçado sem amparo. Vá, pense no seu
 hóspede, seja o seu anjo de misericórdia.
 
-
 Saltaram de novo as lágrimas dos olhos da moça; e, por entre soluços, estas
 palavras:
-
 
 — Tenha paciência. Não há de morrer ao desamparo. Faça de conta que lhe
 apareceu hoje uma irmã.
 
-
 E, dizendo, tirou das amplas algibeiras um embrulho de biscoitos e uma
 garrafa de licor de canela, que depôs sobre a cadeira.
-
 
 — Mau almoço é; mas não achei outra coisa pronta — disse ela, e saiu
 apressada, como para poupar ao infeliz palavras de gratidão.
 
-
 ## CAPÍTULO XII
-
 
 O corregedor, nesse mesmo dia, ordenou que se preparassem mulher e
 filhas para no dia imediato saírem de Viseu com tudo que pudesse ser transportado
@@ -4038,10 +3576,6 @@ minha família é esta.
 No dia seguinte, ao romper da manhã, partimos para Vila-Real. A mãe
 chorava sempre; o pai, encolerizado por isso, saiu da liteira em que vinha com ela,
 fez que eu passasse para o seu lugar, e fez toda a jornada na minha cavalgadura.
-
-
-
-
 
 Logo que chegamos a Vila-Real, eram tão frequentes as desordens em
 casa, à conta do Simão, que meu pai abandonou a família, e foi sozinho para a
@@ -4124,35 +3658,28 @@ Obrigado a explicar a causa do crime, deu-a com toda a lealdade, sem articular o
 nome de Teresa Clementina de Albuquerque. Quando o advogado da acusação
 proferiu aquele nome, Simão Botelho ergueu-se de golpe, e exclamou:
 
-
 — Que vem aqui fazer o nome de uma senhora a este antro de infâmia e
 sangue? Que miserável acusador está ai, que não sabe, com a confissão do réu,
 provar a necessidade do carrasco sem enlamear a reputação duma mulher? A
 minha acusação está feita: eu a fiz. Agora a lei que fale, e cale-se o vilão que não
 sabe acusar sem infamar.
 
-
 O juiz impôs-lhe silêncio. Simão sentou-se, murmurando:
 
-
 — Miseráveis todos!
-
 
 Ouviu o réu a sentença de morte natural para sempre na forca, arvorada no
 local do delito. E ao mesmo tempo saíram dentre a multidão uns gritos dilacerantes.
 Simão voltou a face para as turbas, e disse:
 
-
 — Ides ter um belo espetáculo, senhores! A forca é a única festa do povo!
 Levai dai essa pobre mulher que chora: essa é a criatura única para quem o meu
 suplício não será um passatempo,
-
 
 Mariana foi transportada em braços à sua casinha, na vizinhança da cadeia.
 Os robustos braços que a levam eram os de seu pai, Simão Botelho, quando, em
 toda a agilidade e força dos dezoito anos, ia do tribunal ao cárcere, ouviu algumas
 vozes que se alteravam deste modo:
-
 
 — Quanto vai ele a padecer?
 
@@ -4171,11 +3698,6 @@ vozes que se alteravam deste modo:
 — Deixa ir, que não tarda quem lha faça cair ao chão!...
 
 — Dizem que o carrasco já vem pelo caminho.
-
-
-
-
-
 
 — Já chegou de noite, e trazia dois cutelos numa coifa.
 
@@ -4203,7 +3725,6 @@ país que levem os filhos a verem os enforcados.
 — Isso há de ser para o não esfolarem a ele, quando ele nos esfola com os
 peditórios.
 
-
 Tão desassombrado ia o espírito de Simão, que algumas vezes esvoaçou
 nos lábios um sorriso, desafiado pela filosofia do povo, à cerca da forca,
 
@@ -4226,14 +3747,12 @@ de gratidão.
 E chorou então aquele homem de ferro. Chorou lágrimas que valiam bem as
 amarguras de Mariana.
 
-
 — Cuide de sua filha, senhor Cruz! — disse Simão com fervente súplica ao
 ferrador — Deixe-me a mim, que estou vigoroso e bom. Vá consolar essa criatura,
 que nasceu debaixo da minha má estrela. Tire-a de Viseu; leve-a para sua casa.
 Salve-a, para que neste mundo fiquem duas irmãs que me chorem. Os favores que
 me tem feito, já agora dispensa-os a brevidade da minha vida. Daqui a dias
 mandam-me recolher ao oratório; bom será sua filha ignore.
-
 
 De volta, João da Cruz achou a filha prostrada na pavimento, ferida no rosto,
 chorando e rindo, demente em suma. Levou-a amarrada para sua casa, e deixou a
@@ -4265,12 +3784,9 @@ suicídio não era, pois, esperanças em Deus, nem nos homens; era este
 pensamento: "Afinal, cobarde! Que bravura é morrer quando não há esperança da
 vida?! A forca é um triunfo quando se encontra ao cabo do caminho da honra
 
-
 ## CAPÍTULO XIII
 
-
 — E Teresa?
-
 
 Perguntam a tempo, minha senhoras, e não me hei de queixar se me
 arguírem de a ter esquecido e sacrificado a incidentes de menosporte.
@@ -4295,7 +3811,6 @@ sonho! Sentia-se de novo falecer de forças, e voltava à vida, sacudida pela
 consciência da sua desgraça. Condoeu-se a criada, e incitou-a a respirar, chorando
 com ela, e dizendo-lhe:
 
-
 — Pode falar, menina, que ninguém nos segue.
 
 — Ninguém?!
@@ -4309,10 +3824,6 @@ com ela, e dizendo-lhe:
 — E eu vou para o Porto?
 
 — Vamos, sim minha senhora.
-
-
-
-
 
 — E tu viste tudo como foi, Constança?
 
@@ -4332,7 +3843,6 @@ senhor Simão; mas ele com outra pistola...
 — Afinal foi ele que se deu à prisão.
 
 — Está preso?!
-
 
 E, sufocada pelos soluços, com o rosto no lenço, não ouvia as palavras
 confortadoras de Constança.
@@ -4369,12 +3879,9 @@ refulgente rebrilha às vezes em corações infelizes.
 
 Quis Teresa escrever.
 
-
 — A quem, minha filha? — perguntou a prelada.
 
-
 Teresa não respondeu.
-
 
 — Escrever-lhe para quê? — tornou a religiosa. — Cuidas tu, menina, que
 as tuas cartas lhe chegam à mão? Que vais tu fazer senão redobrar a ira de teu pai
@@ -4382,13 +3889,6 @@ contra ti e contra o infeliz preso?! Se o amas, como creio, apesar de tudo, cuid
 salvá-lo. Se não ouves a minha razão, finge-te esquecida. Se podes violentar a tua
 dor, dissimula, faze muito porque o teu pai chegue a noticia de que lhe serás dócil
 em tudo, se ele tiver piedade do teu pobre amigo.
-
-
-
-
-
-
-
 
 Não recalcitrou Teresa. Deu outro sorriso ao anjo da morte, e pediu-lhe que
 a envolvesse a ela, e ao seu amor, e à sua esperança, de todo, na negrura de suas
@@ -4416,9 +3916,7 @@ julgavam incurável,
 Alguma freira inadvertida lhe disse um dia que uma sua amiga do convento
 dos Remédios de Lamengo lhe dissera que Simão tinha sido condenado à morte.
 
-
 — E eu vivo ainda!
-
 
 Depois orou, e chorou; mas os costumes da sua vida em paroxismos
 continuaram inalteráveis.
@@ -4458,24 +3956,18 @@ convulsão lhe vibrou todo o corpo por largo espaço. Não escreveu a palavra! M
 idéia da força parou-lhe a vida. A freira entrou na cela a pedir-lhe a carta, porque o
 correio ia a partir. Teresa, indicando-lhe, disse:
 
-
 — Leia, se quiser, e feche-a, por caridade, que eu não posso.
-
 
 Nos três dias seguintes Teresa não saiu do leito. A cada hora as religiosas
 assistentes esperavam que ela fechasse os olhos.
 
-
 — Custa muito morrer! — dizia algumas vezes a enferma.
-
 
 Não faltavam piedosos discursos a divertirem-lhe o espírito do mundo,
 
 Teresa ouvia-os, e dizia com ânsia:
 
-
 — Mas a esperança do céu, sem ele!... Que é o céu, meu Deus?
-
 
 E o apostólico capelão do mosteiro não sabia dizer se os bens do céu
 tinham comum com os do mundo as delícias que falsamente na terra se chamam
@@ -4509,18 +4001,11 @@ olhos no céu, e reconheço a providência dos infelizes. Ontem, vi as nossas es
 aquelas dos nossos segredos nas noites da ausência. Volvi à vida, e tenho o
 coração cheio de esperanças. Não morras, filha da minha alma!"
 
-
-
-
-
-
-
 Ia alta a noite, quando Teresa, sentada no seu leito, leu esta carta. Chamou
 a criada, para ajudá-la a vestir, Mandou abrir a janela do seu quarto, e encostou as
 faces às reixas de ferro. Esta janela olhava para o mar, e o mar era nessa noite uma
 imensa flama de prata; e a Lua, esplendidíssima, eclipsava o fulgor dumas estrelas
 que Teresa procurava no céu.
-
 
 — São aquelas! — exclamou ela.
 
@@ -4544,18 +4029,14 @@ já esteja...
 
 — Simão; o Simão vem para o Porto.
 
-
 A criada julgou que a sua ama delirava, mas não a contrariou.
-
 
 — Teve carta dele a fidalga? — tornou ela, cuidando que assim lhe
 alimentava aquele instante de febril contentamento.
 
 — Tive... Queres ouvir?... Eu leio...
 
-
 E leu a carta, com grande pasmo de Constança, que se convenceu.
-
 
 — Agora vamos rezar, sim?... Tu não és inimiga dele, não? Olha,
 Constança, se eu casar com ele, tu vais para a nossa companhia. Verás como és
@@ -4566,36 +4047,24 @@ feliz, Queres ir, não queres?
 — Livra; tu verás que livra; o pai dele há de livrá-lo... e a Virgem Santíssima
 é que nos há de unir. Mas, se eu morro... se eu morro, meu Deus!
 
-
 E, com as mãos convulsivamente enlaçadas sobre o seio, Teresa arquejava
 em pranto.
-
 
 — Se eu não tenho já forças!... Todos dizem que eu morro, e o médico já
 nem me receita!... Então melhor me fora ter acabado antes desta hora! Morrer com
 esperanças, ó Mãe de Deus!
 
-
 E ajoelhou ante o retábulo devoto que trouxera do seu quarto de Viseu, ao
 qual sua mãe e avó já tinham orado, e em cujo rosto compassivo os olhos das duas
 senhoras moribundas tinham apagado os seus últimos raios de luz.
 
-
-
-
-
-
-
-
 ## CAPÍTULO XIV
-
 
 Anunciara-se Tadeu de Albuquerque na portaria de Monchique, ao dia
 seguinte dos anteriores sucessos.
 
 Sua prima, primeira senhora que lhe saiu ao locutório, vinha enxugando as
 lágrimas de alegria.
-
 
 — Não cuide que eu choro de aflita, meu primo — disse ela. — O nosso
 anjo, se Deus quiser, pode salvar-se. Logo de manhã a vi passear por seu pé nos
@@ -4631,30 +4100,20 @@ cumpra-se a sua vontade. Quer ver a menina, não é assim?
 — Pois bem, enquanto eu vou chamá-la, queira entrar na primeira grade à
 sua mão direita, que Teresa lá vai ter.
 
-
 Avisada Teresa de que seu pai a esperava, instantaneamente a cor sadia
 que alegrava as senhoras religiosas se demudou na lividez costumada. Quis a tia,
 vendo-a assim, que ela não saísse do seu quarto, e encarregava-se de espaçar a
 visita do pai.
 
-
 — Tem de ser — disse Teresa. — Eu vou, minha tia.
-
 
 O pai, ao vê-la, estremeceu e enfiou. Esperava mudança, mas não tamanha.
 Pensou que a não conheceria sem o prevenirem de que ia ver sua filha.
 
-
 — Como eu te encontro, Teresa! — exclamou ele, comovido. — Por que me
 não disseste há mais tempo o teu estado?
 
-
 Teresa sorriu-se, e disse:
-
-
-
-
-
 
 — Eu não estou tão mal como as minhas amigas imaginam.
 
@@ -4705,21 +4164,17 @@ Porto?
 me sinto mal. Dê-me licença... e vingue-se como puder. A minha glória neste longo
 martírio seria uma forca levantada ao lado da do assassino.
 
-
 Teresa saiu da grade, deu alguns passos na direção da sua cela, e
 encostou-se esvaída à parede. Correram a ampará-la sua tia e a criada, mas ela,
 afastando-as suavemente de si, murmurou:
 
-
 — Não é preciso... Estou boa... Esses golpes dão vida, minha tia.
-
 
 E caminhou sozinha a passos vacilantes.
 
 Tadeu batia à porta do mosteiro com irrisório enfurecimento pancadas, umas
 após outras, com grande medo da porteira e outras madres, espantadas do insólito
 despropósito.
-
 
 — Que é isso, primo? — disse a prelada, com severidade.
 
@@ -4732,11 +4187,6 @@ despropósito.
 — Isso assim é; mas tenha prudência, primo.
 
 — Não há prudência nem meia prudência. Quero minha filha cá fora.
-
-
-
-
-
 
 — Pois ela não quer ir?
 
@@ -4780,7 +4230,6 @@ mesma deseja aqui ficar.
 — Tenho entendido — bradou ele — querem-me matar! Pois não matam;
 primeiro há de o diabo dar um estouro!
 
-
 Tadeu de Albuquerque saiu em corcovos do átrio do mosteiro. Era hedionda
 aquela raiva que lhe contraia as faces encorreadas, revendo suor e sangue aos
 olhos acovados.
@@ -4801,7 +4250,6 @@ saída digna da sua prosápia e vingança. No dia seguinte, bateu à porta de al
 desembargadores, e achava-os mais inclinados à demência que à justiça a respeito
 de Simão Botelho. Um deles, amigo de infância de D. Rita Preciosa, e implorado por
 ela, falou assim ao sanhudo fidalgo:
-
 
 — Em pouco está o ser homicida, senhor Albuquerque. Quantas mortes teria
 vossa senhoria hoje feito se alguns adversários se opusessem à sua cólera? Esse
@@ -4832,11 +4280,9 @@ seu pai, Simão Botelho tem do melhor sangue de Trás-os-Montes, e não se temer
 de entrar em competências com o dos Albuquerques de Viseu, que não é de certo o
 dos Albuquerques terríveis de que reza Luís de Camões...
 
-
 Ofendido até ao âmago pela derradeira ironia, Tadeu ergueu-se de ímpeto,
 tomou o chapéu e a enorme bengala de castão de ouro e fez a cortesia de
 despedida.
-
 
 — São amargas as verdades, não é assim? — disse-lhe, sorrindo, o
 desembargador Mourão Mosqueira,
@@ -4845,9 +4291,7 @@ desembargador Mourão Mosqueira,
 respondeu com tom irônico o fidalgo, alanceado na sua honra e na dos seus quinze
 avós.
 
-
 O desembargador retorquiu:
-
 
 — Fique no que quiser; mas vá na certeza, se isso lhe serve de alguma
 coisa, que Simão Botelho não vai à forca.
@@ -4855,7 +4299,6 @@ coisa, que Simão Botelho não vai à forca.
 — Veremos... — resmoneou o velho.
 
 ## CAPÍTULO XV
-
 
 São treze dias decorridos do mês de Março de 1805.
 
@@ -4929,12 +4372,6 @@ Que morte a tua, ó minha santa amiga!"
 E prosseguiu até ao momento em que João da Cruz, com ordem do
 intendente geral da polícia, entrou no quarto.
 
-
-
-
-
-
-
 — Aqui! — exclamou Simão, abraçando-o. — E Mariana? Deixou-a
 sozinha?! Morta, talvez!
 
@@ -4963,11 +4400,9 @@ que um cristão se possa sentar,
 — Há de ter muito, não tem dúvida; mas eu tenho mais, e vossa senhoria
 tem ordem franca. Veja lá esse papel.
 
-
 Simão leu uma carta de D. Rita Preciosa, escrita ao ferrador, em que o
 autorizava a socorrer seu filho com as necessárias despesas, prontificando-se a
 pagar todas as ordens que lhe fossem apresentadas com a sua assinatura.
-
 
 — É justo — disse Simão, restituindo a carta — porque eu devo ter uma
 legitima.
@@ -4980,10 +4415,8 @@ preso.
 
 — Diga lá, fidalgo.
 
-
 Simão pediu-lhe a entrega de uma carta em Monchique a Teresa de
 Albuquerque.
-
 
 — O berzabum parece-me que as arma! — disse o ferrador. — Venha de lá
 a carta. O pai dela está cá. Já sabia?
@@ -4995,7 +4428,6 @@ cabeça numa, já me lembrou de o esperar no caminho e pendurá-lo pelo gasnete 
 galho dum sobreiro. . . A carta tem resposta?
 
 — Se lha derem, meu bom amigo.
-
 
 Chegou o ferrador a Monchique, a tempo que um oficial da justiça, dois
 médicos e Tadeu de Albuquerque entravam no pátio do convento.
@@ -5013,7 +4445,6 @@ rigorosa prelada.
 Saíram, e o ferrador só então refletiu no modo de entregar a carta. A
 primeira idéia pareceu-lhe a melhor. Chegou ao ralo, e disse:
 
-
 — Ó senhora freira!
 
 — Que quer vossemecê? — disse a prelada.
@@ -5027,9 +4458,7 @@ aqui o pai daquela rapariga da aldeia que ela sabe?
 
 — Já sei! — exclamou de dentro a voz de Teresa, correndo ao locutório.
 
-
 A prelada retirou-se a um lado, e disse:
-
 
 — Vê lá o que fazes, minha filha...
 
@@ -5037,19 +4466,15 @@ A prelada retirou-se a um lado, e disse:
 
 — Sim, senhora, aqui está a carta.
 
-
 E depositou na roda a carta em que a abadessa reparou, e disse, sorrindo:
-
 
 — Muito engenhoso é o amor, Teresinha... Permita Deus que as noticias da
 rapariga da aldeia te alegrem o coração; mas olha, filhinha, não cuides que a tua
 velha tia é menos esperta que o pai da rapariga da aldeia.
 
-
 Teresa respondeu com beijos às jovialidades carinhosas da santa senhora, e
 sumiu-se a ler a carta, e a responder-lhe. Entregando a resposta, disse ela ao
 ferrador:
-
 
 — Não vê ai sentada naquela escadinha uma pobre?
 
@@ -5062,7 +4487,6 @@ entregue-lhas a ela, sim? Eu já a mandei à cadeia; mas não a deixaram lá ent
 
 — Bem está, e o arranjo não é mau assim. Fique com Deus, menina.
 
-
 Esta boa nova alegrou Simão. A providência divina apiedara-se dele naquele
 dia. O restaurar-se o juízo de Mariana e a possibilidade de corresponder-se com
 Teresa eram as máximas alegrias que podiam baixar do céu ao seu cerrado
@@ -5072,7 +4496,6 @@ Exaltara-se Simão em graças a Deus, na presença de João da Cruz, que
 arrumava, no quarto, uns móveis que comprara em segunda mão, quando este,
 suspendendo o trabalho, exclamou:
 
-
 — Então vou-lhe dizer outra coisa, que não tinha tenção de lhe dizer, para o
 apanhar de supetão.
 
@@ -5081,14 +4504,8 @@ apanhar de supetão.
 — A minha Mariana veio comigo, e ficou na estalagem porque não se podia
 bulir com dores; mas amanhã ela cá está para lhe fazer a cozinha e varrer a casa.
 
-
-
-
-
-
 Simão, reconcentrando o indefinível sentimento que esta noticia lhe causara,
 disse com melancólica pausa:
-
 
 — É, pois, certo que a minha má estréia arrasta a sua desgraçada filha a
 todos os meus abismos! Pobre anjo de caridade, que digna tu és do céu!
@@ -5111,11 +4528,9 @@ sinto. A Mariana!... Aquilo é d'a pele de Satanás! Pergunte o senhor, se algum
 falar com aquele fidalguinho Mendes, de Viseu, a troçada que ele levou com as
 rédeas da égua, só por lhe bulir na chinela quando ela estava em cima da burra!
 
-
 Simão sorriu ao rasgado panegírico da bravura da moça, e orgulhou-se
 secretamente dos brandos afagos com que ela o desvelara em oito meses de quase
 continuada convivência.
-
 
 — E vossemecê há de privar-se da companhia de sua filha? — insistiu o
 preso.
@@ -5129,9 +4544,7 @@ eu não sou tolo, fidalgo. Que ela tem paixão d'alma por vossa senhoria, isto; 
 certo como eu ser João. É a sua sina; que hei de eu fazer-lhe? Deixá-la, que pelo
 senhor Simão não lhe há de vir mal, ou então já não há honra neste mundo.
 
-
 Simão lançou-se aos braços do ferrador, exclamando:
-
 
 — Pudesse eu ser o marido de sua filha, meu nobre amigo!
 
@@ -5157,9 +4570,7 @@ como trouxe uma cartinha de sua mãe para um senhor desembargador, fui onde a
 ele, e hoje de manhã já lá tinha na estalagem a ordem do senhor intendente geral da
 policia. Até logo.
 
-
 ## CAPÍTULO XVI
-
 
 Um incidente agora me ocorre, não muito concertado com o seguimento da
 história, mas a propósito vindo para demonstrar uma face da índole do ex-
@@ -5195,7 +4606,6 @@ acolhimento.
 
 Perguntou-lhe Manuel a história do seu desastre.
 
-
 — Consta do processo — respondeu Simão.
 
 — E tem o mano esperanças de liberdade? — replicou Manuel.
@@ -5207,22 +4617,14 @@ recursos; mas, se precisa de roupa, repartirei consigo da minha.
 
 — Não preciso nada, Esmolas só as recebo daquela mulher.
 
-
 Já Manuel tinha reparado em Mariana, e da beleza da moça inferira
 conclusões para formar falsos juízos.
-
-
-
-
-
 
 — E quem é esta menina? — tornou Manuel.
 
 — É um anjo... Não lhe sei dizer mais nada.
 
-
 Mariana sorriu-se, e disse:
-
 
 — Sou uma criada do senhor Simão e de vossa senhoria.
 
@@ -5232,9 +4634,7 @@ Mariana sorriu-se, e disse:
 
 — E tem feito sempre companhia a meu mano?
 
-
 Simão atalhou assim à resposta balbuciante de Mariana:
-
 
 — A sua curiosidade incomoda-me, mano Manuel,
 
@@ -5243,11 +4643,9 @@ Quer alguma coisa para a mãe?
 
 — Nada.
 
-
 Estando Manuel Botelho, na tarde desse dia, fechando as malas para seguir
 jornada para Vila-Real, foi visitado pelo desembargador Mourão Mosqueira e pelo
 corregedor do crime.
-
 
 — Devemos à espionagem da polícia — disse o corregedor — a novidade
 de estar nesta estalagem um filho do meu antigo amigo, condiscípulo e colega
@@ -5311,7 +4709,6 @@ mulher que vimos não é irmã dele.
 — Pois, se nos mentiu, é patife, por nos obrigar a cortejar uma concubina!...
 Eu me informarei... — disse o corregedor, ofendido no seu austero pundonor.
 
-
 E no próximo correio, escrevendo a Domingos Botelho, dizia no período final
 "Tive o gosto de conhecer teu filho Manuel e uma de tuas filhas; por ele te mandei
 um abraço, e por ela te mandaria outro, se fosse moda ensinarem velhos a meninas
@@ -5337,7 +4734,6 @@ Bragança.
 A açoreana, em vez do juiz, encontrou um feio homem, de carrancuda
 sambra, e aparência de intenções sinistras.
 
-
 — Eu sou pai de Manuel — disse Domingos Botelho. Sei a história da
 senhora. O infame é ele. Vossa senhoria é a vítima. O castigo da senhora principiou
 desde o momento em que a sua consciência lhe disse que praticou uma ação
@@ -5356,18 +4752,11 @@ indigna. Se a consciência lho não disse ainda, ela lho dirá. Donde é?
 — Sabe que Manuel é um desertor, que a estas horas está preso ou
 fugitivo?
 
-
-
-
-
-
 — Não sabia...
 
 — Quer isto dizer que a senhora não tem proteção de alguém...
 
-
 A pobre mulher soluçava, abafada por ânsias, e debulhada em lágrimas.
-
 
 — Por que não vai para sua mãe?
 
@@ -5382,9 +4771,7 @@ Açores. Estamos combinados? Aceita?
 — E beijo as mãos de vossa senhoria... Uma desgraçada como eu não
 podia esperar tanta caridade.
 
-
 Poucas horas depois, a esposa do médico...
-
 
 — Que tinha morrido de paixão e vergonha talvez! — exclama uma leitora
 sensível.
@@ -5397,7 +4784,6 @@ cartas despeitosas, e que não pega nos maridos a quem o século dotou de uns
 longes de filosofia, filosofia grega e romana, porque bem sabem que os filósofos da
 antiguidade davam por mimo as mulheres aos seus amigos, quando os seus amigos
 por favor lhas não tiravam, E esta filosofia hoje então...(6)
-
 
 Pois o médico não morreu, nem sequer desmedrou, ou levou R significativo
 de preocupação do ânimo, insensível às amenidades da terapêutica.
@@ -5424,23 +4810,14 @@ Partiu para Lisboa a açoreana, e dali para a sua terra, e para o abrigo de sua
 mãe, que a julgara morta, e lhe deu anos de vida, se não ditosa, sossegada e
 desiludida de quimeras.
 
-
-
-
-
-
-
 Manuel Botelho, obtido o perdão pela preponderância do corregedor do
 crime, mudou de regimento para Lisboa, e ai permaneceu até que, falecido seu pai,
 pediu a baixa e voltou à província.
 
-
 ## CAPÍTULO XVII
-
 
 João da Cruz, no dia 4 de agosto de 1805, sentou-se à mesa com triste
 aspecto e nenhum apetite do almoço.
-
 
 — Não comes, João? — disse-lhe a cunhada.
 
@@ -5469,12 +4846,10 @@ Sabes que mais? Leve a breca o dinheiro! Amanhã vou ao Porto.
 Por ora, tem-se resistido a tudo com o meu braço. A rapariga, se ficar com menos, lá
 se avenha. Assim o quer, assim o tenha.
 
-
 Reanimou-se a fisionomia do mestre ferrador, e como que os empeços da
 garganta se iam removendo à medida que planizava a sua ida ao Porto.
 
 Acabara de almoçar, e ficara cismático, encostado à mesa do escano.
-
 
 — Ainda estás malucando?! — tornou Josefa.
 
@@ -5488,25 +4863,17 @@ mãos — que dizes tu, João?
 — Isso é flato, homem! Vai tomar ar; trabalha um poucochinho para
 espaireceres.
 
-
 João da Cruz passou ao coberto onde tinha o armário da ferragem e a
 bigorna, e começou a atarracar cravos.
 
 Alguns conhecidos tinham passados, palavreando com ele consoante
 costumavam, e achavam-no taciturno e nada para graças.
 
-
 — Que tens tu, João? — dizia um.
 
 — Não tenho nada. Vai à tua vida e deixa-me, que não estou para lérias.
 
-
-
-
-
-
 Outro parava e dizia:
-
 
 — Guarde-o Deus, senhor João.
 
@@ -5517,23 +4884,19 @@ Outro parava e dizia:
 — Pois então vá com Nossa Senhora, que eu estou cá de candeias às
 avessas.
 
-
 O ferrador largava o martelo; sentava-se aos poucos no tronco, e coçava a
 cabeça com frenesi. Depois recomeçava novamente, e tão alheado o fazia, que
 estragava o cravo, ou martelava os dedos.
-
 
 — Isto é coisa do diabo! — exclamou ele; e foi à cozinha procurar a pichorra,
 que emborcou como qualquer elegante de paixões etéreas se aturde com absinto.
 — Hei de afogar-te, coisa má, que me estás apertando a alma! — continuou o
 ferrador, sacudindo os braços, e batendo o pé no soalho.
 
-
 Voltou ao coberto a tempo que um viandante ia passando sobre a sua
 possante mula. Envolvia-se o cavaleiro num amplo capote à moda espanhola, sem
 embargo da calma que fazia. Viam-se-lhe as botas de couro cru, com esporas
 amarelas afiveladas, e o chapéu derrubado sobre os olhos.
-
 
 — Ora viva! — disse o passageiro.
 
@@ -5555,14 +4918,11 @@ chibança!
 
 — Meu pai era um recoveiro de Carção, chamado Bento Machado.
 
-
 Proferida metade destas palavras, o cavalheiro afastou rapidamente as
 bandas do capote e desfechou um bacamarte no peito do ferrador. O ferido recuou,
 exclamando:
 
-
 — Mataram-me!... Mariana, não te vejo mais!...
-
 
 O assassino teria dado cinquenta passos a todo o galope da espantada
 mula, quando João da Cruz, debruçado sobre o banco, arrancava o último suspiro
@@ -5574,13 +4934,7 @@ as últimas palavras de seu cunhado. Quis transportá-lo para dentro e correr a
 chamar cirurgião; mas um cirurgião estava no ajuntamento, e declarou morto o
 homem.
 
-
 — Quem o matou? — exclamavam trinta vozes a um tempo.
-
-
-
-
-
 
 Nesse mesmo dia vieram justiça de Viseu lavrar auto e devassar: nenhum
 indício lhes deu o fio do misterioso assassínio. O escrivão dos órfãos inventariou os
@@ -5599,12 +4953,9 @@ Fez Josefa escrever a Mariana, noticiando-lhe a morte de seu pai, mas
 sobrescritou a carta a Simão Botelho, para maior segurança. Estava Mariana no
 quarto do preso, quando a carta lhe foi entregue.
 
-
 — Não conheço a letra, Mariana... E a obreia é preta...
 
-
 Mariana examinou o sobrescrito, e empalideceu.
-
 
 — Eu conheço a letra — disse ela — é do Joaquim da loja. Abra, depressa,
 senhor Simão... Meu pai morreria?
@@ -5614,25 +4965,19 @@ estava bom?
 
 — Isso que tem?... Veja quem assina.
 
-
 Simão buscou a assinatura, e disse:
-
 
 — Josefa Maria!... É a tua tia que lhe escreve.
 
 — Leia... leia... Que diz ela? Deixe-me ler a mim...
 
-
 O preso lia mentalmente, e Mariana instou:
-
 
 — Leia alto, por quem é, senhor Simão, que estou a tremer... e vossa
 senhoria descora... Que é, meu Deus?
 
-
 Simão deixou cair a carta, e sentou-se prostrado de ânimo. Mariana correu a
 levantar a carta, e ele, tomando-lhe a mão, murmurou:
-
 
 — Pobre amigo!... Choremo-lo ambos... choremo-lo, Mariana, que o
 amávamos como filhos...
@@ -5641,23 +4986,15 @@ amávamos como filhos...
 
 — Morreu... mataram-no!...
 
-
 A moça expediu um grito estrídulo, e foi com o rosto contra os ferros das
 grades. Simão inclinou-a para o seio, e disse-lhe com muita ternura e veemência:
-
 
 — Mariana, lembre-se que é o meu amparo. Lembre-se de que as últimas
 palavras de seu pai deviam ser recomendar-lhe o desgraçado que recebe das tuas
 mãos benfeitoras o pão da vida. Mariana, minha querida irmã, vença a dor, que pode
 matá-la, e vença-a por amor de mim. Ouve-me, amiga da minha alma?
 
-
-
-
-
-
 Mariana exclamou:
-
 
 — Deixe-me chorar, por caridade!... Ai! meu Deus, se eu torno a endoidecer!
 
@@ -5668,9 +5005,7 @@ estima, que me ama, e que afrontará com coragem a maior desgraça que ainda
 pode sugerir-me o inferno! Chore, minha irmã, chore: mas veja-me através das suas
 lágrimas!
 
-
 ## CAPÍTULO XVIII
-
 
 Mariana, decorridos dias, foi a Viseu recolher a herança paterna Em
 proporção com o seu nascimento, bem dotada a deixara o laborioso ferrador. Afora
@@ -5682,7 +5017,6 @@ terras, e deixou a casa a sua tia, que nascera nela, e onde seu pai casara.
 Liquidada a herança, tornou para o Porto, e depositou o seu cabedal nas
 mãos de Simão Botelho, dizendo que receava ser roubada na casinha em que vivia,
 fronteira à Relação, na Rua de S. Bento.
-
 
 — Por que vendeu as suas terras, Mariana? — perguntou o preso.
 
@@ -5698,9 +5032,7 @@ qual o seu coração julgava ter respondido de muito.
 
 — Vou para o degredo, se vossa senhoria me quiser na sua companhia.
 
-
 Fingindo-se surpreendido, Simão seria ridículo aos seus próprios olhos.
-
 
 — Esperava essa resposta, Mariana, e sabia que não me dava outra. Mas
 sabe o que é o degredo, minha amiga?
@@ -5723,10 +5055,6 @@ se Deus quiser, de andar ao tempo.
 — E suponha, Mariana, que eu morro apenas chegar ao degredo?
 
 — Não falemos nisso, senhor Simão...
-
-
-
-
 
 — Falemos, minha amiga, porque eu hei de sentir à hora da morte, a pesar-
 -me na alma, a responsabilidade do seu destino... Seu eu morrer?
@@ -5772,9 +5100,7 @@ senhora?
 — Nada me pediu, Mariana; mas obriga-me tanto, que me faz mais infeliz o
 peso da obrigação.
 
-
 Mariana não respondeu; chorou.
-
 
 — E por que chora? — tornou Simão carinhosamente.
 
@@ -5792,11 +5118,9 @@ antro; quando o desterraram, acompanhei-o, fiz-me a pátria daquele pobre coraç
 trabalhei à luz do sol homicida para ele se resguardar do clima, do trabalho, e do
 desamparo, que o matariam..."
 
-
 O espírito de Mariana não podia altear-se à expressão do preso; mas o
 coração adivinhava-lhe as idéias. E a pobre moça sorria e chorava a um tempo.
 Simão continuou:
-
 
 — Tem vinte e seis anos, Mariana. Viva, que esta sua existência não pode
 ser senão um suplício oculto. Viva, que não deve dar tudo a quem lhe não pode
@@ -5811,9 +5135,7 @@ dizer que venho para a minha família, que tenho aqui uma alma extremosa que me
 espera. Se a encontrar com marido e filhos, a sua extremosa família será a minha.
 Se a vir livre e só, irei para a companhia de minha irmã. Que me responde, Mariana?
 
-
 A filha de João da Cruz, erguendo os olhos do pavimento, disse:
-
 
 — Eu verei o que hei de fazer quando o senhor Simão partir para o
 degredo...
@@ -5824,24 +5146,19 @@ degredo...
 
 — Fale, minha amiga; diga qual é a sua tenção.
 
-
 Mariana hesitou alguns segundos, e respondeu serenamente:
-
 
 — Quando eu vir que não lhe sou precisa, acabo com a vida. Cuida que eu
 ponho muito em me matar? Não tenho pai, não tenho ninguém, a minha vida não faz
 falta a pessoa nenhuma. O senhor Simão pode viver sem mim? Paciência!... Eu é
 que não posso...
 
-
 Susteve o complemento da idéia como quem se peja duma ousadia. O preso
 apertou-a nos braços estremecidamente, e disse:
-
 
 — Irá, irá comigo, minha irmã. Pense muito no infortúnio de nós ambos d'ora
 em diante, que ele é comum; é um veneno que havemos de tragar unidos, e lá
 teremos uma sepultura de terra tão pesada como a da pátria.
-
 
 Desde este dia, um secreto júbilo endoidecia o coração de Mariana. Não
 inventemos maravilhas de abnegação. Era de mulher o coração de Mariana. Amava
@@ -5862,12 +5179,6 @@ seu coração, e dizia entre si: — "Para que há de aquela senhora amargurar-l
 vida?"
 
 E amargurava acerbamente a desditosa menina!
-
-
-
-
-
-
 
 Ressurgiram naquela alma esperanças, que não deviam durar além do
 tempo necessário para que a desilusão lhe acrisolasse o infortúnio. Imaginara ela a
@@ -5913,9 +5224,7 @@ ouro do fidalgo de Viseu estava plenamente obtida.
 Foi aviso ao intendente geral da polícia, e o nome de Simão Botelho foi
 inscrito no catálogo dos degredados para a Índia.
 
-
 ## CAPÍTULO XIX
-
 
 A verdade é algumas vezes o escolho de um romance.
 
@@ -5929,10 +5238,6 @@ temporada, enquanto ele nos lembra, deste jogo de nora, cujos alcatruzes somos,
 uns a subir, outros a descer, movidos pela manivela do egoísmo.
 
 A verdade! Se ela é feia, para que oferecê-la em painéis ao público!?
-
-
-
-
 
 A verdade do coração humano! Se o coração humano tem filamentos de
 ferro que o prendem ao barro doente saiu, ou pesam nele e o submergem no charco
@@ -6001,11 +5306,6 @@ ou o degredo na linha do teu porvir, te haviam matado o melhor da alma.
 
 A ti mesmo perguntavas pelo teu passado, e o coração, se ousava
 responder, retraía-se, recriminado pelos ditames da razão.
-
-
-
-
-
 
 De além, daquele convento onde outra existência agonizava, gementes
 queixas te vinham espremer fel na chaga; e tu, que não sabias nem podias consolar,
@@ -6097,9 +5397,7 @@ navios buscar os degredados, e recebiam em Lisboa os que tinham igual destino.
 Nenhum estorvo impedia o embarque de Mariana, que se apresentou ao
 corregedor do crime como criada do degredado, com passagem paga por seu amo.
 
-
 — E a passagem vale-a bem! — disse o galhofeiro magistrado.
-
 
 Simão assistiu ao encaixotar da sua bagagem, numa quietação terrível,
 como se ignorasse o seu destino.
@@ -6107,21 +5405,17 @@ como se ignorasse o seu destino.
 Quis muitas vezes escrever a derradeira carta à moribunda Teresa, e nem
 sinais de lágrimas podia já enviar-lhe no papel.
 
-
 — Que trevas, meu Deus! — exclamava ele, e arrancava a mãos cheias os
 cabelos. — Dai-me lágrimas, Senhor! Deixai-me chorar, ou matai-me, que este
 sofrimento e insuportável!
 
-
 Mariana contemplava estarrecida estes e outros lances de loucura, ou os
 não menos medonhos da letargia.
-
 
 — E Teresa! — bradava ele, surgindo subitamente do seu espasmo. — E
 aquela infeliz menina que eu matei! Não hei de vê-la mais, nunca mais! Ninguém me
 levará ao degredo a noticia de sua morte! E, quando a eu chamar para que me veja
 morrer digno dela, quem te dirá que eu morri, ó mártir?!
-
 
 A 17 de março de 1807, saiu dos cárceres da Relação Simão Antônio
 Botelho, e embarcou no cais da Ribeira, com setenta e cinco companheiros. O filho
@@ -6135,7 +5429,6 @@ Simão de parte, e deu-lhe um cartucho de dinheiro em ouro, que sua mãe lhe
 enviava. Simão Botelho aceitou o dinheiro, e, na presença de Mourão Mosqueira,
 pediu ao comandante que fizesse distribuir pelos seus companheiros de degredo o
 dinheiro que lhe dava.
-
 
 — É demente o senhor Simão?! — disse o desembargador.
 
@@ -6154,16 +5447,13 @@ rejeitada?
 — Então, senhor comandante, cumpra o que lhe peço, ou eu atiro com isto
 ao rio.
 
-
 O Comandante aceitou o dinheiro, e o desembargador saiu de bordo como
 espantado da sinistra condição do moço.
-
 
 — Onde é Monchique? — perguntou Simão a Mariana.
 
 — É acolá, senhor Simão — respondeu indicando-lhe o mosteiro, que se
 debruça sobre a margem do Douro, em Miragaia.
-
 
 Cruzou os braços Simão, e viu através do gradeamento do mirante um vulto.
 
@@ -6200,11 +5490,6 @@ As pétalas das flores soltas quase todas se desfizeram, e Teresa,
 contemplando-as, disse: — "Como a minha vida..." — e chorou, beijando os cálices
 desfolhados das primeiras que recebeu.
 
-
-
-
-
-
 Deu as cartas a Constança, e encarregou-a de uma ordem, a respeito delas,
 que logo veremos cumprida.
 
@@ -6236,13 +5521,11 @@ braços suspensos das reixas de ferro; mas não era de Teresa aquele rosto: seri
 antes um cadáver que subiu da claustra ao mirante, com os ossos da cara inçados
 ainda das herpes da sepultura.
 
-
 — É Teresa? — perguntou Simão a Mariana.
 
 — É, senhor, é ela — disse num afogado gemido a generosa criatura,
 ouvindo o seu coração dizer-lhe que a alma do condenado iria breve no seguimento
 daquela por quem se perdera.
-
 
 De repente aquietou o lenço que se agitava no mirante, e entreviu Simão um
 movimento impetuoso de alguns braços e o desaparecimento de Teresa e do vulto
@@ -6263,7 +5546,6 @@ Ao escurecer, voltou de terra o comandante, e contemplou, com os olhos
 embaciados de lágrimas, o desterrado, que contemplava as primeiras estrelas,
 iminentes ao mirante,
 
-
 — Procura-a no céu? — disse o nauta.
 
 — Se a procuro no céu... — repetiu maquinalmente Simão.
@@ -6274,26 +5556,17 @@ iminentes ao mirante,
 
 — Teresa.
 
-
-
-
-
-
 — Teresa...! Morreu?!
 
 — Morreu, além, no mirante, donde ela estava acenando.
 
-
 Simão curvou-se sobre a amurada, e fitou os olhos na torrente. O
 comandante lançou-lhe os braços, e disse:
-
 
 — Coragem, grande desgraçado, coragem! Os homens do mar crêem em
 Deus! Espere que o céu se abra para si pelas súplicas daquele anjo!
 
-
 Mariana estava um passo atrás de Simão, e tinha as mãos erguidas.
-
 
 — Acabou-se tudo!... — murmurou Simão. — Eis-me livre... para a morte...
 Senhor comandante — continuou ele energicamente — eu não me suicido. Pode
@@ -6307,22 +5580,18 @@ deixar-me.
 
 — Vou, e agradeço a compaixão.
 
-
 Mariana seguiu-o com aquele olhar quebrado e mavioso do Jau, quando o
 poeta desembarcava, segundo a idéia apaixonada do cantor de Camões.
 
 Encarou nela Simão, e disse ao comandante:
-
 
 — E esta infeliz?
 
 — Que o siga... — respondeu o compassivo homem do mar, que cria em
 Deus.
 
-
 Simão recolheu-se ao beliche, e o comandante sentou-se em frente dele, e
 Mariana ficou no escuro da câmara a chorar.
-
 
 — Fale, senhor Simão! — disse o comandante — desafogue e chore.
 
@@ -6332,13 +5601,11 @@ Mariana ficou no escuro da câmara a chorar.
 não criou ainda um quadro tão atroz. Arrepiam-se-me os cabelos, e tenho visto
 espetáculos horríveis na terra e no mar.
 
-
 Acintemente, o comandante estava provocando Simão ao desabafo. Não
 respondia o condenado. Ouvia os soluços de Mariana, e tinha os olhos postos no
 maço das Cartas, que pusera sobre uma banqueta.
 
 O capitão prosseguiu:
-
 
 — Quando em Miragaia me contaram a morte daquela senhora, pedi a uma
 pessoa relacionada no convento que me levasse a ouvir de alguma freira a triste
@@ -6369,9 +5636,7 @@ me inspira a indiscrição, mas aceite um amigo nesta hora atribulada.
 — Aceito, e preciso dele... Mariana! — Chamou Simão. — Venha aqui, se
 este cavalheiro o permite.
 
-
 Mariana entrou no quarto.
-
 
 — Esta mulher tem sido a minha providência — disse Simão. — Porque ela
 me valeu, não senti a fome em dois anos e nove meses de cárcere. Tudo que tinha
@@ -6384,14 +5649,11 @@ seja o seu protetor na passagem. — E, estendendo-lhe a mão, disse com transpo
 
 — Juro-lho.
 
-
 O comandante, obrigado a subir ao tombadilho, deixou Simão com Mariana.
-
 
 — Estou tranquilo pelo seu futuro, minha amiga.
 
 — Eu já o estava, senhor Simão — respondeu ela.
-
 
 Não se trocam palavras por largo espaço. Simão apoiou a face sobre a
 mesa, e apertou com as mãos as fontes arquejantes. Mariana, de pé, ao lado dele,
@@ -6400,7 +5662,6 @@ fitava os olhos na luz mortiça da lâmpada oscilante, e cismava, como ele, na m
 E o nordeste sibilava, como um gemido, nas gáveas da nau.
 
 # CONCLUSÃO
-
 
 As onze horas da noite, o comandante recolhera-se num beliche de
 passageiro, e Mariana, sentada no pavimento, com o rosto sobre os joelhos, parecia
@@ -6415,11 +5676,6 @@ A meia-noite, estendeu Simão o braço trêmulo ao maço das cartas que
 Teresa lhe enviara, e contemplou um pouco a que estava ao de cima, que era dela.
 Rompeu a obreia, e dispôs-se no camarote para alcançar o baço clarão da lâmpada.
 
-
-
-
-
-
 Dizia assim a carta:
 
 "É já o meu espírito que te fala, Simão. A tua amiga morreu. A tua pobre
@@ -6433,7 +5689,6 @@ Quem te diria que eu morri, se não fosse eu mesma, Simão? Daqui a pouco.
 perderás de vista este mosteiro; correrás milhares de léguas, e não acharás, em
 parte alguma do mundo, voz humana que te diga:
 
-
 — A infeliz espera-te noutro mundo, e pede ao Senhor que te resgate. — Se
 te pudesses iludir, meu amigo, quererias antes pensar que eu ficava com a vida e
 com esperança de ver-te na volta do degredo? Assim pode ser, mas, ainda agora,
@@ -6446,7 +5701,6 @@ tirei a última esperança. -
 alguns dias à morte, se tu ficasses; mas, de um modo ou de outro, era inevitável
 fechar os olhos quando se rompesse o último fio, este último que se está partindo, e
 eu mesma o ouço partir.
-
 
 Não vão estas palavras acrescentar a tua pena. Deus me livre de ajuntar um
 remorso injusto à tua saudade.
@@ -6479,13 +5733,6 @@ Eu não podia. Os instantes do dormir eram os escassos benefícios que Deus me
 concedia; a morte é mais que uma necessidade, é uma misericórdia divina, uma
 bem-aventurança para mim.
 
-
-
-
-
-
-
-
 E que farias tu da vida sem a tua companheira de martírio? Onde tu irás
 aviventar o coração que a desgraça te esmagou, sem o esquecimento da imagem
 desta dócil mulher, que seguiu cegamente a estrela da tua malfadada sorte?!
@@ -6508,7 +5755,6 @@ Adeus! À luz da eternidade parece-me que já te vejo, Simão!"
 Ergueu-se o degredado, olhou em redor de si e fitou com espasmo Mariana,
 que levantava a cabeça ao menor movimento dele.
 
-
 — Que tem, senhor Simão? — disse ela, erguendo-se.
 
 — Estava aqui, Mariana?... Não se vai deitar?!
@@ -6529,7 +5775,6 @@ do beliche.
 
 — Iremos juntos.
 
-
 Simão ajuntou a carta de Teresa ao maço das suas, e saiu cambaleando. No
 convés sentou-se num monte de cordame, e contemplou o mirante do Monchique,
 que avultava negro ao sopé da serra penhascosa em que atualmente vai a Rua da
@@ -6543,7 +5788,6 @@ Queria o marítimo falar-lhe palavras consoladoras, mas pensava consigo: —
 "O que há de dizer-se a um homem que sofre assim?" — E parava junto dele
 algumas vezes, como para desviar-lhe o espírito daquele mirante.
 
-
 — Eu não me suicido! — exclamou abruptamente Simão Botelho. — Se a
 sua generosidade, senhor capitão, se interessa em que eu viva, pode dormir
 descansado a sua noite, que eu não me suicido.
@@ -6552,22 +5796,15 @@ descansado a sua noite, que eu não me suicido.
 
 — Irei; mas eu, lá, sofro mais, senhor.
 
-
 Não replicou o comandante, e continuou a passear no convés apesar das
 rajadas de vento.
 
 Mariana estava agachada entre os pacotes da carga, a pouca distância de
 Simão. O comandante viu-a, falou-lhe, e retirou-se.
 
-
-
-
-
-
 As três horas da manhã, Simão Botelho segurou entre as mãos a testa, que
 se lhe abria abrasada pela febre. Não pôde ter-se sentado, e deixou cair o meio
 corpo. A cabeça, ao declinar, pousou no seio de Mariana.
-
 
 — O Anjo da compaixão sempre comigo! — murmurou ele, — Teresa foi
 muito desgraçada...
@@ -6575,7 +5812,6 @@ muito desgraçada...
 — Quer descer ao camarote? — disse ela.
 
 — Não poderei... Ampare-me, minha irmã.
-
 
 Deu alguns passos para a escadinha, e olhou ainda sobre o mirante. Desceu
 a íngreme escada, apegando-se às cordas. Lançou-se sobre o colchão, e pediu
@@ -6594,27 +5830,21 @@ pelas contrações do vômito.
 
 Ao segundo dia de viagem, Mariana disse a Simão:
 
-
 — Se o meu irmão morrer, que hei de eu fazer àquelas cartas que vão na
 caixa?
 
-
 Pasmosa serenidade a desta pergunta!
-
 
 — Se eu morrer no mar — disse ele — Mariana, atire ao mar todos os meus
 papéis, todos; e estas cartas que estão debaixo do meu travesseiro também.
 
-
 Passada uma ânsia, que lhe embargava a voz, Simão continuou:
-
 
 — Se eu morrer, que tenciona fazer, Mariana?
 
 — Morrerei, senhor Simão.
 
 — Morrerás?!... Tanta gente desgraçada que eu fiz!...
-
 
 A febre aumentava. Os sintomas da morte eram visíveis aos olhos do
 capitão, que tinha sobeja experiência de ver morrerem centenares de condenados,
@@ -6630,15 +5860,9 @@ março, o nono da enfermidade de Simão Botelho.
 
 Mariana tinha envelhecido. O comandante, encarando nela, exclamou:
 
-
 — Parece que volta da índia com os dez anos de trabalhos já passados!...
 
 — Já acabados... de certo... — disse ela.
-
-
-
-
-
 
 Ao anoitecer desse dia o condenado delirou pela última vez, e dizia assim no
 seu delírio:
@@ -6672,20 +5896,16 @@ suas, e relaxou de súbito a pressão dos dedos.
 Entrou o comandante com uma lâmpada, e aproximou-lha da respiração,
 que não embaciou levemente o vidro.
 
-
 — Está morto! — disse ele.
-
 
 Mariana curvou-se sobre o cadáver, e beijou-lhe a face. Era o primeiro beijo.
 Ajoelhou depois ao pé do beliche com as mãos erguidas, e não orava nem chorava.
 
 Algumas horas volvidas, o comandante disse a Mariana:
 
-
 — Agora é tempo de dar sepultura ao nosso venturoso amigo... É ventura
 morrer quando se vem a este mundo com tal estrela. Passe a senhora Mariana ali
 para a câmara que vai ser levado daqui o defunto.
-
 
 Mariana tirou o maço das cartas debaixo do travesseiro, e foi a uma caixa
 buscar os papéis de Simão. Atou o rolo no avental, que ele tinha daquelas lágrimas
