@@ -1,88 +1,15 @@
-LIVRO NEGRO 
+---
+title: Livro negro do Padre Dinis
+author: Camilo Castelo Branco
+date: 1855
+type: romance
+structure: Introdução, Capítulos (I a XX), Conclusão, PS
+revision: Ricardo Guimarães
+orthography: Séc.IX?
+---
+# ADVERTÊNCIA 
 
-
-
-DE 
-
-
-
-IPUMIE ÍDilHIIS; 
-
-
-
-II 
-
-
-
-TYPOSRAPHIA DE FRANCISCO GOMES DA FONSECA 
-
-72, Rua do Bomjardim, 72 
-
-
-
-LIVRO NEGRO 
-
-
-
-DE 
-
-
-
-PADRE DINIZ 
-
-
-
-mm EM COIIXIJAC^O aos MYSTERÍOS de LISBOA 
-
-
-
-POR 
-
-
-
-CAMILLO CASTELLO-BRMCO 
-
-
-
-SECUJiDA EDIÇÍO 
-
-
-
-
-PORTO 
-
-EM CASA DE F. G. DA FONSECA — EDITOR 
-
-72, Rua do Bomjardim, 72 
-
-1863 
-
-
-
-
-
-
-Digitized by the Internet Archive 
-in 201^0-with funding from 
-1^ i tlniversity of Toi;çnto 
-
-
-
-
-
-http://www.archive.org/details/livronegrodepadrOOcast 
-
-
-
-ADVERTÊNCIA 
-
-
-
-O 
-
-
-
-LIVRO NEGRO não foi escripto para ser 
+O LIVRO NEGRO não foi escripto para ser 
 publicado em forma alguma, e muito menos em 
 forma de romance. 
 
@@ -105,7 +32,7 @@ pelo soíTrimenlo.
 
 
 
-Vi ADVERTÊNCIA 
+# Vi ADVERTÊNCIA 
 
 Grande coragem foi a d'esse homem que 
 tantos quadros, coloridos a sanguo e lagrimas, 
@@ -146,7 +73,7 @@ por cada verme?
 
 
 
-ADVERTÊNCIA Til 
+# ADVERTÊNCIA Til 
 
 Esta interrogação, feita ao silencio — este 
 apello, anoioso a Iodas as religiões e a todas 
@@ -190,7 +117,7 @@ O que diz isto !
 
 
 
-Vm ADVKRTENCfA 
+# Vm ADVKRTENCfA 
 
 E' um homem despedaçado. Reiíni-mo to- 
 das essas lagrimas; com todas estas fibras fazei- 
