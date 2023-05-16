@@ -1,13 +1,11 @@
-
-\---
+---
 title: O Regicida
 author: Camilo Castelo Branco
 date: 1882
 type: romance
 structure: Dedicatória, Advertência, Capítulos (I a XXI), Conclusão, Notas (Notas 1ª a 19ª, Nota final)
 revision: Ricardo Guimarães
-
-\---
+---
 
 # Dedicatória 
     Francisco Martins de Gouvêa Morais Sarmento
@@ -2088,7 +2086,7 @@ Assim acabou Domingos Leite Pereira, o mancebo ardente que se devotara ao duque 
 
 
 
-    Conclusão
+# Conclusão
     
 Pelo que é de Domingos Leite Pereira, está tudo concluído.
 Mas a narrativa não pode parar aqui.
@@ -2101,30 +2099,30 @@ O livro há-de chamar-se A Filha do Regicida
 
 
 
-    Notas
+# Notas
     
-Nota 1ª
+## Nota 1ª
 Diogo de Alvarado foi grande tangedor de tecla, que é o mesmo que de órgão. Viveu longa vida e conservou sempre a mesma destreza e agilidade no tanger daquele instrumento. Quarenta e três anos exerceu o ofício na capela real no tempo dos Filipes, e ainda três no reinado de D. João IV. Está sepultado na igreja de Nossa Senhora dos Mártires, onde tem este epitáfio: Sepultura de Diogo de Alvarado tangedor de tecla na capella real 43 annos, e de sua mulher, a qual falleceu em 12 de fevereiro de 1643. «Memórias (inéditas) de Diogo de Paiva de Andrade». Estas Memórias referem-se à antiga igreja arrasada pelo terremoto de 1755. Deste músico não encontramos outra notícia, nem dele a teve o cardeal-patriarca D. Frei Francisco de S. Luís na Listade alguns artistas portuguezes (Lisboa, 1839).
 A referência que acima se faz a Guerreiro, intende com o padre português Francisco Guerreiro, mestre da capela da Santa Igreja de Sevilha, o qual, como ele mesmo refere no seu Itinerário da Terra Sancta, estando em Veneza por Agosto de 1588, aí mandara imprimir os seus livros de música.
 
 
-Nota 2ª
+## Nota 2ª
 Esta novidade da morte de Bernardim Ribeiro Pacheco, a tiro, na Rua Nova, deparou-no-la um manuscrito que possuímos intitulado MEMÓRIAS COLLIGIDAS POR DIOGO DE PAIVA DE ANDRADE. Destes nomes e apelidos houve tio e sobrinho. O primeiro foi grande teólogo e mui sisudo padre que decerto não forragearia os escândalos que enxameiam nas MEMÓRIAS. O sobrinho, mais mundanal, e autor do Casamento Perfeito, seria o colector de biografias, um tanto airadas, entre as quais está a do amador da infanta Beatriz. Diogo de Paiva nasceu em 1576 e morreu em 1660.
 
 
-Nota 3ª
+## Nota 3ª
 Memórias citadas. Concordam com a suposição de Manuel Faria e Sousa nos Comentários ás rimas de Luís de Camões, e nomeadamente à Canção VII e ao Soneto LXXVII.
 
 
-Nota 4ª
+## Nota 4ª
 O fidalgo, que assim ameaçou brutalmente uma senhora, foi D. Carlos de Noronha. Este sujeito havia sido estrénuo cortesão da corte de Madrid, e recompensado por Filipe III largamente; porém, como pedisse uma graça que o rei lhe não concedeu, voltou agravado para Portugal, e inscreveu-se entre os conjurados com arrebatado patriotismo. Como a cobiça fosse o estímulo mais enérgico dos seus actos, curou de se enriquecer, litigando a posse dos bens a quem os tinha. Questionou a casa de Linhares a D. Miguel de Noronha, e perdeu a demanda (veja-se a Historia Genealógica, da Casa Real, T. v, página 270). Em seguida, como o marquês de Vila Real fosse degolado, demandou a coroa sobre a sucessão da casa do sentenciado; perdeu a demanda (veja-se a Historia Genealógica da Casa Real, T. II, livro 3º, página 521). Como lhe não rendesse nada o vampirizar nos cadáveres dos justiçados, fez uns Estatutos da Ordem de Avis em que constituiu visitador-geral das ordens militares de Portugal o presidente da Mesa da Consciência. Ora, como ele foi toda a sua vida presidente da referida Mesa, e, pelo conseguinte, visitador vitalício, arranjou por este engenhoso meio traças de se locupletar, pondo em almoeda as suas concessões. Eis aqui um dos noventa heróis de 1640! Quem os quiser contar leia a Historia da Acclamação etc, por Roque Pereira Lobo.
 
 
-Nota 5ª
+## Nota 5ª
 Pedro Barbosa foi assassinado em 1621, quando recolhia da Relação para sua casa, que era um palácio na Ribeira. Este palácio, depois de 1640, passou a um dos conjurados, de apelido Noronha, e era dos marqueses de Angeja, quando o terremoto de 1755 o aluiu. Pedro Barbosa de Luna era de Viana do Minho.
 
 
-Nota 6ª
+## Nota 6ª
 O receio de que nos arguam de injusto nesta apreciação do fundador da dinastia bragantina, obriga-nos a dar cópia exacta de um autógrafo, que possuímos, de D. João IV: são os apontamentos que o rei deu a Pedro Vieira da Silva como bases do seu testamento. Quem leu o Testamento del Rey D. João IV no tomo IV das Provas da Historia Genealógica da Casa Real por D. António Caetano de Sousa, pág. 764 e seguintes, e o reputou da lavra do monarca, tem razão, se formar bom conceito da inteligência do testador; quem, porém, vir os traços fundamentais desse documento, duvidará que ele haja sido o autor do livro de música. Aqui está o traslado textual do testamento escrito do punho de D. João IV:
 «Jesus Maria a quem encomendo minha alma, nomeio primeiramente por herdeiro de meus Reynos, e Senhorios ao Princepe D. Afonso meu filho como a quem directamente pertensem e por que ele se acha em menor edade declaro por Regente de meos Reynos e tutora de meos filhos a Raynha minha sobre todas prezada mulher; e por que ela pode morrer ainda durante amenor idade de meu fiho em tal cazo poderá nomear os Tutores ou Tutor Governador ou governadores para meus filhos e estes Reynos e Senhorios pello conhecimento que tem delles e de meus vaçalos e porquanto fio dela e de sua prudência e do amor que me tem que detudo o que aentregar fará o que eu fizera por ella a nomeio por minha testamenteira e que faça pella minha alma tudo quanto a ella lhe parecer que me comvém.
 Ordeno que meu corpo seja enterrado no convento de S. Vicente defora para onde se tresladarão os ossos de meu filho o Princepe D. Theodozio e os de minha filha a infanta D. Joana para o que se faram sepulturas decentes e no dito convento se diram coatro missas cotudianas duas pella minha alma e duas pello Princepe e Infanta.
@@ -2153,16 +2151,16 @@ O representante desse filho ilegítimo de D. João IV, o Sr. Manuel Leite de Bra
 2 - Tinha escrito, antes de Itália, França, que riscou.
 
 
-Nota 7ª
+## Nota 7ª
 Remexendo com infatigável curiosidade o arquivo das memórias que há vinte anos vamos coligindo acerca de filhas de bispos e outros coitos danados, encontramos um apontamento que dilucida a obscuridade do manuscrito, e nos declara a ascendência da menina rejeitada por Domingos Leite Pereira. É o seguinte caso, salva melhor interpretação:
 O infante D. Fernando, pai de el-rei D. Manuel, teve uma filha bastarda que se chamou Leonor. A rainha D. Leonor, mulher de D. João II, e meia-írmã daquela menina, levou-a para o paço, e educou-a com esmero e carinho de irmã. Saiu a dama muito namoradeira e desatinada, com imenso dissabor da rainha que a repreendeu repetidas vezes inutilmente. Até que um dia, estando a corte em Santarém, a irmã colheu a bastarda de sobressalto galanteando da janela para a rua um cavaleiro que deu de esporas ao pressentir a rainha. Travou-se altercação rija entre as duas Leonores, rompendo a bastarda no excesso de reguingar que havia de casar-se com quem muito lhe quadrasse. «Isso não» - replicou a mulher de D. João II - «hás-de casar com quem eu muito bem quiser; e há-de ser com o primeiro homem que passar na rua, se for solteiro.» Neste lance, apontou na extrema da rua um homem ordinário, de nome Álvaro Fernandes, correeiro de ofício. Chamou-o a rainha, deu-lhe um dote, e ordenou ao capelão que os casasse. Tiveram filhos. O padre Jerónimo Fernandes, de Santarém, era bisneto da tal casquilha, filha do infante D. Fernando, e irmã de el-rei D. Manuel, e também, portanto, bisneto do tal Fernandes correeiro. O padre alegou e provou a Filipe II que era terceiro neto do infante D. Fernando, e obteve a mitra do Funchal. Este devia ser avô da noiva rejeitada.
 
 
-Nota 8ª
+## Nota 8ª
 A Rua dos Tanoeiros ou Tanoaria principiava ao pé do Paço da Corte Real, e seguia até ao Arco do Ouro, junto ao Terreiro do Paço. Nesta rua se arruavam os tanoeiros em 1318, em número de quinze. Quanto ao Santo António de frei Bartolomeu dos Mártires, sabe-se o seguinte para explicar o texto: em casa humilde nasceu nesta rua o venerável arcebispo de Braga frei Bartolomeu dos Mártires; e na fachada da casa onde nasceu, ainda antes de 1755 havia um nicho com a imagem de Santo António que o arcebispo, quando estudantinho, fizera com um canivete. Este Santo António era festejado todos os anos à custa dos devotos da rua, e conservou sempre lampadário aceso, de noite e dia, porque toda a freguesia dos Mártires se apegava com o milagroso Santo nas suas necessidades.
 
 
-Nota 9ª
+## Nota 9ª
 É notável este facto omitido pelos historiadores, esquecido na tradição, e consignado nas Memórias coligidas por Diogo de Paiva de Andrade.
 «D. Rodrigo da Câmara, terceiro conde de Vila Franca, foi preso por culpas de sodomia na Inquisição de Lisboa, sendo inquisidor-geral o bispo da Guarda D. Francisco de Castro. Não faltou quem dissesse que a soberba de um ministro daquele tribunal o culpara ao conde sem causa; porque tratando o conde de amores uma parenta do dito ministro, este o avisara que casasse com ela; e, tendo em resposta que só para amiga lhe podia servir, lhe castigara o dito com um testemunho. Houve votos de que saísse publicamente na procissão do Auto-de-fé: porém, o príncipe D. Teodósio embaraçou isto dizendo a D. Francisco de Castro que, se não mudasse de propósito, deitaria fogo à Inquisição; do que, sentido o bispo, se travaram de razões, e estas se atearam por maneira que o príncipe lhe deu de bofetadas.
 O certo é que o conde não veio a público, e saiu em acto particular na sala da Inquisição. Disse-se que o príncipe era muito avesso às baixas manhas do inquisidor, e não aprovava que el-rei seu Pai honrasse com a prelazia o denunciador dos maus portugueses que padeceram em 1641.»
@@ -2170,16 +2168,16 @@ Deste príncipe D. Teodósio, que dava bofetadas no inquisidor-geral, formou o n
 «mancebo ascético, melancólico e fanático... dirigindo os seus estudos em sentido místico, etc.» Se Diogo de Paiva não desfazia no génio pacífico do primogénito de D. João IV, a cara do inquisidor-geral, bispo da Guarda, protesta contra o ascético fanatismo do príncipe; e já o arcebispo de Lisboa protestaria também quando o futuro rei lhe fez chacota da magreza, dizendo-lhe que só um embalsamado podia trazer-lhe a notícia de que ele seria príncipe do outro mundo, referindo-se ao Brasil. Era mais calemburista que asceta o irmão de Afonso VI, quer-nos parecer.
 
 
-Nota 10ª
+## Nota 10ª
 O palácio dos duques de Aveiro, que também foram depois marqueses de Gouveia, foi mandado em 1758 arrasar em Belém, em seguimento ao suplício de D. José Mascarenhas. O marquês D. Manrique da Silva, cujo secretário foi Domingos Leite, era quarto avô do último duque de Aveiro, e habitou o palácio de Pedroiços, no local onde ainda hoje se vê afogado em casinholas um padrão comemorativo do delito.
 
 
-Nota 11ª
+## Nota 11ª
 «D. Maria de Castello Branco, filha de D. João de Castello Branco, alcaide-mor da vila de seu apelido, casou com Fernão Cabral, alcaide-mor de Belmonte. Apaixonou-se esta dama por um clérigo com tanta loucura, que trocou em ódio o amor conjugal, e persuadiu o dito clérigo que lhe matasse o marido. Descobriu-se o crime e a aleivosia, e por ele foi sentenciada a morrer morte natural por justiça sem lhe valer a grandeza do nascimento, nem a valia dos seus muitos e ilustres parentes.» Memórias de Diogo de Paiva de Andrade.
 Não marca Diogo de Paiva o tempo deste sucesso; mas conjecturamo-lo no meado do século xv, reinando D. João II. Este Fernão Cabral, que levou a mulher ao patíbulo, era quinto neto de Álvaro Gil Cabral, que el-rei D. João I fizera alcaide-mor de Azurara. Computando o lapso das gerações, poderão os curiosos favorecidos por algum linhagista menos indulgente determinar a época da tragédia. D. Maria era neta do almirante Nuno Vaz Castello Branco, e bisneta, por sua avó paterna, de Micer Antão Peçanha, almirante, que viveu no começo do reinado de D. Afonso V. De um dos filhos desta senhora decapitada procedeu Pedro Alvares Cabral, o descobridor do Brasil.
 
 
-Nota 12ª
+## Nota 12ª
 Estas miudezas do meu M.S. são corroboradas com a seguinte notícia extractada das Memórias de Diogo de Paiva de Andrade: «Vicencia Correia, chamada depois Dona Vicencia, foi filha de uma grande alcayota e bêbeda, chamada Barbara, que morou na rua dos Cabides em Lisboa, reinando el-rei D. Sebastião, e tão perita no seu officio que o exercitava com destreza esquisita. Os seus primeiros annos passou bem divertida por industria da mãe e habilidade própria, e vivendo de mancebia com um fulano Cunha, teve d'elle um filho chamado Roque, e d'outro fulano Pereira teve uma filha chamada Marianna. Mudou depois de amorios com Francisco Leitão, com o qual casou; e este fazia tanta estimação da sogra, da mulher e da enteada, que todos viviam junctos, comiam à mesma mesa; e morrendo a enteada, que quiz casar com o porteiro que então era do Juízo de índia e Mina e elíe não quiz, tomou lucto publico. Servia n'este tempo Francisco Leitão de Juiz de índia e Mina. Foi depois (por valias, e não por merecimentos, por ser homem de poucas lettras, falto de honra e atraiçoado) fidalgo da casa real, cavalleiro da Ordem de Christo, desembargador do Paço, do conselho de Portugal em Madrid, e lá teve grandes estimações, e a mulher, que era visitada dos grandes e senhores da corte. E da mesma sorte o foi n'este reino, onde o nosso D. Rodrigo da Cunha, arcebispo de Lisboa, bem conhecido pela sua litteratura, visitava D. Vicencia, e a presenteava.»
 Acho notícia deste marido de D. Vicencia em um dos papéis que apareceram em Madrid, por 1637, assinados pelo Manuelinho de Évora, que simbolizava o espírito revolucionário de Portugal. Como peça desconhecida, extraímos o mais curioso dela. É uma sátira intitulada Quadras que se mandaram a Sua Majestade para uma sala de bom retiro. Figuram Filipe IV, as damas da corte, Diogo Soares, Miguel de Vasconcelos, Francisco Leitão (1), o conde do Prado e Tomás Dibio, o marquês de la Puebla, D. Jorge Mascarenhas, D. António de Ataíde, Matias de Albuquerque e o conde da Vidigueira. Aqui se deparam ao leitor alguns nomes e apelidos que, rodados poucos  anos, realçam em Portugal pela sua dedicação.
 
@@ -2235,26 +2233,26 @@ A nota, que já se vai delongando, não é despicienda como amostra do género t
 1 - Não se confunda com Francisco de Andrade Leitão, desembargador do Paço, que fez o discurso da aclamação de D. João IV.
 
 
-Nota 13ª
+## Nota 13ª
 Provavelmente, neste ano de 1647, já Filipe IV e os seus ministros conheciam o tímido ânimo do rei de Portugal, que mais covardemente se manifestou em 1650, depois da paz de Vestefália. Neste ano, pois, encarregou D. João IV o padre António Vieira de negociar desde Roma o casamento do príncipe D. Teodósio com a infanta de Espanha, dando esse enlace como caução única e segura à fusão ibérica; porquanto, não tendo Filipe IV filho varão, àquele tempo, sucediam no trono de Portugal o príncipe português e a princesa espanhola; acontecendo, porém, a superveniência de filho varão, reinariam em distintos reinos, com aliança ofensiva e defensiva. Além disso, dado que o rei de Espanha teimasse em negar a legitimidade de D. João IV, este abdicaria no filho e na infanta. O padre Vieira tratou o negócio com os jesuítas castelhanos, em Roma, ressalvando que Lisboa se constituísse a capital dos dois reinos fundidos em uma monarquia grandiosa. A proposta abjecta foi desprezada em Madrid. D. João IV, dando assim o pulso ao exame do poderoso inimigo, revelava quão depauperado lhe girava o sangue nas veias. E pelo que respeita ao jesuíta medianeiro de tamanha protérvia, teve de fugir de Roma onde o espiavam os sicários do embaixador espanhol. Judiciosamente escreve o Sr. Manuel Pinheiro Chagas, relatando os pormenores deste vilipêndio: «Lembraremos ao leitor que nisto se prova que, se, depois da restauração de Portugal, houve algum traidor que, por interesses pessoais ou de família, projectasse vender à Espanha a independência da Pátria, esse traidor foi... D. João IV.» História de Portugal, tomo VI, página 106 e seguintes.
 
 
-Nota 14ª
+## Nota 14ª
 Narra Fr. Cláudio da Conceição, nomeando os filhos de D. João IV: «Teve fora do matrimonio a senhora D. Maria, nascida a 31 de abril de 1644, de uma senhora limpa de sangue, que entrando depois no convento de Cheias professou a vida religiosa. Educada em casa do secretário de estado António de Cavide, entrou a 25 de março de 1650 no Mosteiro de Santa Thereza de Jesus, das Carmelitas Descalças de Carnide, por ordem de el-rei seu pae a receber as instrucções da Madre Michaella Margarida de Sancta Anna, filha do imperador Mathias, e parenta do mesmo senhor rei D. João IV, fundadora do dito mosteiro de Carnide em 1642, sendo vinte e dois annos successivos priora. Estimou el-rei muito esta filha, o que assas prova a seguinte carta que lhe escreveu antes de morrer: Minha filha, foi Deus servido que a primeira vez que tendes carta minha, seja despedindo-me de vós, dando-vos a minha bênção acompanhada de Deus que fique convosco, e lemhrai-vos sempre de mim como eu o fio de vós. Escripta em Lisboa a 4 de novembro de 1656. Vosso pai, que fica com grande sentimento de vos não vêr.»
 (Traslada os legados do rei à filha; segue uma carta de D. Pedro, regente, à irmã; e prossegue na edificante biografia da virtuosa senhora). «A rainha D. Maria Francisca a foi visitar a Carnide, e lhe fez grandes honras merendando no seu apozento. A corte lhe dava o tratamento de Alteza. Viveu sempre n'este mosteiro em habito de religiosa, ainda que era de matéria mais fina. Propondo-se-lhe para esposo o duque de Cadaval com approvação regia, respondeu: que não sahina da clausura senão em postas a tomar outro esposo, pois que já o tinha ha muito tempo...» Depois de outros lanços assim piedosos, remata Fr. Cláudio: «Falleceu recebendo todos os sacramentos com summa edificação a 7 de fevereiro de 1693 quando contava quarenta e nove annos de idade.» Gabinete Histórico, tomo IV, pág. 214 e seg. Da mãe de D. Maria não houve frade nem cronista que sequer nos contasse como lá se foi derretendo em lágrimas a vida da freira que o rei dera como esposa a Jesus, depois de se enfastiar dela como barregã.
 
 1 - Este imperador da Alemanha havia morrido em 1619, depois de ter abdicado em seu primo Fernando, quando o império era dilacerado pelos Turcos e pela revolta dos Boémios. Presumimos que a freira de Carnide fosse filha ilegítima do imperador, porque, à míngua de legítimos, abdicara no primo.
 
 
-Nota 15ª
+## Nota 15ª
 «O sr. rei D. João IV... vendo um dia meu pai que tinha a honra de ser seu trinchante-mor com um pourpoint guarnecido com uma rendilha de prata, lhe disse: vindes mui bizarro D. António! mas nunca fui tão rico que podesse ter outro similhante. E assim era, porque sempre se vestiu de estamenha... E mandou que nenhum (vassalo) viesse ao Paço com os seus cabelos, por que ele os não conservava, e todos se tosquiaram.» Carta de Luís da Cunha ao Príncipe D. José.
 
 
-Nota 16ª
+## Nota 16ª
 Esta alusão epigramática do cristão-novo requer elucidação necessária aos leitores descuriosos de genealogias. No reinado de el-rei D. Manuel veio a Portugal um rico mercador genovês, chamado João Francisco de Lafeta ou Lafeta. De amores com uma fidalga de nome Guiomar Freire, teve um filho ilegítimo, e também teve uma cutilada legítima na cara, com que o brindou um parente da senhora namorada, e teve ainda outro filho de uma judia fanqueira de Setúbal, chamada Branca de Castro. É indeciso nos linhagistas se o sucessor de João Francisco era filho da fidalga, se da judia. É certo que o seu sucessor Agostinho de Lafeta administrou o vínculo que seu pai instituíra, foi trinchante de el-rei D. João III, e casou com D. Maria de Távora, filha de Rui Lourenço de Távora. Deste matrimónio nasceram dois filhos: João e Cosme. O primeiro casou com D. Amónia de Melo, filha de Rui Gomes de Azevedo, alcaide-mor de Alenquer; o segundo casou na índia com a filha de um advogado que lá chamavam por alcunha o Conde da Barba Rapada. Os filhos deste assinaram-se Távoras, e os do segundo Lafetas. Enquanto o pai, casando segunda vez com uma filha de Manuel de Melo, eivava de judaísmo o melhor sangue ostrogodo, um filho de João Lafeta casava com D. Maria de Vilhena, filha de Henriques Jacques de Magalhães e D. Violante de Vilhena. Deste consórcio, procederam Cristóvão de Lafeta, que casou com sua prima D. Brites da Silva, filha do primeiro visconde de Fonte Arcada, e D. Violante de Vilhena que casou com Gonçalo Garcez Palha. Destas últimas alianças por diante, o apelido Lafeta é absorvido nos mais ilustres das raças históricas, por modo que, no dizer de um genealógico de inexorável crítica, apenas haverá em Portugal três famílias tradicionais que não estejam inquinadas do judaísmo dos Lafetas genoveses, e da Branca de Castro, fanqueira de Setúbal. Que lhes preste.
 
 
-Nota 17ª
+## Nota 17ª
 «Bem poderia referir outras muitas precauções que este príncipe
 (D. João IV) tomava para não ser enganado pelos seus ministros; e, contudo, conhecendo ele a inocência de Francisco de Lucena, seu secretário de Estado, o deixou condenar à morte, porque os fidalgos o fizeram passar por traidor, não podendo sofrer que ele lhe aconselhasse que lhes não devia alguma obrigação em lhe porem a coroa na cabeça, pois lhe era devida, a fim de que se não julgassem credores de grandes recompensas. Os descendentes deste ministro justificaram depois de muitos anos a sua inocência, e Sua Majestade lhes veio a restituir as honras e os bens, em que eu tive alguma parte estando em Madrid.» Carta de D. Luís da Cunha ao Príncipe D. José. Esta carta, muito notável e pouco lida, publicou-a António Lourenço Caminha em 1821, sob o título: Obras inéditas do grande exemplar da ciência do estado D. Luís da Cunha, etc. Observa avisadamente o erudito Sr. Inocêncio Francisco da Silva que escaparam na edição numerosíssimos erros que às vezes transtornam o sentido e inteligência dos períodos. É exactíssima a censura. Possuo a mesma carta manuscrita, trasladada pelo académico Foios, e que envergonha as incúrias do editor da impressa.
 O que raras pessoas terão visto, sem lhe saberem a procedência, é a peça explicativa do ódio dos fidalgos, que aclamaram D. João IV, ao secretário de Estado Francisco de Lucena. Encontrei-a entre os manuscritos inéditos do chantre Manuel Severim de Faria (1583-1655). Intitula-se: Carta de parabéns, advertências, avisos e conselhos que se supõem e figura escrever do outro mundo o duque de Bragança D. Theodosio a seu filho o sr. D. João o Quarto, logo depois que pela lealdade da pátria foi aclamado legitimo Senhor e Rey de Portugal. É atribuída a Francisco de Lucena, e escrita em 1641. Trasladamos os conselhos do pai ao filho, ou antes do ministro ao príncipe: «... Resta que vos façaes também temer e respeitar dos maiores fidalgos, que, como vos viram nascer vassalo, e elles, por portuguezes, são invejosos e soberbos, mais com rigor e medo se sujeitam que com amor e brandura; e assim a vossa affabilidade com que os trataes, a vossa facilidade com que os admittis e ouvis, a confiança com que de ordinário comeis perante elles, o trage inferior de que, por dardes exemplo, vos vestis, tudo isto os faz a elles peores, mais ousados, menos comedidos. Filho, não é ainda tempo d'isto; virá ao diante, em que isto se vos estimará muito. Agora, o que n'este particular fazeis, tão fora está de se vos gabar e estimar, que antes lhes serve de o motejarem uns com outros, attribuindo tudo a faltas naturaes, e que são avisos divinos, ao diante lhe virão assim a parecer.
@@ -2264,14 +2262,14 @@ Para os enfreardes ponde ferro em fogo em quem o merecer, e com o castigo de dou
 Assim predispunha o secretário das mercês o ânimo do rei contra os conjurados de 1641; e relevantemente se mostrou serviçal, colaborando com o carrasco, pois que emprestou para a degolação dos fidalgos o cutelo que trouxera de Madrid, por haver sido com ele decapitado D. Rodrigo Calderon.
 
 
-Nota 18ª
+## Nota 18ª
 Isto de ser agarrado pelas costas o duque de Viseu, quando o Luís XI português o esfaqueou, não se vislumbra da história, porque a história dos governos monárquicos tem sempre sido escrita de joelhos sobre os estrados dos tronos. De feito, D. João II, quando resolveu matar o duque guarda-roupa das casas de Nuno da Cunha em Setúbal, convidou três homens para testemunhas do feito: Diogo de Azambuja, Lopo Mendes do Rio, e D. Pedro d'Eça, alcaide de Moura. Este último era um dos mais valentes homens de Portugal. Dele diz Diogo de Paiva de Andrade, nas suas Memórias: foy um Fidalgo a quem a natureza dotou de muito animo e grandes forças, e por isto El Rey D. João II o escolheu quando quiz matar a D. Diogo, Duque de Vizeu a quem abraçou por detraz. Eis aqui a singular missão da testemunha!
 E, como prova da coragem de D. Pedro d'Eça e dos medianos espíritos do covarde matador do duque, refere Diogo de Paiva um bonito lance:
 Acontecendo em Moura matarem um homem uns criados seus (do alcaide) foram-se dois irmãos do morto queixar a el-rei, e disseram-lhe que D. Pedro lho mandara. Pelo que, el-rei o mandou vir à corte, e esteve nela mais de dois anos, posto que, tirada a devassa, o não acharam culpado. Enfadado D. Pedro, disse a el-rei que, pois Sua Alteza não queria crer que ele não tinha culpa na morte do homem, e os que o acusavam eram dois, que lhe fizesse mercê de lhe mandar dar campo com ambos, para assim se purificar; do que, agastando-se el-rei lhe disse: «que tomara ele ser um dos dois.»
 E D. Pedro lhe respondeu: «Não fora Vossa Alteza meu rei e fosse com eles o terceiro.»
 
 
-Nota 19ª
+## Nota 19ª
 Não é impertinente a notícia do processo de empeçonhar as balas. Aceitemo-la do livro inédito de um mestre-de-campo do exército de D. Pedro II:
 «Tomarão licoctomum, que he outra casta de aconito ou de Rozalgar (não alteramos a ortografia do texto) e Napello, dos quais espremerão o sumo com hua empressa, que se receberá em hua vazilha de vidro, precatando-se de não lhe toccar com as mãos, a qual vazilha será exposta ao sol no mez de julho por espaço de 30 dias, recolhendo-a todas as tardes ao por do sol em hua cestinha coberta e guardada em logar cálido, izento de todo cheiro forte, como de alhos ou cebollas, por os tais lhe embotarem a força; e ó outro dia ao sair do sol se torne a expor n'elle a vazilha até que o sumo se engrosse a modo de unguento que será pouco mais ou menos ao cabo do tempo dito; advertindo que na madrugada, antes que se tire a vazilha do cesto, para a expor ao sol, hão de descobrir o sesto desviando-a d'elle, e o deixarão assim aberto por espaço de boa meia hora, antes de pegar na vazilha, e á tarde, antes de a arrecadar no sesto a cobriram com alguma cousa, o corpo mais desviado que pode ser. Despois tomaram trez ou quatro Rubetos que são sapos de sylvas grandes, e cheios de nódoas de varias cores, muito peçonhentos, e tanto mais o serão quando sejam apanhados em logares sombrios e frios como nos paues cheios de palha tábua. Estes serão metidos em hua vazilha de cobre de fundo redondo, capaz de os receber commodamente, com sua tapadoura que venha justamente com a bocca da vazilha, que terá uma azêlha por cima pela qual poderá entrar a ponta de hua aste para delonge a poderem descobrir; ao lado da vazilha hum pouco por cima do seu fundo haverá huas cavas em forma de hua meia laranja, situado em modo de Bebedouros de Gayolas, e no meio do fundo da vazilha haverá hua fença ou abertura estreita que dará em hum segundo fundo, do mesmo metal, a modo de funil.
 As ditas covas a modo de Bebedouros, se encherão de óleo de Escorpião; feito o que, os sapos se meterão na vazilha que será bem e justamente coberta com sua tapadoura e assentada sobre uma trempe, em modo que a ponta do funil do segundo fundo dê em a bocca de hua garrafa de vidro, assentada em hua tigella de agua fria, e a cousa assim desposta se fará hua cama em redondo de ladrilhos da altura da trempe que a cercará toda ao redor, na largura de dous palmos até dous palmos e meio, em cima da qual se accenderá um fogo de roda brando e moderado de carvoens afastados da vazilha hum palmo, mediante o que a vazilha irá aquecendo pouco e pouco, dentro da qual os sapos sentindo a quentura não acostumada, de sequiosos e suados, arremetterão a beber o oíio de Escorpião dos Bebedouros, que lhes fará bomitar toda a peçonha que dentro em si tiverem, a qual, cahindo pela abertura do fundo da vazilha no segundo fundo do funil, e deste á garrafa, continuará o fogo, no mesmo estado por espaço de 4 a 5 horas, e assim o deixarão athe o outro dia, em o qual, querendo abrir a vazilha, terão em sentido virar as costas da parte do vento, e com hua vara ou aste hum pouco com>rida, que passará pela azêlha da tapadoura, desviando-se o corpo da vaziha, o mais que poder, a destaparão e deixarão assim aberta por espaço de outras 4 ou 5 horas, ao cabo das quaes seguramente se poderão chegar à vazilha, e recolher o veneno da garrafa, ao qual se poderá ajuntar o sumo das ervas dos aconitos dantes exprimidos, e juntamente anémona, sicuta, meimendro, mendragora, malla insana, berengella, pés de ganços de todas as castas, ranunculos, erva Moura, arsénico branco, e cérebros de rato e de gato.»
@@ -2281,7 +2279,7 @@ Um homem deste vulto, se acreditava na peçonha dos pés de ganso e do cérebro 
 
 
 
-# Nota final
+## Nota final
 
 As pessoas lidas na história pátria estão afeitas a encontrar, neste caso da tentativa de morte contra D. João IV, que houve um denunciante de Domingos Leite, chamado Manoel da Cunha e não Roque da Cunha, como eu o denomino. Argúem-me, pois, de inventar nomes desnecessários à novela com agravo da história. É injustiça que me fazem. Todos os historiadores que o leitor conhece o enganaram involuntariamente ou por negligência de quem fiou de mais nos seus antecessores e guias. Tenho presentes o conde da Ericeira (Portugal Restaurado), Fr. Cláudio da Conceição (Gabinete Histórico), D. António Caetano de Sousa (História Genealógica da Casa Real Portuguesa), Roque Ferreira Lobo (História da Aclamação de D. João IV), Ferdinand Denis (Portugal Pitoresco), João Baptista de Castro (Mapa de Portugal), o Sr. Viale (Resumo da História de Portugal) e melhor que todos o Sr. Manuel Pinheiro Chagas (História de Portugal). Dizem todos invariavelmente que o delator de Domingos Leite era Manuel Roque, porque todos invariavelmente se guiaram pelo conde da Ericeira, que escrevia 32 anos depois do sucesso. O mais curial seria averiguar nos escritores coevos, e, nomeadamente, as relações escritas no mesmo ano de 1647. O investigador laborioso encontraria, acerca deste assunto, afora a citada notícia de Fr. Francisco Brandão, impressa em 1647, duas mais do mesmo ano, uma de António de Sousa de Macedo, e outra de D. Francisco Manuel de Melo.
 São duas peças declamatórias: retórica em barda, e muita pobreza de particularidades. O documento mais precioso é do cronista-mor do reino. O conde da Ericeira não o leu; que farte revela ignorância dos elementos que o deviam esclarecer. Diz que Domingos Leite Pereira era de Lisboa, e de família distinta.
